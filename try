@@ -1,0 +1,21 @@
+#Title composizione
+Title : A-B
+
+#Concetto Principale
+Head Concept Name : A
+
+#Concetto Modificatore
+Modifier Concept Name : B
+
+
+
+modifier, a
+head, d
+
+
+T(modifier), c, 0.9
+T(modifier), d, 0.9
+
+T(head), c, 0.9
+T(head), g, 0.8
+T(head), f, 0.8
