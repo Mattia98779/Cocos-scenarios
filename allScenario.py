@@ -6,11 +6,16 @@ rigide = []
 tipiche = []
 index = 0
 indexr = 0
+nPropMod = 0
+totProp = 0
 f = open("try", "r")
 for x in f:
   if x != "":
     app = x.replace("\n","").replace(" ","").split(",")
     if "T(modifier)" in x or "T(head)" in x:
+      totProp=totProp+1
+      if "T(modifier)" in x:
+        nPropMod=nPropMod+1
       if app[1][0] == "-":
         app[1]=app[1][1:]
         app.append("-")
@@ -51,6 +56,7 @@ print("conflitti = ", conflitti)
 sempreZero = []
 split = []
 stop =0
+generaTutto = 0
 for c in conflitti:
   index = conflitti[c]
   if len(index)>=2:
@@ -61,10 +67,17 @@ for c in conflitti:
         stop = 1
     # prima proprietà rigida e seconda tipica
     elif index[0][1] == "R" and index[1][1] == "T":
-      sempreZero.append(index[1][0])
+      # segno diverso
+      if rigide[index[0][0]][2] != tipiche[index[1][0]][3]:
+        print("conflitto tra rigida-tipica, segno opposto")
+        sempreZero.append(index[1][0])
+        if tipiche[index[1][0]][0] == "T(head)":
+          generaTutto=1
+      # stesso segno
+      if rigide[index[0][0]][2] == tipiche[index[1][0]][3]:
+        print("conflitto tra rigida-tipica,stesso segno")
+
     # prima proprietà tipica e seconda rigida
-    elif index[0][1] == "T" and index[1][1] == "R":
-      sempreZero.append(index[0][0])
     # due proprietà tipiche in conflitto
     elif index[0][1] == "T" and index[1][1] == "T":
       # segno diverso
@@ -88,27 +101,58 @@ for el in split:
 
 print( "prop list indexes = ", propListIndexes)
 
-allScenarios = list(map(list, itertools.product([0, 1], repeat=len(propListIndexes))))
+propListIndexesModifier = []
+propListIndexesHead = []
 
-maxScenari = 2**len(propListIndexes) * 3**len(split)
+for i in propListIndexes:
+  if tipiche[i][0] == "T(modifier)":
+    propListIndexesModifier.append(i)
+  else:
+    propListIndexesHead.append(i)
+print("propListIndexesHead = ", propListIndexesHead)
+print("propListIndexesModifier = ", propListIndexesModifier)
+
+allScenariosHead = list(map(list, itertools.product([0, 1], repeat=len(propListIndexesHead))))
+allScenariosModifier = list(map(list, itertools.product([0, 1], repeat=len(propListIndexesModifier))))
+if generaTutto==0:
+  allScenariosHead.pop(-1)
+allScenarios = []
+for elHead in allScenariosHead:
+  for elMod in allScenariosModifier:
+    allScenarios.append(elHead+elMod)
+
+
+maxScenari = len(allScenarios)
 
 matrixScenarios = np.zeros((maxScenari, (len(tipiche))))
 
-first = [0,1,0] * (int)(maxScenari/3)
-second = [0,0,1] * (int)(maxScenari/3)
-for s in split:
-  matrixScenarios[:, s[0]] = first
-  matrixScenarios[:, s[1]] = second
 
 columns = []
 for c in range(len(propListIndexes)):
-  n = (int)((maxScenari)/(2**len(propListIndexes)))
-  columns.append([item[c] for item in allScenarios] * n)
+  columns.append([item[c] for item in allScenarios] )
 
 for index in propListIndexes:
   matrixScenarios[:, index] = columns.pop()
 
-print("maxScenari = ", maxScenari)
+
+for s in split:
+  matrixScenarios = np.repeat(matrixScenarios, axis=0, repeats=3)
+  maxScenari=len(matrixScenarios)
+  first = [0, 1, 0] * (int)(maxScenari / 3)
+  second = [0, 0, 1] * (int)(maxScenari / 3)
+  matrixScenarios[:, s[0]] = first
+  matrixScenarios[:, s[1]] = second
+  currentLen = len(matrixScenarios)
+  if generaTutto==0:
+    copy1 = np.copy(matrixScenarios)
+    #copy1 = copy1[copy1[:, s[0]] != 1]
+    for i in range(nPropMod,len(tipiche)):
+      copy1[:,i] = 1
+    copy1[:,s[1]] = 0
+    tot = np.concatenate((matrixScenarios.copy(), copy1.copy()), axis=0)
+    matrixScenarios = tot
+  print("split fatto")
+
 print(matrixScenarios)
 
 

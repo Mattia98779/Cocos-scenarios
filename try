@@ -14,8 +14,9 @@ head, d
 
 
 T(modifier), c, 0.9
-T(modifier), d, 0.9
+T(modifier), x, 0.9
 
 T(head), c, 0.9
-T(head), g, 0.8
-T(head), f, 0.8
+T(head), y, 0.8
+
+
