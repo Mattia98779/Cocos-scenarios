@@ -1,0 +1,19 @@
+#Title composizione
+Title : A-B
+
+#Concetto Principale
+Head Concept Name : A
+Head Concept Count : 20
+
+#Concetto Modificatore
+Modifier Concept Name : B
+Modifier Concept Count : 40
+
+modifier, a
+head, b
+
+T(modifier), c, 0.9, 15
+T(modifier), d, 0.9, 20
+
+T(head), e, 0.9, 7
+T(head), f, 0.8, 17
