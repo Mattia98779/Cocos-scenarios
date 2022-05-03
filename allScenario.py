@@ -1,6 +1,7 @@
+import numpy
 import numpy as np
 import itertools
-import copy
+
 # leggo proprietà rigide e tipiche del prototipo
 rigide = []
 tipiche = []
@@ -54,7 +55,6 @@ for t in tipiche:
 print("conflitti = ", conflitti)
 
 sempreZero = []
-split = []
 stop =0
 generaTutto = 0
 for c in conflitti:
@@ -76,7 +76,6 @@ for c in conflitti:
       # stesso segno
       if rigide[index[0][0]][2] == tipiche[index[1][0]][3]:
         print("conflitto tra rigida-tipica,stesso segno")
-
     # prima proprietà tipica e seconda rigida
     # due proprietà tipiche in conflitto
     elif index[0][1] == "T" and index[1][1] == "T":
@@ -88,16 +87,10 @@ for c in conflitti:
       # stesso segno
       if tipiche[index[0][0]][3] == tipiche[index[1][0]][3]:
         print("conflitto tra tipica-tipica,stesso segno")
-        split.append([index[0][0], index[1][0]])
 
 print("sempre zero = ", sempreZero)
-print("split = ", split)
 
 propListIndexes = [ x for x in list(range(0, len(tipiche))) if x not in sempreZero]
-
-for el in split:
-  propListIndexes.remove(el[0])
-  propListIndexes.remove(el[1])
 
 print( "prop list indexes = ", propListIndexes)
 
@@ -121,11 +114,9 @@ for elHead in allScenariosHead:
   for elMod in allScenariosModifier:
     allScenarios.append(elHead+elMod)
 
-
 maxScenari = len(allScenarios)
 
 matrixScenarios = np.zeros((maxScenari, (len(tipiche))))
-
 
 columns = []
 for c in range(len(propListIndexes)):
@@ -134,27 +125,23 @@ for c in range(len(propListIndexes)):
 for index in propListIndexes:
   matrixScenarios[:, index] = columns.pop()
 
+#print(matrixScenarios)
 
-for s in split:
-  matrixScenarios = np.repeat(matrixScenarios, axis=0, repeats=3)
-  maxScenari=len(matrixScenarios)
-  first = [0, 1, 0] * (int)(maxScenari / 3)
-  second = [0, 0, 1] * (int)(maxScenari / 3)
-  matrixScenarios[:, s[0]] = first
-  matrixScenarios[:, s[1]] = second
-  currentLen = len(matrixScenarios)
-  if generaTutto==0:
-    copy1 = np.copy(matrixScenarios)
-    #copy1 = copy1[copy1[:, s[0]] != 1]
-    for i in range(nPropMod,len(tipiche)):
-      copy1[:,i] = 1
-    copy1[:,s[1]] = 0
-    tot = np.concatenate((matrixScenarios.copy(), copy1.copy()), axis=0)
-    matrixScenarios = tot
-  print("split fatto")
+# aggiungo probabilità
+prob = []
+for r in matrixScenarios:
+  p=1
+  c=0
+  for el in r:
+    if el<0.5:
+      p=p*(1-tipiche[c][2])
+    else:
+      p=p*tipiche[c][2]
+    c=c+1
+  prob.append([p])
 
-print(matrixScenarios)
-
-
-
-
+matrixProb = numpy.append(matrixScenarios, prob, axis=1)
+#print(matrixProb)
+matrixProbOrdered = matrixProb[matrixProb[:,-1].argsort()]
+np.set_printoptions(suppress=True)
+print(matrixProbOrdered)
