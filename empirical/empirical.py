@@ -2,6 +2,7 @@ import numpy
 import numpy as np
 import itertools
 
+
 # leggo proprietà rigide e tipiche del prototipo
 rigide = []
 tipiche = []
