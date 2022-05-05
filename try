@@ -13,11 +13,10 @@ modifier, a
 head, b
 
 
-T(modifier), c, 0.9
+T(modifier), c, 0.51
 T(modifier), d, 0.9
 
-T(head), e, 0.9
-T(head), f, 0.8
+T(head), a, 0.7
+T(head), f, 0.6
 
 
-Result : '1', '1', '1', '0', 0.14579999999999999
