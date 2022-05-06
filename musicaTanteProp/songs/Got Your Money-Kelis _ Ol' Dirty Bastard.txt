@@ -1,0 +1,23 @@
+East Coast Rap:                      0.9
+Hardcore Rap:                        0.9
+Confident:                           0.9
+Confrontational:                     0.9
+Sleazy:                              0.9
+Partying:                            0.9
+Celebratory:                         0.8571428571428572
+Freewheeling:                        0.8142857142857143
+Raucous:                             0.8142857142857143
+Aggressive:                          0.7285714285714285
+Brash:                               0.7285714285714285
+Manic:                               0.7285714285714285
+Ominous:                             0.7285714285714285
+Outrageous:                          0.7285714285714285
+Quirky:                              0.7285714285714285
+Reckless:                            0.7285714285714285
+Summery:                             0.7285714285714285
+Tense/Anxious:                       0.7285714285714285
+Visceral:                            0.7285714285714285
+Club:                                0.7285714285714285
+Cool & Cocky:                        0.7285714285714285
+Guys Night Out:                      0.7285714285714285
+Enigmatic:                           0.6

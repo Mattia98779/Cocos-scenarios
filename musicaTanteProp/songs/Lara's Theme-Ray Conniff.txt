@@ -1,0 +1,15 @@
+Easy Pop:                            0.9
+Orchestral/Easy Listening:           0.9
+Sentimental:                         0.9
+Background Music:                    0.9
+Playful_mood:                        0.8
+Quirky:                              0.8
+Whimsical:                           0.8
+Hanging Out:                         0.8
+Campy:                               0.7000000000000001
+Refined:                             0.7000000000000001
+Witty:                               0.7000000000000001
+Dinner Ambiance:                     0.7000000000000001
+Playful:                             0.7000000000000001
+Vocal Pop:                           0.6
+Relaxation:                          0.6

@@ -1,0 +1,15 @@
+Autumnal:                            0.9
+Adult Alternative:                   0.825
+Celtic:                              0.825
+Celtic New Age:                      0.825
+Restrained:                          0.825
+Long Walk:                           0.825
+Bittersweet:                         0.75
+Yearning:                            0.75
+Melancholy:                          0.675
+Poignant:                            0.675
+Reflective:                          0.675
+Searching:                           0.675
+Sentimental:                         0.675
+Wistful:                             0.675
+Solitude:                            0.6

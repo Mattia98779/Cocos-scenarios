@@ -1,0 +1,37 @@
+East Coast Rap:                      0.9
+Golden Age:                          0.9
+Confrontational:                     0.9
+Fierce:                              0.9
+Menacing:                            0.9
+Street-Smart:                        0.9
+Swaggering:                          0.9
+Uncompromising:                      0.9
+Urgent:                              0.9
+Celebration:                         0.9
+Cool & Cocky:                        0.9
+Hanging Out:                         0.9
+Sports:                              0.9
+Victory:                             0.9
+Old-School Rap:                      0.825
+Party Rap:                           0.825
+Pop-Rap:                             0.825
+Brash:                               0.825
+Confident:                           0.825
+Energetic:                           0.825
+Freewheeling:                        0.825
+Ramshackle:                          0.825
+Rollicking:                          0.825
+Wry:                                 0.825
+Motivation:                          0.825
+Aggressive:                          0.75
+Witty:                               0.75
+Celebratory:                         0.675
+Rambunctious:                        0.675
+Partying:                            0.675
+Acerbic:                             0.6
+Boisterous:                          0.6
+Intense:                             0.6
+Playful_mood:                        0.6
+Rousing:                             0.6
+Empowering:                          0.6
+Revolutionary:                       0.6

@@ -1,0 +1,16 @@
+Chamber Jazz:                        0.9
+Progressive Electronic:              0.9
+Delicate:                            0.8
+Laid-Back/Mellow:                    0.8
+Reflective:                          0.8
+Background Music:                    0.8
+Relaxation:                          0.8
+Earnest:                             0.7
+Gentle:                              0.7
+Intimate:                            0.7
+Plaintive:                           0.7
+Soothing:                            0.7
+Wistful:                             0.7
+Meditation:                          0.7
+Reflection:                          0.7
+Calm/Peaceful:                       0.6

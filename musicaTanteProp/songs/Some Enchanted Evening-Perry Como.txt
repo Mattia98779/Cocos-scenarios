@@ -1,0 +1,19 @@
+Vocal Pop:                           0.9
+Refined:                             0.9
+Romantic:                            0.9
+New Love:                            0.9
+Traditional Pop:                     0.825
+Effervescent:                        0.825
+Springlike:                          0.825
+In Love:                             0.825
+Romantic Evening:                    0.825
+Cast Recordings:                     0.75
+Show Tunes:                          0.75
+Amiable/Good-Natured:                0.75
+Calm/Peaceful:                       0.75
+Carefree:                            0.75
+Sentimental:                         0.75
+Sweet:                               0.75
+Theatrical:                          0.75
+Relaxation:                          0.675
+Dinner Ambiance:                     0.6

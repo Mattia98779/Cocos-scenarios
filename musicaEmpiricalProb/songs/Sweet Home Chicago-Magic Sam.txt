@@ -1,0 +1,12 @@
+Passionate:                          0.9
+Chicago Blues:                       0.7499999999999999
+Electric Blues:                      0.7499999999999999
+Electric Chicago Blues:              0.7499999999999999
+Amiable/Good-Natured:                0.7499999999999999
+Earthy:                              0.7499999999999999
+Energetic:                           0.7499999999999999
+Exuberant:                           0.7499999999999999
+Guys Night Out:                      0.7499999999999999
+Hanging Out:                         0.7499999999999999
+Joyous:                              0.6
+Road Trip:                           0.6

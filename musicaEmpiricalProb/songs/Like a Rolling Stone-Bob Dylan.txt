@@ -1,0 +1,36 @@
+Album Rock:                          0.9000000000000001
+Contemporary Pop/Rock:               0.9000000000000001
+Folk-Rock:                           0.9000000000000001
+Psychedelic/Garage:                  0.9000000000000001
+Rock & Roll:                         0.9000000000000001
+Singer/Songwriter:                   0.9000000000000001
+Acerbic:                             0.9000000000000001
+Angry:                               0.9000000000000001
+Bitter:                              0.9000000000000001
+Confrontational:                     0.9000000000000001
+Cynical/Sarcastic:                   0.9000000000000001
+Freewheeling:                        0.9000000000000001
+Intense:                             0.9000000000000001
+Laid-Back/Mellow:                    0.9000000000000001
+Lazy:                                0.9000000000000001
+Literate:                            0.9000000000000001
+Lively:                              0.9000000000000001
+Relaxed:                             0.9000000000000001
+Rollicking:                          0.9000000000000001
+Rousing:                             0.9000000000000001
+Sardonic:                            0.9000000000000001
+Snide:                               0.9000000000000001
+Swaggering:                          0.9000000000000001
+Uncompromising:                      0.9000000000000001
+Visceral:                            0.9000000000000001
+Warm:                                0.9000000000000001
+Witty:                               0.9000000000000001
+Hanging Out:                         0.9000000000000001
+Introspection:                       0.9000000000000001
+Night Driving:                       0.9000000000000001
+Reflection:                          0.9000000000000001
+Revolutionary:                       0.9000000000000001
+Road Trip:                           0.9000000000000001
+Fiery:                               0.825
+Country-Rock:                        0.6
+In Love:                             0.6

@@ -1,0 +1,29 @@
+#Title composizione
+Title : latin-new-age
+
+#Concetto Principale
+Head Concept Name : latin
+Head Concept Count : 5
+
+#Concetto Modificatore
+Modifier Concept Name : new-age
+Modifier Concept Count : 48
+
+
+
+
+
+T(modifier), Reflection, 0.9, 29
+T(modifier), Soothing, 0.8892857142857142, 28
+T(modifier), Introspection, 0.8892857142857142, 28
+T(modifier), Hypnotic, 0.8785714285714286, 27
+T(modifier), Reflective, 0.8785714285714286, 27
+T(modifier), Relaxation, 0.8785714285714286, 27
+
+T(head), Rousing, 0.9, 3
+T(head), Romantic, 0.9, 3
+T(head), Latin Pop, 0.75, 2
+T(head), Celebration, 0.75, 2
+T(head), Yearning, 0.75, 2
+T(head), In Love, 0.75, 2
+

@@ -1,0 +1,13 @@
+Folk Revival:                        0.9
+Political Folk:                      0.9
+Traditional Folk:                    0.9
+Dramatic:                            0.7999999999999999
+Weary:                               0.7999999999999999
+Loss/Grief:                          0.7999999999999999
+Brooding:                            0.7
+Earthy:                              0.7
+Organic:                             0.7
+Somber:                              0.7
+Theatrical:                          0.7
+Earnest:                             0.6
+Reminiscing:                         0.6

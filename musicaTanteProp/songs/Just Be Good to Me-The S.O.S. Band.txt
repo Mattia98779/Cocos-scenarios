@@ -1,0 +1,4 @@
+Funk:                                0.9
+Romantic:                            0.9
+Rousing:                             0.9
+In Love:                             0.9

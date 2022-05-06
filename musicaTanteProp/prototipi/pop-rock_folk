@@ -1,0 +1,87 @@
+#Title composizione
+Title : pop-rock-folk
+
+#Concetto Principale
+Head Concept Name : pop-rock
+
+#Concetto Modificatore
+Modifier Concept Name : folk
+
+
+
+
+
+T(modifier), Earthy, 0.9
+T(modifier), Poignant, 0.8896551724137931
+T(modifier), Earnest, 0.8896551724137931
+T(modifier), Bittersweet, 0.8482758620689655
+T(modifier), Reflective, 0.8172413793103448
+T(modifier), Plaintive, 0.806896551724138
+T(modifier), Traditional Folk, 0.806896551724138
+T(modifier), Wistful, 0.7965517241379311
+T(modifier), Yearning, 0.7965517241379311
+T(modifier), Folk Revival, 0.7965517241379311
+T(modifier), Amiable/Good-Natured, 0.7862068965517242
+T(modifier), Empowering, 0.7862068965517242
+T(modifier), Intimate, 0.7758620689655172
+T(modifier), Reflection, 0.7758620689655172
+T(modifier), Freedom, 0.7758620689655172
+T(modifier), Organic, 0.7655172413793103
+T(modifier), Melancholy, 0.7551724137931035
+T(modifier), Sentimental, 0.7551724137931035
+T(modifier), Passionate, 0.7448275862068965
+T(modifier), Introspection, 0.7448275862068965
+T(modifier), Sunday Afternoon, 0.7344827586206897
+T(modifier), Political Folk, 0.7344827586206897
+T(modifier), Feeling Blue, 0.7344827586206897
+T(modifier), Literate, 0.7137931034482758
+T(modifier), Early Morning, 0.7137931034482758
+T(modifier), Autumn, 0.703448275862069
+T(modifier), Rainy Day, 0.703448275862069
+T(modifier), Folksongs, 0.703448275862069
+T(modifier), Contemporary Folk, 0.703448275862069
+
+T(head), Rousing, 0.9
+T(head), Contemporary Pop/Rock, 0.8689655172413793
+T(head), Album Rock, 0.8172413793103448
+T(head), Confident, 0.8172413793103448
+T(head), Energetic, 0.8172413793103448
+T(head), Cool & Cocky, 0.806896551724138
+T(head), Swaggering, 0.7965517241379311
+T(head), Partying, 0.7862068965517242
+T(head), Freewheeling, 0.7862068965517242
+T(head), Raucous, 0.7862068965517242
+T(head), Hanging Out, 0.7758620689655172
+T(head), Brash, 0.7758620689655172
+T(head), Guys Night Out, 0.7655172413793103
+T(head), Urgent, 0.7655172413793103
+T(head), Hard Rock, 0.7551724137931035
+T(head), Rock & Roll, 0.7551724137931035
+T(head), Rebellious, 0.7551724137931035
+T(head), In Love, 0.7551724137931035
+T(head), Playful_mood, 0.7551724137931035
+T(head), TGIF, 0.7551724137931035
+T(head), Summer, 0.7448275862068966
+T(head), Intense, 0.7448275862068966
+T(head), Dramatic, 0.7448275862068966
+T(head), Celebratory, 0.7344827586206897
+T(head), Road Trip, 0.7344827586206897
+T(head), Visceral, 0.7344827586206897
+T(head), Bravado, 0.7241379310344828
+T(head), Exciting, 0.7241379310344828
+T(head), Rowdy, 0.7241379310344828
+T(head), Fiery, 0.7241379310344828
+T(head), Yearning, 0.7137931034482758
+T(head), Fun, 0.7137931034482758
+T(head), Rollicking, 0.7137931034482758
+T(head), Lively, 0.7137931034482758
+T(head), Aggressive, 0.7137931034482758
+T(head), Stylish, 0.7137931034482758
+T(head), Late Night, 0.7034482758620689
+T(head), Freedom, 0.7034482758620689
+T(head), Boisterous, 0.7034482758620689
+T(head), Exuberant, 0.7034482758620689
+T(head), Theatrical, 0.7034482758620689
+T(head), Street-Smart, 0.7034482758620689
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 6.358549707169843e-35

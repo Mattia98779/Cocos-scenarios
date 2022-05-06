@@ -1,0 +1,41 @@
+Traditional Folk:                    0.9
+Gritty:                              0.9
+Empowering:                          0.9
+Revolutionary:                       0.9
+The Great Outdoors:                  0.9
+Political Folk:                      0.8250000000000001
+Earthy:                              0.8250000000000001
+Pastoral:                            0.8250000000000001
+Poignant:                            0.8250000000000001
+Reverent:                            0.8250000000000001
+Rustic:                              0.8250000000000001
+Relaxation:                          0.8250000000000001
+Folksongs:                           0.75
+Atmospheric:                         0.75
+Confident:                           0.75
+Freewheeling:                        0.75
+Gentle:                              0.75
+Intimate:                            0.75
+Plaintive:                           0.75
+Soothing:                            0.75
+Sparse:                              0.75
+Comfort:                             0.75
+Early Morning:                       0.75
+Rainy Day:                           0.75
+Road Trip:                           0.75
+Sunday Afternoon:                    0.75
+Amiable/Good-Natured:                0.6749999999999999
+Brittle:                             0.6749999999999999
+Carefree:                            0.6749999999999999
+Organic:                             0.6749999999999999
+Freedom:                             0.6749999999999999
+Reflection:                          0.6749999999999999
+Austere:                             0.6
+Autumnal:                            0.6
+Earnest:                             0.6
+Somber:                              0.6
+Autumn:                              0.6
+Feeling Blue:                        0.6
+Hanging Out:                         0.6
+Late Night:                          0.6
+Small Gathering:                     0.6

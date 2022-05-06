@@ -1,0 +1,31 @@
+Urban:                               0.9
+Bright:                              0.9
+Gentle:                              0.9
+Lush:                                0.9
+Relaxed:                             0.9
+Sexy:                                0.9
+Slick:                               0.9
+Smooth:                              0.9
+Soft/Quiet:                          0.9
+Sophisticated:                       0.9
+In Love:                             0.9
+New Love:                            0.9
+Romantic Evening:                    0.9
+Seduction:                           0.9
+Sex:                                 0.9
+Lively:                              0.84
+Soothing:                            0.84
+Stylish:                             0.84
+Sweet:                               0.84
+Warm:                                0.84
+Jungle/Drum'n'Bass:                  0.78
+Neo-Soul:                            0.78
+Soul:                                0.78
+Dreamy:                              0.78
+Hypnotic:                            0.78
+Laid-Back/Mellow:                    0.78
+Romantic:                            0.78
+Girls Night Out:                     0.78
+Hanging Out:                         0.78
+Day Driving:                         0.72
+Contemporary R&B:                    0.6

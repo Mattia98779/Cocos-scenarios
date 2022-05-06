@@ -1,0 +1,21 @@
+Instrumental Pop:                    0.9
+Exotica:                             0.8250000000000001
+Lounge:                              0.8250000000000001
+Effervescent:                        0.8250000000000001
+Playful:                             0.8250000000000001
+Amiable/Good-Natured:                0.75
+Carefree:                            0.75
+Lively:                              0.75
+Quirky:                              0.75
+Springlike:                          0.75
+Theatrical:                          0.75
+Witty:                               0.75
+Sunday Afternoon:                    0.75
+Cheerful:                            0.675
+Fun:                                 0.675
+Giddy:                               0.675
+Playful_mood:                        0.675
+Whimsical:                           0.675
+Hanging Out:                         0.675
+Spring:                              0.675
+Precious:                            0.6

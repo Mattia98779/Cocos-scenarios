@@ -1,0 +1,27 @@
+Adult Contemporary R&B:              0.9
+Organic:                             0.9
+Passionate:                          0.9
+Sensual:                             0.9
+Soft/Quiet:                          0.9
+Yearning:                            0.9
+Heartache:                           0.9
+Introspection:                       0.9
+Regret:                              0.9
+Romantic Evening:                    0.9
+Elegant:                             0.84
+Intimate:                            0.84
+Sophisticated:                       0.84
+Tender:                              0.84
+Comfort:                             0.84
+Feeling Blue:                        0.84
+Late Night:                          0.84
+Bittersweet:                         0.78
+Calm/Peaceful:                       0.78
+Dramatic:                            0.78
+Gentle:                              0.78
+Refined:                             0.78
+Relaxed:                             0.78
+Soothing:                            0.78
+Breakup:                             0.78
+Sex:                                 0.78
+Contemporary R&B:                    0.6

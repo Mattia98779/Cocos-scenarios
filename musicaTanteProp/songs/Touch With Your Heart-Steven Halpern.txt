@@ -1,0 +1,48 @@
+Contemporary Instrumental:           0.9
+Progressive Electronic:              0.9
+Bright:                              0.9
+Cerebral:                            0.9
+Hypnotic:                            0.9
+Laid-Back/Mellow:                    0.9
+Light:                               0.9
+Reserved:                            0.9
+Smooth:                              0.9
+Soothing:                            0.9
+Affirmation:                         0.9
+Background Music:                    0.9
+Comfort:                             0.9
+Empowering:                          0.9
+Introspection:                       0.9
+Meditation:                          0.9
+Reflection:                          0.9
+Relaxation:                          0.9
+Solitude:                            0.9
+Sweet Dreams:                        0.9
+The Creative Side:                   0.9
+Ambient:                             0.825
+Atmospheric:                         0.825
+Calm/Peaceful:                       0.825
+Dreamy:                              0.825
+Elegant:                             0.825
+Ethereal:                            0.825
+Gentle:                              0.825
+Intimate:                            0.825
+Refined:                             0.825
+Relaxed:                             0.825
+Sophisticated:                       0.825
+Spacey:                              0.825
+Sparkling:                           0.825
+Sparse:                              0.825
+Spiritual:                           0.825
+Adult Alternative:                   0.75
+Healing:                             0.6749999999999999
+Meditation/Relaxation:               0.6749999999999999
+Relaxation:                          0.6749999999999999
+Self-Help & Development:             0.6749999999999999
+Spiritual:                           0.6749999999999999
+Spoken Word:                         0.6749999999999999
+Space:                               0.6
+Amiable/Good-Natured:                0.6
+Delicate:                            0.6
+Lazy:                                0.6
+Pastoral:                            0.6

@@ -1,0 +1,59 @@
+#Title composizione
+Title : easy-listening-avant-garde
+
+#Concetto Principale
+Head Concept Name : easy-listening
+
+#Concetto Modificatore
+Modifier Concept Name : avant-garde
+
+
+
+
+
+T(modifier), The Creative Side, 0.9
+T(modifier), Cerebral, 0.84
+T(modifier), Uncompromising, 0.78
+T(modifier), Provocative, 0.78
+T(modifier), Revolutionary, 0.78
+T(modifier), Modern Composition, 0.78
+T(modifier), Sparse, 0.72
+T(modifier), Experimental, 0.72
+T(modifier), Detached, 0.72
+T(modifier), Intense, 0.72
+
+T(head), Dinner Ambiance, 0.9
+T(head), Amiable/Good-Natured, 0.8884615384615384
+T(head), Relaxation, 0.8653846153846154
+T(head), Soothing, 0.8653846153846154
+T(head), Sophisticated, 0.8538461538461539
+T(head), Refined, 0.8307692307692308
+T(head), Background Music, 0.8307692307692308
+T(head), Orchestral/Easy Listening, 0.8192307692307692
+T(head), Laid-Back/Mellow, 0.8076923076923077
+T(head), Smooth, 0.8076923076923077
+T(head), Romantic Evening, 0.8076923076923077
+T(head), Lounge, 0.7961538461538462
+T(head), Atmospheric, 0.7961538461538462
+T(head), Light, 0.7846153846153846
+T(head), Playful_mood, 0.7846153846153846
+T(head), Romantic, 0.7846153846153846
+T(head), Stylish, 0.7730769230769231
+T(head), Sentimental, 0.7730769230769231
+T(head), Instrumental Pop, 0.7615384615384615
+T(head), Calm/Peaceful, 0.75
+T(head), Gentle, 0.75
+T(head), Slick, 0.7384615384615385
+T(head), Playful, 0.7384615384615385
+T(head), Dramatic, 0.7384615384615385
+T(head), Elegant, 0.7384615384615385
+T(head), Bright, 0.7269230769230769
+T(head), Lively, 0.7269230769230769
+T(head), Relaxed, 0.7269230769230769
+T(head), Fun, 0.7153846153846154
+T(head), Dreamy, 0.7153846153846154
+T(head), Sweet, 0.7153846153846154
+T(head), Whimsical, 0.7153846153846154
+T(head), Hanging Out, 0.7038461538461539
+
+Result : '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.4923493409176645e-18

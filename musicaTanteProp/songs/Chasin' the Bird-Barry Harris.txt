@@ -1,0 +1,45 @@
+Bop:                                 0.9
+Mainstream Jazz:                     0.9
+Standards:                           0.9
+Exuberant:                           0.9
+Freewheeling:                        0.9
+Sophisticated:                       0.9
+Warm:                                0.9
+Empowering:                          0.9
+Relaxation:                          0.9
+Victory:                             0.9
+Intimate:                            0.84
+Literate:                            0.84
+Lively:                              0.84
+Passionate:                          0.84
+Playful_mood:                        0.84
+Refined:                             0.84
+Rousing:                             0.84
+Searching:                           0.84
+Sentimental:                         0.84
+Stately:                             0.84
+Street-Smart:                        0.84
+Stylish:                             0.84
+Witty:                               0.84
+Mischievous:                         0.84
+Playful:                             0.84
+Amiable/Good-Natured:                0.78
+Confident:                           0.78
+Dramatic:                            0.78
+Earnest:                             0.78
+Earthy:                              0.78
+Elaborate:                           0.78
+Light:                               0.78
+Plaintive:                           0.78
+Wry:                                 0.78
+Affirmation:                         0.78
+Cool & Cocky:                        0.78
+Freedom:                             0.78
+Late Night:                          0.78
+The Creative Side:                   0.78
+The Great Outdoors:                  0.78
+At the Office:                       0.72
+Sensual:                             0.6599999999999999
+Whimsical:                           0.6599999999999999
+Relaxed:                             0.6
+Swaggering:                          0.6

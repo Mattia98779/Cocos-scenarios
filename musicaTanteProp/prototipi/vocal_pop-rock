@@ -1,0 +1,81 @@
+#Title composizione
+Title : vocal-pop-rock
+
+#Concetto Principale
+Head Concept Name : vocal
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+
+
+
+
+
+T(modifier), Rousing, 0.9
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793
+T(modifier), Album Rock, 0.8172413793103448
+T(modifier), Confident, 0.8172413793103448
+T(modifier), Energetic, 0.8172413793103448
+T(modifier), Cool & Cocky, 0.806896551724138
+T(modifier), Swaggering, 0.7965517241379311
+T(modifier), Partying, 0.7862068965517242
+T(modifier), Freewheeling, 0.7862068965517242
+T(modifier), Raucous, 0.7862068965517242
+T(modifier), Hanging Out, 0.7758620689655172
+T(modifier), Brash, 0.7758620689655172
+T(modifier), Guys Night Out, 0.7655172413793103
+T(modifier), Urgent, 0.7655172413793103
+T(modifier), Hard Rock, 0.7551724137931035
+T(modifier), Rock & Roll, 0.7551724137931035
+T(modifier), Rebellious, 0.7551724137931035
+T(modifier), In Love, 0.7551724137931035
+T(modifier), Playful_mood, 0.7551724137931035
+T(modifier), TGIF, 0.7551724137931035
+T(modifier), Summer, 0.7448275862068966
+T(modifier), Intense, 0.7448275862068966
+T(modifier), Dramatic, 0.7448275862068966
+T(modifier), Celebratory, 0.7344827586206897
+T(modifier), Road Trip, 0.7344827586206897
+T(modifier), Visceral, 0.7344827586206897
+T(modifier), Bravado, 0.7241379310344828
+T(modifier), Exciting, 0.7241379310344828
+T(modifier), Rowdy, 0.7241379310344828
+T(modifier), Fiery, 0.7241379310344828
+T(modifier), Yearning, 0.7137931034482758
+T(modifier), Fun, 0.7137931034482758
+T(modifier), Rollicking, 0.7137931034482758
+T(modifier), Lively, 0.7137931034482758
+T(modifier), Aggressive, 0.7137931034482758
+T(modifier), Stylish, 0.7137931034482758
+T(modifier), Late Night, 0.7034482758620689
+T(modifier), Freedom, 0.7034482758620689
+T(modifier), Boisterous, 0.7034482758620689
+T(modifier), Exuberant, 0.7034482758620689
+T(modifier), Theatrical, 0.7034482758620689
+T(modifier), Street-Smart, 0.7034482758620689
+
+T(head), Traditional Pop, 0.9
+T(head), Vocal Pop, 0.8478260869565217
+T(head), Refined, 0.7630434782608696
+T(head), Sentimental, 0.7630434782608696
+T(head), Romantic, 0.75
+T(head), Sweet, 0.7434782608695653
+T(head), Cheerful, 0.7369565217391304
+T(head), Elegant, 0.7369565217391304
+T(head), Soothing, 0.7369565217391304
+T(head), Warm, 0.7369565217391304
+T(head), Smooth, 0.7304347826086957
+T(head), Dinner Ambiance, 0.7304347826086957
+T(head), Romantic Evening, 0.7304347826086957
+T(head), Carefree, 0.7239130434782608
+T(head), In Love, 0.7239130434782608
+T(head), Gentle, 0.717391304347826
+T(head), Delicate, 0.717391304347826
+T(head), Poignant, 0.717391304347826
+T(head), Amiable/Good-Natured, 0.7108695652173913
+T(head), Light, 0.7108695652173913
+T(head), Lively, 0.7108695652173913
+T(head), Vocal Jazz, 0.7043478260869565
+T(head), Dramatic, 0.7043478260869565
+
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.9566383031734357e-30

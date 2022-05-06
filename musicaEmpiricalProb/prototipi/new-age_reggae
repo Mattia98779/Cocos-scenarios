@@ -1,0 +1,29 @@
+#Title composizione
+Title : new-age-reggae
+
+#Concetto Principale
+Head Concept Name : new-age
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : reggae
+Modifier Concept Count : 48
+
+
+
+
+
+T(modifier), Summery, 0.9, 35
+T(modifier), Roots Reggae, 0.8735294117647059, 32
+T(modifier), Earnest, 0.8558823529411764, 30
+T(modifier), Earthy, 0.8117647058823529, 25
+T(modifier), Rousing, 0.8029411764705883, 24
+T(modifier), Summer, 0.8029411764705883, 24
+
+T(head), Reflection, 0.9, 29
+T(head), Soothing, 0.8892857142857142, 28
+T(head), Introspection, 0.8892857142857142, 28
+T(head), Hypnotic, 0.8785714285714286, 27
+T(head), Reflective, 0.8785714285714286, 27
+T(head), Relaxation, 0.8785714285714286, 27
+

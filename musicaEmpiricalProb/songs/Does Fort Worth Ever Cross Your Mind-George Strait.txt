@@ -1,0 +1,20 @@
+Earnest:                             0.9
+Smooth:                              0.9
+Stylish:                             0.9
+Feeling Blue:                        0.9
+Guys Night Out:                      0.9
+Late Night:                          0.9
+Reflection:                          0.9
+Contemporary Country:                0.8250000000000001
+New Traditionalist:                  0.8250000000000001
+Earthy:                              0.8250000000000001
+Plaintive:                           0.8250000000000001
+Slick:                               0.8250000000000001
+Reflective:                          0.75
+Rustic:                              0.75
+Sentimental:                         0.75
+Warm:                                0.75
+Light:                               0.6749999999999999
+Restrained:                          0.6749999999999999
+Melancholy:                          0.6
+Refined:                             0.6

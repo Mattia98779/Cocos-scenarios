@@ -1,0 +1,31 @@
+Traditional Pop:                     0.9
+Boisterous:                          0.9
+Exciting:                            0.9
+Freewheeling:                        0.9
+Gutsy:                               0.9
+Cool & Cocky:                        0.9
+Drinking:                            0.9
+Guys Night Out:                      0.9
+TGIF:                                0.9
+Vocal Pop:                           0.825
+Confident:                           0.825
+Joyous:                              0.825
+Lively:                              0.825
+Stylish:                             0.825
+Freedom:                             0.825
+Partying:                            0.825
+Small Gathering:                     0.825
+Vocal Jazz:                          0.75
+Brash:                               0.75
+Carefree:                            0.75
+Elegant:                             0.75
+Lush:                                0.75
+Playful_mood:                        0.75
+Refined:                             0.75
+Sophisticated:                       0.75
+American Popular Song:               0.6749999999999999
+Standards:                           0.6749999999999999
+Celebratory:                         0.6749999999999999
+Fun:                                 0.6749999999999999
+Romantic:                            0.6749999999999999
+Energetic:                           0.6

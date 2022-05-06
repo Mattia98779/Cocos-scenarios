@@ -1,0 +1,5 @@
+Piano Blues:                         0.9
+Urban Blues:                         0.9
+Laid-Back/Mellow:                    0.6
+Refined:                             0.6
+Sophisticated:                       0.6

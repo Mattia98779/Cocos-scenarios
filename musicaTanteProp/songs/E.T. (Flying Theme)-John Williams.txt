@@ -1,0 +1,20 @@
+Film Music:                          0.9
+Movie Themes:                        0.9
+Original Score:                      0.9
+Soundtracks:                         0.9
+Passionate:                          0.7999999999999999
+Rousing:                             0.7999999999999999
+Theatrical:                          0.7999999999999999
+Boisterous:                          0.7
+Dramatic:                            0.7
+Earnest:                             0.7
+Earthy:                              0.7
+Energetic:                           0.7
+Organic:                             0.7
+Rambunctious:                        0.7
+Rollicking:                          0.7
+Whimsical:                           0.7
+Wistful:                             0.7
+Exuberant:                           0.6
+Romantic:                            0.6
+The Creative Side:                   0.6

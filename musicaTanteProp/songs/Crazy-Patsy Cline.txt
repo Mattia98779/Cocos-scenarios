@@ -1,0 +1,45 @@
+Nashville Sound/Countrypolitan:      0.9
+Traditional Country:                 0.9
+Atmospheric:                         0.9
+Delicate:                            0.9
+Lush:                                0.9
+Melancholy:                          0.9
+Nocturnal:                           0.9
+Feeling Blue:                        0.9
+Heartache:                           0.9
+Cathartic:                           0.8
+Dramatic:                            0.8
+Gentle:                              0.8
+Intimate:                            0.8
+Plaintive:                           0.8
+Sensual:                             0.8
+Soothing:                            0.8
+Wistful:                             0.8
+Yearning:                            0.8
+Breakup:                             0.8
+Introspection:                       0.8
+Late Night:                          0.8
+Long Walk:                           0.8
+Reflection:                          0.8
+Angst-Ridden:                        0.7
+Bittersweet:                         0.7
+Earnest:                             0.7
+Eerie:                               0.7
+Hypnotic:                            0.7
+Laid-Back/Mellow:                    0.7
+Passionate:                          0.7
+Searching:                           0.7
+Sentimental:                         0.7
+Soft/Quiet:                          0.7
+Autumn:                              0.7
+In Love:                             0.7
+Jealousy:                            0.7
+Autumnal:                            0.6
+Calm/Peaceful:                       0.6
+Ethereal:                            0.6
+Poignant:                            0.6
+Reflective:                          0.6
+Reserved:                            0.6
+Restrained:                          0.6
+Sad:                                 0.6
+Tense/Anxious:                       0.6

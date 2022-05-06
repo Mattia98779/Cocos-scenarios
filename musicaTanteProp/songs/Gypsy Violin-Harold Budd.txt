@@ -1,0 +1,22 @@
+Ambient:                             0.9
+Atmospheric:                         0.9
+Austere:                             0.9
+Cerebral:                            0.9
+Dreamy:                              0.9
+Eerie:                               0.9
+Enigmatic:                           0.9
+Ethereal:                            0.9
+Gentle:                              0.9
+Insular:                             0.9
+Intimate:                            0.9
+Reserved:                            0.9
+Sophisticated:                       0.9
+Sparse:                              0.9
+Introspection:                       0.9
+Maverick:                            0.9
+Meditation:                          0.9
+Reflection:                          0.9
+Relaxation:                          0.9
+Solitude:                            0.9
+Experimental Electronic:             0.825
+Neo-Classical:                       0.6

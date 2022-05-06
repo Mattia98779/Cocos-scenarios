@@ -1,0 +1,22 @@
+Classical Crossover:                 0.9000000000000001
+Ambitious:                           0.9000000000000001
+Intimate:                            0.9000000000000001
+Romantic:                            0.9000000000000001
+Comfort:                             0.9000000000000001
+Reflection:                          0.9000000000000001
+Relaxation:                          0.9000000000000001
+Clinical:                            0.84
+Melancholy:                          0.84
+Sensual:                             0.84
+Complex:                             0.78
+Sentimental:                         0.78
+Soothing:                            0.78
+Sophisticated:                       0.78
+Confident:                           0.72
+Precious:                            0.72
+Spiritual:                           0.72
+Dramatic:                            0.6599999999999999
+Reflective:                          0.6599999999999999
+Theatrical:                          0.6599999999999999
+Elegant:                             0.6
+Reverent:                            0.6

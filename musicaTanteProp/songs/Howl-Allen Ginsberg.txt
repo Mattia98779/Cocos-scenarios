@@ -1,0 +1,24 @@
+Beat Poetry:                         0.9
+Ambitious:                           0.9
+Revolutionary:                       0.9
+The Creative Side:                   0.9
+Poetry:                              0.825
+Spoken Word:                         0.825
+Cerebral:                            0.825
+Fiery:                               0.825
+Passionate:                          0.825
+Confrontational:                     0.75
+Dramatic:                            0.75
+Elaborate:                           0.75
+Freewheeling:                        0.75
+Intense:                             0.75
+Provocative:                         0.75
+Rebellious:                          0.75
+Reckless:                            0.75
+Rousing:                             0.75
+Uncompromising:                      0.75
+Volatile:                            0.75
+Complex:                             0.6749999999999999
+Empowering:                          0.6749999999999999
+Introspection:                       0.6749999999999999
+Literate:                            0.6

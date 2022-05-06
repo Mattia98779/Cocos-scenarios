@@ -1,0 +1,41 @@
+Bleak:                               0.9
+Street-Smart:                        0.9
+Dub:                                 0.8400000000000001
+Political Reggae:                    0.8400000000000001
+Roots Reggae:                        0.8400000000000001
+Dreamy:                              0.8400000000000001
+Organic:                             0.8400000000000001
+Earnest:                             0.78
+Late Night:                          0.78
+Summer:                              0.78
+Eerie:                               0.72
+Club/Dance:                          0.6599999999999999
+Atmospheric:                         0.6599999999999999
+Delicate:                            0.6599999999999999
+Earthy:                              0.6599999999999999
+Eccentric:                           0.6599999999999999
+Ethereal:                            0.6599999999999999
+Gutsy:                               0.6599999999999999
+Intimate:                            0.6599999999999999
+Literate:                            0.6599999999999999
+Ominous:                             0.6599999999999999
+Plaintive:                           0.6599999999999999
+Poignant:                            0.6599999999999999
+Quirky:                              0.6599999999999999
+Restrained:                          0.6599999999999999
+Spacey:                              0.6599999999999999
+Sparkling:                           0.6599999999999999
+Stylish:                             0.6599999999999999
+Summery:                             0.6599999999999999
+Sweet:                               0.6599999999999999
+Trippy:                              0.6599999999999999
+Early Morning:                       0.6599999999999999
+Empowering:                          0.6599999999999999
+Feeling Blue:                        0.6599999999999999
+Freedom:                             0.6599999999999999
+Hanging Out:                         0.6599999999999999
+Motivation:                          0.6599999999999999
+Politics/Society:                    0.6599999999999999
+Rainy Day:                           0.6599999999999999
+Road Trip:                           0.6599999999999999
+Reflective:                          0.6

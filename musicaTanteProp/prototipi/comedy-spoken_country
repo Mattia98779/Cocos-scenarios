@@ -1,0 +1,76 @@
+#Title composizione
+Title : comedy-spoken-country
+
+#Concetto Principale
+Head Concept Name : comedy-spoken
+
+#Concetto Modificatore
+Modifier Concept Name : country
+
+
+
+
+
+T(modifier), Traditional Country, 0.9
+T(modifier), Earthy, 0.890625
+T(modifier), Earnest, 0.8625
+T(modifier), Reflective, 0.84375
+T(modifier), Plaintive, 0.815625
+T(modifier), Amiable/Good-Natured, 0.80625
+T(modifier), Sentimental, 0.7781250000000001
+T(modifier), Organic, 0.76875
+T(modifier), Yearning, 0.759375
+T(modifier), Feeling Blue, 0.759375
+T(modifier), Wistful, 0.75
+T(modifier), Smooth, 0.7406250000000001
+T(modifier), Melancholy, 0.73125
+T(modifier), Intimate, 0.73125
+T(modifier), Late Night, 0.73125
+T(modifier), Lively, 0.73125
+T(modifier), Rousing, 0.73125
+T(modifier), Passionate, 0.721875
+T(modifier), Honky Tonk, 0.721875
+T(modifier), Contemporary Country, 0.721875
+T(modifier), Rollicking, 0.721875
+T(modifier), Drinking, 0.721875
+T(modifier), Playful_mood, 0.721875
+T(modifier), Poignant, 0.7125
+T(modifier), Heartache, 0.7125
+T(modifier), Introspection, 0.7125
+T(modifier), Country-Pop, 0.7125
+T(modifier), Freewheeling, 0.7125
+T(modifier), Fun, 0.7125
+T(modifier), Reflection, 0.703125
+T(modifier), Rustic, 0.703125
+T(modifier), Road Trip, 0.703125
+T(modifier), Swaggering, 0.703125
+
+T(head), Comedy, 0.9
+T(head), Playful_mood, 0.868421052631579
+T(head), Humorous, 0.8526315789473684
+T(head), Playful, 0.8526315789473684
+T(head), The Creative Side, 0.8368421052631579
+T(head), Irreverent, 0.8210526315789474
+T(head), Standup Comedy, 0.8052631578947369
+T(head), Fun, 0.7736842105263158
+T(head), Literate, 0.7736842105263158
+T(head), Witty, 0.7736842105263158
+T(head), Mischievous, 0.7736842105263158
+T(head), Silly, 0.7578947368421053
+T(head), Wry, 0.7578947368421053
+T(head), Outrageous, 0.7578947368421053
+T(head), Confrontational, 0.7421052631578947
+T(head), Whimsical, 0.7421052631578947
+T(head), Hanging Out, 0.7421052631578947
+T(head), Uncompromising, 0.7421052631578947
+T(head), Reflective, 0.7421052631578947
+T(head), Cerebral, 0.7263157894736842
+T(head), Quirky, 0.7263157894736842
+T(head), Earnest, 0.7263157894736842
+T(head), Self-Conscious, 0.7263157894736842
+T(head), Provocative, 0.7105263157894737
+T(head), Revolutionary, 0.7105263157894737
+T(head), Cynical/Sarcastic, 0.7105263157894737
+T(head), Observational Humor, 0.7105263157894737
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.3263927556823369e-27

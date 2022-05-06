@@ -1,0 +1,15 @@
+Sing-Alongs:                         0.9
+Earnest:                             0.8400000000000001
+Freedom:                             0.8400000000000001
+Confident:                           0.78
+Earthy:                              0.78
+Exuberant:                           0.78
+Joyous:                              0.78
+Organic:                             0.78
+Rousing:                             0.78
+Spiritual:                           0.78
+Empowering:                          0.78
+Motivation:                          0.78
+Revolutionary:                       0.78
+Literate:                            0.6599999999999999
+Sunday Afternoon:                    0.6

@@ -1,0 +1,25 @@
+Album Rock:                          0.9
+Contemporary Pop/Rock:               0.9
+Breakup:                             0.9
+D-I-V-O-R-C-E:                       0.9
+Day Driving:                         0.9
+Heartache:                           0.9
+Regret:                              0.9
+Confrontational:                     0.8625
+Urgent:                              0.8625
+Wistful:                             0.8625
+Yearning:                            0.8625
+Soft Rock:                           0.8250000000000001
+Melancholy:                          0.8250000000000001
+Reflective:                          0.8250000000000001
+Rousing:                             0.8250000000000001
+Searching:                           0.8250000000000001
+Bittersweet:                         0.7875
+Brooding:                            0.7875
+Poignant:                            0.7875
+Intense:                             0.75
+At the Office:                       0.75
+Feeling Blue:                        0.75
+In Love:                             0.75
+American Trad Rock:                  0.6
+British Trad Rock:                   0.6

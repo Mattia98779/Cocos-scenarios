@@ -1,0 +1,44 @@
+Bop:                                 0.9
+Cool:                                0.9
+Vocal Jazz:                          0.9
+Vocalese:                            0.9
+Earnest:                             0.9
+Fun:                                 0.9
+Amiable/Good-Natured:                0.825
+Carefree:                            0.825
+Cheerful:                            0.825
+Confident:                           0.825
+Gleeful:                             0.825
+Happy:                               0.825
+Humorous:                            0.825
+Intimate:                            0.825
+Playful_mood:                        0.825
+Poignant:                            0.825
+Sophisticated:                       0.825
+Sweet:                               0.825
+Warm:                                0.825
+Comfort:                             0.825
+Empowering:                          0.825
+Playful:                             0.825
+The Creative Side:                   0.825
+Elegant:                             0.75
+Laid-Back/Mellow:                    0.75
+Organic:                             0.75
+Quirky:                              0.75
+Reflective:                          0.75
+Relaxed:                             0.75
+Romantic:                            0.75
+Sentimental:                         0.75
+Stylish:                             0.75
+Whimsical:                           0.75
+Witty:                               0.75
+Dinner Ambiance:                     0.75
+Hanging Out:                         0.75
+In Love:                             0.75
+Introspection:                       0.75
+Reflection:                          0.75
+Post-Bop:                            0.6749999999999999
+Light:                               0.6
+Literate:                            0.6
+Rainy Day:                           0.6
+Romantic Evening:                    0.6

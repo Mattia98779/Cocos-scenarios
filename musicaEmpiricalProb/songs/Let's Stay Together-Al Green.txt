@@ -1,0 +1,49 @@
+Smooth Soul:                         0.9
+Soul:                                0.9
+Intimate:                            0.9
+Sensual:                             0.9
+Soothing:                            0.9
+Warm:                                0.9
+Comfort:                             0.9
+Feeling Blue:                        0.9
+In Love:                             0.9
+Late Night:                          0.9
+New Love:                            0.9
+Romantic Evening:                    0.9
+Sex:                                 0.9
+Southern Soul:                       0.8625
+Bittersweet:                         0.8625
+Greasy:                              0.8625
+Gutsy:                               0.8625
+Laid-Back/Mellow:                    0.8625
+Plaintive:                           0.8625
+Relaxed:                             0.8625
+Romantic:                            0.8625
+Sentimental:                         0.8625
+Sexy:                                0.8625
+Smooth:                              0.8625
+Sophisticated:                       0.8625
+Stylish:                             0.8625
+Sweet:                               0.8625
+Wistful:                             0.8625
+Seduction:                           0.8625
+Slow Dance:                          0.8625
+Calm/Peaceful:                       0.825
+Confident:                           0.825
+Earthy:                              0.825
+Nocturnal:                           0.825
+Organic:                             0.825
+Poignant:                            0.825
+Reserved:                            0.825
+Yearning:                            0.825
+Affirmation:                         0.825
+Relaxation:                          0.825
+Earnest:                             0.7875
+Passionate:                          0.7875
+Reflective:                          0.7875
+Summery:                             0.7875
+Theatrical:                          0.7875
+Dinner Ambiance:                     0.7875
+Delicate:                            0.75
+Optimistic:                          0.75
+Memphis Soul:                        0.6

@@ -1,0 +1,78 @@
+#Title composizione
+Title : country-folk
+
+#Concetto Principale
+Head Concept Name : country
+
+#Concetto Modificatore
+Modifier Concept Name : folk
+
+
+
+
+
+T(modifier), Earthy, 0.9
+T(modifier), Poignant, 0.8896551724137931
+T(modifier), Earnest, 0.8896551724137931
+T(modifier), Bittersweet, 0.8482758620689655
+T(modifier), Reflective, 0.8172413793103448
+T(modifier), Plaintive, 0.806896551724138
+T(modifier), Traditional Folk, 0.806896551724138
+T(modifier), Wistful, 0.7965517241379311
+T(modifier), Yearning, 0.7965517241379311
+T(modifier), Folk Revival, 0.7965517241379311
+T(modifier), Amiable/Good-Natured, 0.7862068965517242
+T(modifier), Empowering, 0.7862068965517242
+T(modifier), Intimate, 0.7758620689655172
+T(modifier), Reflection, 0.7758620689655172
+T(modifier), Freedom, 0.7758620689655172
+T(modifier), Organic, 0.7655172413793103
+T(modifier), Melancholy, 0.7551724137931035
+T(modifier), Sentimental, 0.7551724137931035
+T(modifier), Passionate, 0.7448275862068965
+T(modifier), Introspection, 0.7448275862068965
+T(modifier), Sunday Afternoon, 0.7344827586206897
+T(modifier), Political Folk, 0.7344827586206897
+T(modifier), Feeling Blue, 0.7344827586206897
+T(modifier), Literate, 0.7137931034482758
+T(modifier), Early Morning, 0.7137931034482758
+T(modifier), Autumn, 0.703448275862069
+T(modifier), Rainy Day, 0.703448275862069
+T(modifier), Folksongs, 0.703448275862069
+T(modifier), Contemporary Folk, 0.703448275862069
+
+T(head), Traditional Country, 0.9
+T(head), Earthy, 0.890625
+T(head), Earnest, 0.8625
+T(head), Reflective, 0.84375
+T(head), Plaintive, 0.815625
+T(head), Amiable/Good-Natured, 0.80625
+T(head), Sentimental, 0.7781250000000001
+T(head), Organic, 0.76875
+T(head), Yearning, 0.759375
+T(head), Feeling Blue, 0.759375
+T(head), Wistful, 0.75
+T(head), Smooth, 0.7406250000000001
+T(head), Melancholy, 0.73125
+T(head), Intimate, 0.73125
+T(head), Late Night, 0.73125
+T(head), Lively, 0.73125
+T(head), Rousing, 0.73125
+T(head), Passionate, 0.721875
+T(head), Honky Tonk, 0.721875
+T(head), Contemporary Country, 0.721875
+T(head), Rollicking, 0.721875
+T(head), Drinking, 0.721875
+T(head), Playful_mood, 0.721875
+T(head), Poignant, 0.7125
+T(head), Heartache, 0.7125
+T(head), Introspection, 0.7125
+T(head), Country-Pop, 0.7125
+T(head), Freewheeling, 0.7125
+T(head), Fun, 0.7125
+T(head), Reflection, 0.703125
+T(head), Rustic, 0.703125
+T(head), Road Trip, 0.703125
+T(head), Swaggering, 0.703125
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 4.876162672089811e-29

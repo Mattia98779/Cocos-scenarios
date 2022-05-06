@@ -1,0 +1,22 @@
+Alternative/Indie Rock:              0.9
+Ambient Techno:                      0.9
+Electronica:                         0.9
+Experimental Techno:                 0.9
+IDM:                                 0.9
+Post-Rock:                           0.9
+Techno:                              0.9
+Cerebral:                            0.9
+Refined:                             0.9
+Indie Electronic:                    0.8
+Circular:                            0.8
+Elaborate:                           0.8
+Literate:                            0.8
+Playful_mood:                        0.8
+Stylish:                             0.8
+Witty:                               0.8
+Introspection:                       0.8
+Mischievous:                         0.8
+Playful:                             0.8
+The Creative Side:                   0.8
+Amiable/Good-Natured:                0.7
+Eccentric:                           0.6

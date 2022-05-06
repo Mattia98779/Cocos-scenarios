@@ -1,0 +1,16 @@
+Children's Folk:                     0.9
+Amiable/Good-Natured:                0.9
+Earnest:                             0.9
+Literate:                            0.9
+Laid-Back/Mellow:                    0.8
+Empowering:                          0.8
+Family Gatherings:                   0.8
+Hanging Out:                         0.8
+Cheerful:                            0.7
+Gentle:                              0.7
+Lively:                              0.7
+Playful:                             0.7
+Sing-Alongs:                         0.6
+Fun:                                 0.6
+Organic:                             0.6
+The Creative Side:                   0.6

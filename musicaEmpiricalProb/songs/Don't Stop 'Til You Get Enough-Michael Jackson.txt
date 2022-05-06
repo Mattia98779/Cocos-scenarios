@@ -1,0 +1,30 @@
+Club/Dance:                          0.9
+Carefree:                            0.9
+Sensual:                             0.9
+Sparkling:                           0.9
+Club:                                0.9
+Partying:                            0.9
+Sex:                                 0.9
+Disco:                               0.8400000000000001
+Urban:                               0.8400000000000001
+Celebratory:                         0.8400000000000001
+Exuberant:                           0.8400000000000001
+Gleeful:                             0.8400000000000001
+Joyous:                              0.8400000000000001
+Passionate:                          0.8400000000000001
+Stylish:                             0.8400000000000001
+Contemporary Pop/Rock:               0.78
+Boisterous:                          0.78
+Confident:                           0.78
+Giddy:                               0.78
+Lively:                              0.78
+Rousing:                             0.78
+Smooth:                              0.78
+Motivation:                          0.78
+Energetic:                           0.72
+Freewheeling:                        0.72
+Hedonistic:                          0.72
+Sugary:                              0.72
+Intimate:                            0.6599999999999999
+In Love:                             0.6599999999999999
+Soul:                                0.6

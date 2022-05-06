@@ -1,0 +1,24 @@
+Funk:                                0.9
+Boisterous:                          0.9
+Carefree:                            0.9
+Celebratory:                         0.9
+Freewheeling:                        0.9
+Sleazy:                              0.9
+Urban:                               0.8571428571428572
+Energetic:                           0.8571428571428572
+Rambunctious:                        0.8571428571428572
+Sexy:                                0.8571428571428572
+Sex:                                 0.8571428571428572
+Fun:                                 0.8142857142857143
+Playful_mood:                        0.8142857142857143
+Stylish:                             0.8142857142857143
+Hedonistic:                          0.7714285714285715
+Nocturnal:                           0.7714285714285715
+Late Night:                          0.7714285714285715
+Partying:                            0.7714285714285715
+Quiet Storm:                         0.7285714285714286
+Manic:                               0.7285714285714286
+Quirky:                              0.7285714285714286
+Rousing:                             0.7285714285714286
+Humorous:                            0.6
+Sexual:                              0.6

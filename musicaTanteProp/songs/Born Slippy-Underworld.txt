@@ -1,0 +1,32 @@
+Club/Dance:                          0.9
+Electronica:                         0.9
+House:                               0.9
+Progressive House:                   0.9
+Techno:                              0.9
+Cerebral:                            0.9
+Detached:                            0.9
+Hypnotic:                            0.9
+Enigmatic:                           0.8625
+Nocturnal:                           0.8625
+Wintry:                              0.8625
+Club:                                0.8625
+Night Driving:                       0.8625
+Progressive Trance:                  0.825
+Trance:                              0.825
+Aggressive:                          0.825
+Clinical:                            0.825
+Ethereal:                            0.825
+Happy:                               0.825
+Rousing:                             0.825
+Trippy:                              0.825
+Late Night:                          0.825
+Partying:                            0.825
+Seduction:                           0.825
+Sex:                                 0.825
+Druggy:                              0.7875
+Manic:                               0.7875
+Melancholy:                          0.7875
+Cool & Cocky:                        0.7875
+Solitude:                            0.7875
+Birth:                               0.75
+Experimental:                        0.6

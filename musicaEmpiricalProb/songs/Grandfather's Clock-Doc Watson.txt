@@ -1,0 +1,12 @@
+Old-Timey:                           0.9
+Traditional Country:                 0.825
+Traditional Folk:                    0.825
+Bittersweet:                         0.825
+Playful_mood:                        0.825
+Whimsical:                           0.825
+Reminiscing:                         0.825
+Sweet:                               0.75
+Loss/Grief:                          0.75
+Sentimental:                         0.6749999999999999
+Wry:                                 0.6749999999999999
+Amiable/Good-Natured:                0.6

@@ -1,0 +1,43 @@
+#Title composizione
+Title : avant-garde-stage-screen
+
+#Concetto Principale
+Head Concept Name : avant-garde
+
+#Concetto Modificatore
+Modifier Concept Name : stage-screen
+
+
+
+
+
+T(modifier), Soundtracks, 0.9
+T(modifier), Dramatic, 0.875
+T(modifier), Original Score, 0.8500000000000001
+T(modifier), Theatrical, 0.825
+T(modifier), Film Music, 0.7999999999999999
+T(modifier), Rousing, 0.75
+T(modifier), The Creative Side, 0.75
+T(modifier), Wistful, 0.725
+T(modifier), Whimsical, 0.725
+T(modifier), Brooding, 0.7
+T(modifier), Exuberant, 0.7
+T(modifier), Ominous, 0.7
+T(modifier), Late Night, 0.7
+T(modifier), Romantic, 0.7
+T(modifier), Earnest, 0.7
+T(modifier), Boisterous, 0.7
+T(modifier), Organic, 0.7
+
+T(head), The Creative Side, 0.9
+T(head), Cerebral, 0.84
+T(head), Uncompromising, 0.78
+T(head), Provocative, 0.78
+T(head), Revolutionary, 0.78
+T(head), Modern Composition, 0.78
+T(head), Sparse, 0.72
+T(head), Experimental, 0.72
+T(head), Detached, 0.72
+T(head), Intense, 0.72
+
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', 1.4740571885201736e-08

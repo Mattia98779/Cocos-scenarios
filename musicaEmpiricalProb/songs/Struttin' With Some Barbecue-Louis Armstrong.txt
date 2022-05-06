@@ -1,0 +1,25 @@
+Early Jazz:                          0.9
+New Orleans Jazz:                    0.9
+Amiable/Good-Natured:                0.9
+Boisterous:                          0.9
+Carefree:                            0.9
+Energetic:                           0.9
+Freewheeling:                        0.9
+Lively:                              0.9
+Celebration:                         0.9
+Summer:                              0.9
+TGIF:                                0.9
+Dixieland:                           0.8
+Cheerful:                            0.8
+Earthy:                              0.8
+Exuberant:                           0.8
+Playful_mood:                        0.8
+Picnic:                              0.8
+Celebratory:                         0.7000000000000001
+Confident:                           0.7000000000000001
+Exciting:                            0.7000000000000001
+Fun:                                 0.7000000000000001
+Rousing:                             0.7000000000000001
+Hanging Out:                         0.7000000000000001
+Joyous:                              0.6
+Rambunctious:                        0.6

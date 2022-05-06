@@ -1,0 +1,25 @@
+Chicago Blues:                       0.9
+Electric Blues:                      0.9
+Electric Chicago Blues:              0.9
+Electric Country Blues:              0.9
+Modern Electric Blues:               0.9
+Regional Blues:                      0.9
+Feeling Blue:                        0.9
+Hanging Out:                         0.9
+Heartache:                           0.9
+Late Night:                          0.9
+Road Trip:                           0.9
+Atmospheric:                         0.6
+Austere:                             0.6
+Autumnal:                            0.6
+Brooding:                            0.6
+Earnest:                             0.6
+Earthy:                              0.6
+Eerie:                               0.6
+Gritty:                              0.6
+Intense:                             0.6
+Ominous:                             0.6
+Organic:                             0.6
+Rustic:                              0.6
+Sparse:                              0.6
+Tense/Anxious:                       0.6

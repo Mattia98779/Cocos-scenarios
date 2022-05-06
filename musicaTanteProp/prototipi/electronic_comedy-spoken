@@ -1,0 +1,77 @@
+#Title composizione
+Title : electronic-comedy-spoken
+
+#Concetto Principale
+Head Concept Name : electronic
+
+#Concetto Modificatore
+Modifier Concept Name : comedy-spoken
+
+
+
+
+
+T(modifier), Comedy, 0.9
+T(modifier), Playful_mood, 0.868421052631579
+T(modifier), Humorous, 0.8526315789473684
+T(modifier), Playful, 0.8526315789473684
+T(modifier), The Creative Side, 0.8368421052631579
+T(modifier), Irreverent, 0.8210526315789474
+T(modifier), Standup Comedy, 0.8052631578947369
+T(modifier), Fun, 0.7736842105263158
+T(modifier), Literate, 0.7736842105263158
+T(modifier), Witty, 0.7736842105263158
+T(modifier), Mischievous, 0.7736842105263158
+T(modifier), Silly, 0.7578947368421053
+T(modifier), Wry, 0.7578947368421053
+T(modifier), Outrageous, 0.7578947368421053
+T(modifier), Confrontational, 0.7421052631578947
+T(modifier), Whimsical, 0.7421052631578947
+T(modifier), Hanging Out, 0.7421052631578947
+T(modifier), Uncompromising, 0.7421052631578947
+T(modifier), Reflective, 0.7421052631578947
+T(modifier), Cerebral, 0.7263157894736842
+T(modifier), Quirky, 0.7263157894736842
+T(modifier), Earnest, 0.7263157894736842
+T(modifier), Self-Conscious, 0.7263157894736842
+T(modifier), Provocative, 0.7105263157894737
+T(modifier), Revolutionary, 0.7105263157894737
+T(modifier), Cynical/Sarcastic, 0.7105263157894737
+T(modifier), Observational Humor, 0.7105263157894737
+
+T(head), Hypnotic, 0.9
+T(head), Electronica, 0.8538461538461538
+T(head), Trippy, 0.8538461538461538
+T(head), Techno, 0.8307692307692307
+T(head), Late Night, 0.8192307692307692
+T(head), Club/Dance, 0.7961538461538461
+T(head), Nocturnal, 0.7961538461538461
+T(head), Energetic, 0.7846153846153846
+T(head), Club, 0.7846153846153846
+T(head), Partying, 0.7615384615384615
+T(head), Clinical, 0.7615384615384615
+T(head), Detached, 0.7615384615384615
+T(head), Cerebral, 0.7615384615384615
+T(head), Wintry, 0.75
+T(head), Rousing, 0.75
+T(head), Circular, 0.7384615384615385
+T(head), Stylish, 0.7384615384615385
+T(head), The Creative Side, 0.7384615384615385
+T(head), Ethereal, 0.7384615384615385
+T(head), Aggressive, 0.7269230769230769
+T(head), Intense, 0.7269230769230769
+T(head), IDM, 0.7269230769230769
+T(head), Confident, 0.7153846153846154
+T(head), House, 0.7153846153846154
+T(head), Smooth, 0.7153846153846154
+T(head), Reflection, 0.7153846153846154
+T(head), Dreamy, 0.7153846153846154
+T(head), Cold, 0.7153846153846154
+T(head), Ominous, 0.7038461538461538
+T(head), Lively, 0.7038461538461538
+T(head), Restrained, 0.7038461538461538
+T(head), Solitude, 0.7038461538461538
+T(head), Playful_mood, 0.7038461538461538
+T(head), Ambient Techno, 0.7038461538461538
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.7375084061304113e-28

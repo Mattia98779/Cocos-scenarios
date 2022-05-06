@@ -1,0 +1,47 @@
+Country-Pop:                         0.9
+Atmospheric:                         0.9
+Bright:                              0.9
+Cheerful:                            0.9
+Dreamy:                              0.9
+Earthy:                              0.9
+Happy:                               0.9
+Light:                               0.9
+Lively:                              0.9
+Nocturnal:                           0.9
+Organic:                             0.9
+Romantic:                            0.9
+Searching:                           0.9
+Sentimental:                         0.9
+Sophisticated:                       0.9
+Spacey:                              0.9
+Sparkling:                           0.9
+Sweet:                               0.9
+Wistful:                             0.9
+Yearning:                            0.9
+Affection/Fondness:                  0.9
+In Love:                             0.9
+Late Night:                          0.9
+Romantic Evening:                    0.9
+Sweet Dreams:                        0.9
+Country-Folk:                        0.825
+Cowboy:                              0.825
+Folk-Pop:                            0.825
+Traditional Country:                 0.825
+Playful_mood:                        0.825
+Amiable/Good-Natured:                0.75
+Earnest:                             0.75
+Plaintive:                           0.75
+Sunday Afternoon:                    0.75
+The Great Outdoors:                  0.75
+Carefree:                            0.6749999999999999
+Early Morning:                       0.6749999999999999
+Fun:                                 0.6
+Intimate:                            0.6
+Irreverent:                          0.6
+Quirky:                              0.6
+Whimsical:                           0.6
+Affirmation:                         0.6
+Hanging Out:                         0.6
+Heartache:                           0.6
+Introspection:                       0.6
+Long Walk:                           0.6

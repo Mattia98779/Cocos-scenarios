@@ -1,0 +1,63 @@
+#Title composizione
+Title : electronic-childrens
+
+#Concetto Principale
+Head Concept Name : electronic
+
+#Concetto Modificatore
+Modifier Concept Name : childrens
+
+
+
+
+
+T(modifier), Hanging Out, 0.9
+T(modifier), Playful, 0.9
+T(modifier), Fun, 0.8857142857142857
+T(modifier), Sing-Alongs, 0.8714285714285714
+T(modifier), Amiable/Good-Natured, 0.8714285714285714
+T(modifier), Playful_mood, 0.8714285714285714
+T(modifier), Cheerful, 0.8571428571428572
+T(modifier), Children's Folk, 0.7857142857142857
+T(modifier), Family Gatherings, 0.7714285714285715
+T(modifier), Whimsical, 0.7571428571428571
+T(modifier), Laid-Back/Mellow, 0.7428571428571429
+T(modifier), Energetic, 0.7285714285714286
+T(modifier), Carefree, 0.7142857142857143
+
+T(head), Hypnotic, 0.9
+T(head), Electronica, 0.8538461538461538
+T(head), Trippy, 0.8538461538461538
+T(head), Techno, 0.8307692307692307
+T(head), Late Night, 0.8192307692307692
+T(head), Club/Dance, 0.7961538461538461
+T(head), Nocturnal, 0.7961538461538461
+T(head), Energetic, 0.7846153846153846
+T(head), Club, 0.7846153846153846
+T(head), Partying, 0.7615384615384615
+T(head), Clinical, 0.7615384615384615
+T(head), Detached, 0.7615384615384615
+T(head), Cerebral, 0.7615384615384615
+T(head), Wintry, 0.75
+T(head), Rousing, 0.75
+T(head), Circular, 0.7384615384615385
+T(head), Stylish, 0.7384615384615385
+T(head), The Creative Side, 0.7384615384615385
+T(head), Ethereal, 0.7384615384615385
+T(head), Aggressive, 0.7269230769230769
+T(head), Intense, 0.7269230769230769
+T(head), IDM, 0.7269230769230769
+T(head), Confident, 0.7153846153846154
+T(head), House, 0.7153846153846154
+T(head), Smooth, 0.7153846153846154
+T(head), Reflection, 0.7153846153846154
+T(head), Dreamy, 0.7153846153846154
+T(head), Cold, 0.7153846153846154
+T(head), Ominous, 0.7038461538461538
+T(head), Lively, 0.7038461538461538
+T(head), Restrained, 0.7038461538461538
+T(head), Solitude, 0.7038461538461538
+T(head), Playful_mood, 0.7038461538461538
+T(head), Ambient Techno, 0.7038461538461538
+
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 3.2095461988411957e-20

@@ -1,0 +1,29 @@
+Electric Blues:                      0.9
+Electric Texas Blues:                0.9
+Regional Blues:                      0.9
+Texas Blues:                         0.9
+Lazy:                                0.9
+Passionate:                          0.9
+Weary:                               0.9
+Feeling Blue:                        0.9
+Heartache:                           0.9
+Introspection:                       0.9
+Late Night:                          0.9
+Rainy Day:                           0.9
+Anguished/Distraught:                0.84
+Laid-Back/Mellow:                    0.84
+Sophisticated:                       0.84
+Intimate:                            0.78
+Nocturnal:                           0.78
+Restrained:                          0.78
+Earthy:                              0.72
+Greasy:                              0.72
+Gutsy:                               0.72
+Reflective:                          0.72
+Self-Conscious:                      0.72
+Earnest:                             0.66
+Gritty:                              0.66
+Melancholy:                          0.66
+Reflection:                          0.66
+Brooding:                            0.6
+Yearning:                            0.6

@@ -1,0 +1,29 @@
+#Title composizione
+Title : latin-international
+
+#Concetto Principale
+Head Concept Name : latin
+
+#Concetto Modificatore
+Modifier Concept Name : international
+
+
+
+
+
+T(modifier), Stylish, 0.9
+T(modifier), Boisterous, 0.9
+T(modifier), Exuberant, 0.9
+T(modifier), Yearning, 0.9
+
+T(head), Rousing, 0.9
+T(head), Romantic, 0.9
+T(head), Latin Pop, 0.75
+T(head), Celebration, 0.75
+T(head), Yearning, 0.75
+T(head), In Love, 0.75
+T(head), Passionate, 0.75
+T(head), Sophisticated, 0.75
+T(head), Exuberant, 0.75
+
+Result : '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '1', 0.02364627008056641

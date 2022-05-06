@@ -1,0 +1,42 @@
+Alternative Dance:                   0.9
+Electronica:                         0.9
+Trip-Hop:                            0.9
+Atmospheric:                         0.8400000000000001
+Dreamy:                              0.8400000000000001
+Hypnotic:                            0.8400000000000001
+Intimate:                            0.8400000000000001
+Laid-Back/Mellow:                    0.8400000000000001
+Nocturnal:                           0.8400000000000001
+Relaxed:                             0.8400000000000001
+Sensual:                             0.8400000000000001
+Slick:                               0.8400000000000001
+Smooth:                              0.8400000000000001
+Sophisticated:                       0.8400000000000001
+Spacey:                              0.8400000000000001
+Stylish:                             0.8400000000000001
+Comfort:                             0.8400000000000001
+Contemporary Pop/Rock:               0.78
+Downtempo:                           0.78
+Earnest:                             0.78
+Elegant:                             0.78
+Ethereal:                            0.78
+Happy:                               0.78
+Reflective:                          0.78
+Reserved:                            0.78
+Somber:                              0.78
+Uplifting:                           0.78
+Warm:                                0.78
+Yearning:                            0.78
+Feeling Blue:                        0.78
+Heartache:                           0.78
+Introspection:                       0.78
+Late Night:                          0.78
+Night Driving:                       0.78
+Reflection:                          0.78
+The Creative Side:                   0.78
+Gentle:                              0.72
+Trippy:                              0.72
+In Love:                             0.66
+Stay in Bed:                         0.66
+Club/Dance:                          0.6
+Soothing:                            0.6

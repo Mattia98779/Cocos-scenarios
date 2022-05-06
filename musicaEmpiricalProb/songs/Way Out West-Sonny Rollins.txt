@@ -1,0 +1,27 @@
+Hard Bop:                            0.9000000000000001
+Amiable/Good-Natured:                0.9000000000000001
+Sophisticated:                       0.9000000000000001
+Freedom:                             0.9000000000000001
+Hanging Out:                         0.9000000000000001
+Road Trip:                           0.9000000000000001
+Summer:                              0.9000000000000001
+The Creative Side:                   0.9000000000000001
+Lively:                              0.8500000000000001
+Whimsical:                           0.8500000000000001
+Cerebral:                            0.8
+Playful_mood:                        0.8
+Searching:                           0.8
+Complex:                             0.75
+Freewheeling:                        0.75
+Gritty:                              0.75
+Passionate:                          0.75
+Bop:                                 0.7
+Earnest:                             0.7
+Joyous:                              0.7
+Rustic:                              0.7
+Spicy:                               0.7
+Summery:                             0.7
+Campy:                               0.65
+Innocent:                            0.65
+Quirky:                              0.65
+Elaborate:                           0.6

@@ -1,0 +1,40 @@
+Folk-Rock:                           0.9
+Psychedelic/Garage:                  0.9
+Organic:                             0.9
+British Folk-Rock:                   0.8250000000000001
+Austere:                             0.8250000000000001
+Enigmatic:                           0.8250000000000001
+Heartache:                           0.8250000000000001
+Rainy Day:                           0.8250000000000001
+Plaintive:                           0.75
+Yearning:                            0.75
+Feeling Blue:                        0.75
+Bittersweet:                         0.6749999999999999
+Elegant:                             0.6749999999999999
+Melancholy:                          0.6749999999999999
+Reflective:                          0.6749999999999999
+Searching:                           0.6749999999999999
+Wistful:                             0.6749999999999999
+Hanging Out:                         0.6749999999999999
+British Folk:                        0.6
+Traditional Folk:                    0.6
+Atmospheric:                         0.6
+Circular:                            0.6
+Delicate:                            0.6
+Earnest:                             0.6
+Earthy:                              0.6
+Intimate:                            0.6
+Literate:                            0.6
+Refined:                             0.6
+Somber:                              0.6
+Sparse:                              0.6
+Stylish:                             0.6
+Weary:                               0.6
+Autumn:                              0.6
+Early Morning:                       0.6
+Empowering:                          0.6
+Freedom:                             0.6
+Illness:                             0.6
+Introspection:                       0.6
+Late Night:                          0.6
+Road Trip:                           0.6

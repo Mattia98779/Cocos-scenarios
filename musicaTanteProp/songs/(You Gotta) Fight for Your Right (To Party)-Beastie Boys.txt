@@ -1,0 +1,32 @@
+East Coast Rap:                      0.9
+Brash:                               0.9
+Hedonistic:                          0.9
+Raucous:                             0.9
+Rebellious:                          0.9
+Reckless:                            0.9
+Swaggering:                          0.9
+Cool & Cocky:                        0.9
+Drinking:                            0.9
+Hanging Out:                         0.9
+TGIF:                                0.9
+Boisterous:                          0.8625
+Celebratory:                         0.8625
+Fun:                                 0.8625
+Humorous:                            0.8625
+Ironic:                              0.8625
+Irreverent:                          0.8625
+Outrageous:                          0.8625
+Rambunctious:                        0.8625
+Rowdy:                               0.8625
+Guys Night Out:                      0.8625
+Partying:                            0.8625
+Old-School Rap:                      0.825
+Golden Age:                          0.7875
+Confident:                           0.7875
+Confrontational:                     0.7875
+Quirky:                              0.7875
+Heavy Metal:                         0.75
+Nü Metal:                            0.75
+School:                              0.75
+Alternative/Indie Rock:              0.6
+Hardcore Punk:                       0.6

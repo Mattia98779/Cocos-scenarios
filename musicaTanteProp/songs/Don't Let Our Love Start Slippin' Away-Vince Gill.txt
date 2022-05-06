@@ -1,0 +1,17 @@
+Amiable/Good-Natured:                0.9
+In Love:                             0.9
+New Traditionalist:                  0.8400000000000001
+Gentle:                              0.8400000000000001
+Introspection:                       0.8400000000000001
+Reflective:                          0.78
+Smooth:                              0.78
+Contemporary Country:                0.72
+Earnest:                             0.72
+Romantic:                            0.72
+Central European Traditions:         0.66
+German:                              0.66
+Autumnal:                            0.66
+Passionate:                          0.66
+Refined:                             0.66
+Yearning:                            0.66
+Sweet Dreams:                        0.6

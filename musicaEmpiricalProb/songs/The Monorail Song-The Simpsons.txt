@@ -1,0 +1,22 @@
+Humorous:                            0.9000000000000001
+Comedy:                              0.84
+Song Parody:                         0.84
+Soundtracks:                         0.84
+TV Music:                            0.84
+Whimsical:                           0.84
+Playful:                             0.84
+Amiable/Good-Natured:                0.78
+Boisterous:                          0.78
+Carefree:                            0.78
+Energetic:                           0.78
+Freewheeling:                        0.78
+Irreverent:                          0.78
+Lively:                              0.78
+Hanging Out:                         0.78
+The Creative Side:                   0.78
+Fun:                                 0.72
+Playful_mood:                        0.72
+Witty:                               0.72
+Wry:                                 0.72
+TV Soundtracks:                      0.6599999999999999
+TGIF:                                0.6

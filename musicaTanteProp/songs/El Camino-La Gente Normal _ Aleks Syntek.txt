@@ -1,0 +1,4 @@
+Latin Pop:                           0.9
+Rousing:                             0.9
+Celebration:                         0.9
+Mischievous:                         0.9

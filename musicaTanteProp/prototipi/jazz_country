@@ -1,0 +1,97 @@
+#Title composizione
+Title : jazz-country
+
+#Concetto Principale
+Head Concept Name : jazz
+
+#Concetto Modificatore
+Modifier Concept Name : country
+
+
+
+
+
+T(modifier), Traditional Country, 0.9
+T(modifier), Earthy, 0.890625
+T(modifier), Earnest, 0.8625
+T(modifier), Reflective, 0.84375
+T(modifier), Plaintive, 0.815625
+T(modifier), Amiable/Good-Natured, 0.80625
+T(modifier), Sentimental, 0.7781250000000001
+T(modifier), Organic, 0.76875
+T(modifier), Yearning, 0.759375
+T(modifier), Feeling Blue, 0.759375
+T(modifier), Wistful, 0.75
+T(modifier), Smooth, 0.7406250000000001
+T(modifier), Melancholy, 0.73125
+T(modifier), Intimate, 0.73125
+T(modifier), Late Night, 0.73125
+T(modifier), Lively, 0.73125
+T(modifier), Rousing, 0.73125
+T(modifier), Passionate, 0.721875
+T(modifier), Honky Tonk, 0.721875
+T(modifier), Contemporary Country, 0.721875
+T(modifier), Rollicking, 0.721875
+T(modifier), Drinking, 0.721875
+T(modifier), Playful_mood, 0.721875
+T(modifier), Poignant, 0.7125
+T(modifier), Heartache, 0.7125
+T(modifier), Introspection, 0.7125
+T(modifier), Country-Pop, 0.7125
+T(modifier), Freewheeling, 0.7125
+T(modifier), Fun, 0.7125
+T(modifier), Reflection, 0.703125
+T(modifier), Rustic, 0.703125
+T(modifier), Road Trip, 0.703125
+T(modifier), Swaggering, 0.703125
+
+T(head), Sophisticated, 0.9
+T(head), Freewheeling, 0.8675675675675676
+T(head), Confident, 0.8432432432432433
+T(head), Amiable/Good-Natured, 0.8432432432432433
+T(head), Playful_mood, 0.8432432432432433
+T(head), Lively, 0.8351351351351353
+T(head), The Creative Side, 0.8351351351351353
+T(head), Stylish, 0.818918918918919
+T(head), Earnest, 0.8108108108108109
+T(head), Passionate, 0.8027027027027027
+T(head), Earthy, 0.8027027027027027
+T(head), Hanging Out, 0.8027027027027027
+T(head), Carefree, 0.7945945945945947
+T(head), Warm, 0.7864864864864864
+T(head), Literate, 0.7864864864864864
+T(head), Refined, 0.7783783783783784
+T(head), Elegant, 0.7783783783783784
+T(head), Mainstream Jazz, 0.7621621621621621
+T(head), Rousing, 0.7621621621621621
+T(head), Searching, 0.7621621621621621
+T(head), Dramatic, 0.7621621621621621
+T(head), Witty, 0.7621621621621621
+T(head), Freedom, 0.7621621621621621
+T(head), Affirmation, 0.7621621621621621
+T(head), Playful, 0.7621621621621621
+T(head), Energetic, 0.745945945945946
+T(head), Victory, 0.745945945945946
+T(head), The Great Outdoors, 0.745945945945946
+T(head), Cheerful, 0.745945945945946
+T(head), Cool & Cocky, 0.7378378378378379
+T(head), Sports, 0.7378378378378379
+T(head), Rollicking, 0.7378378378378379
+T(head), Exuberant, 0.7297297297297298
+T(head), Street-Smart, 0.7297297297297298
+T(head), Motivation, 0.7297297297297298
+T(head), Reflective, 0.7216216216216216
+T(head), Wry, 0.7216216216216216
+T(head), Empowering, 0.7216216216216216
+T(head), Mischievous, 0.7216216216216216
+T(head), Bright, 0.7216216216216216
+T(head), Hard Bop, 0.7135135135135136
+T(head), Relaxed, 0.7135135135135136
+T(head), Joyous, 0.7135135135135136
+T(head), Swaggering, 0.7054054054054054
+T(head), Smooth, 0.7054054054054054
+T(head), Light, 0.7054054054054054
+T(head), Fun, 0.7054054054054054
+T(head), Whimsical, 0.7054054054054054
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 2.131639702141582e-40

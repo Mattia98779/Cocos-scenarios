@@ -1,0 +1,29 @@
+#Title composizione
+Title : new-age-jazz
+
+#Concetto Principale
+Head Concept Name : new-age
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : jazz
+Modifier Concept Count : 48
+
+
+
+
+
+T(modifier), Sophisticated, 0.9, 38
+T(modifier), Freewheeling, 0.8675675675675676, 34
+T(modifier), Confident, 0.8432432432432433, 31
+T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
+T(modifier), Playful_mood, 0.8432432432432433, 31
+T(modifier), Lively, 0.8351351351351353, 30
+
+T(head), Reflection, 0.9, 29
+T(head), Soothing, 0.8892857142857142, 28
+T(head), Introspection, 0.8892857142857142, 28
+T(head), Hypnotic, 0.8785714285714286, 27
+T(head), Reflective, 0.8785714285714286, 27
+T(head), Relaxation, 0.8785714285714286, 27
+

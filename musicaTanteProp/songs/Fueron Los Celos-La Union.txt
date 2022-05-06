@@ -1,0 +1,3 @@
+Romantic:                            0.9
+Yearning:                            0.9
+In Love:                             0.9

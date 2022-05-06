@@ -1,0 +1,16 @@
+Lounge:                              0.9
+Space Age Pop:                       0.8400000000000001
+Campy:                               0.78
+Fun:                                 0.78
+Quirky:                              0.78
+Tense/Anxious:                       0.78
+Theatrical:                          0.78
+Playful:                             0.78
+The Creative Side:                   0.78
+Eerie:                               0.72
+Playful_mood:                        0.72
+Sparkling:                           0.72
+Spooky:                              0.72
+Mischievous:                         0.72
+Halloween:                           0.6
+Reflection:                          0.6

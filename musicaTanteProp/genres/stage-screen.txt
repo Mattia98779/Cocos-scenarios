@@ -1,0 +1,124 @@
+
+Soundtracks:                         0.9
+Dramatic:                            0.875
+Original Score:                      0.8500000000000001
+Theatrical:                          0.825
+Film Music:                          0.7999999999999999
+Rousing:                             0.75
+The Creative Side:                   0.75
+Wistful:                             0.725
+Whimsical:                           0.725
+Brooding:                            0.7
+Exuberant:                           0.7
+Ominous:                             0.7
+Late Night:                          0.7
+Romantic:                            0.7
+Earnest:                             0.7
+Boisterous:                          0.7
+Organic:                             0.7
+Sophisticated:                       0.675
+Stylish:                             0.675
+Movie Themes:                        0.675
+Passionate:                          0.675
+Earthy:                              0.675
+Energetic:                           0.675
+Rambunctious:                        0.675
+Rollicking:                          0.675
+Atmospheric:                         0.65
+Dreamy:                              0.65
+Nocturnal:                           0.65
+Somber:                              0.65
+Bravado:                             0.65
+Sexy:                                0.65
+Street-Smart:                        0.65
+Swaggering:                          0.65
+Cool & Cocky:                        0.65
+Reflection:                          0.625
+Reflective:                          0.625
+Victory:                             0.625
+Hypnotic:                            0.625
+Eerie:                               0.625
+Loss/Grief:                          0.625
+Confident:                           0.625
+Sex:                                 0.625
+Feeling Blue:                        0.625
+Blaxploitation:                      0.625
+Funk:                                0.625
+Smooth Soul:                         0.625
+Soul:                                0.625
+Sensual:                             0.625
+Guys Night Out:                      0.625
+Partying:                            0.625
+Plaintive:                           0.625
+Complex:                             0.625
+Elegant:                             0.625
+Refined:                             0.625
+Affirmation:                         0.625
+Award Winners:                       0.625
+Guitar/Easy Listening:               0.6
+Instrumental Country:                0.6
+Happy:                               0.6
+Sentimental:                         0.6
+Nostalgic:                           0.6
+Poignant:                            0.6
+Searching:                           0.6
+Tense/Anxious:                       0.6
+Empowering:                          0.6
+Jungle/Drum'n'Bass:                  0.6
+Menacing:                            0.6
+Experimental Electronic:             0.6
+Microtonal:                          0.6
+Modern Composition:                  0.6
+Clinical:                            0.6
+Bleak:                               0.6
+Cold:                                0.6
+Gloomy:                              0.6
+Nihilistic:                          0.6
+Paranoid:                            0.6
+Spooky:                              0.6
+Weary:                               0.6
+Scary Music:                         0.6
+Instrumental Pop:                    0.6
+Jazz-Pop:                            0.6
+Spy Music:                           0.6
+TV Music:                            0.6
+TV Soundtracks:                      0.6
+Brassy:                              0.6
+Exciting:                            0.6
+Greasy:                              0.6
+Gutsy:                               0.6
+Slick:                               0.6
+Night Driving:                       0.6
+Laid-Back/Mellow:                    0.6
+Yearning:                            0.6
+Celebratory:                         0.6
+Fun:                                 0.6
+Lush:                                0.6
+Playful_mood:                        0.6
+Warm:                                0.6
+Hanging Out:                         0.6
+Psychedelic Soul:                    0.6
+Brash:                               0.6
+Freewheeling:                        0.6
+Lively:                              0.6
+Smooth:                              0.6
+Orchestral/Easy Listening:           0.6
+Cast Recordings:                     0.6
+Musicals:                            0.6
+Show Tunes:                          0.6
+Reverent:                            0.6
+Stately:                             0.6
+Quirky:                              0.6
+Adventure:                           0.6
+Cynical/Sarcastic:                   0.6
+Sparse:                              0.6
+Urgent:                              0.6
+Visceral:                            0.6
+Volatile:                            0.6
+The Great Outdoors:                  0.6
+Bittersweet:                         0.6
+Literate:                            0.6
+Melancholy:                          0.6
+Restrained:                          0.6
+Rainy Day:                           0.6
+Introspection:                       0.6

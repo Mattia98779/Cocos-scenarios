@@ -1,0 +1,73 @@
+#Title composizione
+Title : blues-new-age
+
+#Concetto Principale
+Head Concept Name : blues
+
+#Concetto Modificatore
+Modifier Concept Name : new-age
+
+
+
+
+
+T(modifier), Reflection, 0.9
+T(modifier), Soothing, 0.8892857142857142
+T(modifier), Introspection, 0.8892857142857142
+T(modifier), Hypnotic, 0.8785714285714286
+T(modifier), Reflective, 0.8785714285714286
+T(modifier), Relaxation, 0.8785714285714286
+T(modifier), Contemporary Instrumental, 0.8678571428571429
+T(modifier), Atmospheric, 0.8571428571428572
+T(modifier), Ethereal, 0.8464285714285714
+T(modifier), Background Music, 0.8464285714285714
+T(modifier), Adult Alternative, 0.8357142857142857
+T(modifier), Calm/Peaceful, 0.8357142857142857
+T(modifier), Refined, 0.825
+T(modifier), Progressive Electronic, 0.825
+T(modifier), Meditation, 0.8142857142857143
+T(modifier), Gentle, 0.8035714285714286
+T(modifier), Dramatic, 0.8035714285714286
+T(modifier), Dreamy, 0.7928571428571428
+T(modifier), Delicate, 0.7714285714285715
+T(modifier), The Creative Side, 0.7607142857142857
+T(modifier), Solitude, 0.7607142857142857
+T(modifier), Wistful, 0.75
+T(modifier), Spiritual, 0.75
+T(modifier), Laid-Back/Mellow, 0.7392857142857143
+T(modifier), Cerebral, 0.7285714285714285
+T(modifier), Smooth, 0.7178571428571429
+T(modifier), Sophisticated, 0.7178571428571429
+T(modifier), Ethnic Fusion, 0.7071428571428572
+T(modifier), Light, 0.7071428571428572
+T(modifier), Pastoral, 0.7071428571428572
+T(modifier), Reserved, 0.7071428571428572
+T(modifier), Relaxed, 0.7071428571428572
+
+T(head), Regional Blues, 0.9
+T(head), Earthy, 0.8615384615384616
+T(head), Gritty, 0.8615384615384616
+T(head), Passionate, 0.8153846153846154
+T(head), Late Night, 0.8153846153846154
+T(head), Hanging Out, 0.7615384615384615
+T(head), Greasy, 0.7538461538461538
+T(head), Street-Smart, 0.7461538461538462
+T(head), Swaggering, 0.7461538461538462
+T(head), Organic, 0.7461538461538462
+T(head), Feeling Blue, 0.7307692307692307
+T(head), Earnest, 0.7307692307692307
+T(head), Intimate, 0.7230769230769231
+T(head), Cool & Cocky, 0.7230769230769231
+T(head), Boisterous, 0.7230769230769231
+T(head), Rollicking, 0.7153846153846154
+T(head), Confident, 0.7153846153846154
+T(head), Road Trip, 0.7153846153846154
+T(head), Rousing, 0.7076923076923077
+T(head), Freedom, 0.7076923076923077
+T(head), Electric Chicago Blues, 0.7076923076923077
+T(head), Gutsy, 0.7076923076923077
+T(head), Confrontational, 0.7
+T(head), Intense, 0.7
+T(head), Chicago Blues, 0.7
+
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.2397067144449573e-26

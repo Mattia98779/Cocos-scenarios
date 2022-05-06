@@ -1,0 +1,42 @@
+Big Band:                            0.9
+Sweet Bands:                         0.9
+Amiable/Good-Natured:                0.9
+Cheerful:                            0.9
+Happy:                               0.9
+Refined:                             0.9
+Rousing:                             0.9
+Smooth:                              0.9
+Sweet:                               0.9
+Celebration:                         0.9
+Comfort:                             0.9
+Reminiscing:                         0.9
+Sunday Afternoon:                    0.9
+Swing:                               0.8250000000000001
+Brash:                               0.8250000000000001
+Bright:                              0.8250000000000001
+Carefree:                            0.8250000000000001
+Lively:                              0.8250000000000001
+Soothing:                            0.8250000000000001
+Girls Night Out:                     0.8250000000000001
+Guys Night Out:                      0.8250000000000001
+Boisterous:                          0.75
+Brassy:                              0.75
+Confident:                           0.75
+Exciting:                            0.75
+Exuberant:                           0.75
+Joyous:                              0.75
+Light:                               0.75
+Relaxed:                             0.75
+Sophisticated:                       0.75
+Stylish:                             0.75
+Reunion:                             0.75
+Celebratory:                         0.675
+Elegant:                             0.675
+Fun:                                 0.675
+Gleeful:                             0.675
+Innocent:                            0.675
+Playful_mood:                        0.675
+Sparkling:                           0.675
+Knotty:                              0.6
+Romantic:                            0.6
+Summery:                             0.6

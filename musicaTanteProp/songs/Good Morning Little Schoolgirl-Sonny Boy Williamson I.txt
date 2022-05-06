@@ -1,0 +1,23 @@
+Gutsy:                               0.9
+Cool & Cocky:                        0.9
+Guys Night Out:                      0.9
+Road Trip:                           0.9
+Acoustic Chicago Blues:              0.825
+Chicago Blues:                       0.825
+Harmonica Blues:                     0.825
+Regional Blues:                      0.825
+Boisterous:                          0.825
+Gritty:                              0.825
+Swaggering:                          0.825
+Brash:                               0.75
+Greasy:                              0.75
+Passionate:                          0.75
+Playful_mood:                        0.75
+Summery:                             0.75
+Confident:                           0.6749999999999999
+Earthy:                              0.6749999999999999
+Raucous:                             0.6749999999999999
+Rollicking:                          0.6749999999999999
+Street-Smart:                        0.6749999999999999
+Earnest:                             0.6
+Sexual:                              0.6

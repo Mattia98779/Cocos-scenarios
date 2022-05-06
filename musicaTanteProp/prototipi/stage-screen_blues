@@ -1,0 +1,58 @@
+#Title composizione
+Title : stage-screen-blues
+
+#Concetto Principale
+Head Concept Name : stage-screen
+
+#Concetto Modificatore
+Modifier Concept Name : blues
+
+
+
+
+
+T(modifier), Regional Blues, 0.9
+T(modifier), Earthy, 0.8615384615384616
+T(modifier), Gritty, 0.8615384615384616
+T(modifier), Passionate, 0.8153846153846154
+T(modifier), Late Night, 0.8153846153846154
+T(modifier), Hanging Out, 0.7615384615384615
+T(modifier), Greasy, 0.7538461538461538
+T(modifier), Street-Smart, 0.7461538461538462
+T(modifier), Swaggering, 0.7461538461538462
+T(modifier), Organic, 0.7461538461538462
+T(modifier), Feeling Blue, 0.7307692307692307
+T(modifier), Earnest, 0.7307692307692307
+T(modifier), Intimate, 0.7230769230769231
+T(modifier), Cool & Cocky, 0.7230769230769231
+T(modifier), Boisterous, 0.7230769230769231
+T(modifier), Rollicking, 0.7153846153846154
+T(modifier), Confident, 0.7153846153846154
+T(modifier), Road Trip, 0.7153846153846154
+T(modifier), Rousing, 0.7076923076923077
+T(modifier), Freedom, 0.7076923076923077
+T(modifier), Electric Chicago Blues, 0.7076923076923077
+T(modifier), Gutsy, 0.7076923076923077
+T(modifier), Confrontational, 0.7
+T(modifier), Intense, 0.7
+T(modifier), Chicago Blues, 0.7
+
+T(head), Soundtracks, 0.9
+T(head), Dramatic, 0.875
+T(head), Original Score, 0.8500000000000001
+T(head), Theatrical, 0.825
+T(head), Film Music, 0.7999999999999999
+T(head), Rousing, 0.75
+T(head), The Creative Side, 0.75
+T(head), Wistful, 0.725
+T(head), Whimsical, 0.725
+T(head), Brooding, 0.7
+T(head), Exuberant, 0.7
+T(head), Ominous, 0.7
+T(head), Late Night, 0.7
+T(head), Romantic, 0.7
+T(head), Earnest, 0.7
+T(head), Boisterous, 0.7
+T(head), Organic, 0.7
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.0574480993013992e-16

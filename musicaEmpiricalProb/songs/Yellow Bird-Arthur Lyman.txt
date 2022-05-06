@@ -1,0 +1,25 @@
+Exotica:                             0.9
+Lounge:                              0.9
+Calm/Peaceful:                       0.9
+Organic:                             0.9
+Smooth:                              0.9
+Summery:                             0.9
+Warm:                                0.9
+Summer:                              0.9
+Atmospheric:                         0.8250000000000001
+Gentle:                              0.8250000000000001
+Laid-Back/Mellow:                    0.8250000000000001
+Soothing:                            0.8250000000000001
+Pool Party:                          0.8250000000000001
+Relaxation:                          0.8250000000000001
+Sunday Afternoon:                    0.8250000000000001
+Vacation:                            0.8250000000000001
+Amiable/Good-Natured:                0.75
+Delicate:                            0.75
+Reflective:                          0.75
+Soft/Quiet:                          0.75
+Sweet:                               0.75
+At the Beach:                        0.75
+Comfort:                             0.75
+Elegant:                             0.6
+Intimate:                            0.6

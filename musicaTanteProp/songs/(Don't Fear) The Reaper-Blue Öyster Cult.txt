@@ -1,0 +1,58 @@
+Contemporary Pop/Rock:               0.9
+Southern Rock:                       0.9
+Amiable/Good-Natured:                0.9
+Carefree:                            0.9
+Freewheeling:                        0.9
+Raucous:                             0.9
+Rollicking:                          0.9
+Summery:                             0.9
+Day Driving:                         0.9
+Hanging Out:                         0.9
+Introspection:                       0.9
+Reflection:                          0.9
+Road Trip:                           0.9
+Album Rock:                          0.8625
+Arena Rock:                          0.8625
+Confident:                           0.8625
+Dramatic:                            0.8625
+Energetic:                           0.8625
+Greasy:                              0.8625
+Intense:                             0.8625
+Menacing:                            0.8625
+Rebellious:                          0.8625
+Rousing:                             0.8625
+Stylish:                             0.8625
+Theatrical:                          0.8625
+Cool & Cocky:                        0.8625
+Drinking:                            0.8625
+Empowering:                          0.8625
+Freedom:                             0.8625
+Guys Night Out:                      0.8625
+Partying:                            0.8625
+TGIF:                                0.8625
+The Creative Side:                   0.8625
+Bleak:                               0.8250000000000001
+Boisterous:                          0.8250000000000001
+Druggy:                              0.8250000000000001
+Eerie:                               0.8250000000000001
+Gutsy:                               0.8250000000000001
+Hedonistic:                          0.8250000000000001
+Indulgent:                           0.8250000000000001
+Irreverent:                          0.8250000000000001
+Nostalgic:                           0.8250000000000001
+Street-Smart:                        0.8250000000000001
+Swaggering:                          0.8250000000000001
+Trippy:                              0.8250000000000001
+Urgent:                              0.8250000000000001
+Summer:                              0.8250000000000001
+Bravado:                             0.7875000000000001
+Celebratory:                         0.7875000000000001
+Blues-Rock:                          0.75
+Exuberant:                           0.75
+Happy:                               0.7125
+Hard Rock:                           0.6
+Heavy Metal:                         0.6
+Soft Rock:                           0.6
+Halloween:                           0.6
+Scary:                               0.6
+Spooky:                              0.6

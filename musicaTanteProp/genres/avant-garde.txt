@@ -1,0 +1,112 @@
+
+The Creative Side:                   0.9
+Cerebral:                            0.84
+Uncompromising:                      0.78
+Provocative:                         0.78
+Revolutionary:                       0.78
+Modern Composition:                  0.78
+Sparse:                              0.72
+Experimental:                        0.72
+Detached:                            0.72
+Intense:                             0.72
+Chamber Jazz:                        0.66
+Dreamy:                              0.66
+Late Night:                          0.66
+Eerie:                               0.66
+Enigmatic:                           0.66
+Insular:                             0.66
+Reserved:                            0.66
+Introspection:                       0.66
+Maverick:                            0.66
+Reflection:                          0.66
+Solitude:                            0.66
+Confrontational:                     0.66
+Humorous:                            0.66
+Noise:                               0.66
+Harsh:                               0.66
+Unsettling:                          0.66
+Menacing:                            0.66
+Tense/Anxious:                       0.66
+Cold:                                0.66
+Meandering:                          0.66
+Knotty:                              0.66
+Complex:                             0.66
+Difficult:                           0.66
+Structured Improvisation:            0.66
+Freewheeling:                        0.66
+Quirky:                              0.66
+Volatile:                            0.66
+Restrained:                          0.66
+Somber:                              0.66
+Aggressive:                          0.66
+Jewish Music:                        0.6
+World Fusion:                        0.6
+Post-Bop:                            0.6
+Nocturnal:                           0.6
+Passionate:                          0.6
+Laid-Back/Mellow:                    0.6
+Relaxed:                             0.6
+Ambient:                             0.6
+Experimental Electronic:             0.6
+Neo-Classical:                       0.6
+Atmospheric:                         0.6
+Austere:                             0.6
+Ethereal:                            0.6
+Gentle:                              0.6
+Intimate:                            0.6
+Sophisticated:                       0.6
+Meditation:                          0.6
+Relaxation:                          0.6
+Poignant:                            0.6
+Rustic:                              0.6
+Political Folk:                      0.6
+Folk-Rock:                           0.6
+Psychedelic/Garage:                  0.6
+Singer/Songwriter:                   0.6
+Cynical/Sarcastic:                   0.6
+Outraged:                            0.6
+Irreverent:                          0.6
+Street-Smart:                        0.6
+Rousing:                             0.6
+Mischievous:                         0.6
+Dark Ambient:                        0.6
+Trippy:                              0.6
+Circular:                            0.6
+Urgent:                              0.6
+Halloween:                           0.6
+Scary Music:                         0.6
+Microtonal:                          0.6
+Eccentric:                           0.6
+Ambitious:                           0.6
+Fractured:                           0.6
+Avant-Garde Jazz:                    0.6
+Elaborate:                           0.6
+Manic:                               0.6
+Theatrical:                          0.6
+Musique Concr�te:                    0.6
+Tape Music:                          0.6
+Reflective:                          0.6
+Autumnal:                            0.6
+Ominous:                             0.6
+Plaintive:                           0.6
+Refined:                             0.6
+Lush:                                0.6
+Sprawling:                           0.6
+Alternative Pop/Rock:                0.6
+Alternative/Indie Rock:              0.6
+College Rock:                        0.6
+Brash:                               0.6
+Rebellious:                          0.6
+Art Rock:                            0.6
+Prog-Rock:                           0.6
+Free Improvisation:                  0.6
+Energetic:                           0.6
+Boisterous:                          0.6
+Fun:                                 0.6
+Experimental Ambient:                0.6
+Clinical:                            0.6
+Wintry:                              0.6
+Cathartic:                           0.6
+Fiery:                               0.6
+Dramatic:                            0.6
+Freedom:                             0.6

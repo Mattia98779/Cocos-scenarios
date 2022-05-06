@@ -1,0 +1,73 @@
+#Title composizione
+Title : reggae-country
+
+#Concetto Principale
+Head Concept Name : reggae
+
+#Concetto Modificatore
+Modifier Concept Name : country
+
+
+
+
+
+T(modifier), Traditional Country, 0.9
+T(modifier), Earthy, 0.890625
+T(modifier), Earnest, 0.8625
+T(modifier), Reflective, 0.84375
+T(modifier), Plaintive, 0.815625
+T(modifier), Amiable/Good-Natured, 0.80625
+T(modifier), Sentimental, 0.7781250000000001
+T(modifier), Organic, 0.76875
+T(modifier), Yearning, 0.759375
+T(modifier), Feeling Blue, 0.759375
+T(modifier), Wistful, 0.75
+T(modifier), Smooth, 0.7406250000000001
+T(modifier), Melancholy, 0.73125
+T(modifier), Intimate, 0.73125
+T(modifier), Late Night, 0.73125
+T(modifier), Lively, 0.73125
+T(modifier), Rousing, 0.73125
+T(modifier), Passionate, 0.721875
+T(modifier), Honky Tonk, 0.721875
+T(modifier), Contemporary Country, 0.721875
+T(modifier), Rollicking, 0.721875
+T(modifier), Drinking, 0.721875
+T(modifier), Playful_mood, 0.721875
+T(modifier), Poignant, 0.7125
+T(modifier), Heartache, 0.7125
+T(modifier), Introspection, 0.7125
+T(modifier), Country-Pop, 0.7125
+T(modifier), Freewheeling, 0.7125
+T(modifier), Fun, 0.7125
+T(modifier), Reflection, 0.703125
+T(modifier), Rustic, 0.703125
+T(modifier), Road Trip, 0.703125
+T(modifier), Swaggering, 0.703125
+
+T(head), Summery, 0.9
+T(head), Roots Reggae, 0.8735294117647059
+T(head), Earnest, 0.8558823529411764
+T(head), Earthy, 0.8117647058823529
+T(head), Rousing, 0.8029411764705883
+T(head), Summer, 0.8029411764705883
+T(head), Organic, 0.7852941176470588
+T(head), Poignant, 0.7764705882352941
+T(head), Amiable/Good-Natured, 0.7676470588235293
+T(head), Hypnotic, 0.75
+T(head), Laid-Back/Mellow, 0.75
+T(head), Confident, 0.7323529411764705
+T(head), Reflective, 0.7323529411764705
+T(head), Political Reggae, 0.7235294117647059
+T(head), Passionate, 0.7235294117647059
+T(head), Sweet, 0.7235294117647059
+T(head), Freedom, 0.7235294117647059
+T(head), Hanging Out, 0.7235294117647059
+T(head), Reggae-Pop, 0.7147058823529412
+T(head), Boisterous, 0.7147058823529412
+T(head), Revolutionary, 0.7058823529411764
+T(head), Exuberant, 0.7058823529411764
+T(head), Druggy, 0.7058823529411764
+T(head), Playful_mood, 0.7058823529411764
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.621109252884169e-25

@@ -1,0 +1,54 @@
+#Title composizione
+Title : folk-latin
+
+#Concetto Principale
+Head Concept Name : folk
+
+#Concetto Modificatore
+Modifier Concept Name : latin
+
+
+
+
+
+T(modifier), Rousing, 0.9
+T(modifier), Romantic, 0.9
+T(modifier), Latin Pop, 0.75
+T(modifier), Celebration, 0.75
+T(modifier), Yearning, 0.75
+T(modifier), In Love, 0.75
+T(modifier), Passionate, 0.75
+T(modifier), Sophisticated, 0.75
+T(modifier), Exuberant, 0.75
+
+T(head), Earthy, 0.9
+T(head), Poignant, 0.8896551724137931
+T(head), Earnest, 0.8896551724137931
+T(head), Bittersweet, 0.8482758620689655
+T(head), Reflective, 0.8172413793103448
+T(head), Plaintive, 0.806896551724138
+T(head), Traditional Folk, 0.806896551724138
+T(head), Wistful, 0.7965517241379311
+T(head), Yearning, 0.7965517241379311
+T(head), Folk Revival, 0.7965517241379311
+T(head), Amiable/Good-Natured, 0.7862068965517242
+T(head), Empowering, 0.7862068965517242
+T(head), Intimate, 0.7758620689655172
+T(head), Reflection, 0.7758620689655172
+T(head), Freedom, 0.7758620689655172
+T(head), Organic, 0.7655172413793103
+T(head), Melancholy, 0.7551724137931035
+T(head), Sentimental, 0.7551724137931035
+T(head), Passionate, 0.7448275862068965
+T(head), Introspection, 0.7448275862068965
+T(head), Sunday Afternoon, 0.7344827586206897
+T(head), Political Folk, 0.7344827586206897
+T(head), Feeling Blue, 0.7344827586206897
+T(head), Literate, 0.7137931034482758
+T(head), Early Morning, 0.7137931034482758
+T(head), Autumn, 0.703448275862069
+T(head), Rainy Day, 0.703448275862069
+T(head), Folksongs, 0.703448275862069
+T(head), Contemporary Folk, 0.703448275862069
+
+Result : '1', '1', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 2.1006045779860935e-15

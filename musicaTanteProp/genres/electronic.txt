@@ -1,0 +1,206 @@
+
+Hypnotic:                            0.9
+Electronica:                         0.8538461538461538
+Trippy:                              0.8538461538461538
+Techno:                              0.8307692307692307
+Late Night:                          0.8192307692307692
+Club/Dance:                          0.7961538461538461
+Nocturnal:                           0.7961538461538461
+Energetic:                           0.7846153846153846
+Club:                                0.7846153846153846
+Partying:                            0.7615384615384615
+Clinical:                            0.7615384615384615
+Detached:                            0.7615384615384615
+Cerebral:                            0.7615384615384615
+Wintry:                              0.75
+Rousing:                             0.75
+Circular:                            0.7384615384615385
+Stylish:                             0.7384615384615385
+The Creative Side:                   0.7384615384615385
+Ethereal:                            0.7384615384615385
+Aggressive:                          0.7269230769230769
+Intense:                             0.7269230769230769
+IDM:                                 0.7269230769230769
+Confident:                           0.7153846153846154
+House:                               0.7153846153846154
+Smooth:                              0.7153846153846154
+Reflection:                          0.7153846153846154
+Dreamy:                              0.7153846153846154
+Cold:                                0.7153846153846154
+Ominous:                             0.7038461538461538
+Lively:                              0.7038461538461538
+Restrained:                          0.7038461538461538
+Solitude:                            0.7038461538461538
+Playful_mood:                        0.7038461538461538
+Ambient Techno:                      0.7038461538461538
+Tense/Anxious:                       0.6923076923076923
+Reflective:                          0.6923076923076923
+Laid-Back/Mellow:                    0.6923076923076923
+Atmospheric:                         0.6923076923076923
+Druggy:                              0.6923076923076923
+Urgent:                              0.6807692307692308
+Playful:                             0.6807692307692308
+Hanging Out:                         0.6807692307692308
+Experimental Techno:                 0.6807692307692308
+Eerie:                               0.6807692307692308
+Boisterous:                          0.6807692307692308
+Exercise/Workout:                    0.6807692307692308
+Spacey:                              0.6807692307692308
+Introspection:                       0.6807692307692308
+Somber:                              0.6692307692307692
+Bleak:                               0.6692307692307692
+Night Driving:                       0.6692307692307692
+Celebratory:                         0.6692307692307692
+Freewheeling:                        0.6692307692307692
+Winter:                              0.6692307692307692
+Trip-Hop:                            0.6692307692307692
+Harsh:                               0.6576923076923077
+Fiery:                               0.6576923076923077
+Volatile:                            0.6576923076923077
+Menacing:                            0.6576923076923077
+Paranoid:                            0.6576923076923077
+Cool & Cocky:                        0.6576923076923077
+Acid Techno:                         0.6576923076923077
+Visceral:                            0.6576923076923077
+Motivation:                          0.6576923076923077
+Fun:                                 0.6576923076923077
+Exuberant:                           0.6576923076923077
+Ambient House:                       0.6576923076923077
+Soothing:                            0.6576923076923077
+Funky Breaks:                        0.6461538461538462
+Dramatic:                            0.6461538461538462
+Malevolent:                          0.6461538461538462
+Brash:                               0.6461538461538462
+Trance:                              0.6461538461538462
+Carefree:                            0.6461538461538462
+Witty:                               0.6461538461538462
+Gentle:                              0.6461538461538462
+Sophisticated:                       0.6461538461538462
+Elegant:                             0.6461538461538462
+Big Beat:                            0.6346153846153846
+Rowdy:                               0.6346153846153846
+Swaggering:                          0.6346153846153846
+Exciting:                            0.6346153846153846
+Raucous:                             0.6346153846153846
+Mischievous:                         0.6346153846153846
+Guys Night Out:                      0.6346153846153846
+Rave:                                0.6346153846153846
+Refined:                             0.6346153846153846
+Bright:                              0.6346153846153846
+Warm:                                0.6346153846153846
+Relaxation:                          0.6346153846153846
+Progressive House:                   0.6346153846153846
+Slick:                               0.6346153846153846
+Relaxed:                             0.6346153846153846
+Manic:                               0.6346153846153846
+Literate:                            0.6346153846153846
+Fierce:                              0.6230769230769231
+Hostile:                             0.6230769230769231
+Acid House:                          0.6230769230769231
+Minimal Techno:                      0.6230769230769231
+Brooding:                            0.6230769230769231
+Complex:                             0.6230769230769231
+Cathartic:                           0.6230769230769231
+Left-Field House:                    0.6230769230769231
+Calm/Peaceful:                       0.6230769230769231
+Eccentric:                           0.6230769230769231
+Quirky:                              0.6230769230769231
+Background Music:                    0.6230769230769231
+Uncompromising:                      0.6230769230769231
+Ambitious:                           0.6230769230769231
+Sexy:                                0.6230769230769231
+Heartache:                           0.6230769230769231
+Seduction:                           0.6230769230769231
+In Love:                             0.6230769230769231
+Alternative/Indie Rock:              0.6230769230769231
+Elaborate:                           0.6230769230769231
+Amiable/Good-Natured:                0.6230769230769231
+Rambunctious:                        0.6230769230769231
+Freedom:                             0.6230769230769231
+TGIF:                                0.6230769230769231
+Jungle/Drum'n'Bass:                  0.6230769230769231
+Lush:                                0.6230769230769231
+Progressive Trance:                  0.6230769230769231
+Happy:                               0.6230769230769231
+Confrontational:                     0.6115384615384615
+Angry:                               0.6115384615384615
+Reckless:                            0.6115384615384615
+Rebellious:                          0.6115384615384615
+Outrageous:                          0.6115384615384615
+Melancholy:                          0.6115384615384615
+Pastoral:                            0.6115384615384615
+Searching:                           0.6115384615384615
+Wistful:                             0.6115384615384615
+Yearning:                            0.6115384615384615
+Electro-Techno:                      0.6115384615384615
+Detroit Techno:                      0.6115384615384615
+Provocative:                         0.6115384615384615
+Unsettling:                          0.6115384615384615
+Difficult:                           0.6115384615384615
+Meandering:                          0.6115384615384615
+Empowering:                          0.6115384615384615
+Revolutionary:                       0.6115384615384615
+Sensual:                             0.6115384615384615
+Indie Electronic:                    0.6115384615384615
+Experimental:                        0.6115384615384615
+Enigmatic:                           0.6115384615384615
+Sex:                                 0.6115384615384615
+Downtempo:                           0.6115384615384615
+Hardcore Techno:                     0.6115384615384615
+Fractured:                           0.6115384615384615
+Scary Music:                         0.6115384615384615
+Brittle:                             0.6115384615384615
+Road Trip:                           0.6115384615384615
+Sports:                              0.6115384615384615
+Housework:                           0.6115384615384615
+Irreverent:                          0.6
+Tech-House:                          0.6
+Organic:                             0.6
+Sparse:                              0.6
+Bittersweet:                         0.6
+Light:                               0.6
+Garage:                              0.6
+Meditation:                          0.6
+Suffocating:                         0.6
+Angst-Ridden:                        0.6
+Post-Rock:                           0.6
+Ambient Breakbeat:                   0.6
+Turntablism:                         0.6
+Small Gathering:                     0.6
+Summery:                             0.6
+Birth:                               0.6
+Alternative Dance:                   0.6
+Contemporary Pop/Rock:               0.6
+Intimate:                            0.6
+Earnest:                             0.6
+Reserved:                            0.6
+Uplifting:                           0.6
+Comfort:                             0.6
+Feeling Blue:                        0.6
+Stay in Bed:                         0.6
+Cheerful:                            0.6
+Gutsy:                               0.6
+Maverick:                            0.6
+Drill'n'bass:                        0.6
+Experimental Jungle:                 0.6
+Breakcore:                           0.6
+Nihilistic:                          0.6
+Bitter:                              0.6
+Crunchy:                             0.6
+Gloomy:                              0.6
+Spooky:                              0.6
+Insular:                             0.6
+Rollicking:                          0.6
+Dance-Pop:                           0.6
+Adult Alternative Pop/Rock:          0.6
+Euro-Dance:                          0.6
+Bravado:                             0.6
+Sparkling:                           0.6
+Whimsical:                           0.6
+Theatrical:                          0.6
+Indulgent:                           0.6
+Celebration:                         0.6
+Ambient Dub:                         0.6
+Dub:                                 0.6
+Sprawling:                           0.6
+Delicate:                            0.6

@@ -1,0 +1,53 @@
+#Title composizione
+Title : rap-avant-garde
+
+#Concetto Principale
+Head Concept Name : rap
+
+#Concetto Modificatore
+Modifier Concept Name : avant-garde
+
+
+
+
+
+T(modifier), The Creative Side, 0.9
+T(modifier), Cerebral, 0.84
+T(modifier), Uncompromising, 0.78
+T(modifier), Provocative, 0.78
+T(modifier), Revolutionary, 0.78
+T(modifier), Modern Composition, 0.78
+T(modifier), Sparse, 0.72
+T(modifier), Experimental, 0.72
+T(modifier), Detached, 0.72
+T(modifier), Intense, 0.72
+
+T(head), Brash, 0.9
+T(head), Street-Smart, 0.864
+T(head), Confident, 0.8400000000000001
+T(head), Partying, 0.8400000000000001
+T(head), East Coast Rap, 0.804
+T(head), Swaggering, 0.804
+T(head), Guys Night Out, 0.792
+T(head), Cool & Cocky, 0.792
+T(head), Celebratory, 0.78
+T(head), Rousing, 0.78
+T(head), Energetic, 0.78
+T(head), Aggressive, 0.768
+T(head), Boisterous, 0.768
+T(head), Playful_mood, 0.768
+T(head), Confrontational, 0.756
+T(head), Hanging Out, 0.756
+T(head), Rambunctious, 0.744
+T(head), Raucous, 0.732
+T(head), Golden Age, 0.72
+T(head), Uncompromising, 0.72
+T(head), Visceral, 0.72
+T(head), Hardcore Rap, 0.72
+T(head), Fun, 0.72
+T(head), Rebellious, 0.708
+T(head), Urgent, 0.708
+T(head), Thuggish, 0.708
+T(head), Rowdy, 0.708
+
+Result : '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 9.219120889555601e-15

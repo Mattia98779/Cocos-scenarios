@@ -1,0 +1,20 @@
+Celebratory:                         0.9
+Exuberant:                           0.9
+Fun:                                 0.9
+Funk:                                0.8400000000000001
+Psychedelic Soul:                    0.8400000000000001
+Energetic:                           0.8400000000000001
+Gleeful:                             0.8400000000000001
+Partying:                            0.8400000000000001
+Summer:                              0.8400000000000001
+Amiable/Good-Natured:                0.78
+Joyous:                              0.78
+Summery:                             0.78
+Soul:                                0.72
+Gritty:                              0.72
+Hanging Out:                         0.72
+Contemporary Pop/Rock:               0.6599999999999999
+Early R&B:                           0.6
+Playful_mood:                        0.6
+Visceral:                            0.6
+Affection/Fondness:                  0.6

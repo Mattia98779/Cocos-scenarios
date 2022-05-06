@@ -1,0 +1,68 @@
+#Title composizione
+Title : avant-garde-pop-rock
+
+#Concetto Principale
+Head Concept Name : avant-garde
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+
+
+
+
+
+T(modifier), Rousing, 0.9
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793
+T(modifier), Album Rock, 0.8172413793103448
+T(modifier), Confident, 0.8172413793103448
+T(modifier), Energetic, 0.8172413793103448
+T(modifier), Cool & Cocky, 0.806896551724138
+T(modifier), Swaggering, 0.7965517241379311
+T(modifier), Partying, 0.7862068965517242
+T(modifier), Freewheeling, 0.7862068965517242
+T(modifier), Raucous, 0.7862068965517242
+T(modifier), Hanging Out, 0.7758620689655172
+T(modifier), Brash, 0.7758620689655172
+T(modifier), Guys Night Out, 0.7655172413793103
+T(modifier), Urgent, 0.7655172413793103
+T(modifier), Hard Rock, 0.7551724137931035
+T(modifier), Rock & Roll, 0.7551724137931035
+T(modifier), Rebellious, 0.7551724137931035
+T(modifier), In Love, 0.7551724137931035
+T(modifier), Playful_mood, 0.7551724137931035
+T(modifier), TGIF, 0.7551724137931035
+T(modifier), Summer, 0.7448275862068966
+T(modifier), Intense, 0.7448275862068966
+T(modifier), Dramatic, 0.7448275862068966
+T(modifier), Celebratory, 0.7344827586206897
+T(modifier), Road Trip, 0.7344827586206897
+T(modifier), Visceral, 0.7344827586206897
+T(modifier), Bravado, 0.7241379310344828
+T(modifier), Exciting, 0.7241379310344828
+T(modifier), Rowdy, 0.7241379310344828
+T(modifier), Fiery, 0.7241379310344828
+T(modifier), Yearning, 0.7137931034482758
+T(modifier), Fun, 0.7137931034482758
+T(modifier), Rollicking, 0.7137931034482758
+T(modifier), Lively, 0.7137931034482758
+T(modifier), Aggressive, 0.7137931034482758
+T(modifier), Stylish, 0.7137931034482758
+T(modifier), Late Night, 0.7034482758620689
+T(modifier), Freedom, 0.7034482758620689
+T(modifier), Boisterous, 0.7034482758620689
+T(modifier), Exuberant, 0.7034482758620689
+T(modifier), Theatrical, 0.7034482758620689
+T(modifier), Street-Smart, 0.7034482758620689
+
+T(head), The Creative Side, 0.9
+T(head), Cerebral, 0.84
+T(head), Uncompromising, 0.78
+T(head), Provocative, 0.78
+T(head), Revolutionary, 0.78
+T(head), Modern Composition, 0.78
+T(head), Sparse, 0.72
+T(head), Experimental, 0.72
+T(head), Detached, 0.72
+T(head), Intense, 0.72
+
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', 2.5908611444269355e-23

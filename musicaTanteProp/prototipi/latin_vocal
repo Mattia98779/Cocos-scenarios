@@ -1,0 +1,48 @@
+#Title composizione
+Title : latin-vocal
+
+#Concetto Principale
+Head Concept Name : latin
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+
+
+
+
+
+T(modifier), Traditional Pop, 0.9
+T(modifier), Vocal Pop, 0.8478260869565217
+T(modifier), Refined, 0.7630434782608696
+T(modifier), Sentimental, 0.7630434782608696
+T(modifier), Romantic, 0.75
+T(modifier), Sweet, 0.7434782608695653
+T(modifier), Cheerful, 0.7369565217391304
+T(modifier), Elegant, 0.7369565217391304
+T(modifier), Soothing, 0.7369565217391304
+T(modifier), Warm, 0.7369565217391304
+T(modifier), Smooth, 0.7304347826086957
+T(modifier), Dinner Ambiance, 0.7304347826086957
+T(modifier), Romantic Evening, 0.7304347826086957
+T(modifier), Carefree, 0.7239130434782608
+T(modifier), In Love, 0.7239130434782608
+T(modifier), Gentle, 0.717391304347826
+T(modifier), Delicate, 0.717391304347826
+T(modifier), Poignant, 0.717391304347826
+T(modifier), Amiable/Good-Natured, 0.7108695652173913
+T(modifier), Light, 0.7108695652173913
+T(modifier), Lively, 0.7108695652173913
+T(modifier), Vocal Jazz, 0.7043478260869565
+T(modifier), Dramatic, 0.7043478260869565
+
+T(head), Rousing, 0.9
+T(head), Romantic, 0.9
+T(head), Latin Pop, 0.75
+T(head), Celebration, 0.75
+T(head), Yearning, 0.75
+T(head), In Love, 0.75
+T(head), Passionate, 0.75
+T(head), Sophisticated, 0.75
+T(head), Exuberant, 0.75
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '0', '1', '1', '1', '1', '1', '1', 8.526640733440172e-12

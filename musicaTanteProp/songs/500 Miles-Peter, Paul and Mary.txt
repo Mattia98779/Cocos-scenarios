@@ -1,0 +1,24 @@
+Traditional Folk:                    0.9
+Spiritual:                           0.9
+Folk-Pop:                            0.8625
+Motivation:                          0.825
+Calm/Peaceful:                       0.7875000000000001
+Pastoral:                            0.7875000000000001
+Precious:                            0.7875000000000001
+Refined:                             0.7875000000000001
+Sentimental:                         0.7875000000000001
+Soothing:                            0.7875000000000001
+Warm:                                0.7875000000000001
+Affection/Fondness:                  0.7875000000000001
+Affirmation:                         0.7875000000000001
+Empowering:                          0.7875000000000001
+Amiable/Good-Natured:                0.75
+Gentle:                              0.75
+Poignant:                            0.75
+Relaxed:                             0.75
+Nocturnal:                           0.6
+Sad:                                 0.6
+Weary:                               0.6
+Night Driving:                       0.6
+Regret:                              0.6
+Travel:                              0.6

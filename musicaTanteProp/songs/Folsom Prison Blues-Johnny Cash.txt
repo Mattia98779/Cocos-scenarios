@@ -1,0 +1,59 @@
+Progressive Country:                 0.9
+Acerbic:                             0.9
+Confrontational:                     0.9
+Earthy:                              0.9
+Lively:                              0.9
+Rollicking:                          0.9
+Drinking:                            0.9
+Guys Night Out:                      0.9
+Road Trip:                           0.9
+Outlaw Country:                      0.84
+Traditional Country:                 0.84
+Confident:                           0.84
+Cynical/Sarcastic:                   0.84
+Fiery:                               0.84
+Gritty:                              0.84
+Ramshackle:                          0.84
+Rebellious:                          0.84
+Rowdy:                               0.84
+Swaggering:                          0.84
+Cool & Cocky:                        0.84
+Honky Tonk:                          0.78
+Rock & Roll:                         0.78
+Rockabilly:                          0.78
+Aggressive:                          0.78
+Bitter:                              0.78
+Brash:                               0.78
+Brooding:                            0.78
+Cold:                                0.78
+Energetic:                           0.78
+Freewheeling:                        0.78
+Insular:                             0.78
+Irreverent:                          0.78
+Menacing:                            0.78
+Provocative:                         0.78
+Rambunctious:                        0.78
+Rousing:                             0.78
+Sad:                                 0.78
+Sparse:                              0.78
+Street-Smart:                        0.78
+Wry:                                 0.78
+Yearning:                            0.78
+Day Driving:                         0.78
+Freedom:                             0.78
+Loss/Grief:                          0.78
+Night Driving:                       0.78
+Country Boogie:                      0.72
+Detached:                            0.72
+Knotty:                              0.72
+Organic:                             0.72
+Raucous:                             0.72
+Somber:                              0.72
+Visceral:                            0.72
+Wintry:                              0.72
+Empowering:                          0.72
+Introspection:                       0.72
+Gloomy:                              0.6599999999999999
+Gutsy:                               0.6599999999999999
+Feeling Blue:                        0.6599999999999999
+Ominous:                             0.6

@@ -1,0 +1,65 @@
+#Title composizione
+Title : blues-classical
+
+#Concetto Principale
+Head Concept Name : blues
+
+#Concetto Modificatore
+Modifier Concept Name : classical
+
+
+
+
+
+T(modifier), Sentimental, 0.9
+T(modifier), Confident, 0.9
+T(modifier), Classical Crossover, 0.8
+T(modifier), Melancholy, 0.8
+T(modifier), Sensual, 0.8
+T(modifier), Complex, 0.8
+T(modifier), Soothing, 0.8
+T(modifier), Sophisticated, 0.8
+T(modifier), Dramatic, 0.8
+T(modifier), Relaxation, 0.8
+T(modifier), Ambitious, 0.7
+T(modifier), Intimate, 0.7
+T(modifier), Romantic, 0.7
+T(modifier), Clinical, 0.7
+T(modifier), Precious, 0.7
+T(modifier), Spiritual, 0.7
+T(modifier), Reflective, 0.7
+T(modifier), Theatrical, 0.7
+T(modifier), Elegant, 0.7
+T(modifier), Reverent, 0.7
+T(modifier), Comfort, 0.7
+T(modifier), Reflection, 0.7
+T(modifier), Celebration, 0.7
+T(modifier), Thoughtful, 0.7
+
+T(head), Regional Blues, 0.9
+T(head), Earthy, 0.8615384615384616
+T(head), Gritty, 0.8615384615384616
+T(head), Passionate, 0.8153846153846154
+T(head), Late Night, 0.8153846153846154
+T(head), Hanging Out, 0.7615384615384615
+T(head), Greasy, 0.7538461538461538
+T(head), Street-Smart, 0.7461538461538462
+T(head), Swaggering, 0.7461538461538462
+T(head), Organic, 0.7461538461538462
+T(head), Feeling Blue, 0.7307692307692307
+T(head), Earnest, 0.7307692307692307
+T(head), Intimate, 0.7230769230769231
+T(head), Cool & Cocky, 0.7230769230769231
+T(head), Boisterous, 0.7230769230769231
+T(head), Rollicking, 0.7153846153846154
+T(head), Confident, 0.7153846153846154
+T(head), Road Trip, 0.7153846153846154
+T(head), Rousing, 0.7076923076923077
+T(head), Freedom, 0.7076923076923077
+T(head), Electric Chicago Blues, 0.7076923076923077
+T(head), Gutsy, 0.7076923076923077
+T(head), Confrontational, 0.7
+T(head), Intense, 0.7
+T(head), Chicago Blues, 0.7
+
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.9390221642716464e-20

@@ -1,0 +1,19 @@
+Orchestral/Easy Listening:           0.9
+Amiable/Good-Natured:                0.9
+Poignant:                            0.9
+Bittersweet:                         0.8
+Gentle:                              0.8
+Innocent:                            0.8
+Lively:                              0.8
+Lush:                                0.8
+Refined:                             0.8
+Searching:                           0.8
+Sentimental:                         0.8
+Dinner Ambiance:                     0.8
+Relaxation:                          0.8
+Sunday Afternoon:                    0.8
+Earnest:                             0.7
+Romantic:                            0.7
+Theatrical:                          0.7
+Reflection:                          0.7
+Cheerful:                            0.6

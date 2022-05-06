@@ -1,0 +1,53 @@
+#Title composizione
+Title : childrens-reggae
+
+#Concetto Principale
+Head Concept Name : childrens
+
+#Concetto Modificatore
+Modifier Concept Name : reggae
+
+
+
+
+
+T(modifier), Summery, 0.9
+T(modifier), Roots Reggae, 0.8735294117647059
+T(modifier), Earnest, 0.8558823529411764
+T(modifier), Earthy, 0.8117647058823529
+T(modifier), Rousing, 0.8029411764705883
+T(modifier), Summer, 0.8029411764705883
+T(modifier), Organic, 0.7852941176470588
+T(modifier), Poignant, 0.7764705882352941
+T(modifier), Amiable/Good-Natured, 0.7676470588235293
+T(modifier), Hypnotic, 0.75
+T(modifier), Laid-Back/Mellow, 0.75
+T(modifier), Confident, 0.7323529411764705
+T(modifier), Reflective, 0.7323529411764705
+T(modifier), Political Reggae, 0.7235294117647059
+T(modifier), Passionate, 0.7235294117647059
+T(modifier), Sweet, 0.7235294117647059
+T(modifier), Freedom, 0.7235294117647059
+T(modifier), Hanging Out, 0.7235294117647059
+T(modifier), Reggae-Pop, 0.7147058823529412
+T(modifier), Boisterous, 0.7147058823529412
+T(modifier), Revolutionary, 0.7058823529411764
+T(modifier), Exuberant, 0.7058823529411764
+T(modifier), Druggy, 0.7058823529411764
+T(modifier), Playful_mood, 0.7058823529411764
+
+T(head), Hanging Out, 0.9
+T(head), Playful, 0.9
+T(head), Fun, 0.8857142857142857
+T(head), Sing-Alongs, 0.8714285714285714
+T(head), Amiable/Good-Natured, 0.8714285714285714
+T(head), Playful_mood, 0.8714285714285714
+T(head), Cheerful, 0.8571428571428572
+T(head), Children's Folk, 0.7857142857142857
+T(head), Family Gatherings, 0.7714285714285715
+T(head), Whimsical, 0.7571428571428571
+T(head), Laid-Back/Mellow, 0.7428571428571429
+T(head), Energetic, 0.7285714285714286
+T(head), Carefree, 0.7142857142857143
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', 2.2392019741173916e-14

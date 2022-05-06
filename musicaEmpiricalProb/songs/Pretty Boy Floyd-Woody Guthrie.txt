@@ -1,0 +1,32 @@
+Traditional Folk:                    0.9
+Revolutionary:                       0.9
+Folksongs:                           0.8
+Atmospheric:                         0.8
+Bittersweet:                         0.8
+Wistful:                             0.8
+Early Morning:                       0.8
+Freedom:                             0.8
+Rainy Day:                           0.8
+Road Trip:                           0.8
+Sunday Afternoon:                    0.8
+Austere:                             0.7
+Earnest:                             0.7
+Earthy:                              0.7
+Intimate:                            0.7
+Organic:                             0.7
+Plaintive:                           0.7
+Poignant:                            0.7
+Reflective:                          0.7
+Rustic:                              0.7
+Sentimental:                         0.7
+Sparse:                              0.7
+Political Folk:                      0.6
+Autumnal:                            0.6
+Sad:                                 0.6
+Autumn:                              0.6
+Empowering:                          0.6
+Feeling Blue:                        0.6
+Hanging Out:                         0.6
+Late Night:                          0.6
+Reflection:                          0.6
+Small Gathering:                     0.6

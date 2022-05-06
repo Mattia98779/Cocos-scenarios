@@ -1,0 +1,22 @@
+Traditional Pop:                     0.9
+Vocal Jazz:                          0.9
+Vocal Pop:                           0.9
+Searching:                           0.9
+Sophisticated:                       0.9
+Cast Recordings:                     0.75
+Show Tunes:                          0.75
+Elegant:                             0.75
+Lush:                                0.75
+Poignant:                            0.75
+Romantic:                            0.75
+Theatrical:                          0.75
+Yearning:                            0.75
+Dinner Ambiance:                     0.75
+In Love:                             0.75
+Romantic Evening:                    0.75
+Plaintive:                           0.6
+Refined:                             0.6
+Sentimental:                         0.6
+Heartache:                           0.6
+New Love:                            0.6
+Slow Dance:                          0.6

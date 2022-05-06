@@ -1,0 +1,29 @@
+#Title composizione
+Title : new-age-rap
+
+#Concetto Principale
+Head Concept Name : new-age
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : rap
+Modifier Concept Count : 32
+
+
+
+
+
+T(modifier), Brash, 0.9, 26
+T(modifier), Street-Smart, 0.864, 23
+T(modifier), Confident, 0.8400000000000001, 21
+T(modifier), Partying, 0.8400000000000001, 21
+T(modifier), East Coast Rap, 0.804, 18
+T(modifier), Swaggering, 0.804, 18
+
+T(head), Reflection, 0.9, 29
+T(head), Soothing, 0.8892857142857142, 28
+T(head), Introspection, 0.8892857142857142, 28
+T(head), Hypnotic, 0.8785714285714286, 27
+T(head), Reflective, 0.8785714285714286, 27
+T(head), Relaxation, 0.8785714285714286, 27
+

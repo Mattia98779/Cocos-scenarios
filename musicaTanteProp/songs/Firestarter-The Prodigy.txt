@@ -1,0 +1,38 @@
+Big Beat:                            0.9
+Electronica:                         0.9
+Aggressive:                          0.9
+Confident:                           0.9
+Confrontational:                     0.9
+Harsh:                               0.9
+Tense/Anxious:                       0.9
+Club:                                0.9
+Mischievous:                         0.9
+Partying:                            0.9
+Playful:                             0.9
+Club/Dance:                          0.8625
+Angry:                               0.8625
+Dramatic:                            0.8625
+Fierce:                              0.8625
+Fiery:                               0.8625
+Hostile:                             0.8625
+Intense:                             0.8625
+Rowdy:                               0.8625
+Swaggering:                          0.8625
+Urgent:                              0.8625
+Volatile:                            0.8625
+Techno:                              0.825
+Malevolent:                          0.825
+Reckless:                            0.825
+Brash:                               0.7875
+Energetic:                           0.7875
+Exciting:                            0.7875
+Irreverent:                          0.7875
+Menacing:                            0.7875
+Raucous:                             0.7875
+Rebellious:                          0.7875
+Paranoid:                            0.75
+Cool & Cocky:                        0.75
+Guys Night Out:                      0.75
+Hanging Out:                         0.75
+Outrageous:                          0.7125
+Funky Breaks:                        0.6

@@ -1,0 +1,38 @@
+Hardcore Rap:                        0.9
+Energetic:                           0.9
+Fierce:                              0.9
+Fiery:                               0.9
+Rebellious:                          0.9
+Street-Smart:                        0.9
+Victory:                             0.9
+East Coast Rap:                      0.84
+Golden Age:                          0.84
+Old-School Rap:                      0.84
+Bravado:                             0.84
+Confident:                           0.84
+Confrontational:                     0.84
+Irreverent:                          0.84
+Rousing:                             0.84
+Swaggering:                          0.84
+Uncompromising:                      0.84
+Empowering:                          0.84
+Freedom:                             0.84
+Hanging Out:                         0.84
+Partying:                            0.84
+Revolutionary:                       0.84
+Aggressive:                          0.72
+Brash:                               0.72
+Exuberant:                           0.72
+Rambunctious:                        0.72
+Witty:                               0.72
+Boisterous:                          0.66
+Celebratory:                         0.66
+Fun:                                 0.66
+Menacing:                            0.66
+Passionate:                          0.66
+Rowdy:                               0.66
+Visceral:                            0.66
+Cool & Cocky:                        0.66
+Guys Night Out:                      0.66
+TGIF:                                0.66
+Playful_mood:                        0.6

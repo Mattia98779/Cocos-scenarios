@@ -1,0 +1,29 @@
+#Title composizione
+Title : easy-listening-comedy-spoken
+
+#Concetto Principale
+Head Concept Name : easy-listening
+Head Concept Count : 43
+
+#Concetto Modificatore
+Modifier Concept Name : comedy-spoken
+Modifier Concept Count : 24
+
+
+
+
+
+T(modifier), Comedy, 0.9, 20
+T(modifier), Playful_mood, 0.868421052631579, 18
+T(modifier), Humorous, 0.8526315789473684, 17
+T(modifier), Playful, 0.8526315789473684, 17
+T(modifier), The Creative Side, 0.8368421052631579, 16
+T(modifier), Irreverent, 0.8210526315789474, 15
+
+T(head), Dinner Ambiance, 0.9, 27
+T(head), Amiable/Good-Natured, 0.8884615384615384, 26
+T(head), Relaxation, 0.8653846153846154, 24
+T(head), Soothing, 0.8653846153846154, 24
+T(head), Sophisticated, 0.8538461538461539, 23
+T(head), Refined, 0.8307692307692308, 21
+

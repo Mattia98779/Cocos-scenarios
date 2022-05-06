@@ -1,0 +1,8 @@
+Amiable/Good-Natured:                0.9
+Carefree:                            0.9
+Playful_mood:                        0.9
+Hanging Out:                         0.9
+Sing-Alongs:                         0.75
+Fun:                                 0.75
+Playful:                             0.75
+Gleeful:                             0.6

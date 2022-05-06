@@ -1,0 +1,29 @@
+#Title composizione
+Title : stage-screen-avant-garde
+
+#Concetto Principale
+Head Concept Name : stage-screen
+Head Concept Count : 18
+
+#Concetto Modificatore
+Modifier Concept Name : avant-garde
+Modifier Concept Count : 13
+
+
+
+
+
+T(modifier), The Creative Side, 0.9, 6
+T(modifier), Cerebral, 0.84, 5
+T(modifier), Uncompromising, 0.78, 4
+T(modifier), Provocative, 0.78, 4
+T(modifier), Revolutionary, 0.78, 4
+T(modifier), Modern Composition, 0.78, 4
+
+T(head), Soundtracks, 0.9, 13
+T(head), Dramatic, 0.875, 12
+T(head), Original Score, 0.8500000000000001, 11
+T(head), Theatrical, 0.825, 10
+T(head), Film Music, 0.7999999999999999, 9
+T(head), Rousing, 0.75, 7
+

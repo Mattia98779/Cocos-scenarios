@@ -1,0 +1,89 @@
+American Popular Song:               0.9
+Mainstream Jazz:                     0.9
+West Coast Jazz:                     0.9
+Amiable/Good-Natured:                0.9
+Elaborate:                           0.9
+Epic:                                0.9
+Nocturnal:                           0.9
+Poignant:                            0.9
+Precious:                            0.9
+Affection/Fondness:                  0.9
+Background Music:                    0.9
+Comfort:                             0.9
+Dinner Ambiance:                     0.9
+Hanging Out:                         0.9
+In Love:                             0.9
+Romantic Evening:                    0.9
+Small Gathering:                     0.9
+Sweet Dreams:                        0.9
+Bop:                                 0.8500000000000001
+Hard Bop:                            0.8500000000000001
+Jazz Blues:                          0.8500000000000001
+Cerebral:                            0.8500000000000001
+Complex:                             0.8500000000000001
+Freewheeling:                        0.8500000000000001
+Romantic:                            0.8500000000000001
+Searching:                           0.8500000000000001
+Sensual:                             0.8500000000000001
+Sentimental:                         0.8500000000000001
+Smooth:                              0.8500000000000001
+Empowering:                          0.8500000000000001
+Introspection:                       0.8500000000000001
+Late Night:                          0.8500000000000001
+Reflection:                          0.8500000000000001
+Relaxation:                          0.8500000000000001
+Slow Dance:                          0.8500000000000001
+Modal Music:                         0.8
+Vocal Jazz:                          0.8
+Atmospheric:                         0.8
+Austere:                             0.8
+Carefree:                            0.8
+Circular:                            0.8
+Confident:                           0.8
+Delicate:                            0.8
+Dramatic:                            0.8
+Eccentric:                           0.8
+Gentle:                              0.8
+Innocent:                            0.8
+Passionate:                          0.8
+Plaintive:                           0.8
+Quirky:                              0.8
+Reverent:                            0.8
+Warm:                                0.8
+Whimsical:                           0.8
+Witty:                               0.8
+Wry:                                 0.8
+Yearning:                            0.8
+Affirmation:                         0.8
+Feeling Blue:                        0.8
+Freedom:                             0.8
+Loss/Grief:                          0.8
+Mischievous:                         0.8
+Rainy Day:                           0.8
+The Creative Side:                   0.8
+Cool:                                0.75
+Calm/Peaceful:                       0.75
+Enigmatic:                           0.75
+Laid-Back/Mellow:                    0.75
+Melancholy:                          0.75
+Rebellious:                          0.75
+Relaxed:                             0.75
+Somber:                              0.75
+Soothing:                            0.75
+Stylish:                             0.75
+Ambitious:                           0.7
+Bittersweet:                         0.7
+Earnest:                             0.7
+Earthy:                              0.7
+Elegant:                             0.7
+Intimate:                            0.7
+Joyous:                              0.7
+Light:                               0.7
+Literate:                            0.7
+Pastoral:                            0.7
+Refined:                             0.7
+Reflective:                          0.7
+Sophisticated:                       0.7
+Intense:                             0.65
+Restrained:                          0.65
+Self-Conscious:                      0.6

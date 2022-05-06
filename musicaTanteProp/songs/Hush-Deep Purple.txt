@@ -1,0 +1,39 @@
+Arena Rock:                          0.9
+British Metal:                       0.9
+Hard Rock:                           0.9
+Dreamy:                              0.9
+Druggy:                              0.9
+Fiery:                               0.9
+Lush:                                0.9
+Passionate:                          0.9
+Rousing:                             0.9
+Brash:                               0.825
+Raucous:                             0.825
+Tense/Anxious:                       0.825
+Cool & Cocky:                        0.825
+Drinking:                            0.825
+Heavy Metal:                         0.75
+Aggressive:                          0.75
+Bittersweet:                         0.75
+Dramatic:                            0.75
+Energetic:                           0.75
+Happy:                               0.75
+Intense:                             0.75
+Melancholy:                          0.75
+Rebellious:                          0.75
+Reckless:                            0.75
+Volatile:                            0.75
+Breakup:                             0.75
+Freedom:                             0.75
+Guys Night Out:                      0.75
+Hanging Out:                         0.75
+Heartache:                           0.75
+Introspection:                       0.75
+Summer:                              0.75
+TGIF:                                0.75
+Theatrical:                          0.675
+Road Trip:                           0.675
+Club/Dance:                          0.6
+Contemporary Pop/Rock:               0.6
+Sentimental:                         0.6
+In Love:                             0.6

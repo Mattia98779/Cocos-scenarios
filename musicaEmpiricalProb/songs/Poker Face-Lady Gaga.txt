@@ -1,0 +1,25 @@
+Hedonistic:                          0.9
+Rousing:                             0.9
+Slick:                               0.9
+Stylish:                             0.9
+Club:                                0.9
+Club/Dance:                          0.8571428571428572
+Dance-Pop:                           0.8571428571428572
+Urban:                               0.8571428571428572
+Aggressive:                          0.8571428571428572
+Brash:                               0.8571428571428572
+Brassy:                              0.8571428571428572
+Celebratory:                         0.8571428571428572
+Confident:                           0.8571428571428572
+Nocturnal:                           0.8571428571428572
+Sensual:                             0.8571428571428572
+Sexual:                              0.8571428571428572
+Sexy:                                0.8571428571428572
+Street-Smart:                        0.8571428571428572
+Girls Night Out:                     0.8571428571428572
+Late Night:                          0.8571428571428572
+Seduction:                           0.8571428571428572
+Sex:                                 0.8571428571428572
+TGIF:                                0.8571428571428572
+Synth Pop:                           0.6857142857142857
+Electronic/Computer Music:           0.6

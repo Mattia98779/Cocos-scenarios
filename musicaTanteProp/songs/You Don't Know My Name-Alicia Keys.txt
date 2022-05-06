@@ -1,0 +1,20 @@
+Sensual:                             0.9
+Yearning:                            0.9
+Contemporary R&B:                    0.8250000000000001
+Neo-Soul:                            0.8250000000000001
+Soul:                                0.8250000000000001
+Urban:                               0.8250000000000001
+Passionate:                          0.8250000000000001
+Elaborate:                           0.75
+Lush:                                0.75
+Sexy:                                0.75
+Slick:                               0.75
+Seduction:                           0.75
+Dramatic:                            0.6749999999999999
+Elegant:                             0.6749999999999999
+Romantic:                            0.6749999999999999
+Smooth:                              0.6749999999999999
+Dreamy:                              0.6
+Sentimental:                         0.6
+Street-Smart:                        0.6
+Warm:                                0.6

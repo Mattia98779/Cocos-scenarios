@@ -1,0 +1,38 @@
+Rock & Roll:                         0.9
+Bravado:                             0.9
+Earthy:                              0.9
+Energetic:                           0.9
+Exciting:                            0.9
+Fun:                                 0.9
+Outrageous:                          0.9
+Playful_mood:                        0.9
+Raucous:                             0.9
+Rollicking:                          0.9
+Rousing:                             0.9
+Rowdy:                               0.9
+Swaggering:                          0.9
+Cool & Cocky:                        0.9
+Guys Night Out:                      0.9
+Hanging Out:                         0.9
+Confident:                           0.8625
+Intense:                             0.8625
+Manic:                               0.8625
+Partying:                            0.8625
+Happy:                               0.825
+Uplifting:                           0.825
+Celebration:                         0.825
+In Love:                             0.825
+Seduction:                           0.825
+Sex:                                 0.825
+TGIF:                                0.825
+Brash:                               0.7875
+Fiery:                               0.7875
+Passionate:                          0.7875
+Rebellious:                          0.7875
+Reckless:                            0.7875
+Exuberant:                           0.75
+Drinking:                            0.75
+Rockabilly:                          0.7125
+Rambunctious:                        0.7125
+Road Trip:                           0.7125
+Traditional Country:                 0.6

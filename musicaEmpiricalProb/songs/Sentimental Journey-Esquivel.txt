@@ -1,0 +1,15 @@
+Exotica:                             0.9
+Lounge:                              0.9
+Space Age Pop:                       0.9
+Playful_mood:                        0.9
+Sparkling:                           0.9
+Hanging Out:                         0.9
+Playful:                             0.9
+Amiable/Good-Natured:                0.8
+Carefree:                            0.8
+Quirky:                              0.8
+Whimsical:                           0.8
+Mischievous:                         0.8
+The Creative Side:                   0.7000000000000001
+Enigmatic:                           0.6
+Theatrical:                          0.6

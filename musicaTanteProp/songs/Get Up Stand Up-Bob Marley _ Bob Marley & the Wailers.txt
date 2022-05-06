@@ -1,0 +1,25 @@
+Political Reggae:                    0.9
+Earthy:                              0.9
+Rebellious:                          0.9
+Summery:                             0.9
+Empowering:                          0.9
+Atmospheric:                         0.8250000000000001
+Confident:                           0.8250000000000001
+Earnest:                             0.8250000000000001
+Hypnotic:                            0.8250000000000001
+Passionate:                          0.8250000000000001
+Poignant:                            0.8250000000000001
+Reflective:                          0.8250000000000001
+Spiritual:                           0.8250000000000001
+Stately:                             0.8250000000000001
+Urgent:                              0.8250000000000001
+Ambitious:                           0.75
+Cathartic:                           0.75
+Revolutionary:                       0.75
+Reggae-Pop:                          0.675
+Roots Reggae:                        0.675
+Energetic:                           0.675
+Organic:                             0.675
+Motivation:                          0.675
+Politics/Society:                    0.675
+Reverent:                            0.6

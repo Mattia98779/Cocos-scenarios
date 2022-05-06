@@ -1,0 +1,52 @@
+#Title composizione
+Title : childrens-vocal
+
+#Concetto Principale
+Head Concept Name : childrens
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+
+
+
+
+
+T(modifier), Traditional Pop, 0.9
+T(modifier), Vocal Pop, 0.8478260869565217
+T(modifier), Refined, 0.7630434782608696
+T(modifier), Sentimental, 0.7630434782608696
+T(modifier), Romantic, 0.75
+T(modifier), Sweet, 0.7434782608695653
+T(modifier), Cheerful, 0.7369565217391304
+T(modifier), Elegant, 0.7369565217391304
+T(modifier), Soothing, 0.7369565217391304
+T(modifier), Warm, 0.7369565217391304
+T(modifier), Smooth, 0.7304347826086957
+T(modifier), Dinner Ambiance, 0.7304347826086957
+T(modifier), Romantic Evening, 0.7304347826086957
+T(modifier), Carefree, 0.7239130434782608
+T(modifier), In Love, 0.7239130434782608
+T(modifier), Gentle, 0.717391304347826
+T(modifier), Delicate, 0.717391304347826
+T(modifier), Poignant, 0.717391304347826
+T(modifier), Amiable/Good-Natured, 0.7108695652173913
+T(modifier), Light, 0.7108695652173913
+T(modifier), Lively, 0.7108695652173913
+T(modifier), Vocal Jazz, 0.7043478260869565
+T(modifier), Dramatic, 0.7043478260869565
+
+T(head), Hanging Out, 0.9
+T(head), Playful, 0.9
+T(head), Fun, 0.8857142857142857
+T(head), Sing-Alongs, 0.8714285714285714
+T(head), Amiable/Good-Natured, 0.8714285714285714
+T(head), Playful_mood, 0.8714285714285714
+T(head), Cheerful, 0.8571428571428572
+T(head), Children's Folk, 0.7857142857142857
+T(head), Family Gatherings, 0.7714285714285715
+T(head), Whimsical, 0.7571428571428571
+T(head), Laid-Back/Mellow, 0.7428571428571429
+T(head), Energetic, 0.7285714285714286
+T(head), Carefree, 0.7142857142857143
+
+Result : '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', 1.0850615502294216e-13

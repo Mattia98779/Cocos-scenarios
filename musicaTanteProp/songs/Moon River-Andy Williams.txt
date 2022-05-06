@@ -1,0 +1,48 @@
+Early Pop/Rock:                      0.9
+Mood Music:                          0.9
+Movie Themes:                        0.9
+Orchestral/Easy Listening:           0.9
+Soundtracks:                         0.9
+Vocal Pop:                           0.9
+Amiable/Good-Natured:                0.9
+Atmospheric:                         0.9
+Calm/Peaceful:                       0.9
+Carefree:                            0.9
+Cheerful:                            0.9
+Elegant:                             0.9
+Ethereal:                            0.9
+Innocent:                            0.9
+Relaxed:                             0.9
+Romantic:                            0.9
+Slick:                               0.9
+Smooth:                              0.9
+Sophisticated:                       0.9
+Wistful:                             0.9
+Comfort:                             0.9
+Dinner Ambiance:                     0.9
+Romantic Evening:                    0.9
+Slow Dance:                          0.9
+Sweet Dreams:                        0.9
+Delicate:                            0.7999999999999999
+Gentle:                              0.7999999999999999
+Pastoral:                            0.7999999999999999
+Plaintive:                           0.7999999999999999
+Poignant:                            0.7999999999999999
+Refined:                             0.7999999999999999
+Sentimental:                         0.7999999999999999
+Soothing:                            0.7999999999999999
+In Love:                             0.7999999999999999
+Traditional Pop:                     0.7000000000000001
+Bittersweet:                         0.7000000000000001
+Dreamy:                              0.7000000000000001
+Laid-Back/Mellow:                    0.7000000000000001
+Light:                               0.7000000000000001
+Sweet:                               0.7000000000000001
+Yearning:                            0.7000000000000001
+Affection/Fondness:                  0.7000000000000001
+Celebration:                         0.7000000000000001
+Picnic:                              0.7000000000000001
+Relaxation:                          0.7000000000000001
+Autumnal:                            0.6
+Earnest:                             0.6
+Background Music:                    0.6

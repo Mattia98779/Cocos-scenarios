@@ -1,0 +1,56 @@
+American Popular Song:               0.9
+Cool:                                0.9
+Mainstream Jazz:                     0.9
+Standards:                           0.9
+Brassy:                              0.9
+Laid-Back/Mellow:                    0.9
+Passionate:                          0.9
+Playful_mood:                        0.9
+Poignant:                            0.9
+Precious:                            0.9
+Relaxed:                             0.9
+Searching:                           0.9
+Stylish:                             0.9
+Swaggering:                          0.9
+Introspection:                       0.9
+Long Walk:                           0.9
+Reflection:                          0.9
+The Creative Side:                   0.9
+Modal Music:                         0.8625
+Intimate:                            0.8625
+Sophisticated:                       0.8625
+Sprawling:                           0.8625
+Empowering:                          0.8625
+Motivation:                          0.8625
+Ambitious:                           0.825
+Amiable/Good-Natured:                0.825
+Bravado:                             0.825
+Carefree:                            0.825
+Confident:                           0.825
+Dramatic:                            0.825
+Earnest:                             0.825
+Earthy:                              0.825
+Elaborate:                           0.825
+Elegant:                             0.825
+Freewheeling:                        0.825
+Literate:                            0.825
+Reflective:                          0.825
+Self-Conscious:                      0.825
+Stately:                             0.825
+Street-Smart:                        0.825
+Warm:                                0.825
+Whimsical:                           0.825
+Witty:                               0.825
+Wry:                                 0.825
+Affirmation:                         0.825
+Cool & Cocky:                        0.825
+Freedom:                             0.825
+Mischievous:                         0.825
+Playful:                             0.825
+Sports:                              0.825
+The Great Outdoors:                  0.825
+Victory:                             0.825
+Lively:                              0.7875
+Refined:                             0.75
+Bop:                                 0.6
+Hard Bop:                            0.6

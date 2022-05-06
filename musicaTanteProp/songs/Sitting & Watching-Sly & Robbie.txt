@@ -1,0 +1,12 @@
+Summery:                             0.9
+Pool Party:                          0.9
+Summer:                              0.9
+Laid-Back/Mellow:                    0.8250000000000001
+Sparkling:                           0.8250000000000001
+Bright:                              0.75
+Organic:                             0.75
+Soothing:                            0.75
+Amiable/Good-Natured:                0.675
+Effervescent:                        0.675
+Sweet:                               0.675
+Lively:                              0.6

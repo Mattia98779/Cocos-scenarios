@@ -1,0 +1,76 @@
+#Title composizione
+Title : rap-country
+
+#Concetto Principale
+Head Concept Name : rap
+
+#Concetto Modificatore
+Modifier Concept Name : country
+
+
+
+
+
+T(modifier), Traditional Country, 0.9
+T(modifier), Earthy, 0.890625
+T(modifier), Earnest, 0.8625
+T(modifier), Reflective, 0.84375
+T(modifier), Plaintive, 0.815625
+T(modifier), Amiable/Good-Natured, 0.80625
+T(modifier), Sentimental, 0.7781250000000001
+T(modifier), Organic, 0.76875
+T(modifier), Yearning, 0.759375
+T(modifier), Feeling Blue, 0.759375
+T(modifier), Wistful, 0.75
+T(modifier), Smooth, 0.7406250000000001
+T(modifier), Melancholy, 0.73125
+T(modifier), Intimate, 0.73125
+T(modifier), Late Night, 0.73125
+T(modifier), Lively, 0.73125
+T(modifier), Rousing, 0.73125
+T(modifier), Passionate, 0.721875
+T(modifier), Honky Tonk, 0.721875
+T(modifier), Contemporary Country, 0.721875
+T(modifier), Rollicking, 0.721875
+T(modifier), Drinking, 0.721875
+T(modifier), Playful_mood, 0.721875
+T(modifier), Poignant, 0.7125
+T(modifier), Heartache, 0.7125
+T(modifier), Introspection, 0.7125
+T(modifier), Country-Pop, 0.7125
+T(modifier), Freewheeling, 0.7125
+T(modifier), Fun, 0.7125
+T(modifier), Reflection, 0.703125
+T(modifier), Rustic, 0.703125
+T(modifier), Road Trip, 0.703125
+T(modifier), Swaggering, 0.703125
+
+T(head), Brash, 0.9
+T(head), Street-Smart, 0.864
+T(head), Confident, 0.8400000000000001
+T(head), Partying, 0.8400000000000001
+T(head), East Coast Rap, 0.804
+T(head), Swaggering, 0.804
+T(head), Guys Night Out, 0.792
+T(head), Cool & Cocky, 0.792
+T(head), Celebratory, 0.78
+T(head), Rousing, 0.78
+T(head), Energetic, 0.78
+T(head), Aggressive, 0.768
+T(head), Boisterous, 0.768
+T(head), Playful_mood, 0.768
+T(head), Confrontational, 0.756
+T(head), Hanging Out, 0.756
+T(head), Rambunctious, 0.744
+T(head), Raucous, 0.732
+T(head), Golden Age, 0.72
+T(head), Uncompromising, 0.72
+T(head), Visceral, 0.72
+T(head), Hardcore Rap, 0.72
+T(head), Fun, 0.72
+T(head), Rebellious, 0.708
+T(head), Urgent, 0.708
+T(head), Thuggish, 0.708
+T(head), Rowdy, 0.708
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.127383256294776e-27

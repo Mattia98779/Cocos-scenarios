@@ -1,0 +1,63 @@
+#Title composizione
+Title : vocal-reggae
+
+#Concetto Principale
+Head Concept Name : vocal
+
+#Concetto Modificatore
+Modifier Concept Name : reggae
+
+
+
+
+
+T(modifier), Summery, 0.9
+T(modifier), Roots Reggae, 0.8735294117647059
+T(modifier), Earnest, 0.8558823529411764
+T(modifier), Earthy, 0.8117647058823529
+T(modifier), Rousing, 0.8029411764705883
+T(modifier), Summer, 0.8029411764705883
+T(modifier), Organic, 0.7852941176470588
+T(modifier), Poignant, 0.7764705882352941
+T(modifier), Amiable/Good-Natured, 0.7676470588235293
+T(modifier), Hypnotic, 0.75
+T(modifier), Laid-Back/Mellow, 0.75
+T(modifier), Confident, 0.7323529411764705
+T(modifier), Reflective, 0.7323529411764705
+T(modifier), Political Reggae, 0.7235294117647059
+T(modifier), Passionate, 0.7235294117647059
+T(modifier), Sweet, 0.7235294117647059
+T(modifier), Freedom, 0.7235294117647059
+T(modifier), Hanging Out, 0.7235294117647059
+T(modifier), Reggae-Pop, 0.7147058823529412
+T(modifier), Boisterous, 0.7147058823529412
+T(modifier), Revolutionary, 0.7058823529411764
+T(modifier), Exuberant, 0.7058823529411764
+T(modifier), Druggy, 0.7058823529411764
+T(modifier), Playful_mood, 0.7058823529411764
+
+T(head), Traditional Pop, 0.9
+T(head), Vocal Pop, 0.8478260869565217
+T(head), Refined, 0.7630434782608696
+T(head), Sentimental, 0.7630434782608696
+T(head), Romantic, 0.75
+T(head), Sweet, 0.7434782608695653
+T(head), Cheerful, 0.7369565217391304
+T(head), Elegant, 0.7369565217391304
+T(head), Soothing, 0.7369565217391304
+T(head), Warm, 0.7369565217391304
+T(head), Smooth, 0.7304347826086957
+T(head), Dinner Ambiance, 0.7304347826086957
+T(head), Romantic Evening, 0.7304347826086957
+T(head), Carefree, 0.7239130434782608
+T(head), In Love, 0.7239130434782608
+T(head), Gentle, 0.717391304347826
+T(head), Delicate, 0.717391304347826
+T(head), Poignant, 0.717391304347826
+T(head), Amiable/Good-Natured, 0.7108695652173913
+T(head), Light, 0.7108695652173913
+T(head), Lively, 0.7108695652173913
+T(head), Vocal Jazz, 0.7043478260869565
+T(head), Dramatic, 0.7043478260869565
+
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 6.346269119502286e-20

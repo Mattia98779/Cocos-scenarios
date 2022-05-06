@@ -1,0 +1,36 @@
+IDM:                                 0.9000000000000001
+Techno:                              0.9000000000000001
+Circular:                            0.9000000000000001
+Clinical:                            0.9000000000000001
+Confident:                           0.9000000000000001
+Detached:                            0.9000000000000001
+Elegant:                             0.9000000000000001
+Hypnotic:                            0.9000000000000001
+Lush:                                0.9000000000000001
+Spacey:                              0.9000000000000001
+Late Night:                          0.9000000000000001
+Reflection:                          0.9000000000000001
+Solitude:                            0.9000000000000001
+Ambient Techno:                      0.825
+Cold:                                0.825
+Laid-Back/Mellow:                    0.825
+Lively:                              0.825
+Rousing:                             0.825
+Trippy:                              0.825
+Wintry:                              0.825
+Electronica:                         0.75
+Dreamy:                              0.75
+Ethereal:                            0.75
+Freewheeling:                        0.75
+Nocturnal:                           0.75
+Playful_mood:                        0.75
+Restrained:                          0.75
+Smooth:                              0.75
+Introspection:                       0.75
+Winter:                              0.75
+Cerebral:                            0.6749999999999999
+Reflective:                          0.6749999999999999
+Soothing:                            0.6749999999999999
+Wistful:                             0.6749999999999999
+Ambient House:                       0.6
+Gentle:                              0.6

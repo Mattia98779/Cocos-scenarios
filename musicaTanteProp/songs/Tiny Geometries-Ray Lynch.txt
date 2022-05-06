@@ -1,0 +1,18 @@
+Adult Alternative:                   0.9
+Ambient:                             0.9
+Neo-Classical:                       0.9
+Warm:                                0.9
+Earnest:                             0.8
+Wistful:                             0.8
+Sunday Afternoon:                    0.8
+Calm/Peaceful:                       0.7
+Dreamy:                              0.7
+Ethereal:                            0.7
+Intimate:                            0.7
+Pastoral:                            0.7
+Relaxed:                             0.7
+Somber:                              0.7
+Whimsical:                           0.7
+Background Music:                    0.7
+Contemporary Instrumental:           0.6
+Hypnotic:                            0.6

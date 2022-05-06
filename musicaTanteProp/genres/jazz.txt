@@ -1,0 +1,269 @@
+
+Sophisticated:                       0.9
+Freewheeling:                        0.8675675675675676
+Confident:                           0.8432432432432433
+Amiable/Good-Natured:                0.8432432432432433
+Playful_mood:                        0.8432432432432433
+Lively:                              0.8351351351351353
+The Creative Side:                   0.8351351351351353
+Stylish:                             0.818918918918919
+Earnest:                             0.8108108108108109
+Passionate:                          0.8027027027027027
+Earthy:                              0.8027027027027027
+Hanging Out:                         0.8027027027027027
+Carefree:                            0.7945945945945947
+Warm:                                0.7864864864864864
+Literate:                            0.7864864864864864
+Refined:                             0.7783783783783784
+Elegant:                             0.7783783783783784
+Mainstream Jazz:                     0.7621621621621621
+Rousing:                             0.7621621621621621
+Searching:                           0.7621621621621621
+Dramatic:                            0.7621621621621621
+Witty:                               0.7621621621621621
+Freedom:                             0.7621621621621621
+Affirmation:                         0.7621621621621621
+Playful:                             0.7621621621621621
+Energetic:                           0.745945945945946
+Victory:                             0.745945945945946
+The Great Outdoors:                  0.745945945945946
+Cheerful:                            0.745945945945946
+Cool & Cocky:                        0.7378378378378379
+Sports:                              0.7378378378378379
+Rollicking:                          0.7378378378378379
+Exuberant:                           0.7297297297297298
+Street-Smart:                        0.7297297297297298
+Motivation:                          0.7297297297297298
+Reflective:                          0.7216216216216216
+Wry:                                 0.7216216216216216
+Empowering:                          0.7216216216216216
+Mischievous:                         0.7216216216216216
+Bright:                              0.7216216216216216
+Hard Bop:                            0.7135135135135136
+Relaxed:                             0.7135135135135136
+Joyous:                              0.7135135135135136
+Swaggering:                          0.7054054054054054
+Smooth:                              0.7054054054054054
+Light:                               0.7054054054054054
+Fun:                                 0.7054054054054054
+Whimsical:                           0.7054054054054054
+Ambitious:                           0.6972972972972973
+Stately:                             0.6972972972972973
+Late Night:                          0.6972972972972973
+Relaxation:                          0.6972972972972973
+Laid-Back/Mellow:                    0.6972972972972973
+Big Band:                            0.6972972972972973
+Complex:                             0.6972972972972973
+Celebratory:                         0.6972972972972973
+Intimate:                            0.6891891891891893
+Elaborate:                           0.6891891891891893
+Introspection:                       0.6891891891891893
+Small Gathering:                     0.6891891891891893
+Organic:                             0.6891891891891893
+Swing:                               0.6891891891891893
+Bop:                                 0.6810810810810811
+Nocturnal:                           0.6810810810810811
+Summery:                             0.6810810810810811
+Boisterous:                          0.6810810810810811
+Sentimental:                         0.6810810810810811
+Comfort:                             0.672972972972973
+Reflection:                          0.672972972972973
+Sunday Afternoon:                    0.672972972972973
+Guys Night Out:                      0.672972972972973
+Romantic Evening:                    0.672972972972973
+Celebration:                         0.672972972972973
+Reminiscing:                         0.672972972972973
+Sprawling:                           0.6648648648648648
+Self-Conscious:                      0.6648648648648648
+Dinner Ambiance:                     0.6648648648648648
+Poignant:                            0.6648648648648648
+Day Driving:                         0.6648648648648648
+TGIF:                                0.6648648648648648
+Cool:                                0.6567567567567567
+Brassy:                              0.6567567567567567
+Restrained:                          0.6567567567567567
+Visceral:                            0.6567567567567567
+Gentle:                              0.6567567567567567
+Romantic:                            0.6567567567567567
+Summer:                              0.6567567567567567
+Gritty:                              0.6567567567567567
+Precious:                            0.6567567567567567
+Happy:                               0.6567567567567567
+Innocent:                            0.6567567567567567
+Bravado:                             0.6486486486486487
+Rambunctious:                        0.6486486486486487
+Provocative:                         0.6486486486486487
+Sensual:                             0.6486486486486487
+Sweet:                               0.6486486486486487
+Affection/Fondness:                  0.6486486486486487
+In Love:                             0.6486486486486487
+Epic:                                0.6486486486486487
+Spicy:                               0.6486486486486487
+Road Trip:                           0.6486486486486487
+Early Jazz:                          0.6486486486486487
+Standards:                           0.6486486486486487
+Modal Music:                         0.6405405405405405
+Urgent:                              0.6405405405405405
+Aggressive:                          0.6405405405405405
+Quirky:                              0.6405405405405405
+Rainy Day:                           0.6405405405405405
+Delicate:                            0.6405405405405405
+Plaintive:                           0.6405405405405405
+Soothing:                            0.6405405405405405
+Ethereal:                            0.6405405405405405
+Knotty:                              0.6405405405405405
+Reunion:                             0.6405405405405405
+Progressive Jazz:                    0.6405405405405405
+Enigmatic:                           0.6405405405405405
+Melancholy:                          0.6405405405405405
+Post-Bop:                            0.6405405405405405
+Brash:                               0.6324324324324324
+Exciting:                            0.6324324324324324
+Fiery:                               0.6324324324324324
+Intense:                             0.6324324324324324
+Atmospheric:                         0.6324324324324324
+Wistful:                             0.6324324324324324
+Sparkling:                           0.6324324324324324
+Vocal Jazz:                          0.6324324324324324
+Cerebral:                            0.6324324324324324
+Soul Jazz:                           0.6324324324324324
+Yearning:                            0.6324324324324324
+Reserved:                            0.6243243243243243
+Calm/Peaceful:                       0.6243243243243243
+Background Music:                    0.6243243243243243
+Picnic:                              0.6243243243243243
+Greasy:                              0.6243243243243243
+Homecoming:                          0.6243243243243243
+Progressive Big Band:                0.6243243243243243
+Theatrical:                          0.6243243243243243
+West Coast Jazz:                     0.6243243243243243
+Humorous:                            0.6243243243243243
+Bittersweet:                         0.6243243243243243
+Brooding:                            0.6243243243243243
+Revolutionary:                       0.6243243243243243
+Feeling Blue:                        0.6243243243243243
+Lush:                                0.6243243243243243
+Effervescent:                        0.6243243243243243
+Partying:                            0.6243243243243243
+Lazy:                                0.6243243243243243
+Girls Night Out:                     0.6243243243243243
+Long Walk:                           0.6162162162162163
+World Fusion:                        0.6162162162162163
+Sexy:                                0.6162162162162163
+Slick:                               0.6162162162162163
+At the Beach:                        0.6162162162162163
+Sweet Dreams:                        0.6162162162162163
+Night Driving:                       0.6162162162162163
+Sexual:                              0.6162162162162163
+American Popular Song:               0.6162162162162163
+Avant-Garde Jazz:                    0.6162162162162163
+Cathartic:                           0.6162162162162163
+Raucous:                             0.6162162162162163
+Rebellious:                          0.6162162162162163
+Rowdy:                               0.6162162162162163
+Hypnotic:                            0.6162162162162163
+Drinking:                            0.6162162162162163
+Regret:                              0.6162162162162163
+Irreverent:                          0.6162162162162163
+Dreamy:                              0.6081081081081081
+Soft/Quiet:                          0.6081081081081081
+Springlike:                          0.6081081081081081
+Sex:                                 0.6081081081081081
+Latin Jazz:                          0.6081081081081081
+Sweet Bands:                         0.6081081081081081
+Orchestral Jazz:                     0.6081081081081081
+Torch Songs:                         0.6081081081081081
+Pastoral:                            0.6081081081081081
+Autumnal:                            0.6081081081081081
+Slow Dance:                          0.6081081081081081
+Seduction:                           0.6081081081081081
+Eccentric:                           0.6081081081081081
+Fractured:                           0.6081081081081081
+Jazz-Funk:                           0.6081081081081081
+Eerie:                               0.6081081081081081
+Tense/Anxious:                       0.6081081081081081
+Volatile:                            0.6081081081081081
+Maverick:                            0.6081081081081081
+Indulgent:                           0.6081081081081081
+Heartache:                           0.6081081081081081
+Gutsy:                               0.6081081081081081
+Spiritual:                           0.6081081081081081
+Family Gatherings:                   0.6081081081081081
+Traditional Pop:                     0.6081081081081081
+Gloomy:                              0.6081081081081081
+Sad:                                 0.6081081081081081
+Anniversary:                         0.6081081081081081
+Loss/Grief:                          0.6081081081081081
+Gleeful:                             0.6081081081081081
+Jazz Blues:                          0.6081081081081081
+Circular:                            0.6081081081081081
+Vacation:                            0.6081081081081081
+Modern Big Band:                     0.6081081081081081
+Sleazy:                              0.6081081081081081
+Regional Blues:                      0.6081081081081081
+New York Blues:                      0.6081081081081081
+School:                              0.6
+Brazilian Pop:                       0.6
+Bossa Nova:                          0.6
+Brazilian Traditions:                0.6
+Mood Music:                          0.6
+Vocal Pop:                           0.6
+Early Pop/Rock:                      0.6
+Brazilian Jazz:                      0.6
+Spring:                              0.6
+Afro-Cuban Jazz:                     0.6
+Dance Bands:                         0.6
+Manic:                               0.6
+Monday Morning:                      0.6
+Stay in Bed:                         0.6
+Free Jazz:                           0.6
+Uncompromising:                      0.6
+Spacey:                              0.6
+Fusion:                              0.6
+Jazz-Rock:                           0.6
+Outrageous:                          0.6
+Druggy:                              0.6
+Acerbic:                             0.6
+Menacing:                            0.6
+Ramshackle:                          0.6
+Reckless:                            0.6
+Confrontational:                     0.6
+Trippy:                              0.6
+Anguished/Distraught:                0.6
+Scary Music:                         0.6
+Continental Jazz:                    0.6
+Gypsy:                               0.6
+South/Eastern European Traditions:   0.6
+Rustic:                              0.6
+Campy:                               0.6
+Jive:                                0.6
+Stride:                              0.6
+Birth:                               0.6
+New Love:                            0.6
+Wedding:                             0.6
+New Orleans Jazz:                    0.6
+Dixieland:                           0.6
+Austere:                             0.6
+Reverent:                            0.6
+Somber:                              0.6
+Jazz-Pop:                            0.6
+Giddy:                               0.6
+Birthday:                            0.6
+Pool Party:                          0.6
+Thoughtful:                          0.6
+Housework:                           0.6
+Tin Pan Alley Pop:                   0.6
+Weary:                               0.6
+Bleak:                               0.6
+Bitter:                              0.6
+Instrumental Rock:                   0.6
+Soul:                                0.6
+Uptown Soul:                         0.6
+Vocalese:                            0.6
+Electric Delta Blues:                0.6
+Juke Joint Blues:                    0.6
+Insular:                             0.6
+Cold:                                0.6
+At the Office:                       0.6
+Movie Themes:                        0.6
+Soundtracks:                         0.6

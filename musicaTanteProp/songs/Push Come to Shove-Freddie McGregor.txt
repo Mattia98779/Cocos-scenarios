@@ -1,0 +1,15 @@
+Affection/Fondness:                  0.9
+In Love:                             0.9
+New Love:                            0.9
+Reminiscing:                         0.9
+Summer:                              0.9
+Amiable/Good-Natured:                0.8
+Earnest:                             0.8
+Lively:                              0.8
+Romantic:                            0.8
+Sentimental:                         0.8
+Gentle:                              0.7000000000000001
+Relaxed:                             0.7000000000000001
+Contemporary Reggae:                 0.6
+Lovers Rock:                         0.6
+Smooth Reggae:                       0.6

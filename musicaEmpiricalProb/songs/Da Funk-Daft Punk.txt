@@ -1,0 +1,25 @@
+Club:                                0.9
+Club/Dance:                          0.8250000000000001
+Electronica:                         0.8250000000000001
+House:                               0.8250000000000001
+Bright:                              0.8250000000000001
+Celebratory:                         0.8250000000000001
+Energetic:                           0.8250000000000001
+Freewheeling:                        0.8250000000000001
+Fun:                                 0.8250000000000001
+Hypnotic:                            0.8250000000000001
+Rousing:                             0.8250000000000001
+Stylish:                             0.8250000000000001
+Exercise/Workout:                    0.8250000000000001
+Partying:                            0.8250000000000001
+Carefree:                            0.75
+Confident:                           0.75
+Exuberant:                           0.75
+Trippy:                              0.75
+Hanging Out:                         0.75
+Playful:                             0.75
+The Creative Side:                   0.75
+Left-Field House:                    0.6749999999999999
+Playful_mood:                        0.6749999999999999
+Witty:                               0.6749999999999999
+Big Beat:                            0.6

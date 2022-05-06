@@ -1,0 +1,9 @@
+Confrontational:                     0.9000000000000001
+Alternative Pop/Rock:                0.7499999999999999
+Alternative/Indie Rock:              0.7499999999999999
+College Rock:                        0.7499999999999999
+Brash:                               0.7499999999999999
+Rebellious:                          0.7499999999999999
+Maverick:                            0.7499999999999999
+Revolutionary:                       0.7499999999999999
+Provocative:                         0.6

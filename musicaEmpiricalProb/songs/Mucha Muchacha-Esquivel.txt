@@ -1,0 +1,24 @@
+Sparkling:                           0.9
+Exotica:                             0.825
+Space Age Pop:                       0.825
+Campy:                               0.825
+Exuberant:                           0.825
+Fun:                                 0.825
+Gleeful:                             0.825
+Playful_mood:                        0.825
+Wry:                                 0.825
+Hanging Out:                         0.825
+Playful:                             0.825
+Pool Party:                          0.825
+Summer:                              0.825
+Amiable/Good-Natured:                0.75
+Carefree:                            0.75
+Energetic:                           0.75
+Freewheeling:                        0.75
+Quirky:                              0.75
+Whimsical:                           0.75
+Mischievous:                         0.75
+Lounge:                              0.6749999999999999
+The Creative Side:                   0.6749999999999999
+In Love:                             0.6
+New Love:                            0.6

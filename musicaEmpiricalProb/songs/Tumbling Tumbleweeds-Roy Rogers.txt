@@ -1,0 +1,10 @@
+Cowboy:                              0.9
+The Great Outdoors:                  0.9
+Whimsical:                           0.7999999999999999
+Amiable/Good-Natured:                0.7
+Carefree:                            0.7
+Lush:                                0.7
+Playful_mood:                        0.7
+Witty:                               0.7
+Long Walk:                           0.7
+Traditional Country:                 0.6

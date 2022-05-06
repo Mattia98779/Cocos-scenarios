@@ -1,0 +1,15 @@
+Fun:                                 0.9
+Honky Tonk:                          0.8400000000000001
+Traditional Country:                 0.8400000000000001
+Amiable/Good-Natured:                0.8400000000000001
+Carefree:                            0.78
+Cheerful:                            0.78
+Earnest:                             0.78
+Gentle:                              0.6599999999999999
+Refined:                             0.6599999999999999
+Drinking:                            0.6599999999999999
+Late Night:                          0.6599999999999999
+Reminiscing:                         0.6599999999999999
+Earthy:                              0.6
+Laid-Back/Mellow:                    0.6
+Sentimental:                         0.6

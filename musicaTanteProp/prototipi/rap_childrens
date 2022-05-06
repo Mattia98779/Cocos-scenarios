@@ -1,0 +1,56 @@
+#Title composizione
+Title : rap-childrens
+
+#Concetto Principale
+Head Concept Name : rap
+
+#Concetto Modificatore
+Modifier Concept Name : childrens
+
+
+
+
+
+T(modifier), Hanging Out, 0.9
+T(modifier), Playful, 0.9
+T(modifier), Fun, 0.8857142857142857
+T(modifier), Sing-Alongs, 0.8714285714285714
+T(modifier), Amiable/Good-Natured, 0.8714285714285714
+T(modifier), Playful_mood, 0.8714285714285714
+T(modifier), Cheerful, 0.8571428571428572
+T(modifier), Children's Folk, 0.7857142857142857
+T(modifier), Family Gatherings, 0.7714285714285715
+T(modifier), Whimsical, 0.7571428571428571
+T(modifier), Laid-Back/Mellow, 0.7428571428571429
+T(modifier), Energetic, 0.7285714285714286
+T(modifier), Carefree, 0.7142857142857143
+
+T(head), Brash, 0.9
+T(head), Street-Smart, 0.864
+T(head), Confident, 0.8400000000000001
+T(head), Partying, 0.8400000000000001
+T(head), East Coast Rap, 0.804
+T(head), Swaggering, 0.804
+T(head), Guys Night Out, 0.792
+T(head), Cool & Cocky, 0.792
+T(head), Celebratory, 0.78
+T(head), Rousing, 0.78
+T(head), Energetic, 0.78
+T(head), Aggressive, 0.768
+T(head), Boisterous, 0.768
+T(head), Playful_mood, 0.768
+T(head), Confrontational, 0.756
+T(head), Hanging Out, 0.756
+T(head), Rambunctious, 0.744
+T(head), Raucous, 0.732
+T(head), Golden Age, 0.72
+T(head), Uncompromising, 0.72
+T(head), Visceral, 0.72
+T(head), Hardcore Rap, 0.72
+T(head), Fun, 0.72
+T(head), Rebellious, 0.708
+T(head), Urgent, 0.708
+T(head), Thuggish, 0.708
+T(head), Rowdy, 0.708
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.4592864329230624e-16

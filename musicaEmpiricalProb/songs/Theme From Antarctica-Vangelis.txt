@@ -1,0 +1,23 @@
+Contemporary Instrumental:           0.9
+Progressive Electronic:              0.9
+Classical Crossover:                 0.8
+Atmospheric:                         0.8
+Delicate:                            0.8
+Ethereal:                            0.8
+Reflective:                          0.8
+Soothing:                            0.8
+Reflection:                          0.8
+Light:                               0.7
+Refined:                             0.7
+Restrained:                          0.7
+Introspection:                       0.7
+The Creative Side:                   0.7
+Adult Alternative:                   0.6
+Calm/Peaceful:                       0.6
+Cold:                                0.6
+Detached:                            0.6
+Hypnotic:                            0.6
+Sparkling:                           0.6
+Theatrical:                          0.6
+Wintry:                              0.6
+Winter:                              0.6

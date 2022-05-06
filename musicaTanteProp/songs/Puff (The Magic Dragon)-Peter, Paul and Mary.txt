@@ -1,0 +1,27 @@
+Children's Folk:                     0.9
+Folk-Pop:                            0.9
+Melancholy:                          0.9
+Bittersweet:                         0.84
+Gentle:                              0.84
+Nostalgic:                           0.84
+Yearning:                            0.84
+Fun:                                 0.78
+Innocent:                            0.78
+Laid-Back/Mellow:                    0.78
+Plaintive:                           0.78
+Playful_mood:                        0.78
+Rousing:                             0.78
+Sad:                                 0.78
+Sweet:                               0.78
+Warm:                                0.78
+Wistful:                             0.78
+Birthday:                            0.78
+Amiable/Good-Natured:                0.72
+Literate:                            0.72
+Poignant:                            0.72
+Whimsical:                           0.72
+Delicate:                            0.66
+Intimate:                            0.66
+Reminiscing:                         0.66
+Reflective:                          0.6
+Sentimental:                         0.6

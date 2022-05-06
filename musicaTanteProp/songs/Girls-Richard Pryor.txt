@@ -1,0 +1,24 @@
+Comedy:                              0.9
+Standup Comedy:                      0.9
+Irreverent:                          0.9
+Uncompromising:                      0.9
+Cool & Cocky:                        0.9
+Hanging Out:                         0.9
+Playful:                             0.9
+Small Gathering:                     0.9
+The Creative Side:                   0.9
+Ethnic Comedy:                       0.84
+Street-Smart:                        0.84
+Swaggering:                          0.84
+Gutsy:                               0.78
+Self-Conscious:                      0.78
+Outrageous:                          0.72
+Provocative:                         0.72
+Rebellious:                          0.72
+Volatile:                            0.72
+Blue Humor:                          0.66
+Confrontational:                     0.66
+Sardonic:                            0.66
+Sexual:                              0.66
+Angry:                               0.6
+Brash:                               0.6

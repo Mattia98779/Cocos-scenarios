@@ -1,0 +1,32 @@
+Contemporary Pop/Rock:               0.9
+Hard Rock:                           0.9
+Boisterous:                          0.9
+Bravado:                             0.9
+Celebratory:                         0.9
+Energetic:                           0.9
+Fun:                                 0.9
+Gutsy:                               0.9
+Lively:                              0.9
+Sentimental:                         0.9
+Visceral:                            0.9
+Wistful:                             0.9
+Yearning:                            0.9
+Cool & Cocky:                        0.9
+Heartache:                           0.9
+In Love:                             0.9
+New Love:                            0.9
+Partying:                            0.9
+Arena Rock:                          0.8625
+Confident:                           0.8625
+Exuberant:                           0.8625
+Freewheeling:                        0.8625
+Melancholy:                          0.8625
+Rousing:                             0.8625
+Searching:                           0.8625
+Sexy:                                0.8625
+Guys Night Out:                      0.8625
+Mischievous:                         0.8625
+Summer:                              0.8625
+Motivation:                          0.75
+Reminiscing:                         0.75
+Power Pop:                           0.6

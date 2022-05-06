@@ -1,0 +1,67 @@
+#Title composizione
+Title : rap-classical
+
+#Concetto Principale
+Head Concept Name : rap
+
+#Concetto Modificatore
+Modifier Concept Name : classical
+
+
+
+
+
+T(modifier), Sentimental, 0.9
+T(modifier), Confident, 0.9
+T(modifier), Classical Crossover, 0.8
+T(modifier), Melancholy, 0.8
+T(modifier), Sensual, 0.8
+T(modifier), Complex, 0.8
+T(modifier), Soothing, 0.8
+T(modifier), Sophisticated, 0.8
+T(modifier), Dramatic, 0.8
+T(modifier), Relaxation, 0.8
+T(modifier), Ambitious, 0.7
+T(modifier), Intimate, 0.7
+T(modifier), Romantic, 0.7
+T(modifier), Clinical, 0.7
+T(modifier), Precious, 0.7
+T(modifier), Spiritual, 0.7
+T(modifier), Reflective, 0.7
+T(modifier), Theatrical, 0.7
+T(modifier), Elegant, 0.7
+T(modifier), Reverent, 0.7
+T(modifier), Comfort, 0.7
+T(modifier), Reflection, 0.7
+T(modifier), Celebration, 0.7
+T(modifier), Thoughtful, 0.7
+
+T(head), Brash, 0.9
+T(head), Street-Smart, 0.864
+T(head), Confident, 0.8400000000000001
+T(head), Partying, 0.8400000000000001
+T(head), East Coast Rap, 0.804
+T(head), Swaggering, 0.804
+T(head), Guys Night Out, 0.792
+T(head), Cool & Cocky, 0.792
+T(head), Celebratory, 0.78
+T(head), Rousing, 0.78
+T(head), Energetic, 0.78
+T(head), Aggressive, 0.768
+T(head), Boisterous, 0.768
+T(head), Playful_mood, 0.768
+T(head), Confrontational, 0.756
+T(head), Hanging Out, 0.756
+T(head), Rambunctious, 0.744
+T(head), Raucous, 0.732
+T(head), Golden Age, 0.72
+T(head), Uncompromising, 0.72
+T(head), Visceral, 0.72
+T(head), Hardcore Rap, 0.72
+T(head), Fun, 0.72
+T(head), Rebellious, 0.708
+T(head), Urgent, 0.708
+T(head), Thuggish, 0.708
+T(head), Rowdy, 0.708
+
+Result : '1', '1', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.6943536115040433e-22

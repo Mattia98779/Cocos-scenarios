@@ -1,0 +1,74 @@
+#Title composizione
+Title : country-blues
+
+#Concetto Principale
+Head Concept Name : country
+
+#Concetto Modificatore
+Modifier Concept Name : blues
+
+
+
+
+
+T(modifier), Regional Blues, 0.9
+T(modifier), Earthy, 0.8615384615384616
+T(modifier), Gritty, 0.8615384615384616
+T(modifier), Passionate, 0.8153846153846154
+T(modifier), Late Night, 0.8153846153846154
+T(modifier), Hanging Out, 0.7615384615384615
+T(modifier), Greasy, 0.7538461538461538
+T(modifier), Street-Smart, 0.7461538461538462
+T(modifier), Swaggering, 0.7461538461538462
+T(modifier), Organic, 0.7461538461538462
+T(modifier), Feeling Blue, 0.7307692307692307
+T(modifier), Earnest, 0.7307692307692307
+T(modifier), Intimate, 0.7230769230769231
+T(modifier), Cool & Cocky, 0.7230769230769231
+T(modifier), Boisterous, 0.7230769230769231
+T(modifier), Rollicking, 0.7153846153846154
+T(modifier), Confident, 0.7153846153846154
+T(modifier), Road Trip, 0.7153846153846154
+T(modifier), Rousing, 0.7076923076923077
+T(modifier), Freedom, 0.7076923076923077
+T(modifier), Electric Chicago Blues, 0.7076923076923077
+T(modifier), Gutsy, 0.7076923076923077
+T(modifier), Confrontational, 0.7
+T(modifier), Intense, 0.7
+T(modifier), Chicago Blues, 0.7
+
+T(head), Traditional Country, 0.9
+T(head), Earthy, 0.890625
+T(head), Earnest, 0.8625
+T(head), Reflective, 0.84375
+T(head), Plaintive, 0.815625
+T(head), Amiable/Good-Natured, 0.80625
+T(head), Sentimental, 0.7781250000000001
+T(head), Organic, 0.76875
+T(head), Yearning, 0.759375
+T(head), Feeling Blue, 0.759375
+T(head), Wistful, 0.75
+T(head), Smooth, 0.7406250000000001
+T(head), Melancholy, 0.73125
+T(head), Intimate, 0.73125
+T(head), Late Night, 0.73125
+T(head), Lively, 0.73125
+T(head), Rousing, 0.73125
+T(head), Passionate, 0.721875
+T(head), Honky Tonk, 0.721875
+T(head), Contemporary Country, 0.721875
+T(head), Rollicking, 0.721875
+T(head), Drinking, 0.721875
+T(head), Playful_mood, 0.721875
+T(head), Poignant, 0.7125
+T(head), Heartache, 0.7125
+T(head), Introspection, 0.7125
+T(head), Country-Pop, 0.7125
+T(head), Freewheeling, 0.7125
+T(head), Fun, 0.7125
+T(head), Reflection, 0.703125
+T(head), Rustic, 0.703125
+T(head), Road Trip, 0.703125
+T(head), Swaggering, 0.703125
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 7.372726603588112e-26

@@ -1,0 +1,19 @@
+Blues-Rock:                          0.9
+Chicago Blues:                       0.9
+Electric Chicago Blues:              0.9
+Electric Harmonica Blues:            0.9
+Harmonica Blues:                     0.9
+Regional Blues:                      0.9
+Aggressive:                          0.9
+Bravado:                             0.9
+Confrontational:                     0.84
+Earthy:                              0.84
+Late Night:                          0.84
+Greasy:                              0.78
+Gritty:                              0.78
+Freedom:                             0.78
+Menacing:                            0.72
+Passionate:                          0.72
+Street-Smart:                        0.66
+Swaggering:                          0.6
+Unsettling:                          0.6

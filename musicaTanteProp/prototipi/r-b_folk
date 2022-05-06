@@ -1,0 +1,103 @@
+#Title composizione
+Title : r-b-folk
+
+#Concetto Principale
+Head Concept Name : r-b
+
+#Concetto Modificatore
+Modifier Concept Name : folk
+
+
+
+
+
+T(modifier), Earthy, 0.9
+T(modifier), Poignant, 0.8896551724137931
+T(modifier), Earnest, 0.8896551724137931
+T(modifier), Bittersweet, 0.8482758620689655
+T(modifier), Reflective, 0.8172413793103448
+T(modifier), Plaintive, 0.806896551724138
+T(modifier), Traditional Folk, 0.806896551724138
+T(modifier), Wistful, 0.7965517241379311
+T(modifier), Yearning, 0.7965517241379311
+T(modifier), Folk Revival, 0.7965517241379311
+T(modifier), Amiable/Good-Natured, 0.7862068965517242
+T(modifier), Empowering, 0.7862068965517242
+T(modifier), Intimate, 0.7758620689655172
+T(modifier), Reflection, 0.7758620689655172
+T(modifier), Freedom, 0.7758620689655172
+T(modifier), Organic, 0.7655172413793103
+T(modifier), Melancholy, 0.7551724137931035
+T(modifier), Sentimental, 0.7551724137931035
+T(modifier), Passionate, 0.7448275862068965
+T(modifier), Introspection, 0.7448275862068965
+T(modifier), Sunday Afternoon, 0.7344827586206897
+T(modifier), Political Folk, 0.7344827586206897
+T(modifier), Feeling Blue, 0.7344827586206897
+T(modifier), Literate, 0.7137931034482758
+T(modifier), Early Morning, 0.7137931034482758
+T(modifier), Autumn, 0.703448275862069
+T(modifier), Rainy Day, 0.703448275862069
+T(modifier), Folksongs, 0.703448275862069
+T(modifier), Contemporary Folk, 0.703448275862069
+
+T(head), Soul, 0.9
+T(head), Playful_mood, 0.855
+T(head), Energetic, 0.855
+T(head), Partying, 0.855
+T(head), Warm, 0.855
+T(head), Smooth, 0.855
+T(head), Rousing, 0.84
+T(head), Lively, 0.84
+T(head), Celebratory, 0.84
+T(head), Confident, 0.84
+T(head), Exuberant, 0.84
+T(head), In Love, 0.825
+T(head), Fun, 0.825
+T(head), Swaggering, 0.81
+T(head), Sex, 0.81
+T(head), Urban, 0.81
+T(head), Stylish, 0.81
+T(head), Passionate, 0.7949999999999999
+T(head), Sophisticated, 0.7949999999999999
+T(head), Joyous, 0.78
+T(head), Sweet, 0.78
+T(head), Sexy, 0.78
+T(head), Girls Night Out, 0.78
+T(head), Sensual, 0.78
+T(head), Happy, 0.765
+T(head), Amiable/Good-Natured, 0.765
+T(head), Bright, 0.765
+T(head), Soothing, 0.765
+T(head), TGIF, 0.75
+T(head), Carefree, 0.75
+T(head), Seduction, 0.75
+T(head), Late Night, 0.735
+T(head), Funk, 0.735
+T(head), Intimate, 0.735
+T(head), Slick, 0.735
+T(head), Laid-Back/Mellow, 0.735
+T(head), Romantic, 0.735
+T(head), Summery, 0.735
+T(head), Romantic Evening, 0.735
+T(head), Lush, 0.735
+T(head), Freewheeling, 0.72
+T(head), Gentle, 0.72
+T(head), Sentimental, 0.72
+T(head), Boisterous, 0.72
+T(head), Contemporary Pop/Rock, 0.705
+T(head), Pop-Soul, 0.705
+T(head), Earnest, 0.705
+T(head), Poignant, 0.705
+T(head), Empowering, 0.705
+T(head), Motivation, 0.705
+T(head), Summer, 0.705
+T(head), Dramatic, 0.705
+T(head), Yearning, 0.705
+T(head), Heartache, 0.705
+T(head), Relaxed, 0.705
+T(head), Slow Dance, 0.705
+T(head), Cheerful, 0.705
+T(head), Soft/Quiet, 0.705
+
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 2.0546674457757676e-45

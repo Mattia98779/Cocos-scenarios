@@ -1,0 +1,37 @@
+Big Band:                            0.9
+Bright:                              0.9
+Refined:                             0.9
+Celebration:                         0.9
+Comfort:                             0.9
+Late Night:                          0.9
+Partying:                            0.9
+Reminiscing:                         0.9
+Small Gathering:                     0.9
+TGIF:                                0.9
+Mainstream Jazz:                     0.8400000000000001
+Earnest:                             0.8400000000000001
+Earthy:                              0.8400000000000001
+Energetic:                           0.8400000000000001
+Exuberant:                           0.8400000000000001
+Joyous:                              0.8400000000000001
+Sophisticated:                       0.8400000000000001
+Swing:                               0.78
+Organic:                             0.78
+Passionate:                          0.78
+Stylish:                             0.78
+Amiable/Good-Natured:                0.72
+Carefree:                            0.72
+Celebratory:                         0.72
+Light:                               0.72
+Playful_mood:                        0.72
+Early Jazz:                          0.66
+Confident:                           0.66
+Elegant:                             0.66
+Freewheeling:                        0.66
+Fun:                                 0.66
+Lively:                              0.66
+Rollicking:                          0.66
+Rousing:                             0.66
+Rowdy:                               0.66
+Swaggering:                          0.66
+Happy:                               0.6

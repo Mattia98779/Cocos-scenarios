@@ -1,0 +1,13 @@
+Folk Revival:                        0.9
+Folk-Pop:                            0.9
+Brash:                               0.9
+Rousing:                             0.9
+Confident:                           0.84
+Earnest:                             0.84
+Energetic:                           0.84
+Rollicking:                          0.84
+Empowering:                          0.84
+Freedom:                             0.84
+Exuberant:                           0.78
+Rebellious:                          0.66
+Revolutionary:                       0.6

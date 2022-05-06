@@ -1,0 +1,21 @@
+Instrumental Pop:                    0.9
+Mood Music:                          0.9
+Orchestral/Easy Listening:           0.9
+Amiable/Good-Natured:                0.9
+Calm/Peaceful:                       0.8
+Laid-Back/Mellow:                    0.8
+Romantic:                            0.8
+Sensual:                             0.8
+Background Music:                    0.8
+Romantic Evening:                    0.8
+Sunday Afternoon:                    0.8
+Delicate:                            0.7
+Gentle:                              0.7
+Refined:                             0.7
+Restrained:                          0.7
+Soothing:                            0.7
+Sweet:                               0.7
+Dinner Ambiance:                     0.7
+Relaxation:                          0.7
+Relaxed:                             0.6
+Reflection:                          0.6

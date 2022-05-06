@@ -1,0 +1,18 @@
+Early R&B:                           0.9
+Rock & Roll:                         0.9
+Rousing:                             0.9
+Partying:                            0.9
+Playful_mood:                        0.8400000000000001
+Passionate:                          0.78
+Joyous:                              0.72
+Energetic:                           0.66
+Exciting:                            0.66
+Freewheeling:                        0.66
+Lively:                              0.66
+Raucous:                             0.66
+Hanging Out:                         0.66
+Late Night:                          0.66
+Playful:                             0.66
+Jazz Blues:                          0.6
+Swaggering:                          0.6
+TGIF:                                0.6

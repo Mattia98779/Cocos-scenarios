@@ -1,0 +1,38 @@
+Detroit Techno:                      0.9
+Aggressive:                          0.9
+Cerebral:                            0.9
+Clinical:                            0.9
+Detached:                            0.9
+Hypnotic:                            0.9
+Intense:                             0.9
+Menacing:                            0.9
+Nocturnal:                           0.9
+Club:                                0.9
+Acid Techno:                         0.825
+Minimal Techno:                      0.825
+Techno:                              0.825
+Druggy:                              0.825
+Urgent:                              0.825
+Energetic:                           0.75
+Slick:                               0.75
+Dramatic:                            0.675
+Ominous:                             0.675
+Provocative:                         0.675
+Tense/Anxious:                       0.675
+Trippy:                              0.675
+Uncompromising:                      0.675
+Unsettling:                          0.675
+Bleak:                               0.6
+Boisterous:                          0.6
+Cold:                                0.6
+Difficult:                           0.6
+Exciting:                            0.6
+Fiery:                               0.6
+Harsh:                               0.6
+Lively:                              0.6
+Empowering:                          0.6
+Exercise/Workout:                    0.6
+Late Night:                          0.6
+Night Driving:                       0.6
+Partying:                            0.6
+Revolutionary:                       0.6

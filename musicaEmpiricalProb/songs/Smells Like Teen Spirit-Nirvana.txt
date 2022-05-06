@@ -1,0 +1,24 @@
+Alternative/Indie Rock:              0.9
+Angst-Ridden:                        0.8625
+Cathartic:                           0.8625
+Fiery:                               0.8625
+Aggressive:                          0.825
+Raucous:                             0.825
+Rousing:                             0.825
+Snide:                               0.825
+Urgent:                              0.825
+Cool & Cocky:                        0.825
+Acerbic:                             0.7875000000000001
+Bleak:                               0.7875000000000001
+Confrontational:                     0.7875000000000001
+Rebellious:                          0.7875000000000001
+Tense/Anxious:                       0.7875000000000001
+Visceral:                            0.7875000000000001
+Volatile:                            0.7875000000000001
+Brash:                               0.75
+Cynical/Sarcastic:                   0.75
+Energetic:                           0.75
+Harsh:                               0.75
+Guys Night Out:                      0.75
+Alternative Pop/Rock:                0.6
+Grunge:                              0.6

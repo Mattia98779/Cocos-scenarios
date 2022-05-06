@@ -1,0 +1,82 @@
+#Title composizione
+Title : country-easy-listening
+
+#Concetto Principale
+Head Concept Name : country
+
+#Concetto Modificatore
+Modifier Concept Name : easy-listening
+
+
+
+
+
+T(modifier), Dinner Ambiance, 0.9
+T(modifier), Amiable/Good-Natured, 0.8884615384615384
+T(modifier), Relaxation, 0.8653846153846154
+T(modifier), Soothing, 0.8653846153846154
+T(modifier), Sophisticated, 0.8538461538461539
+T(modifier), Refined, 0.8307692307692308
+T(modifier), Background Music, 0.8307692307692308
+T(modifier), Orchestral/Easy Listening, 0.8192307692307692
+T(modifier), Laid-Back/Mellow, 0.8076923076923077
+T(modifier), Smooth, 0.8076923076923077
+T(modifier), Romantic Evening, 0.8076923076923077
+T(modifier), Lounge, 0.7961538461538462
+T(modifier), Atmospheric, 0.7961538461538462
+T(modifier), Light, 0.7846153846153846
+T(modifier), Playful_mood, 0.7846153846153846
+T(modifier), Romantic, 0.7846153846153846
+T(modifier), Stylish, 0.7730769230769231
+T(modifier), Sentimental, 0.7730769230769231
+T(modifier), Instrumental Pop, 0.7615384615384615
+T(modifier), Calm/Peaceful, 0.75
+T(modifier), Gentle, 0.75
+T(modifier), Slick, 0.7384615384615385
+T(modifier), Playful, 0.7384615384615385
+T(modifier), Dramatic, 0.7384615384615385
+T(modifier), Elegant, 0.7384615384615385
+T(modifier), Bright, 0.7269230769230769
+T(modifier), Lively, 0.7269230769230769
+T(modifier), Relaxed, 0.7269230769230769
+T(modifier), Fun, 0.7153846153846154
+T(modifier), Dreamy, 0.7153846153846154
+T(modifier), Sweet, 0.7153846153846154
+T(modifier), Whimsical, 0.7153846153846154
+T(modifier), Hanging Out, 0.7038461538461539
+
+T(head), Traditional Country, 0.9
+T(head), Earthy, 0.890625
+T(head), Earnest, 0.8625
+T(head), Reflective, 0.84375
+T(head), Plaintive, 0.815625
+T(head), Amiable/Good-Natured, 0.80625
+T(head), Sentimental, 0.7781250000000001
+T(head), Organic, 0.76875
+T(head), Yearning, 0.759375
+T(head), Feeling Blue, 0.759375
+T(head), Wistful, 0.75
+T(head), Smooth, 0.7406250000000001
+T(head), Melancholy, 0.73125
+T(head), Intimate, 0.73125
+T(head), Late Night, 0.73125
+T(head), Lively, 0.73125
+T(head), Rousing, 0.73125
+T(head), Passionate, 0.721875
+T(head), Honky Tonk, 0.721875
+T(head), Contemporary Country, 0.721875
+T(head), Rollicking, 0.721875
+T(head), Drinking, 0.721875
+T(head), Playful_mood, 0.721875
+T(head), Poignant, 0.7125
+T(head), Heartache, 0.7125
+T(head), Introspection, 0.7125
+T(head), Country-Pop, 0.7125
+T(head), Freewheeling, 0.7125
+T(head), Fun, 0.7125
+T(head), Reflection, 0.703125
+T(head), Rustic, 0.703125
+T(head), Road Trip, 0.703125
+T(head), Swaggering, 0.703125
+
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.0816182279556699e-31

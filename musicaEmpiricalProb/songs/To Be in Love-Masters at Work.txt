@@ -1,0 +1,13 @@
+Club:                                0.9
+Club/Dance:                          0.8500000000000001
+Garage:                              0.8500000000000001
+House:                               0.8500000000000001
+Boisterous:                          0.8500000000000001
+Rousing:                             0.8500000000000001
+Slick:                               0.8500000000000001
+Energetic:                           0.8
+Dramatic:                            0.75
+Hypnotic:                            0.75
+Yearning:                            0.75
+Exuberant:                           0.7
+Rowdy:                               0.6

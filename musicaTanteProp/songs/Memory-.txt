@@ -1,0 +1,5 @@
+Laid-Back/Mellow:                    0.9
+Romantic:                            0.9
+Yearning:                            0.9
+Feeling Blue:                        0.9
+Loss/Grief:                          0.9

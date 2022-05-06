@@ -1,0 +1,23 @@
+Sentimental:                         0.9
+Cowboy:                              0.8571428571428572
+Traditional Country:                 0.8142857142857143
+Amiable/Good-Natured:                0.8142857142857143
+Earthy:                              0.8142857142857143
+Fun:                                 0.8142857142857143
+Atmospheric:                         0.7714285714285714
+Carefree:                            0.7714285714285714
+Earnest:                             0.7714285714285714
+Gentle:                              0.7714285714285714
+Innocent:                            0.7714285714285714
+Organic:                             0.7714285714285714
+The Great Outdoors:                  0.7714285714285714
+Cheerful:                            0.7285714285714285
+Light:                               0.7285714285714285
+Lively:                              0.7285714285714285
+Refined:                             0.7285714285714285
+Rollicking:                          0.7285714285714285
+Rustic:                              0.7285714285714285
+Soothing:                            0.7285714285714285
+Sweet:                               0.7285714285714285
+Relaxation:                          0.6428571428571428
+Road Trip:                           0.6

@@ -1,0 +1,21 @@
+Avant-Garde Jazz:                    0.9
+Free Jazz:                           0.9
+Post-Bop:                            0.9
+Ambitious:                           0.9
+Cathartic:                           0.9
+Sophisticated:                       0.9
+Freedom:                             0.9
+Introspection:                       0.9
+Revolutionary:                       0.9
+The Creative Side:                   0.9
+Complex:                             0.8400000000000001
+Searching:                           0.8400000000000001
+Eccentric:                           0.78
+Uncompromising:                      0.78
+Enigmatic:                           0.72
+Provocative:                         0.72
+Sprawling:                           0.72
+Knotty:                              0.66
+Spacey:                              0.66
+Fractured:                           0.6
+Freewheeling:                        0.6

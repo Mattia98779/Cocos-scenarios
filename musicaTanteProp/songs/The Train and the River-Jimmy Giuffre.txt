@@ -1,0 +1,41 @@
+Cool:                                0.9
+Mainstream Jazz:                     0.9
+Progressive Jazz:                    0.9
+West Coast Jazz:                     0.9
+Cerebral:                            0.9
+Confident:                           0.9
+Dramatic:                            0.9
+Epic:                                0.9
+Freewheeling:                        0.9
+Fun:                                 0.9
+Playful_mood:                        0.9
+Rousing:                             0.9
+Sophisticated:                       0.9
+Sprawling:                           0.9
+Warm:                                0.9
+Witty:                               0.9
+Wry:                                 0.9
+Cool & Cocky:                        0.9
+Hanging Out:                         0.9
+Playful:                             0.9
+Amiable/Good-Natured:                0.8400000000000001
+Literate:                            0.8400000000000001
+Organic:                             0.8400000000000001
+Searching:                           0.8400000000000001
+Street-Smart:                        0.8400000000000001
+Whimsical:                           0.8400000000000001
+Freedom:                             0.8400000000000001
+Mischievous:                         0.8400000000000001
+Victory:                             0.8400000000000001
+Earnest:                             0.78
+Earthy:                              0.78
+Passionate:                          0.78
+Affirmation:                         0.78
+Empowering:                          0.78
+Sports:                              0.78
+The Creative Side:                   0.78
+The Great Outdoors:                  0.78
+Insular:                             0.72
+Relaxed:                             0.72
+Cold:                                0.6599999999999999
+Smooth:                              0.6

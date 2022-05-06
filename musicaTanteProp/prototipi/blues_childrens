@@ -1,0 +1,54 @@
+#Title composizione
+Title : blues-childrens
+
+#Concetto Principale
+Head Concept Name : blues
+
+#Concetto Modificatore
+Modifier Concept Name : childrens
+
+
+
+
+
+T(modifier), Hanging Out, 0.9
+T(modifier), Playful, 0.9
+T(modifier), Fun, 0.8857142857142857
+T(modifier), Sing-Alongs, 0.8714285714285714
+T(modifier), Amiable/Good-Natured, 0.8714285714285714
+T(modifier), Playful_mood, 0.8714285714285714
+T(modifier), Cheerful, 0.8571428571428572
+T(modifier), Children's Folk, 0.7857142857142857
+T(modifier), Family Gatherings, 0.7714285714285715
+T(modifier), Whimsical, 0.7571428571428571
+T(modifier), Laid-Back/Mellow, 0.7428571428571429
+T(modifier), Energetic, 0.7285714285714286
+T(modifier), Carefree, 0.7142857142857143
+
+T(head), Regional Blues, 0.9
+T(head), Earthy, 0.8615384615384616
+T(head), Gritty, 0.8615384615384616
+T(head), Passionate, 0.8153846153846154
+T(head), Late Night, 0.8153846153846154
+T(head), Hanging Out, 0.7615384615384615
+T(head), Greasy, 0.7538461538461538
+T(head), Street-Smart, 0.7461538461538462
+T(head), Swaggering, 0.7461538461538462
+T(head), Organic, 0.7461538461538462
+T(head), Feeling Blue, 0.7307692307692307
+T(head), Earnest, 0.7307692307692307
+T(head), Intimate, 0.7230769230769231
+T(head), Cool & Cocky, 0.7230769230769231
+T(head), Boisterous, 0.7230769230769231
+T(head), Rollicking, 0.7153846153846154
+T(head), Confident, 0.7153846153846154
+T(head), Road Trip, 0.7153846153846154
+T(head), Rousing, 0.7076923076923077
+T(head), Freedom, 0.7076923076923077
+T(head), Electric Chicago Blues, 0.7076923076923077
+T(head), Gutsy, 0.7076923076923077
+T(head), Confrontational, 0.7
+T(head), Intense, 0.7
+T(head), Chicago Blues, 0.7
+
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 1.1380315159138483e-14

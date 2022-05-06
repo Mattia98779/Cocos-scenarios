@@ -1,0 +1,36 @@
+Dance-Pop:                           0.9000000000000001
+Pop:                                 0.9000000000000001
+Urban:                               0.9000000000000001
+Playful_mood:                        0.9000000000000001
+Slick:                               0.9000000000000001
+Stylish:                             0.9000000000000001
+Swaggering:                          0.9000000000000001
+Girls Night Out:                     0.9000000000000001
+Partying:                            0.9000000000000001
+Carefree:                            0.8625
+Aggressive:                          0.8250000000000001
+Celebratory:                         0.8250000000000001
+Confident:                           0.8250000000000001
+Energetic:                           0.8250000000000001
+Exciting:                            0.8250000000000001
+Exuberant:                           0.8250000000000001
+Fun:                                 0.8250000000000001
+Rambunctious:                        0.8250000000000001
+Urgent:                              0.8250000000000001
+Celebration:                         0.8250000000000001
+Club:                                0.8250000000000001
+Mischievous:                         0.8250000000000001
+Playful:                             0.8250000000000001
+Sex:                                 0.8250000000000001
+TGIF:                                0.8250000000000001
+Angry:                               0.75
+Humorous:                            0.75
+Hypnotic:                            0.75
+Intense:                             0.75
+Quirky:                              0.75
+In Love:                             0.75
+Ironic:                              0.6
+Sarcastic:                           0.6
+Breakup:                             0.6
+Heartache:                           0.6
+Separation:                          0.6

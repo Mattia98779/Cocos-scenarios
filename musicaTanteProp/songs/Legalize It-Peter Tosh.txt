@@ -1,0 +1,21 @@
+Political Reggae:                    0.9
+Roots Reggae:                        0.9
+Hedonistic:                          0.9
+Hypnotic:                            0.9
+Poignant:                            0.9
+Provocative:                         0.9
+Rebellious:                          0.9
+Druggy:                              0.8250000000000001
+Earnest:                             0.8250000000000001
+Laid-Back/Mellow:                    0.8250000000000001
+Freedom:                             0.8250000000000001
+Partying:                            0.8250000000000001
+Passionate:                          0.75
+Playful_mood:                        0.75
+Hanging Out:                         0.75
+Gentle:                              0.675
+Summery:                             0.675
+Politics/Society:                    0.675
+Atmospheric:                         0.6
+Revolutionary:                       0.6
+Small Gathering:                     0.6

@@ -1,0 +1,21 @@
+Progressive Electronic:              0.9
+Ethereal:                            0.9
+Delicate:                            0.8
+Elegant:                             0.8
+Hypnotic:                            0.8
+Melancholy:                          0.8
+Refined:                             0.8
+Sparkling:                           0.8
+Wintry:                              0.8
+Feeling Blue:                        0.8
+Late Night:                          0.8
+Reflection:                          0.8
+Elaborate:                           0.7
+Lush:                                0.7
+Nocturnal:                           0.7
+Reflective:                          0.7
+Introspection:                       0.7
+Romantic Evening:                    0.7
+Contemporary Instrumental:           0.6
+Ethnic Fusion:                       0.6
+Dramatic:                            0.6

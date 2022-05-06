@@ -1,0 +1,26 @@
+Traditional Pop:                     0.9000000000000001
+Vocal Pop:                           0.9000000000000001
+Bright:                              0.9000000000000001
+Carefree:                            0.9000000000000001
+Effervescent:                        0.9000000000000001
+Refined:                             0.9000000000000001
+Picnic:                              0.9000000000000001
+Pool Party:                          0.9000000000000001
+Confident:                           0.8
+Light:                               0.8
+Lively:                              0.8
+Vocal Jazz:                          0.7
+Cheerful:                            0.7
+Energetic:                           0.7
+Joyous:                              0.7
+Playful_mood:                        0.7
+Sparkling:                           0.7
+Summery:                             0.7
+Relaxation:                          0.7
+Swing:                               0.6
+Exciting:                            0.6
+Exuberant:                           0.6
+Happy:                               0.6
+Rousing:                             0.6
+Smooth:                              0.6
+Day Driving:                         0.6

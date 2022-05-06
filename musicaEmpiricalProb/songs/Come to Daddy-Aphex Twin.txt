@@ -1,0 +1,30 @@
+Drill'n'bass:                        0.9
+Electronica:                         0.9
+Experimental Jungle:                 0.9
+Techno:                              0.9
+Confrontational:                     0.9
+Hostile:                             0.9
+Intense:                             0.9
+Malevolent:                          0.9
+Menacing:                            0.9
+Outrageous:                          0.9
+Visceral:                            0.9
+Scary Music:                         0.9
+Jungle/Drum'n'Bass:                  0.8625
+Aggressive:                          0.8625
+Fierce:                              0.8625
+Harsh:                               0.8625
+Nihilistic:                          0.8625
+Ominous:                             0.8625
+Tense/Anxious:                       0.8625
+Wintry:                              0.8625
+Motivation:                          0.825
+Angry:                               0.7875
+Bitter:                              0.7875
+Bleak:                               0.7875
+Manic:                               0.7875
+Volatile:                            0.7875
+Breakcore:                           0.75
+Eerie:                               0.75
+Raucous:                             0.75
+Experimental Techno:                 0.6

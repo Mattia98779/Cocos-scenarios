@@ -1,0 +1,7 @@
+House:                               0.9
+Progressive House:                   0.9
+Restrained:                          0.9
+Wintry:                              0.9
+Club/Dance:                          0.6
+Funky Breaks:                        0.6
+Lively:                              0.6

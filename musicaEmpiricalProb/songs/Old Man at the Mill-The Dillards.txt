@@ -1,0 +1,15 @@
+Nostalgic:                           0.9
+Poignant:                            0.8
+Sentimental:                         0.8
+Yearning:                            0.8
+Introspection:                       0.8
+Earnest:                             0.7000000000000001
+Earthy:                              0.7000000000000001
+Plaintive:                           0.7000000000000001
+Reflective:                          0.7000000000000001
+Searching:                           0.7000000000000001
+Wistful:                             0.7000000000000001
+Loss/Grief:                          0.7000000000000001
+Bluegrass:                           0.6
+Traditional Country:                 0.6
+Organic:                             0.6

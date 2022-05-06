@@ -1,0 +1,15 @@
+Neo-Classical:                       0.9
+Amiable/Good-Natured:                0.9
+Soothing:                            0.9
+Background Music:                    0.9
+Chamber Jazz:                        0.825
+Cheerful:                            0.825
+Lively:                              0.825
+Playful_mood:                        0.825
+Sweet:                               0.825
+Dinner Ambiance:                     0.825
+Early Morning:                       0.825
+Relaxation:                          0.825
+Sunday Afternoon:                    0.825
+Contemporary Instrumental:           0.75
+Romantic Evening:                    0.6

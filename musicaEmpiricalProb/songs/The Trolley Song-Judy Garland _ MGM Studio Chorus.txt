@@ -1,0 +1,21 @@
+Romantic:                            0.9
+Sentimental:                         0.9
+Cast Recordings:                     0.8400000000000001
+Show Tunes:                          0.8400000000000001
+Vocal Pop:                           0.8400000000000001
+Refined:                             0.8400000000000001
+Theatrical:                          0.8400000000000001
+In Love:                             0.8400000000000001
+Standards:                           0.78
+Traditional Pop:                     0.78
+Amiable/Good-Natured:                0.78
+New Love:                            0.78
+Innocent:                            0.72
+Springlike:                          0.72
+Sweet:                               0.72
+Bright:                              0.66
+Happy:                               0.66
+Lively:                              0.66
+Spring:                              0.66
+Sunday Afternoon:                    0.66
+Cheerful:                            0.6

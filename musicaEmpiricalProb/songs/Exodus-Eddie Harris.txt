@@ -1,0 +1,55 @@
+Mainstream Jazz:                     0.9
+Movie Themes:                        0.9
+Soundtracks:                         0.9
+Standards:                           0.9
+Dramatic:                            0.9
+Epic:                                0.9
+Reflective:                          0.9
+Stately:                             0.9
+Warm:                                0.9
+Reflection:                          0.9
+Sports:                              0.9
+The Great Outdoors:                  0.9
+Victory:                             0.9
+Jazz Blues:                          0.825
+Laid-Back/Mellow:                    0.825
+Playful_mood:                        0.825
+Poignant:                            0.825
+Precious:                            0.825
+Provocative:                         0.825
+Restrained:                          0.825
+Playful:                             0.825
+Relaxation:                          0.825
+Hard Bop:                            0.75
+Amiable/Good-Natured:                0.75
+Carefree:                            0.75
+Cheerful:                            0.75
+Confident:                           0.75
+Earnest:                             0.75
+Earthy:                              0.75
+Elegant:                             0.75
+Exuberant:                           0.75
+Freewheeling:                        0.75
+Literate:                            0.75
+Melancholy:                          0.75
+Passionate:                          0.75
+Refined:                             0.75
+Searching:                           0.75
+Self-Conscious:                      0.75
+Sentimental:                         0.75
+Sophisticated:                       0.75
+Street-Smart:                        0.75
+Stylish:                             0.75
+Witty:                               0.75
+Wry:                                 0.75
+Affirmation:                         0.75
+Cool & Cocky:                        0.75
+Empowering:                          0.75
+Freedom:                             0.75
+Hanging Out:                         0.75
+Introspection:                       0.75
+Mischievous:                         0.75
+Reminiscing:                         0.75
+The Creative Side:                   0.75
+Nocturnal:                           0.6
+Summery:                             0.6

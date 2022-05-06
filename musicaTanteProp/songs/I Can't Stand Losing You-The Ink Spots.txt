@@ -1,0 +1,25 @@
+Harmony Vocal Group:                 0.9
+Tin Pan Alley Pop:                   0.9
+Gloomy:                              0.9
+Yearning:                            0.9
+Breakup:                             0.9
+Feeling Blue:                        0.9
+Heartache:                           0.9
+Delicate:                            0.8
+Dramatic:                            0.8
+Intimate:                            0.8
+Melancholy:                          0.8
+Reserved:                            0.8
+Sad:                                 0.8
+Wistful:                             0.8
+Traditional Pop:                     0.7000000000000001
+Earnest:                             0.7000000000000001
+Elegant:                             0.7000000000000001
+Gentle:                              0.7000000000000001
+Plaintive:                           0.7000000000000001
+Refined:                             0.7000000000000001
+Soft/Quiet:                          0.7000000000000001
+Brooding:                            0.6
+Poignant:                            0.6
+Smooth:                              0.6
+Weary:                               0.6

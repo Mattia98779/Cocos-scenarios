@@ -1,0 +1,66 @@
+#Title composizione
+Title : country-stage-screen
+
+#Concetto Principale
+Head Concept Name : country
+
+#Concetto Modificatore
+Modifier Concept Name : stage-screen
+
+
+
+
+
+T(modifier), Soundtracks, 0.9
+T(modifier), Dramatic, 0.875
+T(modifier), Original Score, 0.8500000000000001
+T(modifier), Theatrical, 0.825
+T(modifier), Film Music, 0.7999999999999999
+T(modifier), Rousing, 0.75
+T(modifier), The Creative Side, 0.75
+T(modifier), Wistful, 0.725
+T(modifier), Whimsical, 0.725
+T(modifier), Brooding, 0.7
+T(modifier), Exuberant, 0.7
+T(modifier), Ominous, 0.7
+T(modifier), Late Night, 0.7
+T(modifier), Romantic, 0.7
+T(modifier), Earnest, 0.7
+T(modifier), Boisterous, 0.7
+T(modifier), Organic, 0.7
+
+T(head), Traditional Country, 0.9
+T(head), Earthy, 0.890625
+T(head), Earnest, 0.8625
+T(head), Reflective, 0.84375
+T(head), Plaintive, 0.815625
+T(head), Amiable/Good-Natured, 0.80625
+T(head), Sentimental, 0.7781250000000001
+T(head), Organic, 0.76875
+T(head), Yearning, 0.759375
+T(head), Feeling Blue, 0.759375
+T(head), Wistful, 0.75
+T(head), Smooth, 0.7406250000000001
+T(head), Melancholy, 0.73125
+T(head), Intimate, 0.73125
+T(head), Late Night, 0.73125
+T(head), Lively, 0.73125
+T(head), Rousing, 0.73125
+T(head), Passionate, 0.721875
+T(head), Honky Tonk, 0.721875
+T(head), Contemporary Country, 0.721875
+T(head), Rollicking, 0.721875
+T(head), Drinking, 0.721875
+T(head), Playful_mood, 0.721875
+T(head), Poignant, 0.7125
+T(head), Heartache, 0.7125
+T(head), Introspection, 0.7125
+T(head), Country-Pop, 0.7125
+T(head), Freewheeling, 0.7125
+T(head), Fun, 0.7125
+T(head), Reflection, 0.703125
+T(head), Rustic, 0.703125
+T(head), Road Trip, 0.703125
+T(head), Swaggering, 0.703125
+
+Result : '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 3.3459446414417682e-21

@@ -1,0 +1,21 @@
+Club/Dance:                          0.9
+East Coast Rap:                      0.9
+Boisterous:                          0.9
+Brash:                               0.8625
+Confident:                           0.8625
+Fun:                                 0.8625
+Rambunctious:                        0.8625
+Partying:                            0.8625
+Celebratory:                         0.8250000000000001
+Exciting:                            0.8250000000000001
+Exuberant:                           0.8250000000000001
+Playful_mood:                        0.8250000000000001
+Raucous:                             0.8250000000000001
+Rousing:                             0.8250000000000001
+TGIF:                                0.8250000000000001
+Energetic:                           0.7875
+Street-Smart:                        0.7875
+Swaggering:                          0.7875
+Empowering:                          0.6
+Motivation:                          0.6
+Victory:                             0.6

@@ -1,0 +1,17 @@
+Funk:                                0.9
+Pop-Soul:                            0.9
+Exuberant:                           0.8
+Empowering:                          0.8
+Summer:                              0.8
+Soul:                                0.7000000000000001
+Earthy:                              0.7000000000000001
+Fun:                                 0.7000000000000001
+Playful_mood:                        0.7000000000000001
+Summery:                             0.7000000000000001
+Girls Night Out:                     0.7000000000000001
+Brassy:                              0.6
+Bravado:                             0.6
+Bright:                              0.6
+Lively:                              0.6
+Swaggering:                          0.6
+Partying:                            0.6

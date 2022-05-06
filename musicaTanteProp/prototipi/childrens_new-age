@@ -1,0 +1,61 @@
+#Title composizione
+Title : childrens-new-age
+
+#Concetto Principale
+Head Concept Name : childrens
+
+#Concetto Modificatore
+Modifier Concept Name : new-age
+
+
+
+
+
+T(modifier), Reflection, 0.9
+T(modifier), Soothing, 0.8892857142857142
+T(modifier), Introspection, 0.8892857142857142
+T(modifier), Hypnotic, 0.8785714285714286
+T(modifier), Reflective, 0.8785714285714286
+T(modifier), Relaxation, 0.8785714285714286
+T(modifier), Contemporary Instrumental, 0.8678571428571429
+T(modifier), Atmospheric, 0.8571428571428572
+T(modifier), Ethereal, 0.8464285714285714
+T(modifier), Background Music, 0.8464285714285714
+T(modifier), Adult Alternative, 0.8357142857142857
+T(modifier), Calm/Peaceful, 0.8357142857142857
+T(modifier), Refined, 0.825
+T(modifier), Progressive Electronic, 0.825
+T(modifier), Meditation, 0.8142857142857143
+T(modifier), Gentle, 0.8035714285714286
+T(modifier), Dramatic, 0.8035714285714286
+T(modifier), Dreamy, 0.7928571428571428
+T(modifier), Delicate, 0.7714285714285715
+T(modifier), The Creative Side, 0.7607142857142857
+T(modifier), Solitude, 0.7607142857142857
+T(modifier), Wistful, 0.75
+T(modifier), Spiritual, 0.75
+T(modifier), Laid-Back/Mellow, 0.7392857142857143
+T(modifier), Cerebral, 0.7285714285714285
+T(modifier), Smooth, 0.7178571428571429
+T(modifier), Sophisticated, 0.7178571428571429
+T(modifier), Ethnic Fusion, 0.7071428571428572
+T(modifier), Light, 0.7071428571428572
+T(modifier), Pastoral, 0.7071428571428572
+T(modifier), Reserved, 0.7071428571428572
+T(modifier), Relaxed, 0.7071428571428572
+
+T(head), Hanging Out, 0.9
+T(head), Playful, 0.9
+T(head), Fun, 0.8857142857142857
+T(head), Sing-Alongs, 0.8714285714285714
+T(head), Amiable/Good-Natured, 0.8714285714285714
+T(head), Playful_mood, 0.8714285714285714
+T(head), Cheerful, 0.8571428571428572
+T(head), Children's Folk, 0.7857142857142857
+T(head), Family Gatherings, 0.7714285714285715
+T(head), Whimsical, 0.7571428571428571
+T(head), Laid-Back/Mellow, 0.7428571428571429
+T(head), Energetic, 0.7285714285714286
+T(head), Carefree, 0.7142857142857143
+
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 9.954222962104362e-21

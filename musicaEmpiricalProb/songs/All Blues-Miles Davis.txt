@@ -1,0 +1,9 @@
+Modal Music:                         0.9
+Complex:                             0.9
+Sensual:                             0.9
+Sunday Afternoon:                    0.9
+Ambitious:                           0.6
+Elegant:                             0.6
+Literate:                            0.6
+Refined:                             0.6
+Sophisticated:                       0.6

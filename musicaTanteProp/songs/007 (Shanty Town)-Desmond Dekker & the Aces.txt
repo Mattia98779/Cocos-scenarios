@@ -1,0 +1,37 @@
+Ska:                                 0.9
+Amiable/Good-Natured:                0.8400000000000001
+Laid-Back/Mellow:                    0.8400000000000001
+Summery:                             0.8400000000000001
+Sweet:                               0.8400000000000001
+Warm:                                0.8400000000000001
+Bittersweet:                         0.78
+Celebratory:                         0.78
+Cheerful:                            0.78
+Plaintive:                           0.78
+Soothing:                            0.78
+At the Beach:                        0.78
+Day Driving:                         0.78
+Freedom:                             0.78
+Pool Party:                          0.78
+Summer:                              0.78
+Rocksteady:                          0.72
+Bright:                              0.72
+Gentle:                              0.72
+Innocent:                            0.72
+Lively:                              0.72
+Passionate:                          0.72
+Atmospheric:                         0.66
+Earnest:                             0.66
+Earthy:                              0.66
+Eerie:                               0.66
+Intimate:                            0.66
+Organic:                             0.66
+Poignant:                            0.66
+Street-Smart:                        0.66
+Hanging Out:                         0.66
+Introspection:                       0.66
+Late Night:                          0.66
+Rainy Day:                           0.66
+Road Trip:                           0.66
+Small Gathering:                     0.66
+Sentimental:                         0.6

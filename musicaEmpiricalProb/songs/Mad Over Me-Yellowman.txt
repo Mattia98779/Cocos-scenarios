@@ -1,0 +1,17 @@
+Dancehall:                           0.9
+Ragga:                               0.9
+Spacey:                              0.825
+Amiable/Good-Natured:                0.75
+Brash:                               0.75
+Druggy:                              0.75
+Exuberant:                           0.75
+Swaggering:                          0.75
+Partying:                            0.75
+Boisterous:                          0.675
+Confident:                           0.675
+Playful_mood:                        0.675
+Silly:                               0.675
+Soothing:                            0.675
+Hanging Out:                         0.675
+Carefree:                            0.6
+Soft/Quiet:                          0.6

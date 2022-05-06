@@ -1,0 +1,30 @@
+Torch Songs:                         0.9
+Bittersweet:                         0.9
+Brooding:                            0.9
+Gloomy:                              0.9
+Nocturnal:                           0.9
+Feeling Blue:                        0.9
+Heartache:                           0.9
+Romantic Evening:                    0.9
+Traditional Pop:                     0.825
+Vocal Pop:                           0.825
+Melancholy:                          0.825
+Regret:                              0.825
+Dramatic:                            0.75
+Ominous:                             0.75
+Poignant:                            0.75
+Restrained:                          0.75
+Stylish:                             0.75
+Warm:                                0.75
+Weary:                               0.75
+Autumn:                              0.75
+Breakup:                             0.75
+Solitude:                            0.75
+Vocal Jazz:                          0.675
+Indulgent:                           0.675
+Intimate:                            0.675
+Somber:                              0.675
+Bitter:                              0.6
+Eerie:                               0.6
+Ethereal:                            0.6
+Yearning:                            0.6

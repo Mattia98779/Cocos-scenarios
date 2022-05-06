@@ -1,0 +1,23 @@
+Earthy:                              0.9
+Joyous:                              0.9
+Bluegrass:                           0.825
+Traditional Bluegrass:               0.825
+Amiable/Good-Natured:                0.825
+Exuberant:                           0.825
+Comfort:                             0.825
+Plaintive:                           0.75
+Partying:                            0.75
+Reminiscing:                         0.75
+Rollicking:                          0.6749999999999999
+Earnest:                             0.6
+Fiery:                               0.6
+Freewheeling:                        0.6
+Lively:                              0.6
+Organic:                             0.6
+Playful_mood:                        0.6
+Rousing:                             0.6
+Rustic:                              0.6
+Day Driving:                         0.6
+Picnic:                              0.6
+Road Trip:                           0.6
+Sunday Afternoon:                    0.6

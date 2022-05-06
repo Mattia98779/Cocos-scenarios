@@ -1,0 +1,82 @@
+#Title composizione
+Title : reggae-pop-rock
+
+#Concetto Principale
+Head Concept Name : reggae
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+
+
+
+
+
+T(modifier), Rousing, 0.9
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793
+T(modifier), Album Rock, 0.8172413793103448
+T(modifier), Confident, 0.8172413793103448
+T(modifier), Energetic, 0.8172413793103448
+T(modifier), Cool & Cocky, 0.806896551724138
+T(modifier), Swaggering, 0.7965517241379311
+T(modifier), Partying, 0.7862068965517242
+T(modifier), Freewheeling, 0.7862068965517242
+T(modifier), Raucous, 0.7862068965517242
+T(modifier), Hanging Out, 0.7758620689655172
+T(modifier), Brash, 0.7758620689655172
+T(modifier), Guys Night Out, 0.7655172413793103
+T(modifier), Urgent, 0.7655172413793103
+T(modifier), Hard Rock, 0.7551724137931035
+T(modifier), Rock & Roll, 0.7551724137931035
+T(modifier), Rebellious, 0.7551724137931035
+T(modifier), In Love, 0.7551724137931035
+T(modifier), Playful_mood, 0.7551724137931035
+T(modifier), TGIF, 0.7551724137931035
+T(modifier), Summer, 0.7448275862068966
+T(modifier), Intense, 0.7448275862068966
+T(modifier), Dramatic, 0.7448275862068966
+T(modifier), Celebratory, 0.7344827586206897
+T(modifier), Road Trip, 0.7344827586206897
+T(modifier), Visceral, 0.7344827586206897
+T(modifier), Bravado, 0.7241379310344828
+T(modifier), Exciting, 0.7241379310344828
+T(modifier), Rowdy, 0.7241379310344828
+T(modifier), Fiery, 0.7241379310344828
+T(modifier), Yearning, 0.7137931034482758
+T(modifier), Fun, 0.7137931034482758
+T(modifier), Rollicking, 0.7137931034482758
+T(modifier), Lively, 0.7137931034482758
+T(modifier), Aggressive, 0.7137931034482758
+T(modifier), Stylish, 0.7137931034482758
+T(modifier), Late Night, 0.7034482758620689
+T(modifier), Freedom, 0.7034482758620689
+T(modifier), Boisterous, 0.7034482758620689
+T(modifier), Exuberant, 0.7034482758620689
+T(modifier), Theatrical, 0.7034482758620689
+T(modifier), Street-Smart, 0.7034482758620689
+
+T(head), Summery, 0.9
+T(head), Roots Reggae, 0.8735294117647059
+T(head), Earnest, 0.8558823529411764
+T(head), Earthy, 0.8117647058823529
+T(head), Rousing, 0.8029411764705883
+T(head), Summer, 0.8029411764705883
+T(head), Organic, 0.7852941176470588
+T(head), Poignant, 0.7764705882352941
+T(head), Amiable/Good-Natured, 0.7676470588235293
+T(head), Hypnotic, 0.75
+T(head), Laid-Back/Mellow, 0.75
+T(head), Confident, 0.7323529411764705
+T(head), Reflective, 0.7323529411764705
+T(head), Political Reggae, 0.7235294117647059
+T(head), Passionate, 0.7235294117647059
+T(head), Sweet, 0.7235294117647059
+T(head), Freedom, 0.7235294117647059
+T(head), Hanging Out, 0.7235294117647059
+T(head), Reggae-Pop, 0.7147058823529412
+T(head), Boisterous, 0.7147058823529412
+T(head), Revolutionary, 0.7058823529411764
+T(head), Exuberant, 0.7058823529411764
+T(head), Druggy, 0.7058823529411764
+T(head), Playful_mood, 0.7058823529411764
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', 2.511994700327698e-31

@@ -1,0 +1,15 @@
+Folk Revival:                        0.9
+Political Folk:                      0.9
+Traditional Folk:                    0.9
+Brooding:                            0.8
+Reflection:                          0.8
+Bittersweet:                         0.7000000000000001
+Confrontational:                     0.7000000000000001
+Earnest:                             0.7000000000000001
+Earthy:                              0.7000000000000001
+Plaintive:                           0.7000000000000001
+Poignant:                            0.7000000000000001
+Weary:                               0.7000000000000001
+Yearning:                            0.7000000000000001
+Introspection:                       0.7000000000000001
+Wistful:                             0.6

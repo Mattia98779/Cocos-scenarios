@@ -1,0 +1,22 @@
+Dancehall:                           0.9
+Ragga:                               0.9
+Slick:                               0.9
+Swaggering:                          0.9
+Boisterous:                          0.8571428571428572
+Bravado:                             0.8571428571428572
+Confident:                           0.8571428571428572
+Sensual:                             0.8571428571428572
+Seduction:                           0.8571428571428572
+Sex:                                 0.8571428571428572
+Bright:                              0.8142857142857143
+Rousing:                             0.8142857142857143
+Sexy:                                0.8142857142857143
+Stylish:                             0.8142857142857143
+Fun:                                 0.7714285714285715
+Summery:                             0.7714285714285715
+At the Beach:                        0.7714285714285715
+Cool & Cocky:                        0.7714285714285715
+Pool Party:                          0.7714285714285715
+Humorous:                            0.6
+Playful_mood:                        0.6
+Silly:                               0.6

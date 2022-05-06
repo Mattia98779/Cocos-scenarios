@@ -1,0 +1,42 @@
+Frat Rock:                           0.9
+Garage Rock:                         0.9
+Celebratory:                         0.9
+Energetic:                           0.9
+Exciting:                            0.9
+Exuberant:                           0.9
+Messy:                               0.9
+Reckless:                            0.9
+Rousing:                             0.9
+Celebration:                         0.9
+Drinking:                            0.9
+Late Night:                          0.9
+Partying:                            0.9
+TGIF:                                0.9
+Psychedelic/Garage:                  0.8625
+Boisterous:                          0.8625
+Freewheeling:                        0.8625
+Fun:                                 0.8625
+Humorous:                            0.8625
+Raucous:                             0.8625
+Rowdy:                               0.8625
+Urgent:                              0.8625
+Visceral:                            0.8625
+Guys Night Out:                      0.8625
+Amiable/Good-Natured:                0.8250000000000001
+Bravado:                             0.8250000000000001
+Rebellious:                          0.8250000000000001
+Brash:                               0.7875
+Fierce:                              0.7875
+Manic:                               0.7875
+Playful_mood:                        0.7875
+Rambunctious:                        0.7875
+Swaggering:                          0.7875
+At the Beach:                        0.75
+Cool & Cocky:                        0.75
+Day Driving:                         0.75
+Hanging Out:                         0.75
+Road Trip:                           0.75
+Summer:                              0.75
+Aggressive:                          0.675
+Outrageous:                          0.6375
+Rock & Roll:                         0.6
