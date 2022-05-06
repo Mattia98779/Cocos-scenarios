@@ -81,7 +81,7 @@ for c in conflitti:
 
 if stop!=1:
   if generaTutto==0:
-    sempreZero.append(tipiche.index(min(tipiche[2:], key=lambda x: x[2])))
+    sempreZero.append(tipiche.index(min(tipiche[nPropMod:], key=lambda x: x[2])))
   best=np.ones(totProp)
   for el in sempreZero:
     best[el]=0

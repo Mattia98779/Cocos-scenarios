@@ -56,9 +56,9 @@ for r in rigide:
     conflitti[r[1]] = [[r[3],"R"]]
 for t in tipiche:
   if t[1] in conflitti.keys():
-    conflitti[t[1]] = conflitti[t[1]] + [[t[4],"T"]]
+    conflitti[t[1]] = conflitti[t[1]] + [[t[5],"T"]]
   else:
-    conflitti[t[1]] = [[t[4],"T"]]
+    conflitti[t[1]] = [[t[5],"T"]]
 
 print("conflitti = ", conflitti)
 
@@ -76,24 +76,24 @@ for c in conflitti:
     # prima proprietà rigida e seconda tipica
     elif index[0][1] == "R" and index[1][1] == "T":
       # segno diverso
-      if rigide[index[0][0]][2] != tipiche[index[1][0]][3]:
+      if rigide[index[0][0]][2] != tipiche[index[1][0]][4]:
         print("conflitto tra rigida-tipica, segno opposto")
         sempreZero.append(index[1][0])
         if tipiche[index[1][0]][0] == "T(head)":
           generaTutto=1
       # stesso segno
-      if rigide[index[0][0]][2] == tipiche[index[1][0]][3]:
+      if rigide[index[0][0]][2] == tipiche[index[1][0]][4]:
         print("conflitto tra rigida-tipica,stesso segno")
     # prima proprietà tipica e seconda rigida
     # due proprietà tipiche in conflitto
     elif index[0][1] == "T" and index[1][1] == "T":
       # segno diverso
-      if tipiche[index[0][0]][3] != tipiche[index[1][0]][3]:
+      if tipiche[index[0][0]][4] != tipiche[index[1][0]][4]:
         print("conflitto tra tipica-tipica, segno opposto")
         if tipiche[index[0][0]][0] == "T(modifier)" and tipiche[index[1][0]][0] == "T(head)":
           sempreZero.append(index[0][0])
       # stesso segno
-      if tipiche[index[0][0]][3] == tipiche[index[1][0]][3]:
+      if tipiche[index[0][0]][4] == tipiche[index[1][0]][4]:
         print("conflitto tra tipica-tipica,stesso segno")
 
 print("sempre zero = ", sempreZero)
@@ -133,26 +133,23 @@ for c in range(len(propListIndexes)):
 for index in propListIndexes:
   matrixScenarios[:, index] = columns.pop()
 
-#print(matrixScenarios)
-
 # aggiungo probabilità
 prob = []
-modH= nHead/(nModifier+nHead)
-modM= nModifier/(nModifier+nHead)
+modH= nModifier/nHead
 for r in matrixScenarios:
   p=1
   c=0
   for el in r:
     if el<0.5:
-      if tipiche[c][0] == "T(modified)":
-        p=p*(1-tipiche[c][2])*(tipiche[c][3]/nModifier) * modM
+      if tipiche[c][0] == "T(modifier)":
+        p=p+((1-tipiche[c][2])*(tipiche[c][3]/nModifier))*modH
       else:
-        p=p*(1-tipiche[c][2])*(tipiche[c][3]/nHead) * modH
+        p=p+((1-tipiche[c][2])*(tipiche[c][3]/nHead))
     else:
-      if tipiche[c][0] == "T(modified)":
-        p = p * tipiche[c][2] * (tipiche[c][3] / nModifier) * modM
+      if tipiche[c][0] == "T(modifier)":
+        p = p + ((tipiche[c][2] * (tipiche[c][3] / nModifier)))*modH
       else:
-        p = p * tipiche[c][2] * (tipiche[c][3] / nHead) * modH
+        p = p + ((tipiche[c][2] * (tipiche[c][3] / nHead)))
     c=c+1
   prob.append([p])
 
