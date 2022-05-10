@@ -1,2 +1,0 @@
-Elegant:                             0.9
-Sentimental:                         0.9

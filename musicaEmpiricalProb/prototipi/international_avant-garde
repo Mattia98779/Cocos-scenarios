@@ -1,0 +1,31 @@
+#Title composizione
+Title : international-avant-garde
+
+#Concetto Principale
+Head Concept Name : international
+Head Concept Count : 3
+
+#Concetto Modificatore
+Modifier Concept Name : avant-garde
+Modifier Concept Count : 13
+
+
+
+
+
+T(modifier), The Creative Side, 0.9, 6
+T(modifier), Cerebral, 0.84, 5
+T(modifier), Uncompromising, 0.78, 4
+T(modifier), Provocative, 0.78, 4
+T(modifier), Revolutionary, 0.78, 4
+T(modifier), Modern Composition, 0.78, 4
+
+T(head), Stylish, 0.9, 2
+T(head), Boisterous, 0.9, 2
+T(head), Exuberant, 0.9, 2
+T(head), Yearning, 0.9, 2
+T(head), European Folk, 0.6, 1
+T(head), Fado, 0.6, 1
+
+
+Result : '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', 8.146666666666665

@@ -45,8 +45,7 @@ for g in genres:
     for key in attributes:
         if numOfSongs[g]['nums'] != 0:
             freq = float(attributes[key]/numOfSongs[g]['nums'])
-            if freq > 0.80:
-                numOfSongs[g][key] = str(freq) , ' - ' , attributes[key] , ' - ' , numOfSongs[g]['nums']
+
 
 #print(numOfSongs)
 

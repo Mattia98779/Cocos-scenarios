@@ -1,8 +1,0 @@
-Roots Reggae:                        0.9
-Hypnotic:                            0.8400000000000001
-Organic:                             0.8400000000000001
-Sensual:                             0.8400000000000001
-Passionate:                          0.78
-Refined:                             0.78
-Gentle:                              0.66
-Reggae-Pop:                          0.6

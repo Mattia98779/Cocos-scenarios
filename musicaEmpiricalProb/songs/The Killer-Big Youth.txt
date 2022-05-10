@@ -1,9 +1,0 @@
-DJ/Toasting:                         0.9000000000000001
-Summery:                             0.9000000000000001
-Boisterous:                          0.7500000000000001
-Celebratory:                         0.7500000000000001
-Confident:                           0.7500000000000001
-Amiable/Good-Natured:                0.6
-Carefree:                            0.6
-Exuberant:                           0.6
-Freewheeling:                        0.6
