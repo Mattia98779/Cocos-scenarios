@@ -7,17 +7,13 @@ Head Concept Name : A
 #Concetto Modificatore
 Modifier Concept Name : B
 
-
-
 modifier, a
 head, b
 
+T(modifier), c, 0.9
+T(modifier), d, 0.9
 
-T(modifier), c, 0.51
-T(modifier), d, 0.5
-
-T(head), a, 0.6
+T(head), e, 0.9
 T(head), f, 0.9
 
 
-Result : '1', '1', '0', '1', 0.16524000000000003Result : '1', '1', '0', '1', 0.0918
