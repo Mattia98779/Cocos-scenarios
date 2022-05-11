@@ -51,7 +51,7 @@ def createFileForCocos(head, modifier):
 
     f = open("prototipi/" + head + "_" + modifier, "w")
     f.write("#Title composizione\n")
-    f.write("Title : " + head + "-" + modifier + "\n\n")
+    f.write("Title : " + head + "#" + modifier + "\n\n")
     f.write("#Concetto Principale\n")
     f.write("Head Concept Name : " + head +"\n")
     f.write("Head Concept Count : " + str(nCanzoniHead)  + "\n\n")
