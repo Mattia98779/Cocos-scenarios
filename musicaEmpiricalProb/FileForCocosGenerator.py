@@ -41,13 +41,8 @@ def createFileForCocos(head, modifier):
     list_head_typical = list_head_typical[:6]
     head = head.replace(".txt", "")
     modifier = modifier.replace(".txt", "")
-    print(list_head_rigid)
-    print(list_head_typical)
-    print()
-    print(list_modifier_rigid)
-    print(list_modifier_typical)
-    print()
-    print()
+    print(head, modifier)
+
 
     f = open("prototipi/" + head + "_" + modifier, "w")
     f.write("#Title composizione\n")

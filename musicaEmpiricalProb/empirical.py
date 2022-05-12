@@ -7,6 +7,6 @@ from empirical import CoCoS
 
 if __name__ == '__main__':
     file_list = os.listdir('./prototipi')
-    max_prop = 5
+    max_prop = 6
     for file in file_list:
       CoCoS("./prototipi/"+file, max_prop, write_to_file=True)
