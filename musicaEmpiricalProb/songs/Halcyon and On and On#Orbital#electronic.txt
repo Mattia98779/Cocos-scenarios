@@ -9,21 +9,21 @@ Spacey:                              0.9 : 9
 Late Night:                          0.9 : 9
 Reflection:                          0.9 : 9
 Solitude:                            0.9 : 9
-Cerebral:                            0.825 : 8
-Laid-Back/Mellow:                    0.825 : 8
-Smooth:                              0.825 : 8
-Trippy:                              0.825 : 8
-Warm:                                0.825 : 8
-Wintry:                              0.825 : 8
-Winter:                              0.825 : 8
-IDM:                                 0.75 : 7
-Detached:                            0.75 : 7
-Dreamy:                              0.75 : 7
-Ethereal:                            0.75 : 7
-Nocturnal:                           0.75 : 7
-Restrained:                          0.75 : 7
-Introspection:                       0.75 : 7
-Reflective:                          0.6749999999999999 : 6
-Wistful:                             0.6749999999999999 : 6
-Ambient House:                       0.6 : 5
-Gentle:                              0.6 : 5
+Cerebral:                            0.7 : 8
+Laid-Back/Mellow:                    0.7 : 8
+Smooth:                              0.7 : 8
+Trippy:                              0.7 : 8
+Warm:                                0.7 : 8
+Wintry:                              0.7 : 8
+Winter:                              0.7 : 8
+IDM:                                 0.5 : 7
+Detached:                            0.5 : 7
+Dreamy:                              0.5 : 7
+Ethereal:                            0.5 : 7
+Nocturnal:                           0.5 : 7
+Restrained:                          0.5 : 7
+Introspection:                       0.5 : 7
+Reflective:                          0.29999999999999993 : 6
+Wistful:                             0.29999999999999993 : 6
+Ambient House:                       0.1 : 5
+Gentle:                              0.1 : 5

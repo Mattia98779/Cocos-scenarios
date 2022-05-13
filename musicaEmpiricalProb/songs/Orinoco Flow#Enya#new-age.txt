@@ -21,21 +21,21 @@ Introspection:                       0.9 : 9
 Meditation:                          0.9 : 9
 Reflection:                          0.9 : 9
 Relaxation:                          0.9 : 9
-Adult Alternative:                   0.75 : 8
-Adult Alternative Pop/Rock:          0.75 : 8
-Alternative/Indie Rock:              0.75 : 8
-Celtic:                              0.75 : 8
-Celtic New Age:                      0.75 : 8
-Contemporary Celtic:                 0.75 : 8
-Contemporary Instrumental:           0.75 : 8
-Calm/Peaceful:                       0.75 : 8
-Detached:                            0.75 : 8
-Ethereal:                            0.75 : 8
-Soothing:                            0.75 : 8
-Ethnic Fusion:                       0.6 : 7
-Happy:                               0.6 : 7
-Rousing:                             0.6 : 7
-Spicy:                               0.6 : 7
-Spiritual:                           0.6 : 7
-Yearning:                            0.6 : 7
-Celebration:                         0.6 : 7
+Adult Alternative:                   0.5 : 8
+Adult Alternative Pop/Rock:          0.5 : 8
+Alternative/Indie Rock:              0.5 : 8
+Celtic:                              0.5 : 8
+Celtic New Age:                      0.5 : 8
+Contemporary Celtic:                 0.5 : 8
+Contemporary Instrumental:           0.5 : 8
+Calm/Peaceful:                       0.5 : 8
+Detached:                            0.5 : 8
+Ethereal:                            0.5 : 8
+Soothing:                            0.5 : 8
+Ethnic Fusion:                       0.1 : 7
+Happy:                               0.1 : 7
+Rousing:                             0.1 : 7
+Spicy:                               0.1 : 7
+Spiritual:                           0.1 : 7
+Yearning:                            0.1 : 7
+Celebration:                         0.1 : 7

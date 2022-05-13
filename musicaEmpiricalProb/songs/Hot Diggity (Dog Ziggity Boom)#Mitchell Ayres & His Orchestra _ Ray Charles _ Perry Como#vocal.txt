@@ -6,18 +6,18 @@ Lively:                              0.9 : 9
 Playful_mood:                        0.9 : 9
 Silly:                               0.9 : 9
 Picnic:                              0.9 : 9
-Energetic:                           0.825 : 8
-Fun:                                 0.825 : 8
-Gleeful:                             0.825 : 8
-Traditional Pop:                     0.75 : 7
-Happy:                               0.75 : 7
-Quirky:                              0.75 : 7
-Sparkling:                           0.75 : 7
-Sweet:                               0.75 : 7
-Whimsical:                           0.75 : 7
-Family Gatherings:                   0.75 : 7
-Giddy:                               0.6749999999999999 : 6
-Humorous:                            0.6749999999999999 : 6
-Spring:                              0.6749999999999999 : 6
-Boisterous:                          0.6 : 5
-Naive:                               0.6 : 5
+Energetic:                           0.7 : 8
+Fun:                                 0.7 : 8
+Gleeful:                             0.7 : 8
+Traditional Pop:                     0.5000000000000001 : 7
+Happy:                               0.5000000000000001 : 7
+Quirky:                              0.5000000000000001 : 7
+Sparkling:                           0.5000000000000001 : 7
+Sweet:                               0.5000000000000001 : 7
+Whimsical:                           0.5000000000000001 : 7
+Family Gatherings:                   0.5000000000000001 : 7
+Giddy:                               0.3 : 6
+Humorous:                            0.3 : 6
+Spring:                              0.3 : 6
+Boisterous:                          0.1 : 5
+Naive:                               0.1 : 5

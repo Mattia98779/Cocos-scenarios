@@ -20,8 +20,8 @@ Meditation:                          0.9 : 9
 Reflection:                          0.9 : 9
 Relaxation:                          0.9 : 9
 Solitude:                            0.9 : 9
-Adult Alternative:                   0.6 : 5
-Contemporary Instrumental:           0.6 : 5
-Ethnic Fusion:                       0.6 : 5
-Progressive Electronic:              0.6 : 5
-Worldbeat:                           0.6 : 5
+Adult Alternative:                   0.1 : 5
+Contemporary Instrumental:           0.1 : 5
+Ethnic Fusion:                       0.1 : 5
+Progressive Electronic:              0.1 : 5
+Worldbeat:                           0.1 : 5

@@ -1,2 +1,2 @@
-Energetic:                           0.9 : 8
-Rousing:                             0.9 : 8
+Energetic:                           0.9000000000000001 : 8
+Rousing:                             0.9000000000000001 : 8

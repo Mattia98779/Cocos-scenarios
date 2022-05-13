@@ -25,13 +25,13 @@ Romantic Evening:                    0.9 : 9
 Seduction:                           0.9 : 9
 Sex:                                 0.9 : 9
 Slow Dance:                          0.9 : 9
-Delicate:                            0.8625 : 8
-Nocturnal:                           0.8625 : 8
-Smooth:                              0.8625 : 8
-Soft/Quiet:                          0.8625 : 8
-Soothing:                            0.8625 : 8
-Tender:                              0.8625 : 8
-Poignant:                            0.825 : 7
-Calm/Peaceful:                       0.75 : 5
-Sentimental:                         0.75 : 5
-Contemporary Rap:                    0.6 : 1
+Delicate:                            0.7999999999999999 : 8
+Nocturnal:                           0.7999999999999999 : 8
+Smooth:                              0.7999999999999999 : 8
+Soft/Quiet:                          0.7999999999999999 : 8
+Soothing:                            0.7999999999999999 : 8
+Tender:                              0.7999999999999999 : 8
+Poignant:                            0.7 : 7
+Calm/Peaceful:                       0.5 : 5
+Sentimental:                         0.5 : 5
+Contemporary Rap:                    0.1 : 1

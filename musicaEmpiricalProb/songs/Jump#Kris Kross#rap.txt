@@ -11,28 +11,28 @@ Club:                                0.9 : 9
 Partying:                            0.9 : 9
 Playful:                             0.9 : 9
 TGIF:                                0.9 : 9
-Rambunctious:                        0.825 : 8
-Rollicking:                          0.825 : 8
-Urgent:                              0.825 : 8
-Mischievous:                         0.825 : 8
-Brash:                               0.75 : 7
-Celebratory:                         0.75 : 7
-Freedom:                             0.75 : 7
-New Jack Swing:                      0.6 : 5
-Aggressive:                          0.6 : 5
-Confident:                           0.6 : 5
-Confrontational:                     0.6 : 5
-Energetic:                           0.6 : 5
-Exuberant:                           0.6 : 5
-Freewheeling:                        0.6 : 5
-Fun:                                 0.6 : 5
-Intense:                             0.6 : 5
-Playful_mood:                        0.6 : 5
-Raucous:                             0.6 : 5
-Rousing:                             0.6 : 5
-Volatile:                            0.6 : 5
-Exercise/Workout:                    0.6 : 5
-Guys Night Out:                      0.6 : 5
-Homecoming:                          0.6 : 5
-Prom:                                0.6 : 5
-Victory:                             0.6 : 5
+Rambunctious:                        0.7000000000000001 : 8
+Rollicking:                          0.7000000000000001 : 8
+Urgent:                              0.7000000000000001 : 8
+Mischievous:                         0.7000000000000001 : 8
+Brash:                               0.5 : 7
+Celebratory:                         0.5 : 7
+Freedom:                             0.5 : 7
+New Jack Swing:                      0.1 : 5
+Aggressive:                          0.1 : 5
+Confident:                           0.1 : 5
+Confrontational:                     0.1 : 5
+Energetic:                           0.1 : 5
+Exuberant:                           0.1 : 5
+Freewheeling:                        0.1 : 5
+Fun:                                 0.1 : 5
+Intense:                             0.1 : 5
+Playful_mood:                        0.1 : 5
+Raucous:                             0.1 : 5
+Rousing:                             0.1 : 5
+Volatile:                            0.1 : 5
+Exercise/Workout:                    0.1 : 5
+Guys Night Out:                      0.1 : 5
+Homecoming:                          0.1 : 5
+Prom:                                0.1 : 5
+Victory:                             0.1 : 5

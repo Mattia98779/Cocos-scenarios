@@ -1,18 +1,18 @@
-Intense:                             0.9000000000000001 : 9
-Folk-Blues:                          0.825 : 8
-Folksongs:                           0.825 : 8
-Earthy:                              0.825 : 8
-Long Walk:                           0.825 : 8
-Bittersweet:                         0.75 : 7
-Exuberant:                           0.75 : 7
-Gritty:                              0.75 : 7
-Joyous:                              0.75 : 7
-Organic:                             0.75 : 7
-Reverent:                            0.75 : 7
-Passionate:                          0.6749999999999999 : 6
-Rousing:                             0.6749999999999999 : 6
-Empowering:                          0.6 : 5
-Freedom:                             0.6 : 5
-Motivation:                          0.6 : 5
-Sunday Afternoon:                    0.6 : 5
-The Great Outdoors:                  0.6 : 5
+Intense:                             0.9 : 9
+Folk-Blues:                          0.6999999999999998 : 8
+Folksongs:                           0.6999999999999998 : 8
+Earthy:                              0.6999999999999998 : 8
+Long Walk:                           0.6999999999999998 : 8
+Bittersweet:                         0.5 : 7
+Exuberant:                           0.5 : 7
+Gritty:                              0.5 : 7
+Joyous:                              0.5 : 7
+Organic:                             0.5 : 7
+Reverent:                            0.5 : 7
+Passionate:                          0.29999999999999993 : 6
+Rousing:                             0.29999999999999993 : 6
+Empowering:                          0.1 : 5
+Freedom:                             0.1 : 5
+Motivation:                          0.1 : 5
+Sunday Afternoon:                    0.1 : 5
+The Great Outdoors:                  0.1 : 5

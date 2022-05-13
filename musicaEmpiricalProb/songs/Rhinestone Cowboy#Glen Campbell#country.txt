@@ -12,15 +12,15 @@ Late Night:                          0.9 : 9
 Night Driving:                       0.9 : 9
 Summer:                              0.9 : 9
 The Great Outdoors:                  0.9 : 9
-Dramatic:                            0.75 : 7
-Happy:                               0.75 : 7
-Lush:                                0.75 : 7
-Melancholy:                          0.75 : 7
-Feeling Blue:                        0.75 : 7
-In Love:                             0.75 : 7
-Loss/Grief:                          0.75 : 7
-Urban Cowboy:                        0.675 : 6
-Intimate:                            0.675 : 6
-Country-Pop:                         0.6 : 5
-Passionate:                          0.6 : 5
-Sentimental:                         0.6 : 5
+Dramatic:                            0.4999999999999999 : 7
+Happy:                               0.4999999999999999 : 7
+Lush:                                0.4999999999999999 : 7
+Melancholy:                          0.4999999999999999 : 7
+Feeling Blue:                        0.4999999999999999 : 7
+In Love:                             0.4999999999999999 : 7
+Loss/Grief:                          0.4999999999999999 : 7
+Urban Cowboy:                        0.30000000000000004 : 6
+Intimate:                            0.30000000000000004 : 6
+Country-Pop:                         0.1 : 5
+Passionate:                          0.1 : 5
+Sentimental:                         0.1 : 5

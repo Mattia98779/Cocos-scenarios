@@ -1,4 +1,4 @@
-Latin Pop:                           0.9 : 7
-Rousing:                             0.9 : 7
-Celebration:                         0.9 : 7
-Mischievous:                         0.9 : 7
+Latin Pop:                           0.9000000000000001 : 7
+Rousing:                             0.9000000000000001 : 7
+Celebration:                         0.9000000000000001 : 7
+Mischievous:                         0.9000000000000001 : 7

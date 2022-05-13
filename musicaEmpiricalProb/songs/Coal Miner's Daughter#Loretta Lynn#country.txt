@@ -18,5 +18,5 @@ Empowering:                          0.9 : 9
 Introspection:                       0.9 : 9
 Reflection:                          0.9 : 9
 Reminiscing:                         0.9 : 9
-Earthy:                              0.6 : 8
-Passionate:                          0.6 : 8
+Earthy:                              0.1 : 8
+Passionate:                          0.1 : 8

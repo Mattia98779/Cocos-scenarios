@@ -1,32 +1,32 @@
-Traditional Folk:                    0.9 : 8
-Revolutionary:                       0.9 : 8
-Folksongs:                           0.8 : 7
-Atmospheric:                         0.8 : 7
-Bittersweet:                         0.8 : 7
-Wistful:                             0.8 : 7
-Early Morning:                       0.8 : 7
-Freedom:                             0.8 : 7
-Rainy Day:                           0.8 : 7
-Road Trip:                           0.8 : 7
-Sunday Afternoon:                    0.8 : 7
-Austere:                             0.7 : 6
-Earnest:                             0.7 : 6
-Earthy:                              0.7 : 6
-Intimate:                            0.7 : 6
-Organic:                             0.7 : 6
-Plaintive:                           0.7 : 6
-Poignant:                            0.7 : 6
-Reflective:                          0.7 : 6
-Rustic:                              0.7 : 6
-Sentimental:                         0.7 : 6
-Sparse:                              0.7 : 6
-Political Folk:                      0.6 : 5
-Autumnal:                            0.6 : 5
-Sad:                                 0.6 : 5
-Autumn:                              0.6 : 5
-Empowering:                          0.6 : 5
-Feeling Blue:                        0.6 : 5
-Hanging Out:                         0.6 : 5
-Late Night:                          0.6 : 5
-Reflection:                          0.6 : 5
-Small Gathering:                     0.6 : 5
+Traditional Folk:                    0.9000000000000001 : 8
+Revolutionary:                       0.9000000000000001 : 8
+Folksongs:                           0.6333333333333333 : 7
+Atmospheric:                         0.6333333333333333 : 7
+Bittersweet:                         0.6333333333333333 : 7
+Wistful:                             0.6333333333333333 : 7
+Early Morning:                       0.6333333333333333 : 7
+Freedom:                             0.6333333333333333 : 7
+Rainy Day:                           0.6333333333333333 : 7
+Road Trip:                           0.6333333333333333 : 7
+Sunday Afternoon:                    0.6333333333333333 : 7
+Austere:                             0.3666666666666667 : 6
+Earnest:                             0.3666666666666667 : 6
+Earthy:                              0.3666666666666667 : 6
+Intimate:                            0.3666666666666667 : 6
+Organic:                             0.3666666666666667 : 6
+Plaintive:                           0.3666666666666667 : 6
+Poignant:                            0.3666666666666667 : 6
+Reflective:                          0.3666666666666667 : 6
+Rustic:                              0.3666666666666667 : 6
+Sentimental:                         0.3666666666666667 : 6
+Sparse:                              0.3666666666666667 : 6
+Political Folk:                      0.1 : 5
+Autumnal:                            0.1 : 5
+Sad:                                 0.1 : 5
+Autumn:                              0.1 : 5
+Empowering:                          0.1 : 5
+Feeling Blue:                        0.1 : 5
+Hanging Out:                         0.1 : 5
+Late Night:                          0.1 : 5
+Reflection:                          0.1 : 5
+Small Gathering:                     0.1 : 5

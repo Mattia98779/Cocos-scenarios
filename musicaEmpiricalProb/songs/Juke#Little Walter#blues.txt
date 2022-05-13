@@ -25,4 +25,4 @@ Night Driving:                       0.9 : 9
 Partying:                            0.9 : 9
 Road Trip:                           0.9 : 9
 TGIF:                                0.9 : 9
-Amiable/Good-Natured:                0.6 : 5
+Amiable/Good-Natured:                0.1 : 5

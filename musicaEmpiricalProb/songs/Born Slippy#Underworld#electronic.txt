@@ -6,27 +6,27 @@ Techno:                              0.9 : 9
 Cerebral:                            0.9 : 9
 Detached:                            0.9 : 9
 Hypnotic:                            0.9 : 9
-Enigmatic:                           0.8625 : 8
-Nocturnal:                           0.8625 : 8
-Wintry:                              0.8625 : 8
-Club:                                0.8625 : 8
-Night Driving:                       0.8625 : 8
-Progressive Trance:                  0.825 : 7
-Trance:                              0.825 : 7
-Aggressive:                          0.825 : 7
-Clinical:                            0.825 : 7
-Ethereal:                            0.825 : 7
-Happy:                               0.825 : 7
-Rousing:                             0.825 : 7
-Trippy:                              0.825 : 7
-Late Night:                          0.825 : 7
-Partying:                            0.825 : 7
-Seduction:                           0.825 : 7
-Sex:                                 0.825 : 7
-Druggy:                              0.7875 : 6
-Manic:                               0.7875 : 6
-Melancholy:                          0.7875 : 6
-Cool & Cocky:                        0.7875 : 6
-Solitude:                            0.7875 : 6
-Birth:                               0.75 : 5
-Experimental:                        0.6 : 1
+Enigmatic:                           0.8 : 8
+Nocturnal:                           0.8 : 8
+Wintry:                              0.8 : 8
+Club:                                0.8 : 8
+Night Driving:                       0.8 : 8
+Progressive Trance:                  0.7000000000000001 : 7
+Trance:                              0.7000000000000001 : 7
+Aggressive:                          0.7000000000000001 : 7
+Clinical:                            0.7000000000000001 : 7
+Ethereal:                            0.7000000000000001 : 7
+Happy:                               0.7000000000000001 : 7
+Rousing:                             0.7000000000000001 : 7
+Trippy:                              0.7000000000000001 : 7
+Late Night:                          0.7000000000000001 : 7
+Partying:                            0.7000000000000001 : 7
+Seduction:                           0.7000000000000001 : 7
+Sex:                                 0.7000000000000001 : 7
+Druggy:                              0.6 : 6
+Manic:                               0.6 : 6
+Melancholy:                          0.6 : 6
+Cool & Cocky:                        0.6 : 6
+Solitude:                            0.6 : 6
+Birth:                               0.5 : 5
+Experimental:                        0.1 : 1

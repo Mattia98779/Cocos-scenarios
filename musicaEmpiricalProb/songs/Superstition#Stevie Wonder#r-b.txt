@@ -13,14 +13,14 @@ Visceral:                            0.9 : 9
 Cool & Cocky:                        0.9 : 9
 Introspection:                       0.9 : 9
 Reflection:                          0.9 : 9
-Psychedelic Soul:                    0.8625 : 8
-Poignant:                            0.8625 : 8
-Reflective:                          0.8625 : 8
-Earnest:                             0.825 : 7
-Happy:                               0.825 : 7
-Lively:                              0.75 : 5
-Swaggering:                          0.75 : 5
-Motivation:                          0.75 : 5
-Partying:                            0.75 : 5
-Funk:                                0.6 : 1
-Singer/Songwriter:                   0.6 : 1
+Psychedelic Soul:                    0.8 : 8
+Poignant:                            0.8 : 8
+Reflective:                          0.8 : 8
+Earnest:                             0.7 : 7
+Happy:                               0.7 : 7
+Lively:                              0.5 : 5
+Swaggering:                          0.5 : 5
+Motivation:                          0.5 : 5
+Partying:                            0.5 : 5
+Funk:                                0.1 : 1
+Singer/Songwriter:                   0.1 : 1

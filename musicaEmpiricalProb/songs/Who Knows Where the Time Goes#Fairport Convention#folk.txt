@@ -24,9 +24,9 @@ Heartache:                           0.9 : 9
 Introspection:                       0.9 : 9
 Reflection:                          0.9 : 9
 Reminiscing:                         0.9 : 9
-British Folk:                        0.6 : 8
-British Folk-Rock:                   0.6 : 8
-Folk-Rock:                           0.6 : 8
-Progressive Folk:                    0.6 : 8
-Psychedelic/Garage:                  0.6 : 8
-Reflective:                          0.6 : 8
+British Folk:                        0.1 : 8
+British Folk-Rock:                   0.1 : 8
+Folk-Rock:                           0.1 : 8
+Progressive Folk:                    0.1 : 8
+Psychedelic/Garage:                  0.1 : 8
+Reflective:                          0.1 : 8

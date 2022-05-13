@@ -24,5 +24,5 @@ Hanging Out:                         0.9 : 9
 Late Night:                          0.9 : 9
 Partying:                            0.9 : 9
 Sex:                                 0.9 : 9
-Dramatic:                            0.75 : 7
-Warm:                                0.6 : 5
+Dramatic:                            0.4999999999999999 : 7
+Warm:                                0.1 : 5

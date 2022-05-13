@@ -23,8 +23,8 @@ Cool & Cocky:                        0.9 : 9
 Day Driving:                         0.9 : 9
 Empowering:                          0.9 : 9
 Freedom:                             0.9 : 9
-Album Rock:                          0.6 : 1
-Singer/Songwriter:                   0.6 : 1
-American Trad Rock:                  0.6 : 1
-Heartland Rock:                      0.6 : 1
-Power Pop:                           0.6 : 1
+Album Rock:                          0.1 : 1
+Singer/Songwriter:                   0.1 : 1
+American Trad Rock:                  0.1 : 1
+Heartland Rock:                      0.1 : 1
+Power Pop:                           0.1 : 1

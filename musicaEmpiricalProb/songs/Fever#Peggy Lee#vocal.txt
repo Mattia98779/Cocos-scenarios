@@ -6,16 +6,16 @@ Sensual:                             0.9 : 9
 Warm:                                0.9 : 9
 Romantic Evening:                    0.9 : 9
 Seduction:                           0.9 : 9
-Vocal Pop:                           0.8 : 8
-Reserved:                            0.8 : 8
-Torch Songs:                         0.7 : 7
-Confident:                           0.7 : 7
-Delicate:                            0.7 : 7
-Organic:                             0.7 : 7
-Romantic:                            0.7 : 7
-Soothing:                            0.7 : 7
-In Love:                             0.7 : 7
-Vocal Jazz:                          0.6 : 6
-Brassy:                              0.6 : 6
-Passionate:                          0.6 : 6
-Smooth:                              0.6 : 6
+Vocal Pop:                           0.6333333333333334 : 8
+Reserved:                            0.6333333333333334 : 8
+Torch Songs:                         0.3666666666666667 : 7
+Confident:                           0.3666666666666667 : 7
+Delicate:                            0.3666666666666667 : 7
+Organic:                             0.3666666666666667 : 7
+Romantic:                            0.3666666666666667 : 7
+Soothing:                            0.3666666666666667 : 7
+In Love:                             0.3666666666666667 : 7
+Vocal Jazz:                          0.1 : 6
+Brassy:                              0.1 : 6
+Passionate:                          0.1 : 6
+Smooth:                              0.1 : 6

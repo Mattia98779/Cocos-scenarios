@@ -23,4 +23,4 @@ Playful:                             0.9 : 9
 Road Trip:                           0.9 : 9
 Sex:                                 0.9 : 9
 Summer:                              0.9 : 9
-Laid-Back/Mellow:                    0.6 : 8
+Laid-Back/Mellow:                    0.1 : 8

@@ -16,12 +16,12 @@ Late Night:                          0.9 : 9
 Night Driving:                       0.9 : 9
 Partying:                            0.9 : 9
 Road Trip:                           0.9 : 9
-Joyous:                              0.8250000000000001 : 8
-Passionate:                          0.8250000000000001 : 8
-Fiery:                               0.75 : 7
-Intense:                             0.75 : 7
-Urgent:                              0.75 : 7
-Confident:                           0.675 : 6
-Earthy:                              0.675 : 6
-Freedom:                             0.675 : 6
-Boisterous:                          0.6 : 5
+Joyous:                              0.7000000000000001 : 8
+Passionate:                          0.7000000000000001 : 8
+Fiery:                               0.5 : 7
+Intense:                             0.5 : 7
+Urgent:                              0.5 : 7
+Confident:                           0.30000000000000004 : 6
+Earthy:                              0.30000000000000004 : 6
+Freedom:                             0.30000000000000004 : 6
+Boisterous:                          0.1 : 5

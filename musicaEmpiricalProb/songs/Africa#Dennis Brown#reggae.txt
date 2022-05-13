@@ -1,9 +1,9 @@
-Stately:                             0.9000000000000001 : 9
-Roots Reggae:                        0.825 : 8
-Reverent:                            0.825 : 8
-Earnest:                             0.75 : 7
-Rousing:                             0.75 : 7
-Boisterous:                          0.6749999999999999 : 6
-Summery:                             0.6749999999999999 : 6
-Confident:                           0.6 : 5
-Poignant:                            0.6 : 5
+Stately:                             0.9 : 9
+Roots Reggae:                        0.6999999999999998 : 8
+Reverent:                            0.6999999999999998 : 8
+Earnest:                             0.5 : 7
+Rousing:                             0.5 : 7
+Boisterous:                          0.29999999999999993 : 6
+Summery:                             0.29999999999999993 : 6
+Confident:                           0.1 : 5
+Poignant:                            0.1 : 5

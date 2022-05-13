@@ -35,7 +35,7 @@ In Love:                             0.9 : 9
 Relaxation:                          0.9 : 9
 Romantic Evening:                    0.9 : 9
 Slow Dance:                          0.9 : 9
-Instrumental Pop:                    0.75 : 8
-Jazz-Pop:                            0.75 : 8
-Refined:                             0.75 : 8
-Brill Building Pop:                  0.6 : 7
+Instrumental Pop:                    0.5 : 8
+Jazz-Pop:                            0.5 : 8
+Refined:                             0.5 : 8
+Brill Building Pop:                  0.1 : 7

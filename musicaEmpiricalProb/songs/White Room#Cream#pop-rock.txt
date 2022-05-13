@@ -21,12 +21,12 @@ Late Night:                          0.9 : 9
 Night Driving:                       0.9 : 9
 Scary Music:                         0.9 : 9
 The Creative Side:                   0.9 : 9
-Blues-Rock:                          0.8625 : 8
-Psychedelic/Garage:                  0.8625 : 8
-Gutsy:                               0.825 : 7
-Hypnotic:                            0.825 : 7
-Menacing:                            0.825 : 7
-Dramatic:                            0.7125 : 4
-Intense:                             0.7125 : 4
-Visceral:                            0.675 : 3
-Hard Rock:                           0.6 : 1
+Blues-Rock:                          0.8 : 8
+Psychedelic/Garage:                  0.8 : 8
+Gutsy:                               0.7000000000000001 : 7
+Hypnotic:                            0.7000000000000001 : 7
+Menacing:                            0.7000000000000001 : 7
+Dramatic:                            0.4 : 4
+Intense:                             0.4 : 4
+Visceral:                            0.30000000000000004 : 3
+Hard Rock:                           0.1 : 1

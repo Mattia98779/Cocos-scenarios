@@ -33,7 +33,7 @@ class Song:
 
     def toPercent(self):
         MAX_SCORE = 0.9
-        MIN_SCORE = 0.6
+        MIN_SCORE = 0.1
         minFreq = 1
         maxFreq = 0
 

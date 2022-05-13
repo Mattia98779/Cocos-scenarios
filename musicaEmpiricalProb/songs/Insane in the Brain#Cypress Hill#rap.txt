@@ -30,4 +30,4 @@ Cool & Cocky:                        0.9 : 9
 Guys Night Out:                      0.9 : 9
 Late Night:                          0.9 : 9
 Partying:                            0.9 : 9
-Boisterous:                          0.6 : 8
+Boisterous:                          0.1 : 8

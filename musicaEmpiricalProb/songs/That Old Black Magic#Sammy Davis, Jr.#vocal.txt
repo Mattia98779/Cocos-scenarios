@@ -7,25 +7,25 @@ Cool & Cocky:                        0.9 : 9
 Drinking:                            0.9 : 9
 Guys Night Out:                      0.9 : 9
 TGIF:                                0.9 : 9
-Vocal Pop:                           0.825 : 8
-Confident:                           0.825 : 8
-Joyous:                              0.825 : 8
-Lively:                              0.825 : 8
-Stylish:                             0.825 : 8
-Freedom:                             0.825 : 8
-Partying:                            0.825 : 8
-Small Gathering:                     0.825 : 8
-Vocal Jazz:                          0.75 : 7
-Brash:                               0.75 : 7
-Carefree:                            0.75 : 7
-Elegant:                             0.75 : 7
-Lush:                                0.75 : 7
-Playful_mood:                        0.75 : 7
-Refined:                             0.75 : 7
-Sophisticated:                       0.75 : 7
-American Popular Song:               0.6749999999999999 : 6
-Standards:                           0.6749999999999999 : 6
-Celebratory:                         0.6749999999999999 : 6
-Fun:                                 0.6749999999999999 : 6
-Romantic:                            0.6749999999999999 : 6
-Energetic:                           0.6 : 5
+Vocal Pop:                           0.6999999999999998 : 8
+Confident:                           0.6999999999999998 : 8
+Joyous:                              0.6999999999999998 : 8
+Lively:                              0.6999999999999998 : 8
+Stylish:                             0.6999999999999998 : 8
+Freedom:                             0.6999999999999998 : 8
+Partying:                            0.6999999999999998 : 8
+Small Gathering:                     0.6999999999999998 : 8
+Vocal Jazz:                          0.4999999999999999 : 7
+Brash:                               0.4999999999999999 : 7
+Carefree:                            0.4999999999999999 : 7
+Elegant:                             0.4999999999999999 : 7
+Lush:                                0.4999999999999999 : 7
+Playful_mood:                        0.4999999999999999 : 7
+Refined:                             0.4999999999999999 : 7
+Sophisticated:                       0.4999999999999999 : 7
+American Popular Song:               0.29999999999999993 : 6
+Standards:                           0.29999999999999993 : 6
+Celebratory:                         0.29999999999999993 : 6
+Fun:                                 0.29999999999999993 : 6
+Romantic:                            0.29999999999999993 : 6
+Energetic:                           0.1 : 5

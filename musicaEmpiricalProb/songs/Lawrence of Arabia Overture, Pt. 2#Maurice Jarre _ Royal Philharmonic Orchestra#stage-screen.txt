@@ -1,16 +1,16 @@
-Original Score:                      0.9 : 8
-Stylish:                             0.9 : 8
-Dreamy:                              0.8 : 7
-Plaintive:                           0.8 : 7
-Sophisticated:                       0.8 : 7
-Theatrical:                          0.8 : 7
-Affirmation:                         0.8 : 7
-Boisterous:                          0.7 : 6
-Complex:                             0.7 : 6
-Dramatic:                            0.7 : 6
-Elegant:                             0.7 : 6
-Refined:                             0.7 : 6
-Award Winners:                       0.7 : 6
-Film Music:                          0.6 : 5
-Soundtracks:                         0.6 : 5
-Whimsical:                           0.6 : 5
+Original Score:                      0.9000000000000001 : 8
+Stylish:                             0.9000000000000001 : 8
+Dreamy:                              0.6333333333333333 : 7
+Plaintive:                           0.6333333333333333 : 7
+Sophisticated:                       0.6333333333333333 : 7
+Theatrical:                          0.6333333333333333 : 7
+Affirmation:                         0.6333333333333333 : 7
+Boisterous:                          0.3666666666666667 : 6
+Complex:                             0.3666666666666667 : 6
+Dramatic:                            0.3666666666666667 : 6
+Elegant:                             0.3666666666666667 : 6
+Refined:                             0.3666666666666667 : 6
+Award Winners:                       0.3666666666666667 : 6
+Film Music:                          0.1 : 5
+Soundtracks:                         0.1 : 5
+Whimsical:                           0.1 : 5

@@ -4,30 +4,30 @@ Dramatic:                            0.9 : 9
 Elegant:                             0.9 : 9
 Intimate:                            0.9 : 9
 Sophisticated:                       0.9 : 9
-Soft Rock:                           0.8250000000000001 : 8
-Bittersweet:                         0.8250000000000001 : 8
-Calm/Peaceful:                       0.8250000000000001 : 8
-Confident:                           0.8250000000000001 : 8
-Exuberant:                           0.8250000000000001 : 8
-Gentle:                              0.8250000000000001 : 8
-Passionate:                          0.8250000000000001 : 8
-Poignant:                            0.8250000000000001 : 8
-Sensual:                             0.8250000000000001 : 8
-Sentimental:                         0.8250000000000001 : 8
-Theatrical:                          0.8250000000000001 : 8
-Refined:                             0.75 : 7
-Reflective:                          0.75 : 7
-Romantic:                            0.75 : 7
-Soothing:                            0.75 : 7
-Stylish:                             0.75 : 7
-Wistful:                             0.75 : 7
-Yearning:                            0.75 : 7
-Breakup:                             0.75 : 7
-Heartache:                           0.75 : 7
-In Love:                             0.75 : 7
-Reminiscing:                         0.75 : 7
-Adult Contemporary:                  0.675 : 6
-Early Pop/Rock:                      0.675 : 6
-Earnest:                             0.675 : 6
-Plaintive:                           0.675 : 6
-Loss/Grief:                          0.6 : 5
+Soft Rock:                           0.7000000000000002 : 8
+Bittersweet:                         0.7000000000000002 : 8
+Calm/Peaceful:                       0.7000000000000002 : 8
+Confident:                           0.7000000000000002 : 8
+Exuberant:                           0.7000000000000002 : 8
+Gentle:                              0.7000000000000002 : 8
+Passionate:                          0.7000000000000002 : 8
+Poignant:                            0.7000000000000002 : 8
+Sensual:                             0.7000000000000002 : 8
+Sentimental:                         0.7000000000000002 : 8
+Theatrical:                          0.7000000000000002 : 8
+Refined:                             0.5000000000000001 : 7
+Reflective:                          0.5000000000000001 : 7
+Romantic:                            0.5000000000000001 : 7
+Soothing:                            0.5000000000000001 : 7
+Stylish:                             0.5000000000000001 : 7
+Wistful:                             0.5000000000000001 : 7
+Yearning:                            0.5000000000000001 : 7
+Breakup:                             0.5000000000000001 : 7
+Heartache:                           0.5000000000000001 : 7
+In Love:                             0.5000000000000001 : 7
+Reminiscing:                         0.5000000000000001 : 7
+Adult Contemporary:                  0.30000000000000004 : 6
+Early Pop/Rock:                      0.30000000000000004 : 6
+Earnest:                             0.30000000000000004 : 6
+Plaintive:                           0.30000000000000004 : 6
+Loss/Grief:                          0.1 : 5

@@ -1,26 +1,26 @@
 Earnest:                             0.9 : 8
 Spiritual:                           0.9 : 8
-Rousing:                             0.84 : 7
-Summery:                             0.84 : 7
-Summer:                              0.84 : 7
-Amiable/Good-Natured:                0.78 : 6
-Relaxation:                          0.78 : 6
-Political Reggae:                    0.72 : 5
-Roots Reggae:                        0.72 : 5
-Earthy:                              0.72 : 5
-Laid-Back/Mellow:                    0.72 : 5
-Lively:                              0.72 : 5
-Optimistic:                          0.72 : 5
-Outraged:                            0.72 : 5
-Provocative:                         0.72 : 5
-Soothing:                            0.72 : 5
-Hanging Out:                         0.72 : 5
-In Love:                             0.72 : 5
-Revolutionary:                       0.72 : 5
-Bittersweet:                         0.66 : 4
-Gentle:                              0.66 : 4
-Organic:                             0.66 : 4
-Poignant:                            0.66 : 4
-Freedom:                             0.66 : 4
-Reflective:                          0.6 : 3
-Sweet:                               0.6 : 3
+Rousing:                             0.7399999999999999 : 7
+Summery:                             0.7399999999999999 : 7
+Summer:                              0.7399999999999999 : 7
+Amiable/Good-Natured:                0.58 : 6
+Relaxation:                          0.58 : 6
+Political Reggae:                    0.42000000000000004 : 5
+Roots Reggae:                        0.42000000000000004 : 5
+Earthy:                              0.42000000000000004 : 5
+Laid-Back/Mellow:                    0.42000000000000004 : 5
+Lively:                              0.42000000000000004 : 5
+Optimistic:                          0.42000000000000004 : 5
+Outraged:                            0.42000000000000004 : 5
+Provocative:                         0.42000000000000004 : 5
+Soothing:                            0.42000000000000004 : 5
+Hanging Out:                         0.42000000000000004 : 5
+In Love:                             0.42000000000000004 : 5
+Revolutionary:                       0.42000000000000004 : 5
+Bittersweet:                         0.26 : 4
+Gentle:                              0.26 : 4
+Organic:                             0.26 : 4
+Poignant:                            0.26 : 4
+Freedom:                             0.26 : 4
+Reflective:                          0.1 : 3
+Sweet:                               0.1 : 3

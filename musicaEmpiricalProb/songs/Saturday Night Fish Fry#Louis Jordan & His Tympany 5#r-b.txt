@@ -3,16 +3,16 @@ Exuberant:                           0.9 : 9
 Cool & Cocky:                        0.9 : 9
 Playful:                             0.9 : 9
 TGIF:                                0.9 : 9
-Fun:                                 0.8400000000000001 : 8
-Joyous:                              0.8400000000000001 : 8
-Urban Blues:                         0.78 : 7
-Gleeful:                             0.78 : 7
-Innocent:                            0.78 : 7
-Swaggering:                          0.78 : 7
-East Coast Blues:                    0.72 : 6
-Regional Blues:                      0.72 : 6
-Energetic:                           0.72 : 6
-Happy:                               0.72 : 6
-Bravado:                             0.66 : 5
-Celebratory:                         0.66 : 5
-Amiable/Good-Natured:                0.6 : 4
+Fun:                                 0.74 : 8
+Joyous:                              0.74 : 8
+Urban Blues:                         0.5800000000000001 : 7
+Gleeful:                             0.5800000000000001 : 7
+Innocent:                            0.5800000000000001 : 7
+Swaggering:                          0.5800000000000001 : 7
+East Coast Blues:                    0.42000000000000004 : 6
+Regional Blues:                      0.42000000000000004 : 6
+Energetic:                           0.42000000000000004 : 6
+Happy:                               0.42000000000000004 : 6
+Bravado:                             0.2600000000000001 : 5
+Celebratory:                         0.2600000000000001 : 5
+Amiable/Good-Natured:                0.1 : 4

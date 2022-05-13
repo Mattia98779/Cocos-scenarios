@@ -5,26 +5,26 @@ Sparkling:                           0.9 : 9
 Club:                                0.9 : 9
 Partying:                            0.9 : 9
 Sex:                                 0.9 : 9
-Disco:                               0.8400000000000001 : 8
-Urban:                               0.8400000000000001 : 8
-Celebratory:                         0.8400000000000001 : 8
-Exuberant:                           0.8400000000000001 : 8
-Gleeful:                             0.8400000000000001 : 8
-Joyous:                              0.8400000000000001 : 8
-Passionate:                          0.8400000000000001 : 8
-Stylish:                             0.8400000000000001 : 8
-Contemporary Pop/Rock:               0.78 : 7
-Boisterous:                          0.78 : 7
-Confident:                           0.78 : 7
-Giddy:                               0.78 : 7
-Lively:                              0.78 : 7
-Rousing:                             0.78 : 7
-Smooth:                              0.78 : 7
-Motivation:                          0.78 : 7
-Energetic:                           0.72 : 6
-Freewheeling:                        0.72 : 6
-Hedonistic:                          0.72 : 6
-Sugary:                              0.72 : 6
-Intimate:                            0.6599999999999999 : 5
-In Love:                             0.6599999999999999 : 5
-Soul:                                0.6 : 4
+Disco:                               0.7400000000000001 : 8
+Urban:                               0.7400000000000001 : 8
+Celebratory:                         0.7400000000000001 : 8
+Exuberant:                           0.7400000000000001 : 8
+Gleeful:                             0.7400000000000001 : 8
+Joyous:                              0.7400000000000001 : 8
+Passionate:                          0.7400000000000001 : 8
+Stylish:                             0.7400000000000001 : 8
+Contemporary Pop/Rock:               0.5800000000000001 : 7
+Boisterous:                          0.5800000000000001 : 7
+Confident:                           0.5800000000000001 : 7
+Giddy:                               0.5800000000000001 : 7
+Lively:                              0.5800000000000001 : 7
+Rousing:                             0.5800000000000001 : 7
+Smooth:                              0.5800000000000001 : 7
+Motivation:                          0.5800000000000001 : 7
+Energetic:                           0.42000000000000004 : 6
+Freewheeling:                        0.42000000000000004 : 6
+Hedonistic:                          0.42000000000000004 : 6
+Sugary:                              0.42000000000000004 : 6
+Intimate:                            0.26 : 5
+In Love:                             0.26 : 5
+Soul:                                0.1 : 4

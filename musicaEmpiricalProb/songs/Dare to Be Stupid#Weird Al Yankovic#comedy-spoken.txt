@@ -16,16 +16,16 @@ Whimsical:                           0.9 : 9
 Witty:                               0.9 : 9
 Mischievous:                         0.9 : 9
 Playful:                             0.9 : 9
-Comedy Rock:                         0.825 : 8
-Song Parody:                         0.825 : 8
-Amiable/Good-Natured:                0.825 : 8
-Campy:                               0.825 : 8
-Freewheeling:                        0.825 : 8
-Gleeful:                             0.825 : 8
-Humorous:                            0.825 : 8
-Quirky:                              0.825 : 8
-Hanging Out:                         0.825 : 8
-Partying:                            0.825 : 8
-The Creative Side:                   0.825 : 8
-Music Comedy:                        0.75 : 7
-Family Gatherings:                   0.6 : 5
+Comedy Rock:                         0.6999999999999998 : 8
+Song Parody:                         0.6999999999999998 : 8
+Amiable/Good-Natured:                0.6999999999999998 : 8
+Campy:                               0.6999999999999998 : 8
+Freewheeling:                        0.6999999999999998 : 8
+Gleeful:                             0.6999999999999998 : 8
+Humorous:                            0.6999999999999998 : 8
+Quirky:                              0.6999999999999998 : 8
+Hanging Out:                         0.6999999999999998 : 8
+Partying:                            0.6999999999999998 : 8
+The Creative Side:                   0.6999999999999998 : 8
+Music Comedy:                        0.4999999999999999 : 7
+Family Gatherings:                   0.1 : 5

@@ -18,40 +18,40 @@ Hanging Out:                         0.9 : 9
 Night Driving:                       0.9 : 9
 Road Trip:                           0.9 : 9
 Summer:                              0.9 : 9
-Electric Memphis Blues:              0.8500000000000001 : 8
-Regional Blues:                      0.8500000000000001 : 8
-Gloomy:                              0.8500000000000001 : 8
-Restrained:                          0.8500000000000001 : 8
-Tense/Anxious:                       0.8500000000000001 : 8
-Yearning:                            0.8500000000000001 : 8
-Solitude:                            0.8500000000000001 : 8
-Anguished/Distraught:                0.8 : 7
-Brittle:                             0.8 : 7
-Cold:                                0.8 : 7
-Confrontational:                     0.8 : 7
-Insular:                             0.8 : 7
-Lazy:                                0.8 : 7
-Self-Conscious:                      0.8 : 7
-Urgent:                              0.8 : 7
-Cool & Cocky:                        0.8 : 7
-Late Night:                          0.8 : 7
-Long Walk:                           0.8 : 7
-Reflection:                          0.8 : 7
-Early R&B:                           0.75 : 6
-Atmospheric:                         0.75 : 6
-Dreamy:                              0.75 : 6
-Gritty:                              0.75 : 6
-Lively:                              0.75 : 6
-Melancholy:                          0.75 : 6
-Rousing:                             0.75 : 6
-Searching:                           0.75 : 6
-Street-Smart:                        0.75 : 6
-Summery:                             0.75 : 6
-Introspection:                       0.75 : 6
-Boisterous:                          0.7 : 5
-Clinical:                            0.7 : 5
-Rebellious:                          0.7 : 5
-Earnest:                             0.65 : 4
-Plaintive:                           0.65 : 4
-Amiable/Good-Natured:                0.6 : 3
-Exuberant:                           0.6 : 3
+Electric Memphis Blues:              0.7666666666666666 : 8
+Regional Blues:                      0.7666666666666666 : 8
+Gloomy:                              0.7666666666666666 : 8
+Restrained:                          0.7666666666666666 : 8
+Tense/Anxious:                       0.7666666666666666 : 8
+Yearning:                            0.7666666666666666 : 8
+Solitude:                            0.7666666666666666 : 8
+Anguished/Distraught:                0.6333333333333333 : 7
+Brittle:                             0.6333333333333333 : 7
+Cold:                                0.6333333333333333 : 7
+Confrontational:                     0.6333333333333333 : 7
+Insular:                             0.6333333333333333 : 7
+Lazy:                                0.6333333333333333 : 7
+Self-Conscious:                      0.6333333333333333 : 7
+Urgent:                              0.6333333333333333 : 7
+Cool & Cocky:                        0.6333333333333333 : 7
+Late Night:                          0.6333333333333333 : 7
+Long Walk:                           0.6333333333333333 : 7
+Reflection:                          0.6333333333333333 : 7
+Early R&B:                           0.5 : 6
+Atmospheric:                         0.5 : 6
+Dreamy:                              0.5 : 6
+Gritty:                              0.5 : 6
+Lively:                              0.5 : 6
+Melancholy:                          0.5 : 6
+Rousing:                             0.5 : 6
+Searching:                           0.5 : 6
+Street-Smart:                        0.5 : 6
+Summery:                             0.5 : 6
+Introspection:                       0.5 : 6
+Boisterous:                          0.3666666666666667 : 5
+Clinical:                            0.3666666666666667 : 5
+Rebellious:                          0.3666666666666667 : 5
+Earnest:                             0.23333333333333334 : 4
+Plaintive:                           0.23333333333333334 : 4
+Amiable/Good-Natured:                0.1 : 3
+Exuberant:                           0.1 : 3

@@ -5,25 +5,25 @@ Poignant:                            0.9 : 9
 Feeling Blue:                        0.9 : 9
 Reflection:                          0.9 : 9
 Relaxation:                          0.9 : 9
-Cast Recordings:                     0.8 : 8
-Show Tunes:                          0.8 : 8
-Vocal Pop:                           0.8 : 8
-Bittersweet:                         0.8 : 8
-Elegant:                             0.8 : 8
-Reflective:                          0.8 : 8
-Soothing:                            0.8 : 8
-Yearning:                            0.8 : 8
-Dinner Ambiance:                     0.8 : 8
-Regret:                              0.8 : 8
-Delicate:                            0.7 : 7
-Literate:                            0.7 : 7
-Restrained:                          0.7 : 7
-Sentimental:                         0.7 : 7
-Stylish:                             0.7 : 7
-Wistful:                             0.7 : 7
-Vocal Jazz:                          0.6 : 6
-Gentle:                              0.6 : 6
-Laid-Back/Mellow:                    0.6 : 6
-Smooth:                              0.6 : 6
-Warm:                                0.6 : 6
-Sunday Afternoon:                    0.6 : 6
+Cast Recordings:                     0.6333333333333332 : 8
+Show Tunes:                          0.6333333333333332 : 8
+Vocal Pop:                           0.6333333333333332 : 8
+Bittersweet:                         0.6333333333333332 : 8
+Elegant:                             0.6333333333333332 : 8
+Reflective:                          0.6333333333333332 : 8
+Soothing:                            0.6333333333333332 : 8
+Yearning:                            0.6333333333333332 : 8
+Dinner Ambiance:                     0.6333333333333332 : 8
+Regret:                              0.6333333333333332 : 8
+Delicate:                            0.3666666666666668 : 7
+Literate:                            0.3666666666666668 : 7
+Restrained:                          0.3666666666666668 : 7
+Sentimental:                         0.3666666666666668 : 7
+Stylish:                             0.3666666666666668 : 7
+Wistful:                             0.3666666666666668 : 7
+Vocal Jazz:                          0.1 : 6
+Gentle:                              0.1 : 6
+Laid-Back/Mellow:                    0.1 : 6
+Smooth:                              0.1 : 6
+Warm:                                0.1 : 6
+Sunday Afternoon:                    0.1 : 6

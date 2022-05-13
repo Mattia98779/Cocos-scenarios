@@ -16,41 +16,41 @@ Introspection:                       0.9 : 9
 Long Walk:                           0.9 : 9
 Reflection:                          0.9 : 9
 The Creative Side:                   0.9 : 9
-Modal Music:                         0.8625 : 8
-Intimate:                            0.8625 : 8
-Sophisticated:                       0.8625 : 8
-Sprawling:                           0.8625 : 8
-Empowering:                          0.8625 : 8
-Motivation:                          0.8625 : 8
-Ambitious:                           0.825 : 7
-Amiable/Good-Natured:                0.825 : 7
-Bravado:                             0.825 : 7
-Carefree:                            0.825 : 7
-Confident:                           0.825 : 7
-Dramatic:                            0.825 : 7
-Earnest:                             0.825 : 7
-Earthy:                              0.825 : 7
-Elaborate:                           0.825 : 7
-Elegant:                             0.825 : 7
-Freewheeling:                        0.825 : 7
-Literate:                            0.825 : 7
-Reflective:                          0.825 : 7
-Self-Conscious:                      0.825 : 7
-Stately:                             0.825 : 7
-Street-Smart:                        0.825 : 7
-Warm:                                0.825 : 7
-Whimsical:                           0.825 : 7
-Witty:                               0.825 : 7
-Wry:                                 0.825 : 7
-Affirmation:                         0.825 : 7
-Cool & Cocky:                        0.825 : 7
-Freedom:                             0.825 : 7
-Mischievous:                         0.825 : 7
-Playful:                             0.825 : 7
-Sports:                              0.825 : 7
-The Great Outdoors:                  0.825 : 7
-Victory:                             0.825 : 7
-Lively:                              0.7875 : 6
-Refined:                             0.75 : 5
-Bop:                                 0.6 : 1
-Hard Bop:                            0.6 : 1
+Modal Music:                         0.7999999999999999 : 8
+Intimate:                            0.7999999999999999 : 8
+Sophisticated:                       0.7999999999999999 : 8
+Sprawling:                           0.7999999999999999 : 8
+Empowering:                          0.7999999999999999 : 8
+Motivation:                          0.7999999999999999 : 8
+Ambitious:                           0.7 : 7
+Amiable/Good-Natured:                0.7 : 7
+Bravado:                             0.7 : 7
+Carefree:                            0.7 : 7
+Confident:                           0.7 : 7
+Dramatic:                            0.7 : 7
+Earnest:                             0.7 : 7
+Earthy:                              0.7 : 7
+Elaborate:                           0.7 : 7
+Elegant:                             0.7 : 7
+Freewheeling:                        0.7 : 7
+Literate:                            0.7 : 7
+Reflective:                          0.7 : 7
+Self-Conscious:                      0.7 : 7
+Stately:                             0.7 : 7
+Street-Smart:                        0.7 : 7
+Warm:                                0.7 : 7
+Whimsical:                           0.7 : 7
+Witty:                               0.7 : 7
+Wry:                                 0.7 : 7
+Affirmation:                         0.7 : 7
+Cool & Cocky:                        0.7 : 7
+Freedom:                             0.7 : 7
+Mischievous:                         0.7 : 7
+Playful:                             0.7 : 7
+Sports:                              0.7 : 7
+The Great Outdoors:                  0.7 : 7
+Victory:                             0.7 : 7
+Lively:                              0.5999999999999999 : 6
+Refined:                             0.4999999999999999 : 5
+Bop:                                 0.1 : 1
+Hard Bop:                            0.1 : 1

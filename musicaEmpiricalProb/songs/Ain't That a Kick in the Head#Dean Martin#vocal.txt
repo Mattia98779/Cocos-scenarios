@@ -13,25 +13,25 @@ Warm:                                0.9 : 9
 Comfort:                             0.9 : 9
 In Love:                             0.9 : 9
 Romantic Evening:                    0.9 : 9
-Traditional Pop:                     0.825 : 8
-Carefree:                            0.825 : 8
-Cheerful:                            0.825 : 8
-Fun:                                 0.825 : 8
-Happy:                               0.825 : 8
-Sentimental:                         0.825 : 8
-Soothing:                            0.825 : 8
-Sophisticated:                       0.825 : 8
-Cool & Cocky:                        0.825 : 8
-Dinner Ambiance:                     0.825 : 8
-Guys Night Out:                      0.825 : 8
-Boisterous:                          0.6 : 5
-Bravado:                             0.6 : 5
-Confident:                           0.6 : 5
-Dramatic:                            0.6 : 5
-Exuberant:                           0.6 : 5
-Gutsy:                               0.6 : 5
-Rousing:                             0.6 : 5
-Slick:                               0.6 : 5
-Smooth:                              0.6 : 5
-Stylish:                             0.6 : 5
-Swaggering:                          0.6 : 5
+Traditional Pop:                     0.7 : 8
+Carefree:                            0.7 : 8
+Cheerful:                            0.7 : 8
+Fun:                                 0.7 : 8
+Happy:                               0.7 : 8
+Sentimental:                         0.7 : 8
+Soothing:                            0.7 : 8
+Sophisticated:                       0.7 : 8
+Cool & Cocky:                        0.7 : 8
+Dinner Ambiance:                     0.7 : 8
+Guys Night Out:                      0.7 : 8
+Boisterous:                          0.1 : 5
+Bravado:                             0.1 : 5
+Confident:                           0.1 : 5
+Dramatic:                            0.1 : 5
+Exuberant:                           0.1 : 5
+Gutsy:                               0.1 : 5
+Rousing:                             0.1 : 5
+Slick:                               0.1 : 5
+Smooth:                              0.1 : 5
+Stylish:                             0.1 : 5
+Swaggering:                          0.1 : 5

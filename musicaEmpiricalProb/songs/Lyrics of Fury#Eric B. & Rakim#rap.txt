@@ -14,20 +14,20 @@ Exercise/Workout:                    0.9 : 9
 Hanging Out:                         0.9 : 9
 Late Night:                          0.9 : 9
 Revolutionary:                       0.9 : 9
-Confident:                           0.8500000000000001 : 8
-Intense:                             0.8500000000000001 : 8
-Street-Smart:                        0.8500000000000001 : 8
-Motivation:                          0.8500000000000001 : 8
-Bravado:                             0.8 : 7
-Confrontational:                     0.8 : 7
-Dramatic:                            0.8 : 7
-Energetic:                           0.8 : 7
-Fiery:                               0.8 : 7
-Harsh:                               0.8 : 7
-Menacing:                            0.8 : 7
-Raucous:                             0.8 : 7
-Aggressive:                          0.75 : 6
-Rousing:                             0.75 : 6
-Manic:                               0.65 : 4
-Unsettling:                          0.65 : 4
-Tense/Anxious:                       0.6 : 3
+Confident:                           0.7666666666666667 : 8
+Intense:                             0.7666666666666667 : 8
+Street-Smart:                        0.7666666666666667 : 8
+Motivation:                          0.7666666666666667 : 8
+Bravado:                             0.6333333333333334 : 7
+Confrontational:                     0.6333333333333334 : 7
+Dramatic:                            0.6333333333333334 : 7
+Energetic:                           0.6333333333333334 : 7
+Fiery:                               0.6333333333333334 : 7
+Harsh:                               0.6333333333333334 : 7
+Menacing:                            0.6333333333333334 : 7
+Raucous:                             0.6333333333333334 : 7
+Aggressive:                          0.5000000000000001 : 6
+Rousing:                             0.5000000000000001 : 6
+Manic:                               0.23333333333333336 : 4
+Unsettling:                          0.23333333333333336 : 4
+Tense/Anxious:                       0.1 : 3

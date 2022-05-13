@@ -6,9 +6,9 @@ Exuberant:                           0.9 : 8
 Freewheeling:                        0.9 : 8
 Summery:                             0.9 : 8
 Summer:                              0.9 : 8
-Amiable/Good-Natured:                0.75 : 7
-Earnest:                             0.75 : 7
-Playful_mood:                        0.75 : 7
-Cathartic:                           0.6 : 6
-Confident:                           0.6 : 6
-Rousing:                             0.6 : 6
+Amiable/Good-Natured:                0.5000000000000001 : 7
+Earnest:                             0.5000000000000001 : 7
+Playful_mood:                        0.5000000000000001 : 7
+Cathartic:                           0.1 : 6
+Confident:                           0.1 : 6
+Rousing:                             0.1 : 6

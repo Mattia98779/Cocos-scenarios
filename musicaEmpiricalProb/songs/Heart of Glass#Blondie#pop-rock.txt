@@ -28,25 +28,25 @@ Wistful:                             0.9 : 9
 Club:                                0.9 : 9
 Partying:                            0.9 : 9
 Regret:                              0.9 : 9
-Punk/New Wave:                       0.8625 : 8
-Detached:                            0.8625 : 8
-Light:                               0.8625 : 8
-Slick:                               0.8625 : 8
-Street-Smart:                        0.8625 : 8
-Wry:                                 0.8625 : 8
-Cool & Cocky:                        0.8625 : 8
-Girls Night Out:                     0.8625 : 8
-Introspection:                       0.8625 : 8
-Mischievous:                         0.8625 : 8
-Reflection:                          0.8625 : 8
-Sex:                                 0.8625 : 8
-Carefree:                            0.825 : 7
-Gentle:                              0.825 : 7
-Soft/Quiet:                          0.825 : 7
-House:                               0.75 : 5
-Intimate:                            0.75 : 5
-Nostalgic:                           0.75 : 5
-In Love:                             0.75 : 5
-Reminiscing:                         0.75 : 5
-Dance-Rock:                          0.6375 : 2
-Alternative Dance:                   0.6 : 1
+Punk/New Wave:                       0.8 : 8
+Detached:                            0.8 : 8
+Light:                               0.8 : 8
+Slick:                               0.8 : 8
+Street-Smart:                        0.8 : 8
+Wry:                                 0.8 : 8
+Cool & Cocky:                        0.8 : 8
+Girls Night Out:                     0.8 : 8
+Introspection:                       0.8 : 8
+Mischievous:                         0.8 : 8
+Reflection:                          0.8 : 8
+Sex:                                 0.8 : 8
+Carefree:                            0.7 : 7
+Gentle:                              0.7 : 7
+Soft/Quiet:                          0.7 : 7
+House:                               0.5 : 5
+Intimate:                            0.5 : 5
+Nostalgic:                           0.5 : 5
+In Love:                             0.5 : 5
+Reminiscing:                         0.5 : 5
+Dance-Rock:                          0.2 : 2
+Alternative Dance:                   0.1 : 1

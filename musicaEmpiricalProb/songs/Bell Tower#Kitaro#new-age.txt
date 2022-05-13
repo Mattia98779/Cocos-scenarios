@@ -1,17 +1,17 @@
 Progressive Electronic:              0.9 : 8
-Classical Crossover:                 0.8 : 7
-Calm/Peaceful:                       0.8 : 7
-Delicate:                            0.8 : 7
-Ethereal:                            0.8 : 7
-Gentle:                              0.8 : 7
-Reflective:                          0.8 : 7
-Restrained:                          0.8 : 7
-Introspection:                       0.8 : 7
-Meditation:                          0.8 : 7
-Relaxation:                          0.8 : 7
-The Creative Side:                   0.8 : 7
-Refined:                             0.7000000000000001 : 6
-Soothing:                            0.7000000000000001 : 6
-Reflection:                          0.7000000000000001 : 6
-Solitude:                            0.7000000000000001 : 6
-Detached:                            0.6 : 5
+Classical Crossover:                 0.6333333333333333 : 7
+Calm/Peaceful:                       0.6333333333333333 : 7
+Delicate:                            0.6333333333333333 : 7
+Ethereal:                            0.6333333333333333 : 7
+Gentle:                              0.6333333333333333 : 7
+Reflective:                          0.6333333333333333 : 7
+Restrained:                          0.6333333333333333 : 7
+Introspection:                       0.6333333333333333 : 7
+Meditation:                          0.6333333333333333 : 7
+Relaxation:                          0.6333333333333333 : 7
+The Creative Side:                   0.6333333333333333 : 7
+Refined:                             0.3666666666666668 : 6
+Soothing:                            0.3666666666666668 : 6
+Reflection:                          0.3666666666666668 : 6
+Solitude:                            0.3666666666666668 : 6
+Detached:                            0.1 : 5

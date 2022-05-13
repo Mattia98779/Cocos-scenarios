@@ -1,7 +1,6 @@
 import os
 import matplotlib.pyplot as plt
 import collections
-import numpy
 import numpy as np
 
 
@@ -104,7 +103,7 @@ def score(prototipo, canzone):
     for t in prototipo.tipiche:
         if t[1] in canzone.attributes:
             if t[4] == "+":
-                punteggio = punteggio + 1
+                punteggio = punteggio + 1 * float(canzone.attributes[t[1]][0])
             else:
                 punteggio = punteggio - 1
     return punteggio
@@ -165,10 +164,10 @@ def statisticheClassifica(allClassifica):
     scoreMedi = {}
     for clas in allClassifica:
         scores = [row[1] for row in clas[1]]
-        scoreSet = range(-5,7)
+        scoreSet = np.linspace(0,6,13)
         dati = {}
         for s in scoreSet:
-            dati[s] = sum(map(lambda x : x>=s and x<(s+1), scores))
+            dati[s] = sum(map(lambda x : x>=s and x<(s+0.5), scores))
         scoreMedi = {k: dati.get(k, 0) + scoreMedi.get(k, 0) for k in set(dati) | set(scoreMedi)}
 
     for k in scoreMedi.keys():

@@ -23,5 +23,5 @@ Meditation:                          0.9 : 9
 Reflection:                          0.9 : 9
 Relaxation:                          0.9 : 9
 The Creative Side:                   0.9 : 9
-Elaborate:                           0.6 : 5
-Epic:                                0.6 : 5
+Elaborate:                           0.1 : 5
+Epic:                                0.1 : 5

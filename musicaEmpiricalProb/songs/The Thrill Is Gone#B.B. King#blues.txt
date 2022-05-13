@@ -12,19 +12,19 @@ Feeling Blue:                        0.9 : 9
 Heartache:                           0.9 : 9
 Late Night:                          0.9 : 9
 Loss/Grief:                          0.9 : 9
-Refined:                             0.8625 : 8
-Yearning:                            0.8625 : 8
-Brooding:                            0.825 : 7
-Passionate:                          0.825 : 7
-Reflective:                          0.825 : 7
-Sad:                                 0.825 : 7
-Searching:                           0.825 : 7
-Sophisticated:                       0.825 : 7
-Stylish:                             0.825 : 7
-Smooth Soul:                         0.7875 : 6
-Soothing:                            0.7875 : 6
-Soul:                                0.75 : 5
-Melancholy:                          0.75 : 5
-In Love:                             0.75 : 5
-Modern Electric Blues:               0.6 : 1
-Soul-Blues:                          0.6 : 1
+Refined:                             0.8 : 8
+Yearning:                            0.8 : 8
+Brooding:                            0.7000000000000001 : 7
+Passionate:                          0.7000000000000001 : 7
+Reflective:                          0.7000000000000001 : 7
+Sad:                                 0.7000000000000001 : 7
+Searching:                           0.7000000000000001 : 7
+Sophisticated:                       0.7000000000000001 : 7
+Stylish:                             0.7000000000000001 : 7
+Smooth Soul:                         0.6000000000000001 : 6
+Soothing:                            0.6000000000000001 : 6
+Soul:                                0.5 : 5
+Melancholy:                          0.5 : 5
+In Love:                             0.5 : 5
+Modern Electric Blues:               0.1 : 1
+Soul-Blues:                          0.1 : 1

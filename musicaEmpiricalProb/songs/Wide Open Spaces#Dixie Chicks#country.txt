@@ -18,9 +18,9 @@ Yearning:                            0.9 : 9
 Comfort:                             0.9 : 9
 Introspection:                       0.9 : 9
 Reflection:                          0.9 : 9
-Contemporary Country:                0.8625 : 8
-Neo-Traditionalist Country:          0.8625 : 8
-Confident:                           0.8625 : 8
-Empowering:                          0.8625 : 8
-Bluegrass:                           0.6 : 1
-Progressive Bluegrass:               0.6 : 1
+Contemporary Country:                0.8 : 8
+Neo-Traditionalist Country:          0.8 : 8
+Confident:                           0.8 : 8
+Empowering:                          0.8 : 8
+Bluegrass:                           0.1 : 1
+Progressive Bluegrass:               0.1 : 1

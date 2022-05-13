@@ -12,19 +12,19 @@ Laid-Back/Mellow:                    0.9 : 9
 Lively:                              0.9 : 9
 Late Night:                          0.9 : 9
 Solitude:                            0.9 : 9
-Ethereal:                            0.825 : 8
-Pastoral:                            0.825 : 8
-Searching:                           0.825 : 8
-Smooth:                              0.825 : 8
-Trippy:                              0.825 : 8
-Atmospheric:                         0.75 : 7
-Detached:                            0.75 : 7
-Reflective:                          0.75 : 7
-Warm:                                0.75 : 7
-Hanging Out:                         0.75 : 7
-Druggy:                              0.675 : 6
-Nocturnal:                           0.675 : 6
-Spacey:                              0.675 : 6
-Wintry:                              0.675 : 6
-Relaxation:                          0.675 : 6
-Light:                               0.6 : 5
+Ethereal:                            0.7000000000000001 : 8
+Pastoral:                            0.7000000000000001 : 8
+Searching:                           0.7000000000000001 : 8
+Smooth:                              0.7000000000000001 : 8
+Trippy:                              0.7000000000000001 : 8
+Atmospheric:                         0.5000000000000001 : 7
+Detached:                            0.5000000000000001 : 7
+Reflective:                          0.5000000000000001 : 7
+Warm:                                0.5000000000000001 : 7
+Hanging Out:                         0.5000000000000001 : 7
+Druggy:                              0.30000000000000016 : 6
+Nocturnal:                           0.30000000000000016 : 6
+Spacey:                              0.30000000000000016 : 6
+Wintry:                              0.30000000000000016 : 6
+Relaxation:                          0.30000000000000016 : 6
+Light:                               0.1 : 5

@@ -16,4 +16,4 @@ Comfort:                             0.9 : 9
 Introspection:                       0.9 : 9
 Reflection:                          0.9 : 9
 Relaxation:                          0.9 : 9
-Classical Pop:                       0.6 : 8
+Classical Pop:                       0.1 : 8

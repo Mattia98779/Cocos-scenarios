@@ -1,20 +1,20 @@
-Earnest:                             0.9 : 9
-Smooth:                              0.9 : 9
-Stylish:                             0.9 : 9
-Feeling Blue:                        0.9 : 9
-Guys Night Out:                      0.9 : 9
-Late Night:                          0.9 : 9
-Reflection:                          0.9 : 9
-Contemporary Country:                0.8250000000000001 : 8
-New Traditionalist:                  0.8250000000000001 : 8
-Earthy:                              0.8250000000000001 : 8
-Plaintive:                           0.8250000000000001 : 8
-Slick:                               0.8250000000000001 : 8
-Reflective:                          0.75 : 7
-Rustic:                              0.75 : 7
-Sentimental:                         0.75 : 7
-Warm:                                0.75 : 7
-Light:                               0.6749999999999999 : 6
-Restrained:                          0.6749999999999999 : 6
-Melancholy:                          0.6 : 5
-Refined:                             0.6 : 5
+Earnest:                             0.9000000000000001 : 9
+Smooth:                              0.9000000000000001 : 9
+Stylish:                             0.9000000000000001 : 9
+Feeling Blue:                        0.9000000000000001 : 9
+Guys Night Out:                      0.9000000000000001 : 9
+Late Night:                          0.9000000000000001 : 9
+Reflection:                          0.9000000000000001 : 9
+Contemporary Country:                0.7000000000000001 : 8
+New Traditionalist:                  0.7000000000000001 : 8
+Earthy:                              0.7000000000000001 : 8
+Plaintive:                           0.7000000000000001 : 8
+Slick:                               0.7000000000000001 : 8
+Reflective:                          0.4999999999999999 : 7
+Rustic:                              0.4999999999999999 : 7
+Sentimental:                         0.4999999999999999 : 7
+Warm:                                0.4999999999999999 : 7
+Light:                               0.29999999999999993 : 6
+Restrained:                          0.29999999999999993 : 6
+Melancholy:                          0.1 : 5
+Refined:                             0.1 : 5

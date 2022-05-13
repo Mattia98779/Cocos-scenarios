@@ -4,18 +4,18 @@ Fun:                                 0.9 : 8
 Giddy:                               0.9 : 8
 Refined:                             0.9 : 8
 The Great Outdoors:                  0.9 : 8
-Earthy:                              0.8400000000000001 : 7
-Sentimental:                         0.8400000000000001 : 7
-Atmospheric:                         0.78 : 6
-Earnest:                             0.78 : 6
-Organic:                             0.78 : 6
-Amiable/Good-Natured:                0.72 : 5
-Rousing:                             0.72 : 5
-Rustic:                              0.72 : 5
-Day Driving:                         0.72 : 5
-Early Morning:                       0.72 : 5
-Feeling Blue:                        0.72 : 5
-Freedom:                             0.72 : 5
-Housework:                           0.72 : 5
-Road Trip:                           0.72 : 5
-Sweet:                               0.6 : 3
+Earthy:                              0.7400000000000001 : 7
+Sentimental:                         0.7400000000000001 : 7
+Atmospheric:                         0.5800000000000001 : 6
+Earnest:                             0.5800000000000001 : 6
+Organic:                             0.5800000000000001 : 6
+Amiable/Good-Natured:                0.42000000000000004 : 5
+Rousing:                             0.42000000000000004 : 5
+Rustic:                              0.42000000000000004 : 5
+Day Driving:                         0.42000000000000004 : 5
+Early Morning:                       0.42000000000000004 : 5
+Feeling Blue:                        0.42000000000000004 : 5
+Freedom:                             0.42000000000000004 : 5
+Housework:                           0.42000000000000004 : 5
+Road Trip:                           0.42000000000000004 : 5
+Sweet:                               0.1 : 3

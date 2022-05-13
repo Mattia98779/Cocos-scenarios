@@ -3,20 +3,20 @@ Vocal Jazz:                          0.9 : 8
 Vocal Pop:                           0.9 : 8
 Searching:                           0.9 : 8
 Sophisticated:                       0.9 : 8
-Cast Recordings:                     0.75 : 7
-Show Tunes:                          0.75 : 7
-Elegant:                             0.75 : 7
-Lush:                                0.75 : 7
-Poignant:                            0.75 : 7
-Romantic:                            0.75 : 7
-Theatrical:                          0.75 : 7
-Yearning:                            0.75 : 7
-Dinner Ambiance:                     0.75 : 7
-In Love:                             0.75 : 7
-Romantic Evening:                    0.75 : 7
-Plaintive:                           0.6 : 6
-Refined:                             0.6 : 6
-Sentimental:                         0.6 : 6
-Heartache:                           0.6 : 6
-New Love:                            0.6 : 6
-Slow Dance:                          0.6 : 6
+Cast Recordings:                     0.5 : 7
+Show Tunes:                          0.5 : 7
+Elegant:                             0.5 : 7
+Lush:                                0.5 : 7
+Poignant:                            0.5 : 7
+Romantic:                            0.5 : 7
+Theatrical:                          0.5 : 7
+Yearning:                            0.5 : 7
+Dinner Ambiance:                     0.5 : 7
+In Love:                             0.5 : 7
+Romantic Evening:                    0.5 : 7
+Plaintive:                           0.1 : 6
+Refined:                             0.1 : 6
+Sentimental:                         0.1 : 6
+Heartache:                           0.1 : 6
+New Love:                            0.1 : 6
+Slow Dance:                          0.1 : 6

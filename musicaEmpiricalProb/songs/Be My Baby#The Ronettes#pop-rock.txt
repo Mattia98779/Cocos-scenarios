@@ -7,18 +7,18 @@ Theatrical:                          0.9 : 8
 Wistful:                             0.9 : 8
 Yearning:                            0.9 : 8
 Girls Night Out:                     0.9 : 8
-Poignant:                            0.8571428571428572 : 7
-Romantic:                            0.8571428571428572 : 7
-Bittersweet:                         0.7714285714285715 : 5
-Innocent:                            0.7714285714285715 : 5
-Naive:                               0.7714285714285715 : 5
-Sentimental:                         0.7714285714285715 : 5
-Sweet:                               0.7714285714285715 : 5
-Affection/Fondness:                  0.7714285714285715 : 5
-Feeling Blue:                        0.7714285714285715 : 5
-Heartache:                           0.7714285714285715 : 5
-In Love:                             0.7714285714285715 : 5
-Romantic Evening:                    0.7714285714285715 : 5
-Summer:                              0.7714285714285715 : 5
-Brill Building Pop:                  0.6 : 1
-Girl Groups:                         0.6 : 1
+Poignant:                            0.7857142857142858 : 7
+Romantic:                            0.7857142857142858 : 7
+Bittersweet:                         0.5571428571428573 : 5
+Innocent:                            0.5571428571428573 : 5
+Naive:                               0.5571428571428573 : 5
+Sentimental:                         0.5571428571428573 : 5
+Sweet:                               0.5571428571428573 : 5
+Affection/Fondness:                  0.5571428571428573 : 5
+Feeling Blue:                        0.5571428571428573 : 5
+Heartache:                           0.5571428571428573 : 5
+In Love:                             0.5571428571428573 : 5
+Romantic Evening:                    0.5571428571428573 : 5
+Summer:                              0.5571428571428573 : 5
+Brill Building Pop:                  0.1 : 1
+Girl Groups:                         0.1 : 1

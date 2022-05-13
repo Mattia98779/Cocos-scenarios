@@ -3,15 +3,15 @@ Gentle:                              0.9 : 9
 Restrained:                          0.9 : 9
 Sophisticated:                       0.9 : 9
 Dinner Ambiance:                     0.9 : 9
-Elegant:                             0.8500000000000001 : 8
-Reflective:                          0.8500000000000001 : 8
-Reminiscing:                         0.8500000000000001 : 8
-Delicate:                            0.8 : 7
-Dramatic:                            0.8 : 7
-Bop:                                 0.75 : 6
-Intimate:                            0.75 : 6
-Refined:                             0.75 : 6
-Swing:                               0.7 : 5
-Bittersweet:                         0.7 : 5
-Laid-Back/Mellow:                    0.7 : 5
-Stylish:                             0.6 : 3
+Elegant:                             0.7666666666666666 : 8
+Reflective:                          0.7666666666666666 : 8
+Reminiscing:                         0.7666666666666666 : 8
+Delicate:                            0.6333333333333333 : 7
+Dramatic:                            0.6333333333333333 : 7
+Bop:                                 0.5000000000000001 : 6
+Intimate:                            0.5000000000000001 : 6
+Refined:                             0.5000000000000001 : 6
+Swing:                               0.3666666666666667 : 5
+Bittersweet:                         0.3666666666666667 : 5
+Laid-Back/Mellow:                    0.3666666666666667 : 5
+Stylish:                             0.1 : 3

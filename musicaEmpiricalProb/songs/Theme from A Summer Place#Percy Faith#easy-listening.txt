@@ -26,4 +26,4 @@ Relaxation:                          0.9 : 9
 Romantic Evening:                    0.9 : 9
 Slow Dance:                          0.9 : 9
 Summer:                              0.9 : 9
-Instrumental Pop:                    0.6 : 8
+Instrumental Pop:                    0.1 : 8

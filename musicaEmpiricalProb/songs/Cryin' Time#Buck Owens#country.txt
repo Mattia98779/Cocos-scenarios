@@ -19,4 +19,4 @@ Rainy Day:                           0.9 : 9
 Reflection:                          0.9 : 9
 Regret:                              0.9 : 9
 Stay in Bed:                         0.9 : 9
-Traditional Country:                 0.6 : 8
+Traditional Country:                 0.1 : 8

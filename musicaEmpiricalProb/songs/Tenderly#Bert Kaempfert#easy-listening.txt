@@ -1,11 +1,11 @@
 Refined:                             0.9 : 8
 Relaxation:                          0.9 : 8
-Dinner Ambiance:                     0.8 : 7
-Romantic Evening:                    0.8 : 7
-Orchestral/Easy Listening:           0.6 : 5
-Amiable/Good-Natured:                0.6 : 5
-Calm/Peaceful:                       0.6 : 5
-Laid-Back/Mellow:                    0.6 : 5
-Reserved:                            0.6 : 5
-Sentimental:                         0.6 : 5
-Soothing:                            0.6 : 5
+Dinner Ambiance:                     0.6333333333333333 : 7
+Romantic Evening:                    0.6333333333333333 : 7
+Orchestral/Easy Listening:           0.1 : 5
+Amiable/Good-Natured:                0.1 : 5
+Calm/Peaceful:                       0.1 : 5
+Laid-Back/Mellow:                    0.1 : 5
+Reserved:                            0.1 : 5
+Sentimental:                         0.1 : 5
+Soothing:                            0.1 : 5

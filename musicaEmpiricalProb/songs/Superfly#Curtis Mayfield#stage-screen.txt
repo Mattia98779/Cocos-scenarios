@@ -14,10 +14,10 @@ Swaggering:                          0.9 : 9
 Guys Night Out:                      0.9 : 9
 Late Night:                          0.9 : 9
 Partying:                            0.9 : 9
-Blaxploitation:                      0.825 : 8
-Funk:                                0.825 : 8
-Psychedelic Soul:                    0.825 : 8
-Street-Smart:                        0.825 : 8
-Cool & Cocky:                        0.825 : 8
-Smooth Soul:                         0.6 : 5
-Soul:                                0.6 : 5
+Blaxploitation:                      0.7 : 8
+Funk:                                0.7 : 8
+Psychedelic Soul:                    0.7 : 8
+Street-Smart:                        0.7 : 8
+Cool & Cocky:                        0.7 : 8
+Smooth Soul:                         0.1 : 5
+Soul:                                0.1 : 5

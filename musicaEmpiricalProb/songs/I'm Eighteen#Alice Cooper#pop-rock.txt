@@ -34,10 +34,10 @@ Partying:                            0.9 : 9
 Reflection:                          0.9 : 9
 TGIF:                                0.9 : 9
 Victory:                             0.9 : 9
-Album Rock:                          0.8625 : 8
-Arena Rock:                          0.8625 : 8
-Heavy Metal:                         0.8625 : 8
-Provocative:                         0.8625 : 8
-Theatrical:                          0.8625 : 8
-Motivation:                          0.75 : 5
-Detroit Rock:                        0.6 : 1
+Album Rock:                          0.8000000000000002 : 8
+Arena Rock:                          0.8000000000000002 : 8
+Heavy Metal:                         0.8000000000000002 : 8
+Provocative:                         0.8000000000000002 : 8
+Theatrical:                          0.8000000000000002 : 8
+Motivation:                          0.5 : 5
+Detroit Rock:                        0.1 : 1

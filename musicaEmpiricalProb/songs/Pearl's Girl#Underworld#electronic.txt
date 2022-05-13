@@ -2,6 +2,6 @@ House:                               0.9 : 8
 Progressive House:                   0.9 : 8
 Restrained:                          0.9 : 8
 Wintry:                              0.9 : 8
-Club/Dance:                          0.6 : 5
-Funky Breaks:                        0.6 : 5
-Lively:                              0.6 : 5
+Club/Dance:                          0.1 : 5
+Funky Breaks:                        0.1 : 5
+Lively:                              0.1 : 5

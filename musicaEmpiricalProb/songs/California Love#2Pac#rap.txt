@@ -2,33 +2,33 @@ Dramatic:                            0.9 : 9
 Intense:                             0.9 : 9
 Somber:                              0.9 : 9
 Theatrical:                          0.9 : 9
-G-Funk:                              0.825 : 8
-Gangsta Rap:                         0.825 : 8
-West Coast Rap:                      0.825 : 8
-Anguished/Distraught:                0.825 : 8
-Celebratory:                         0.825 : 8
-Reflective:                          0.825 : 8
-Thuggish:                            0.825 : 8
-Brooding:                            0.75 : 7
-Melancholy:                          0.75 : 7
-Poignant:                            0.75 : 7
-Yearning:                            0.75 : 7
-Introspection:                       0.75 : 7
-Motivation:                          0.75 : 7
-Reflection:                          0.75 : 7
-Revolutionary:                       0.675 : 6
-Angry:                               0.6 : 5
-Angst-Ridden:                        0.6 : 5
-Complex:                             0.6 : 5
-Elegant:                             0.6 : 5
-Fierce:                              0.6 : 5
-Fiery:                               0.6 : 5
-Harsh:                               0.6 : 5
-Hostile:                             0.6 : 5
-Menacing:                            0.6 : 5
-Searching:                           0.6 : 5
-Street-Smart:                        0.6 : 5
-Uncompromising:                      0.6 : 5
-Affirmation:                         0.6 : 5
-Cool & Cocky:                        0.6 : 5
-Empowering:                          0.6 : 5
+G-Funk:                              0.7 : 8
+Gangsta Rap:                         0.7 : 8
+West Coast Rap:                      0.7 : 8
+Anguished/Distraught:                0.7 : 8
+Celebratory:                         0.7 : 8
+Reflective:                          0.7 : 8
+Thuggish:                            0.7 : 8
+Brooding:                            0.5 : 7
+Melancholy:                          0.5 : 7
+Poignant:                            0.5 : 7
+Yearning:                            0.5 : 7
+Introspection:                       0.5 : 7
+Motivation:                          0.5 : 7
+Reflection:                          0.5 : 7
+Revolutionary:                       0.30000000000000004 : 6
+Angry:                               0.1 : 5
+Angst-Ridden:                        0.1 : 5
+Complex:                             0.1 : 5
+Elegant:                             0.1 : 5
+Fierce:                              0.1 : 5
+Fiery:                               0.1 : 5
+Harsh:                               0.1 : 5
+Hostile:                             0.1 : 5
+Menacing:                            0.1 : 5
+Searching:                           0.1 : 5
+Street-Smart:                        0.1 : 5
+Uncompromising:                      0.1 : 5
+Affirmation:                         0.1 : 5
+Cool & Cocky:                        0.1 : 5
+Empowering:                          0.1 : 5

@@ -19,5 +19,5 @@ Whimsical:                           0.9 : 9
 Witty:                               0.9 : 9
 Mischievous:                         0.9 : 9
 Playful:                             0.9 : 9
-Comedy:                              0.6 : 8
-Music Comedy:                        0.6 : 8
+Comedy:                              0.1 : 8
+Music Comedy:                        0.1 : 8

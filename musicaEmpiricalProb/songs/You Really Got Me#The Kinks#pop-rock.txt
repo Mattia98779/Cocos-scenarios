@@ -4,47 +4,47 @@ Mod:                                 0.9 : 9
 Exciting:                            0.9 : 9
 Fiery:                               0.9 : 9
 Urgent:                              0.9 : 9
-Aggressive:                          0.8625 : 8
-Earthy:                              0.8625 : 8
-Raucous:                             0.8625 : 8
-Rebellious:                          0.8625 : 8
-Swaggering:                          0.8625 : 8
-Witty:                               0.8625 : 8
-Guys Night Out:                      0.8625 : 8
-Acerbic:                             0.8250000000000001 : 7
-Bitter:                              0.8250000000000001 : 7
-Boisterous:                          0.8250000000000001 : 7
-Brash:                               0.8250000000000001 : 7
-Celebratory:                         0.8250000000000001 : 7
-Confident:                           0.8250000000000001 : 7
-Cynical/Sarcastic:                   0.8250000000000001 : 7
-Energetic:                           0.8250000000000001 : 7
-Fun:                                 0.8250000000000001 : 7
-Reckless:                            0.8250000000000001 : 7
-Rollicking:                          0.8250000000000001 : 7
-Whimsical:                           0.8250000000000001 : 7
-Cool & Cocky:                        0.8250000000000001 : 7
-Humorous:                            0.7875 : 6
-Playful_mood:                        0.7875 : 6
-Rousing:                             0.7875 : 6
-Rowdy:                               0.7875 : 6
-Visceral:                            0.7875 : 6
-Late Night:                          0.7875 : 6
-Baroque Pop:                         0.75 : 5
-Contemporary Pop/Rock:               0.75 : 5
-Rock & Roll:                         0.75 : 5
-Brassy:                              0.75 : 5
-Cathartic:                           0.75 : 5
-Freewheeling:                        0.75 : 5
-Gleeful:                             0.75 : 5
-Sardonic:                            0.75 : 5
-Snide:                               0.75 : 5
-Wry:                                 0.75 : 5
-Hanging Out:                         0.75 : 5
-Partying:                            0.75 : 5
-Playful:                             0.75 : 5
-Road Trip:                           0.75 : 5
-TGIF:                                0.75 : 5
-Early Pop/Rock:                      0.6 : 1
-Frat Rock:                           0.6 : 1
-Garage Rock:                         0.6 : 1
+Aggressive:                          0.8 : 8
+Earthy:                              0.8 : 8
+Raucous:                             0.8 : 8
+Rebellious:                          0.8 : 8
+Swaggering:                          0.8 : 8
+Witty:                               0.8 : 8
+Guys Night Out:                      0.8 : 8
+Acerbic:                             0.7000000000000001 : 7
+Bitter:                              0.7000000000000001 : 7
+Boisterous:                          0.7000000000000001 : 7
+Brash:                               0.7000000000000001 : 7
+Celebratory:                         0.7000000000000001 : 7
+Confident:                           0.7000000000000001 : 7
+Cynical/Sarcastic:                   0.7000000000000001 : 7
+Energetic:                           0.7000000000000001 : 7
+Fun:                                 0.7000000000000001 : 7
+Reckless:                            0.7000000000000001 : 7
+Rollicking:                          0.7000000000000001 : 7
+Whimsical:                           0.7000000000000001 : 7
+Cool & Cocky:                        0.7000000000000001 : 7
+Humorous:                            0.6 : 6
+Playful_mood:                        0.6 : 6
+Rousing:                             0.6 : 6
+Rowdy:                               0.6 : 6
+Visceral:                            0.6 : 6
+Late Night:                          0.6 : 6
+Baroque Pop:                         0.5 : 5
+Contemporary Pop/Rock:               0.5 : 5
+Rock & Roll:                         0.5 : 5
+Brassy:                              0.5 : 5
+Cathartic:                           0.5 : 5
+Freewheeling:                        0.5 : 5
+Gleeful:                             0.5 : 5
+Sardonic:                            0.5 : 5
+Snide:                               0.5 : 5
+Wry:                                 0.5 : 5
+Hanging Out:                         0.5 : 5
+Partying:                            0.5 : 5
+Playful:                             0.5 : 5
+Road Trip:                           0.5 : 5
+TGIF:                                0.5 : 5
+Early Pop/Rock:                      0.1 : 1
+Frat Rock:                           0.1 : 1
+Garage Rock:                         0.1 : 1

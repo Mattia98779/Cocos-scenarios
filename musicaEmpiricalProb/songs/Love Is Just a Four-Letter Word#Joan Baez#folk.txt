@@ -6,6 +6,6 @@ Reflective:                          0.9 : 8
 Sentimental:                         0.9 : 8
 Wistful:                             0.9 : 8
 Yearning:                            0.9 : 8
-Heartache:                           0.8 : 7
-Introspection:                       0.7 : 6
-In Love:                             0.6 : 5
+Heartache:                           0.6333333333333333 : 7
+Introspection:                       0.3666666666666666 : 6
+In Love:                             0.1 : 5

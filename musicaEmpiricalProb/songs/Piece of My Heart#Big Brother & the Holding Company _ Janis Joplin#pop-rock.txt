@@ -27,18 +27,18 @@ Cool & Cocky:                        0.9 : 9
 Empowering:                          0.9 : 9
 Girls Night Out:                     0.9 : 9
 In Love:                             0.9 : 9
-Fiery:                               0.8625 : 8
-Sexual:                              0.8625 : 8
-Dramatic:                            0.825 : 7
-Bravado:                             0.7875 : 6
-Self-Conscious:                      0.7875 : 6
-Contemporary Pop/Rock:               0.75 : 5
-Aggressive:                          0.75 : 5
-Brash:                               0.75 : 5
-Earnest:                             0.75 : 5
-Optimistic:                          0.75 : 5
-Urgent:                              0.75 : 5
-Drinking:                            0.75 : 5
-Acid Rock:                           0.6 : 1
-Hard Rock:                           0.6 : 1
-Psychedelic/Garage:                  0.6 : 1
+Fiery:                               0.8 : 8
+Sexual:                              0.8 : 8
+Dramatic:                            0.7 : 7
+Bravado:                             0.6 : 6
+Self-Conscious:                      0.6 : 6
+Contemporary Pop/Rock:               0.5 : 5
+Aggressive:                          0.5 : 5
+Brash:                               0.5 : 5
+Earnest:                             0.5 : 5
+Optimistic:                          0.5 : 5
+Urgent:                              0.5 : 5
+Drinking:                            0.5 : 5
+Acid Rock:                           0.1 : 1
+Hard Rock:                           0.1 : 1
+Psychedelic/Garage:                  0.1 : 1

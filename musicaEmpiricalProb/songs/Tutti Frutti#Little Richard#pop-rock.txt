@@ -11,15 +11,15 @@ Rousing:                             0.9 : 9
 Rowdy:                               0.9 : 9
 Swaggering:                          0.9 : 9
 Partying:                            0.9 : 9
-Freewheeling:                        0.8625 : 8
-Joyous:                              0.8625 : 8
-Manic:                               0.8625 : 8
-Reckless:                            0.8625 : 8
-Theatrical:                          0.8625 : 8
-Urgent:                              0.7875 : 6
-Confident:                           0.75 : 5
-Outrageous:                          0.75 : 5
-Summer:                              0.75 : 5
-TGIF:                                0.75 : 5
-Rock & Roll:                         0.6 : 1
-Sexual:                              0.6 : 1
+Freewheeling:                        0.8 : 8
+Joyous:                              0.8 : 8
+Manic:                               0.8 : 8
+Reckless:                            0.8 : 8
+Theatrical:                          0.8 : 8
+Urgent:                              0.6 : 6
+Confident:                           0.5 : 5
+Outrageous:                          0.5 : 5
+Summer:                              0.5 : 5
+TGIF:                                0.5 : 5
+Rock & Roll:                         0.1 : 1
+Sexual:                              0.1 : 1
