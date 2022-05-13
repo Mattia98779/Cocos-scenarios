@@ -93,24 +93,27 @@ def leggiPrototipo(path):
     prot = Prototipo(name, rigide, tipiche, nHead, nModifier)
     return prot
 
+def score(prototipo, canzone):
+    punteggio = 0
+    for r in prototipo.rigide:
+        if r[1] in canzone.attributes:
+            if r[2] == "+":
+                punteggio = punteggio + 1
+            else:
+                punteggio = punteggio - 999
+    for t in prototipo.tipiche:
+        if t[1] in canzone.attributes:
+            if t[4] == "+":
+                punteggio = punteggio + 1
+            else:
+                punteggio = punteggio - 1
+    return punteggio
 
 def classifica(protipo, canzoni):
     classifica = []
     for c in canzoni:
-        score = 0
-        for r in protipo.rigide:
-            if r[1] in c.attributes:
-                if r[2] == "+":
-                    score = score + 1
-                else:
-                    score = score - 999
-        for t in protipo.tipiche:
-            if t[1] in c.attributes:
-                if t[4] == "+":
-                    score = score + 1
-                else:
-                    score = score - 1
-        classifica.append([c, score])
+        punteggio = score(protipo, c)
+        classifica.append([c, punteggio])
     return classifica
 
 def statistichePrototipi(listaPrototipi):
@@ -135,6 +138,28 @@ def statistichePrototipi(listaPrototipi):
     plt.title("rapporto Head Modifier")
     plt.show()
 
+    propertyOccurrences = {}
+    for p in listaPrototipi:
+        for r in p.rigide:
+            if r[1] in propertyOccurrences.keys():
+                propertyOccurrences[r[1]] = propertyOccurrences[r[1]] + 1
+            else:
+                propertyOccurrences[r[1]] = 1
+        for t in p.tipiche:
+            if t[1] in propertyOccurrences.keys():
+                propertyOccurrences[t[1]] = propertyOccurrences[t[1]] + 1
+            else:
+                propertyOccurrences[t[1]] = 1
+    propertyOccurrencesOrdered = dict(
+        sorted(propertyOccurrences.items(), key=lambda item: item[1], reverse=True))
+    plt.clf()
+    labels = list(propertyOccurrencesOrdered.keys())
+    valori = list(propertyOccurrencesOrdered.values())
+    plt.bar(range(len(propertyOccurrencesOrdered)), valori, tick_label=labels)
+    plt.title("most used property")
+    plt.show()
+    print("!")
+
 
 def statisticheClassifica(allClassifica):
     scoreMedi = {}
@@ -155,6 +180,30 @@ def statisticheClassifica(allClassifica):
     plt.bar(range(len(scoreMediOrdered)), valori, tick_label=labels)
     plt.title("avg scores distribution")
     plt.show()
+
+    punteggioMedioPerCanzone = {}
+    for c in allClassifica[0][1]:
+        punteggioMedioPerCanzone[c[0]] = [c[1]]
+    for clas in allClassifica[1:]:
+        for c in clas[1]:
+            app = punteggioMedioPerCanzone[c[0]].copy()
+            app.append(c[1])
+            punteggioMedioPerCanzone[c[0]] = app
+    for k in punteggioMedioPerCanzone.keys():
+        punteggioMedioPerCanzone[k] = sum(punteggioMedioPerCanzone[k]) / len(punteggioMedioPerCanzone[k])
+
+    plt.clf()
+    punteggioMedioPerCanzoneOrdered = dict(sorted(punteggioMedioPerCanzone.items(), key=lambda item: item[1], reverse=True))
+    labels = []
+    for k in punteggioMedioPerCanzoneOrdered:
+        labels.append(k.title)
+    valori = list(punteggioMedioPerCanzoneOrdered.values())
+    plt.bar(range(len(punteggioMedioPerCanzoneOrdered)), valori, tick_label=labels)
+    plt.title("score medio per canzone")
+    plt.show()
+
+    print("!")
+
 
 
 if __name__ == '__main__':
