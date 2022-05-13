@@ -202,6 +202,14 @@ def statisticheClassifica(allClassifica):
     plt.title("score medio per canzone")
     plt.show()
 
+    plt.clf()
+    nAttributes = []
+    for c in punteggioMedioPerCanzoneOrdered.keys():
+        nAttributes.append(len(c.attributes))
+    plt.bar(range(len(punteggioMedioPerCanzoneOrdered)), nAttributes, tick_label=labels)
+    plt.title("n Attributes per canzone")
+    plt.show()
+
     print("!")
 
 
