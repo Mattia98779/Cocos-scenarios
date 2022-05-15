@@ -103,7 +103,10 @@ def score(prototipo, canzone):
     for t in prototipo.tipiche:
         if t[1] in canzone.attributes:
             if t[4] == "+":
-                punteggio = punteggio + 1 * float(canzone.attributes[t[1]][0])
+                if t[0] == "T(modifier)":
+                    punteggio = punteggio + 1 * float(canzone.attributes[t[1]][0]) * float(t[3]/prototipo.nMod)
+                else:
+                    punteggio = punteggio + 1 * float(canzone.attributes[t[1]][0]) * float(t[3] / prototipo.nHead)
             else:
                 punteggio = punteggio - 1
     return punteggio
@@ -164,10 +167,10 @@ def statisticheClassifica(allClassifica):
     scoreMedi = {}
     for clas in allClassifica:
         scores = [row[1] for row in clas[1]]
-        scoreSet = np.linspace(0,6,13)
+        scoreSet = np.linspace(0,3,13)
         dati = {}
         for s in scoreSet:
-            dati[s] = sum(map(lambda x : x>=s and x<(s+0.5), scores))
+            dati[s] = sum(map(lambda x : x>=s and x<(s+0.25), scores))
         scoreMedi = {k: dati.get(k, 0) + scoreMedi.get(k, 0) for k in set(dati) | set(scoreMedi)}
 
     for k in scoreMedi.keys():
