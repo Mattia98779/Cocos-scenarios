@@ -2,6 +2,7 @@ import os
 import matplotlib.pyplot as plt
 import collections
 import numpy as np
+import json
 
 
 class Canzone:
@@ -214,7 +215,19 @@ def statisticheClassifica(allClassifica):
 
     print("!")
 
-
+def scriviJson(toWrite):
+    for el in toWrite:
+        jsonString = ""
+        jsonPrototipo = json.dumps(el[0].__dict__)
+        jsonString=jsonString+jsonPrototipo
+        jsonString = jsonString[:-1]
+        jsonString = jsonString + ', "classifica": ['
+        for c in el[1]:
+            jsonCanzone = json.dumps(c[0].__dict__)
+            jsonString = jsonString  + jsonCanzone + ","
+        jsonString = jsonString[:-1] + "]}"
+        f = open("classifiche/"+el[0].name, "w")
+        f.write(jsonString)
 
 if __name__ == '__main__':
     listaCanzoni = []
@@ -231,7 +244,8 @@ if __name__ == '__main__':
     for p in listaProt:
         allClassifiche.append([p, classifica(p, listaCanzoni)])
     print("FINE CLASSIFICA")
-    statistichePrototipi(listaProt)
-    statisticheClassifica(allClassifiche)
+    #statistichePrototipi(listaProt)
+    #statisticheClassifica(allClassifiche)
+    scriviJson(allClassifiche)
     print("FINE STATISTICHE")
     print("!")
