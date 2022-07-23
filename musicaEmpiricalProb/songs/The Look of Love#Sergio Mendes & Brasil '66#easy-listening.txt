@@ -29,17 +29,17 @@ Seduction:                           0.9 : 9
 Sex:                                 0.9 : 9
 Spring:                              0.9 : 9
 Summer:                              0.9 : 9
-Bossa Nova:                          0.7399999999999999 : 8
-Brazilian Traditions:                0.7399999999999999 : 8
-Lounge:                              0.7399999999999999 : 8
-Refined:                             0.7399999999999999 : 8
-Sweet:                               0.7399999999999999 : 8
-Relaxed:                             0.58 : 7
-Soothing:                            0.58 : 7
-Summery:                             0.58 : 7
-Samba:                               0.41999999999999993 : 6
-Elegant:                             0.41999999999999993 : 6
-Gentle:                              0.41999999999999993 : 6
-Innocent:                            0.41999999999999993 : 6
-Amiable/Good-Natured:                0.2599999999999999 : 5
-Soft Rock:                           0.1 : 4
+Bossa Nova:                          0.84 : 8
+Brazilian Traditions:                0.84 : 8
+Lounge:                              0.84 : 8
+Refined:                             0.84 : 8
+Sweet:                               0.84 : 8
+Relaxed:                             0.78 : 7
+Soothing:                            0.78 : 7
+Summery:                             0.78 : 7
+Samba:                               0.72 : 6
+Elegant:                             0.72 : 6
+Gentle:                              0.72 : 6
+Innocent:                            0.72 : 6
+Amiable/Good-Natured:                0.6599999999999999 : 5
+Soft Rock:                           0.6 : 4

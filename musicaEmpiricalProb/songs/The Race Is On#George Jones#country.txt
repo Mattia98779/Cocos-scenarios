@@ -20,6 +20,6 @@ Late Night:                          0.9 : 9
 Partying:                            0.9 : 9
 Summer:                              0.9 : 9
 TGIF:                                0.9 : 9
-Traditional Country:                 0.6333333333333334 : 8
-Reckless:                            0.6333333333333334 : 8
-Rockabilly:                          0.1 : 6
+Traditional Country:                 0.8 : 8
+Reckless:                            0.8 : 8
+Rockabilly:                          0.6 : 6

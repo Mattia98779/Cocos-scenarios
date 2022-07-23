@@ -13,6 +13,8 @@ Modifier Concept Count : 48
 
 
 
+T(modifier), -Confident, 0.9, 48
+T(modifier), -Hanging Out, 0.9, 48
 T(modifier), Reflection, 0.9, 29
 T(modifier), Soothing, 0.8892857142857142, 28
 T(modifier), Introspection, 0.8892857142857142, 28
@@ -20,6 +22,8 @@ T(modifier), Hypnotic, 0.8785714285714286, 27
 T(modifier), Reflective, 0.8785714285714286, 27
 T(modifier), Relaxation, 0.8785714285714286, 27
 
+T(head), -Earthy, 0.9, 24
+T(head), -Late Night, 0.9, 24
 T(head), Comedy, 0.9, 20
 T(head), Playful_mood, 0.868421052631579, 18
 T(head), Humorous, 0.8526315789473684, 17
@@ -27,5 +31,3 @@ T(head), Playful, 0.8526315789473684, 17
 T(head), The Creative Side, 0.8368421052631579, 16
 T(head), Irreverent, 0.8210526315789474, 15
 
-
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 7.7390820802005

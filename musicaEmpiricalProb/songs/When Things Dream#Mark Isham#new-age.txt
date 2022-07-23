@@ -1,16 +1,16 @@
-Chamber Jazz:                        0.9000000000000001 : 8
-Progressive Electronic:              0.9000000000000001 : 8
-Delicate:                            0.6333333333333333 : 7
-Laid-Back/Mellow:                    0.6333333333333333 : 7
-Reflective:                          0.6333333333333333 : 7
-Background Music:                    0.6333333333333333 : 7
-Relaxation:                          0.6333333333333333 : 7
-Earnest:                             0.3666666666666667 : 6
-Gentle:                              0.3666666666666667 : 6
-Intimate:                            0.3666666666666667 : 6
-Plaintive:                           0.3666666666666667 : 6
-Soothing:                            0.3666666666666667 : 6
-Wistful:                             0.3666666666666667 : 6
-Meditation:                          0.3666666666666667 : 6
-Reflection:                          0.3666666666666667 : 6
-Calm/Peaceful:                       0.1 : 5
+Chamber Jazz:                        0.9 : 8
+Progressive Electronic:              0.9 : 8
+Delicate:                            0.8 : 7
+Laid-Back/Mellow:                    0.8 : 7
+Reflective:                          0.8 : 7
+Background Music:                    0.8 : 7
+Relaxation:                          0.8 : 7
+Earnest:                             0.7 : 6
+Gentle:                              0.7 : 6
+Intimate:                            0.7 : 6
+Plaintive:                           0.7 : 6
+Soothing:                            0.7 : 6
+Wistful:                             0.7 : 6
+Meditation:                          0.7 : 6
+Reflection:                          0.7 : 6
+Calm/Peaceful:                       0.6 : 5

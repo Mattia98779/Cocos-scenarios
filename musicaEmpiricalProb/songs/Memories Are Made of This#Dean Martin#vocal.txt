@@ -19,5 +19,5 @@ Comfort:                             0.9 : 9
 Dinner Ambiance:                     0.9 : 9
 In Love:                             0.9 : 9
 Romantic Evening:                    0.9 : 9
-Swaggering:                          0.1 : 5
-Wedding:                             0.1 : 5
+Swaggering:                          0.6 : 5
+Wedding:                             0.6 : 5

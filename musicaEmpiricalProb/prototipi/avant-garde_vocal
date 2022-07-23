@@ -13,6 +13,8 @@ Modifier Concept Count : 49
 
 
 
+T(modifier), -The Creative Side, 0.9, 49
+T(modifier), -Street-Smart, 0.9, 49
 T(modifier), Traditional Pop, 0.9, 47
 T(modifier), Vocal Pop, 0.8478260869565217, 39
 T(modifier), Refined, 0.7630434782608696, 26
@@ -20,6 +22,8 @@ T(modifier), Sentimental, 0.7630434782608696, 26
 T(modifier), Romantic, 0.75, 24
 T(modifier), Sweet, 0.7434782608695653, 23
 
+T(head), -Playful_mood, 0.9, 13
+T(head), -Amiable/Good-Natured, 0.9, 13
 T(head), The Creative Side, 0.9, 6
 T(head), Cerebral, 0.84, 5
 T(head), Uncompromising, 0.78, 4
@@ -27,5 +31,3 @@ T(head), Provocative, 0.78, 4
 T(head), Revolutionary, 0.78, 4
 T(head), Modern Composition, 0.78, 4
 
-
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 12.92795986622074

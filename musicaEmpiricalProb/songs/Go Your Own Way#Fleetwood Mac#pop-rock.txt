@@ -5,21 +5,21 @@ D-I-V-O-R-C-E:                       0.9 : 9
 Day Driving:                         0.9 : 9
 Heartache:                           0.9 : 9
 Regret:                              0.9 : 9
-Confrontational:                     0.8 : 8
-Urgent:                              0.8 : 8
-Wistful:                             0.8 : 8
-Yearning:                            0.8 : 8
-Soft Rock:                           0.7000000000000001 : 7
-Melancholy:                          0.7000000000000001 : 7
-Reflective:                          0.7000000000000001 : 7
-Rousing:                             0.7000000000000001 : 7
-Searching:                           0.7000000000000001 : 7
-Bittersweet:                         0.6 : 6
-Brooding:                            0.6 : 6
-Poignant:                            0.6 : 6
-Intense:                             0.5 : 5
-At the Office:                       0.5 : 5
-Feeling Blue:                        0.5 : 5
-In Love:                             0.5 : 5
-American Trad Rock:                  0.1 : 1
-British Trad Rock:                   0.1 : 1
+Confrontational:                     0.8625 : 8
+Urgent:                              0.8625 : 8
+Wistful:                             0.8625 : 8
+Yearning:                            0.8625 : 8
+Soft Rock:                           0.8250000000000001 : 7
+Melancholy:                          0.8250000000000001 : 7
+Reflective:                          0.8250000000000001 : 7
+Rousing:                             0.8250000000000001 : 7
+Searching:                           0.8250000000000001 : 7
+Bittersweet:                         0.7875 : 6
+Brooding:                            0.7875 : 6
+Poignant:                            0.7875 : 6
+Intense:                             0.75 : 5
+At the Office:                       0.75 : 5
+Feeling Blue:                        0.75 : 5
+In Love:                             0.75 : 5
+American Trad Rock:                  0.6 : 1
+British Trad Rock:                   0.6 : 1

@@ -26,4 +26,4 @@ Introspection:                       0.9 : 9
 Meditation:                          0.9 : 9
 Reflection:                          0.9 : 9
 Relaxation:                          0.9 : 9
-Romantic Evening:                    0.1 : 5
+Romantic Evening:                    0.6 : 5

@@ -16,5 +16,5 @@ Background Music:                    0.9 : 9
 Day Driving:                         0.9 : 9
 Night Driving:                       0.9 : 9
 Road Trip:                           0.9 : 9
-Lounge:                              0.1 : 8
-TV Soundtracks:                      0.1 : 8
+Lounge:                              0.6 : 8
+TV Soundtracks:                      0.6 : 8

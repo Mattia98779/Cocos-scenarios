@@ -10,23 +10,23 @@ Yearning:                            0.9 : 9
 Breakup:                             0.9 : 9
 Heartache:                           0.9 : 9
 Regret:                              0.9 : 9
-Latin Dance:                         0.7000000000000001 : 8
-Latin Pop:                           0.7000000000000001 : 8
-Rousing:                             0.7000000000000001 : 8
-In Love:                             0.7000000000000001 : 8
-Rainy Day:                           0.7000000000000001 : 8
-Dance-Pop:                           0.5 : 7
-Reflective:                          0.5 : 7
-Sensual:                             0.5 : 7
-Smooth:                              0.5 : 7
-Introspection:                       0.5 : 7
-Reflection:                          0.5 : 7
-Adult Contemporary:                  0.30000000000000004 : 6
-Earnest:                             0.30000000000000004 : 6
-Light:                               0.30000000000000004 : 6
-Plaintive:                           0.30000000000000004 : 6
-Refined:                             0.30000000000000004 : 6
-Soothing:                            0.30000000000000004 : 6
-Sophisticated:                       0.30000000000000004 : 6
-Romantic:                            0.1 : 5
-Sweet:                               0.1 : 5
+Latin Dance:                         0.825 : 8
+Latin Pop:                           0.825 : 8
+Rousing:                             0.825 : 8
+In Love:                             0.825 : 8
+Rainy Day:                           0.825 : 8
+Dance-Pop:                           0.75 : 7
+Reflective:                          0.75 : 7
+Sensual:                             0.75 : 7
+Smooth:                              0.75 : 7
+Introspection:                       0.75 : 7
+Reflection:                          0.75 : 7
+Adult Contemporary:                  0.675 : 6
+Earnest:                             0.675 : 6
+Light:                               0.675 : 6
+Plaintive:                           0.675 : 6
+Refined:                             0.675 : 6
+Soothing:                            0.675 : 6
+Sophisticated:                       0.675 : 6
+Romantic:                            0.6 : 5
+Sweet:                               0.6 : 5

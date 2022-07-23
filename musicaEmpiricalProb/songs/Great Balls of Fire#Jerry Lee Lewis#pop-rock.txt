@@ -14,25 +14,25 @@ Swaggering:                          0.9 : 9
 Cool & Cocky:                        0.9 : 9
 Guys Night Out:                      0.9 : 9
 Hanging Out:                         0.9 : 9
-Confident:                           0.7999999999999999 : 8
-Intense:                             0.7999999999999999 : 8
-Manic:                               0.7999999999999999 : 8
-Partying:                            0.7999999999999999 : 8
-Happy:                               0.7000000000000001 : 7
-Uplifting:                           0.7000000000000001 : 7
-Celebration:                         0.7000000000000001 : 7
-In Love:                             0.7000000000000001 : 7
-Seduction:                           0.7000000000000001 : 7
-Sex:                                 0.7000000000000001 : 7
-TGIF:                                0.7000000000000001 : 7
-Brash:                               0.6 : 6
-Fiery:                               0.6 : 6
-Passionate:                          0.6 : 6
-Rebellious:                          0.6 : 6
-Reckless:                            0.6 : 6
-Exuberant:                           0.5 : 5
-Drinking:                            0.5 : 5
-Rockabilly:                          0.4 : 4
-Rambunctious:                        0.4 : 4
-Road Trip:                           0.4 : 4
-Traditional Country:                 0.1 : 1
+Confident:                           0.8625 : 8
+Intense:                             0.8625 : 8
+Manic:                               0.8625 : 8
+Partying:                            0.8625 : 8
+Happy:                               0.825 : 7
+Uplifting:                           0.825 : 7
+Celebration:                         0.825 : 7
+In Love:                             0.825 : 7
+Seduction:                           0.825 : 7
+Sex:                                 0.825 : 7
+TGIF:                                0.825 : 7
+Brash:                               0.7875 : 6
+Fiery:                               0.7875 : 6
+Passionate:                          0.7875 : 6
+Rebellious:                          0.7875 : 6
+Reckless:                            0.7875 : 6
+Exuberant:                           0.75 : 5
+Drinking:                            0.75 : 5
+Rockabilly:                          0.7125 : 4
+Rambunctious:                        0.7125 : 4
+Road Trip:                           0.7125 : 4
+Traditional Country:                 0.6 : 1

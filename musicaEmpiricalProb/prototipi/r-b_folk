@@ -13,6 +13,8 @@ Modifier Concept Count : 47
 
 
 
+T(modifier), -Boisterous, 0.9, 47
+T(modifier), -Partying, 0.9, 47
 T(modifier), Earthy, 0.9, 30
 T(modifier), Poignant, 0.8896551724137931, 29
 T(modifier), Earnest, 0.8896551724137931, 29
@@ -20,6 +22,8 @@ T(modifier), Bittersweet, 0.8482758620689655, 25
 T(modifier), Reflective, 0.8172413793103448, 22
 T(modifier), Plaintive, 0.806896551724138, 21
 
+T(head), -Atmospheric, 0.9, 43
+T(head), -The Creative Side, 0.9, 43
 T(head), Soul, 0.9, 21
 T(head), Playful_mood, 0.855, 18
 T(head), Energetic, 0.855, 18
@@ -27,5 +31,3 @@ T(head), Partying, 0.855, 18
 T(head), Warm, 0.855, 18
 T(head), Smooth, 0.855, 18
 
-
-Result : '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', 4.576543704891741

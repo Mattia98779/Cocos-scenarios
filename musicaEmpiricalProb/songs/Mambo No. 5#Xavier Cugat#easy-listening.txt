@@ -22,7 +22,7 @@ Celebration:                         0.9 : 9
 Partying:                            0.9 : 9
 Playful:                             0.9 : 9
 Pool Party:                          0.9 : 9
-Cuban Traditions:                    0.1 : 8
-Instrumental Pop:                    0.1 : 8
-Lounge:                              0.1 : 8
-Mambo:                               0.1 : 8
+Cuban Traditions:                    0.6 : 8
+Instrumental Pop:                    0.6 : 8
+Lounge:                              0.6 : 8
+Mambo:                               0.6 : 8

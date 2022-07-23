@@ -1,10 +1,10 @@
 Regional Blues:                      0.9 : 9
-Big Band:                            0.5000000000000002 : 8
-New York Blues:                      0.5000000000000002 : 8
-Swing:                               0.5000000000000002 : 8
-Carefree:                            0.1 : 7
-Celebratory:                         0.1 : 7
-Cheerful:                            0.1 : 7
-Fun:                                 0.1 : 7
-Happy:                               0.1 : 7
-Playful_mood:                        0.1 : 7
+Big Band:                            0.7500000000000001 : 8
+New York Blues:                      0.7500000000000001 : 8
+Swing:                               0.7500000000000001 : 8
+Carefree:                            0.6 : 7
+Celebratory:                         0.6 : 7
+Cheerful:                            0.6 : 7
+Fun:                                 0.6 : 7
+Happy:                               0.6 : 7
+Playful_mood:                        0.6 : 7

@@ -19,7 +19,7 @@ Drinking:                            0.9 : 9
 Guys Night Out:                      0.9 : 9
 Late Night:                          0.9 : 9
 TGIF:                                0.9 : 9
-Outlaw Country:                      0.1 : 8
-Boisterous:                          0.1 : 8
-Fiery:                               0.1 : 8
-Rowdy:                               0.1 : 8
+Outlaw Country:                      0.6 : 8
+Boisterous:                          0.6 : 8
+Fiery:                               0.6 : 8
+Rowdy:                               0.6 : 8

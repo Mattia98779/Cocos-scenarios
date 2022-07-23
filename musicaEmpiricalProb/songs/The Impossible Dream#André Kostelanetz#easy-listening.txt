@@ -1,19 +1,19 @@
 Orchestral/Easy Listening:           0.9 : 8
 Amiable/Good-Natured:                0.9 : 8
 Poignant:                            0.9 : 8
-Bittersweet:                         0.6333333333333333 : 7
-Gentle:                              0.6333333333333333 : 7
-Innocent:                            0.6333333333333333 : 7
-Lively:                              0.6333333333333333 : 7
-Lush:                                0.6333333333333333 : 7
-Refined:                             0.6333333333333333 : 7
-Searching:                           0.6333333333333333 : 7
-Sentimental:                         0.6333333333333333 : 7
-Dinner Ambiance:                     0.6333333333333333 : 7
-Relaxation:                          0.6333333333333333 : 7
-Sunday Afternoon:                    0.6333333333333333 : 7
-Earnest:                             0.3666666666666667 : 6
-Romantic:                            0.3666666666666667 : 6
-Theatrical:                          0.3666666666666667 : 6
-Reflection:                          0.3666666666666667 : 6
-Cheerful:                            0.1 : 5
+Bittersweet:                         0.8 : 7
+Gentle:                              0.8 : 7
+Innocent:                            0.8 : 7
+Lively:                              0.8 : 7
+Lush:                                0.8 : 7
+Refined:                             0.8 : 7
+Searching:                           0.8 : 7
+Sentimental:                         0.8 : 7
+Dinner Ambiance:                     0.8 : 7
+Relaxation:                          0.8 : 7
+Sunday Afternoon:                    0.8 : 7
+Earnest:                             0.7 : 6
+Romantic:                            0.7 : 6
+Theatrical:                          0.7 : 6
+Reflection:                          0.7 : 6
+Cheerful:                            0.6 : 5

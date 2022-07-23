@@ -24,4 +24,4 @@ Meditation:                          0.9 : 9
 Reflection:                          0.9 : 9
 Relaxation:                          0.9 : 9
 Solitude:                            0.9 : 9
-Ethnic Fusion:                       0.1 : 8
+Ethnic Fusion:                       0.6 : 8

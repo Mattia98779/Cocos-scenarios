@@ -3,14 +3,14 @@ Honky Tonk:                          0.9 : 8
 Traditional Country:                 0.9 : 8
 Confident:                           0.9 : 8
 Fun:                                 0.9 : 8
-Freewheeling:                        0.74 : 7
-Joyous:                              0.5800000000000001 : 6
-Boisterous:                          0.42000000000000004 : 5
-Carefree:                            0.42000000000000004 : 5
-Lively:                              0.42000000000000004 : 5
-Rollicking:                          0.42000000000000004 : 5
-Smooth:                              0.42000000000000004 : 5
-Day Driving:                         0.42000000000000004 : 5
-Road Trip:                           0.42000000000000004 : 5
-Exuberant:                           0.26 : 4
-Energetic:                           0.1 : 3
+Freewheeling:                        0.8400000000000001 : 7
+Joyous:                              0.78 : 6
+Boisterous:                          0.72 : 5
+Carefree:                            0.72 : 5
+Lively:                              0.72 : 5
+Rollicking:                          0.72 : 5
+Smooth:                              0.72 : 5
+Day Driving:                         0.72 : 5
+Road Trip:                           0.72 : 5
+Exuberant:                           0.66 : 4
+Energetic:                           0.6 : 3

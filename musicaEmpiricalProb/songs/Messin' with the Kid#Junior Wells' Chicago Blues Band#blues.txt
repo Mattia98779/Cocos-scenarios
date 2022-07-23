@@ -5,27 +5,27 @@ Modern Electric Chicago Blues:       0.9 : 9
 Regional Blues:                      0.9 : 9
 Bravado:                             0.9 : 9
 Gritty:                              0.9 : 9
-Aggressive:                          0.7399999999999999 : 8
-Confrontational:                     0.7399999999999999 : 8
-Earthy:                              0.7399999999999999 : 8
-Greasy:                              0.7399999999999999 : 8
-Gutsy:                               0.7399999999999999 : 8
-Organic:                             0.7399999999999999 : 8
-Swaggering:                          0.7399999999999999 : 8
-Electric Harmonica Blues:            0.58 : 7
-Confident:                           0.58 : 7
-Energetic:                           0.58 : 7
-Street-Smart:                        0.58 : 7
-Guys Night Out:                      0.58 : 7
-TGIF:                                0.58 : 7
-Lively:                              0.41999999999999993 : 6
-Rousing:                             0.41999999999999993 : 6
-Earnest:                             0.26 : 5
-Menacing:                            0.26 : 5
-Passionate:                          0.26 : 5
-Raucous:                             0.26 : 5
-Cool & Cocky:                        0.26 : 5
-Drinking:                            0.26 : 5
-Partying:                            0.26 : 5
-Juke Joint Blues:                    0.1 : 4
-Boisterous:                          0.1 : 4
+Aggressive:                          0.84 : 8
+Confrontational:                     0.84 : 8
+Earthy:                              0.84 : 8
+Greasy:                              0.84 : 8
+Gutsy:                               0.84 : 8
+Organic:                             0.84 : 8
+Swaggering:                          0.84 : 8
+Electric Harmonica Blues:            0.78 : 7
+Confident:                           0.78 : 7
+Energetic:                           0.78 : 7
+Street-Smart:                        0.78 : 7
+Guys Night Out:                      0.78 : 7
+TGIF:                                0.78 : 7
+Lively:                              0.72 : 6
+Rousing:                             0.72 : 6
+Earnest:                             0.6599999999999999 : 5
+Menacing:                            0.6599999999999999 : 5
+Passionate:                          0.6599999999999999 : 5
+Raucous:                             0.6599999999999999 : 5
+Cool & Cocky:                        0.6599999999999999 : 5
+Drinking:                            0.6599999999999999 : 5
+Partying:                            0.6599999999999999 : 5
+Juke Joint Blues:                    0.6 : 4
+Boisterous:                          0.6 : 4

@@ -17,4 +17,4 @@ Yearning:                            0.9 : 9
 Affection/Fondness:                  0.9 : 9
 Comfort:                             0.9 : 9
 In Love:                             0.9 : 9
-Cheerful:                            0.1 : 8
+Cheerful:                            0.6 : 8

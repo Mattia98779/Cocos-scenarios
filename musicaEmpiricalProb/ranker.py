@@ -4,6 +4,11 @@ import collections
 import numpy as np
 import json
 
+class CanzoneToJson:
+    def __init__(self, c, spiegazione):
+        self.title = c.title
+        self.performer = c.performer
+        self.spiegazione = spiegazione
 
 class Canzone:
     def __init__(self, title, performer, g, attributes):
@@ -95,10 +100,12 @@ def leggiPrototipo(path):
 
 def score(prototipo, canzone):
     punteggio = 0
+    inComune = []
     for r in prototipo.rigide:
         if r[1] in canzone.attributes:
             if r[2] == "+":
                 punteggio = punteggio + 1
+                inComune.append(r[1])
             else:
                 punteggio = punteggio - 999
     for t in prototipo.tipiche:
@@ -106,18 +113,20 @@ def score(prototipo, canzone):
             if t[4] == "+":
                 if t[0] == "T(modifier)":
                     punteggio = punteggio + 1 * float(canzone.attributes[t[1]][0]) * float(t[3]/prototipo.nMod)
+                    inComune.append(t[1])
                 else:
                     punteggio = punteggio + 1 * float(canzone.attributes[t[1]][0]) * float(t[3] / prototipo.nHead)
+                    inComune.append(t[1])
             else:
                 punteggio = punteggio - 1
-    return punteggio
+    return punteggio, inComune
 
 def classifica(protipo, canzoni):
     classifica = []
     for c in canzoni:
-        punteggio = score(protipo, c)
-        classifica.append([c, punteggio])
-    return classifica
+        punteggio, inComune = score(protipo, c)
+        classifica.append([c, punteggio, inComune])
+    return sorted(classifica, key=lambda x:x[1], reverse=True)
 
 def statistichePrototipi(listaPrototipi):
     rapportoHeadMod = {}
@@ -223,10 +232,10 @@ def scriviJson(toWrite):
         jsonString = jsonString[:-1]
         jsonString = jsonString + ', "classifica": ['
         for c in el[1]:
-            jsonCanzone = json.dumps(c[0].__dict__)
+            jsonCanzone = json.dumps(CanzoneToJson(c[0], c[2]).__dict__)
             jsonString = jsonString  + jsonCanzone + ","
         jsonString = jsonString[:-1] + "]}"
-        f = open("classifiche/"+el[0].name, "w")
+        f = open("classifiche/"+el[0].name.replace("#","_"), "w")
         f.write(jsonString)
 
 if __name__ == '__main__':
@@ -244,8 +253,8 @@ if __name__ == '__main__':
     for p in listaProt:
         allClassifiche.append([p, classifica(p, listaCanzoni)])
     print("FINE CLASSIFICA")
-    #statistichePrototipi(listaProt)
-    #statisticheClassifica(allClassifiche)
+    statistichePrototipi(listaProt)
+    statisticheClassifica(allClassifiche)
     scriviJson(allClassifiche)
     print("FINE STATISTICHE")
     print("!")

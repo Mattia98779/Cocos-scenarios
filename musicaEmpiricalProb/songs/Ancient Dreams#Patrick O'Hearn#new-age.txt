@@ -24,5 +24,5 @@ Meditation:                          0.9 : 9
 Reflection:                          0.9 : 9
 Relaxation:                          0.9 : 9
 The Creative Side:                   0.9 : 9
-Adult Alternative:                   0.49999999999999967 : 8
-Classical Crossover:                 0.1 : 7
+Adult Alternative:                   0.7499999999999999 : 8
+Classical Crossover:                 0.6 : 7

@@ -10,14 +10,14 @@ Swaggering:                          0.9 : 9
 Cool & Cocky:                        0.9 : 9
 Guys Night Out:                      0.9 : 9
 Hanging Out:                         0.9 : 9
-Aggressive:                          0.7 : 8
-Menacing:                            0.7 : 8
-Fierce:                              0.5000000000000001 : 7
-Provocative:                         0.5000000000000001 : 7
-Rebellious:                          0.5000000000000001 : 7
-Confident:                           0.3 : 6
-Poignant:                            0.3 : 6
-Thuggish:                            0.3 : 6
-Urgent:                              0.3 : 6
-Uncompromising:                      0.1 : 5
-Mischievous:                         0.1 : 5
+Aggressive:                          0.825 : 8
+Menacing:                            0.825 : 8
+Fierce:                              0.75 : 7
+Provocative:                         0.75 : 7
+Rebellious:                          0.75 : 7
+Confident:                           0.6749999999999999 : 6
+Poignant:                            0.6749999999999999 : 6
+Thuggish:                            0.6749999999999999 : 6
+Urgent:                              0.6749999999999999 : 6
+Uncompromising:                      0.6 : 5
+Mischievous:                         0.6 : 5

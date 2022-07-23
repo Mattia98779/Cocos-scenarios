@@ -24,6 +24,6 @@ Introspection:                       0.9 : 9
 Meditation:                          0.9 : 9
 Reflection:                          0.9 : 9
 Relaxation:                          0.9 : 9
-Ambient:                             0.1 : 8
-Progressive Electronic:              0.1 : 8
-Spiritual:                           0.1 : 8
+Ambient:                             0.6 : 8
+Progressive Electronic:              0.6 : 8
+Spiritual:                           0.6 : 8

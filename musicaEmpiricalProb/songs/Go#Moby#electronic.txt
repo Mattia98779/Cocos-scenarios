@@ -13,37 +13,37 @@ Night Driving:                       0.9 : 9
 Partying:                            0.9 : 9
 Reflection:                          0.9 : 9
 Solitude:                            0.9 : 9
-Acid House:                          0.6999999999999998 : 8
-Experimental Techno:                 0.6999999999999998 : 8
-House:                               0.6999999999999998 : 8
-Brooding:                            0.6999999999999998 : 8
-Dramatic:                            0.6999999999999998 : 8
-Hypnotic:                            0.6999999999999998 : 8
-Nocturnal:                           0.6999999999999998 : 8
-Organic:                             0.6999999999999998 : 8
-Somber:                              0.6999999999999998 : 8
-Sparse:                              0.6999999999999998 : 8
-Wintry:                              0.6999999999999998 : 8
-Minimal Techno:                      0.4999999999999999 : 7
-Boisterous:                          0.4999999999999999 : 7
-Cerebral:                            0.4999999999999999 : 7
-Complex:                             0.4999999999999999 : 7
-Lively:                              0.4999999999999999 : 7
-Refined:                             0.4999999999999999 : 7
-Restrained:                          0.4999999999999999 : 7
-Stylish:                             0.4999999999999999 : 7
-Tense/Anxious:                       0.4999999999999999 : 7
-Trippy:                              0.4999999999999999 : 7
-Acid Techno:                         0.29999999999999993 : 6
-Rave:                                0.29999999999999993 : 6
-Bittersweet:                         0.29999999999999993 : 6
-Bleak:                               0.29999999999999993 : 6
-Cathartic:                           0.29999999999999993 : 6
-Energetic:                           0.29999999999999993 : 6
-Melancholy:                          0.29999999999999993 : 6
-Paranoid:                            0.29999999999999993 : 6
-Reflective:                          0.29999999999999993 : 6
-Visceral:                            0.29999999999999993 : 6
-Motivation:                          0.29999999999999993 : 6
-Aggressive:                          0.1 : 5
-Club:                                0.1 : 5
+Acid House:                          0.825 : 8
+Experimental Techno:                 0.825 : 8
+House:                               0.825 : 8
+Brooding:                            0.825 : 8
+Dramatic:                            0.825 : 8
+Hypnotic:                            0.825 : 8
+Nocturnal:                           0.825 : 8
+Organic:                             0.825 : 8
+Somber:                              0.825 : 8
+Sparse:                              0.825 : 8
+Wintry:                              0.825 : 8
+Minimal Techno:                      0.75 : 7
+Boisterous:                          0.75 : 7
+Cerebral:                            0.75 : 7
+Complex:                             0.75 : 7
+Lively:                              0.75 : 7
+Refined:                             0.75 : 7
+Restrained:                          0.75 : 7
+Stylish:                             0.75 : 7
+Tense/Anxious:                       0.75 : 7
+Trippy:                              0.75 : 7
+Acid Techno:                         0.6749999999999999 : 6
+Rave:                                0.6749999999999999 : 6
+Bittersweet:                         0.6749999999999999 : 6
+Bleak:                               0.6749999999999999 : 6
+Cathartic:                           0.6749999999999999 : 6
+Energetic:                           0.6749999999999999 : 6
+Melancholy:                          0.6749999999999999 : 6
+Paranoid:                            0.6749999999999999 : 6
+Reflective:                          0.6749999999999999 : 6
+Visceral:                            0.6749999999999999 : 6
+Motivation:                          0.6749999999999999 : 6
+Aggressive:                          0.6 : 5
+Club:                                0.6 : 5

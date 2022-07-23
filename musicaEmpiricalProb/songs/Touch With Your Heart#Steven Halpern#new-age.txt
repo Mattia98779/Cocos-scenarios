@@ -19,30 +19,30 @@ Relaxation:                          0.9 : 9
 Solitude:                            0.9 : 9
 Sweet Dreams:                        0.9 : 9
 The Creative Side:                   0.9 : 9
-Ambient:                             0.6999999999999998 : 8
-Atmospheric:                         0.6999999999999998 : 8
-Calm/Peaceful:                       0.6999999999999998 : 8
-Dreamy:                              0.6999999999999998 : 8
-Elegant:                             0.6999999999999998 : 8
-Ethereal:                            0.6999999999999998 : 8
-Gentle:                              0.6999999999999998 : 8
-Intimate:                            0.6999999999999998 : 8
-Refined:                             0.6999999999999998 : 8
-Relaxed:                             0.6999999999999998 : 8
-Sophisticated:                       0.6999999999999998 : 8
-Spacey:                              0.6999999999999998 : 8
-Sparkling:                           0.6999999999999998 : 8
-Sparse:                              0.6999999999999998 : 8
-Spiritual:                           0.6999999999999998 : 8
-Adult Alternative:                   0.5000000000000001 : 7
-Healing:                             0.29999999999999993 : 6
-Meditation/Relaxation:               0.29999999999999993 : 6
-Relaxation:                          0.29999999999999993 : 6
-Self-Help & Development:             0.29999999999999993 : 6
-Spiritual:                           0.29999999999999993 : 6
-Spoken Word:                         0.29999999999999993 : 6
-Space:                               0.1 : 5
-Amiable/Good-Natured:                0.1 : 5
-Delicate:                            0.1 : 5
-Lazy:                                0.1 : 5
-Pastoral:                            0.1 : 5
+Ambient:                             0.825 : 8
+Atmospheric:                         0.825 : 8
+Calm/Peaceful:                       0.825 : 8
+Dreamy:                              0.825 : 8
+Elegant:                             0.825 : 8
+Ethereal:                            0.825 : 8
+Gentle:                              0.825 : 8
+Intimate:                            0.825 : 8
+Refined:                             0.825 : 8
+Relaxed:                             0.825 : 8
+Sophisticated:                       0.825 : 8
+Spacey:                              0.825 : 8
+Sparkling:                           0.825 : 8
+Sparse:                              0.825 : 8
+Spiritual:                           0.825 : 8
+Adult Alternative:                   0.75 : 7
+Healing:                             0.6749999999999999 : 6
+Meditation/Relaxation:               0.6749999999999999 : 6
+Relaxation:                          0.6749999999999999 : 6
+Self-Help & Development:             0.6749999999999999 : 6
+Spiritual:                           0.6749999999999999 : 6
+Spoken Word:                         0.6749999999999999 : 6
+Space:                               0.6 : 5
+Amiable/Good-Natured:                0.6 : 5
+Delicate:                            0.6 : 5
+Lazy:                                0.6 : 5
+Pastoral:                            0.6 : 5

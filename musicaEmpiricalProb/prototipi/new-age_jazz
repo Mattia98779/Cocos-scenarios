@@ -20,6 +20,8 @@ T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
 T(modifier), Playful_mood, 0.8432432432432433, 31
 T(modifier), Lively, 0.8351351351351353, 30
 
+T(head), -Confident, 0.9, 48
+T(head), -Hanging Out, 0.9, 48
 T(head), Reflection, 0.9, 29
 T(head), Soothing, 0.8892857142857142, 28
 T(head), Introspection, 0.8892857142857142, 28
@@ -27,5 +29,3 @@ T(head), Hypnotic, 0.8785714285714286, 27
 T(head), Reflective, 0.8785714285714286, 27
 T(head), Relaxation, 0.8785714285714286, 27
 
-
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 4.963300353925353

@@ -1,31 +1,31 @@
 Pop-Rap:                             0.9 : 9
 Slick:                               0.9 : 9
-East Coast Rap:                      0.6999999999999998 : 8
-Gangsta Rap:                         0.6999999999999998 : 8
-Hardcore Rap:                        0.6999999999999998 : 8
-Brash:                               0.4999999999999999 : 7
-Bravado:                             0.4999999999999999 : 7
-Confrontational:                     0.4999999999999999 : 7
-Cynical/Sarcastic:                   0.4999999999999999 : 7
-Hedonistic:                          0.4999999999999999 : 7
-Humorous:                            0.4999999999999999 : 7
-Irreverent:                          0.4999999999999999 : 7
-Nihilistic:                          0.4999999999999999 : 7
-Paranoid:                            0.4999999999999999 : 7
-Rebellious:                          0.4999999999999999 : 7
-Rowdy:                               0.4999999999999999 : 7
-Sexual:                              0.4999999999999999 : 7
-Sleazy:                              0.4999999999999999 : 7
-Street-Smart:                        0.4999999999999999 : 7
-Swaggering:                          0.4999999999999999 : 7
-Thuggish:                            0.4999999999999999 : 7
-Club:                                0.4999999999999999 : 7
-Cool & Cocky:                        0.4999999999999999 : 7
-Guys Night Out:                      0.4999999999999999 : 7
-Partying:                            0.4999999999999999 : 7
-Angry:                               0.1 : 5
-Bitter:                              0.1 : 5
-Harsh:                               0.1 : 5
-Hostile:                             0.1 : 5
-Malevolent:                          0.1 : 5
-Menacing:                            0.1 : 5
+East Coast Rap:                      0.825 : 8
+Gangsta Rap:                         0.825 : 8
+Hardcore Rap:                        0.825 : 8
+Brash:                               0.75 : 7
+Bravado:                             0.75 : 7
+Confrontational:                     0.75 : 7
+Cynical/Sarcastic:                   0.75 : 7
+Hedonistic:                          0.75 : 7
+Humorous:                            0.75 : 7
+Irreverent:                          0.75 : 7
+Nihilistic:                          0.75 : 7
+Paranoid:                            0.75 : 7
+Rebellious:                          0.75 : 7
+Rowdy:                               0.75 : 7
+Sexual:                              0.75 : 7
+Sleazy:                              0.75 : 7
+Street-Smart:                        0.75 : 7
+Swaggering:                          0.75 : 7
+Thuggish:                            0.75 : 7
+Club:                                0.75 : 7
+Cool & Cocky:                        0.75 : 7
+Guys Night Out:                      0.75 : 7
+Partying:                            0.75 : 7
+Angry:                               0.6 : 5
+Bitter:                              0.6 : 5
+Harsh:                               0.6 : 5
+Hostile:                             0.6 : 5
+Malevolent:                          0.6 : 5
+Menacing:                            0.6 : 5

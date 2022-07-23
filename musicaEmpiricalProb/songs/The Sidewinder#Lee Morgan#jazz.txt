@@ -19,20 +19,20 @@ Motivation:                          0.9 : 9
 Small Gathering:                     0.9 : 9
 The Creative Side:                   0.9 : 9
 Victory:                             0.9 : 9
-Gritty:                              0.5 : 8
-Playful_mood:                        0.5 : 8
-Street-Smart:                        0.5 : 8
-Playful:                             0.5 : 8
-The Great Outdoors:                  0.5 : 8
-Carefree:                            0.1 : 7
-Dramatic:                            0.1 : 7
-Earnest:                             0.1 : 7
-Earthy:                              0.1 : 7
-Energetic:                           0.1 : 7
-Lazy:                                0.1 : 7
-Literate:                            0.1 : 7
-Passionate:                          0.1 : 7
-Warm:                                0.1 : 7
-Wry:                                 0.1 : 7
-Affirmation:                         0.1 : 7
-Cool & Cocky:                        0.1 : 7
+Gritty:                              0.75 : 8
+Playful_mood:                        0.75 : 8
+Street-Smart:                        0.75 : 8
+Playful:                             0.75 : 8
+The Great Outdoors:                  0.75 : 8
+Carefree:                            0.6 : 7
+Dramatic:                            0.6 : 7
+Earnest:                             0.6 : 7
+Earthy:                              0.6 : 7
+Energetic:                           0.6 : 7
+Lazy:                                0.6 : 7
+Literate:                            0.6 : 7
+Passionate:                          0.6 : 7
+Warm:                                0.6 : 7
+Wry:                                 0.6 : 7
+Affirmation:                         0.6 : 7
+Cool & Cocky:                        0.6 : 7

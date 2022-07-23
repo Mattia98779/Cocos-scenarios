@@ -13,6 +13,8 @@ Modifier Concept Count : 43
 
 
 
+T(modifier), -Earthy, 0.9, 43
+T(modifier), -Freedom, 0.9, 43
 T(modifier), Dinner Ambiance, 0.9, 27
 T(modifier), Amiable/Good-Natured, 0.8884615384615384, 26
 T(modifier), Relaxation, 0.8653846153846154, 24
@@ -27,5 +29,3 @@ T(head), Amiable/Good-Natured, 0.8432432432432433, 31
 T(head), Playful_mood, 0.8432432432432433, 31
 T(head), Lively, 0.8351351351351353, 30
 
-
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 4.909203915453916

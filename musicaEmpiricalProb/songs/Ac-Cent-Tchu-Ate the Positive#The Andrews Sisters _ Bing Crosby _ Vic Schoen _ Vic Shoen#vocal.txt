@@ -6,21 +6,21 @@ Confident:                           0.9 : 9
 Light:                               0.9 : 9
 Lively:                              0.9 : 9
 Affirmation:                         0.9 : 9
-Harmony Vocal Group:                 0.7000000000000001 : 8
-Energetic:                           0.7000000000000001 : 8
-Exuberant:                           0.7000000000000001 : 8
-Happy:                               0.7000000000000001 : 8
-Playful_mood:                        0.7000000000000001 : 8
-Rousing:                             0.7000000000000001 : 8
-Boisterous:                          0.4999999999999999 : 7
-Carefree:                            0.4999999999999999 : 7
-Earnest:                             0.4999999999999999 : 7
-Fun:                                 0.4999999999999999 : 7
-Humorous:                            0.4999999999999999 : 7
-Rollicking:                          0.4999999999999999 : 7
-Summery:                             0.4999999999999999 : 7
-Picnic:                              0.4999999999999999 : 7
-Joyous:                              0.30000000000000004 : 6
-Sweet:                               0.30000000000000004 : 6
-Family Gatherings:                   0.30000000000000004 : 6
-Innocent:                            0.1 : 5
+Harmony Vocal Group:                 0.8250000000000001 : 8
+Energetic:                           0.8250000000000001 : 8
+Exuberant:                           0.8250000000000001 : 8
+Happy:                               0.8250000000000001 : 8
+Playful_mood:                        0.8250000000000001 : 8
+Rousing:                             0.8250000000000001 : 8
+Boisterous:                          0.75 : 7
+Carefree:                            0.75 : 7
+Earnest:                             0.75 : 7
+Fun:                                 0.75 : 7
+Humorous:                            0.75 : 7
+Rollicking:                          0.75 : 7
+Summery:                             0.75 : 7
+Picnic:                              0.75 : 7
+Joyous:                              0.675 : 6
+Sweet:                               0.675 : 6
+Family Gatherings:                   0.675 : 6
+Innocent:                            0.6 : 5

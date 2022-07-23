@@ -16,17 +16,17 @@ Heartache:                           0.9 : 9
 In Love:                             0.9 : 9
 New Love:                            0.9 : 9
 Partying:                            0.9 : 9
-Arena Rock:                          0.8 : 8
-Confident:                           0.8 : 8
-Exuberant:                           0.8 : 8
-Freewheeling:                        0.8 : 8
-Melancholy:                          0.8 : 8
-Rousing:                             0.8 : 8
-Searching:                           0.8 : 8
-Sexy:                                0.8 : 8
-Guys Night Out:                      0.8 : 8
-Mischievous:                         0.8 : 8
-Summer:                              0.8 : 8
-Motivation:                          0.5 : 5
-Reminiscing:                         0.5 : 5
-Power Pop:                           0.1 : 1
+Arena Rock:                          0.8625 : 8
+Confident:                           0.8625 : 8
+Exuberant:                           0.8625 : 8
+Freewheeling:                        0.8625 : 8
+Melancholy:                          0.8625 : 8
+Rousing:                             0.8625 : 8
+Searching:                           0.8625 : 8
+Sexy:                                0.8625 : 8
+Guys Night Out:                      0.8625 : 8
+Mischievous:                         0.8625 : 8
+Summer:                              0.8625 : 8
+Motivation:                          0.75 : 5
+Reminiscing:                         0.75 : 5
+Power Pop:                           0.6 : 1

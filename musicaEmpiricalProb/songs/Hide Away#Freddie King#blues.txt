@@ -1,20 +1,20 @@
-Electric Texas Blues:                0.9000000000000001 : 9
-Regional Blues:                      0.9000000000000001 : 9
-Texas Blues:                         0.9000000000000001 : 9
-Drinking:                            0.9000000000000001 : 9
-Hanging Out:                         0.9000000000000001 : 9
-Partying:                            0.9000000000000001 : 9
-Playful_mood:                        0.7000000000000001 : 8
-Rollicking:                          0.7000000000000001 : 8
-Modern Electric Blues:               0.4999999999999999 : 7
-Earnest:                             0.4999999999999999 : 7
-Passionate:                          0.4999999999999999 : 7
-Swaggering:                          0.4999999999999999 : 7
-Earthy:                              0.29999999999999993 : 6
-Gritty:                              0.29999999999999993 : 6
-Street-Smart:                        0.29999999999999993 : 6
-Energetic:                           0.1 : 5
-Greasy:                              0.1 : 5
-Gutsy:                               0.1 : 5
-Joyous:                              0.1 : 5
-Rousing:                             0.1 : 5
+Electric Texas Blues:                0.9 : 9
+Regional Blues:                      0.9 : 9
+Texas Blues:                         0.9 : 9
+Drinking:                            0.9 : 9
+Hanging Out:                         0.9 : 9
+Partying:                            0.9 : 9
+Playful_mood:                        0.8250000000000001 : 8
+Rollicking:                          0.8250000000000001 : 8
+Modern Electric Blues:               0.75 : 7
+Earnest:                             0.75 : 7
+Passionate:                          0.75 : 7
+Swaggering:                          0.75 : 7
+Earthy:                              0.6749999999999999 : 6
+Gritty:                              0.6749999999999999 : 6
+Street-Smart:                        0.6749999999999999 : 6
+Energetic:                           0.6 : 5
+Greasy:                              0.6 : 5
+Gutsy:                               0.6 : 5
+Joyous:                              0.6 : 5
+Rousing:                             0.6 : 5

@@ -13,6 +13,8 @@ Modifier Concept Count : 24
 
 
 
+T(modifier), -Earthy, 0.9, 24
+T(modifier), -Late Night, 0.9, 24
 T(modifier), Comedy, 0.9, 20
 T(modifier), Playful_mood, 0.868421052631579, 18
 T(modifier), Humorous, 0.8526315789473684, 17
@@ -27,5 +29,3 @@ T(head), Amiable/Good-Natured, 0.8432432432432433, 31
 T(head), Playful_mood, 0.8432432432432433, 31
 T(head), Lively, 0.8351351351351353, 30
 
-
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 4.70288643907065

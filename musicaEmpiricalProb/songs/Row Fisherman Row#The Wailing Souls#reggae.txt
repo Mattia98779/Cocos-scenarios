@@ -1,14 +1,14 @@
-Hypnotic:                            0.8999999999999999 : 9
-Roots Reggae:                        0.7399999999999999 : 8
-Druggy:                              0.7399999999999999 : 8
-Organic:                             0.7399999999999999 : 8
-Late Night:                          0.7399999999999999 : 8
-Laid-Back/Mellow:                    0.58 : 7
-Nocturnal:                           0.58 : 7
-Spacey:                              0.58 : 7
-Trippy:                              0.58 : 7
-Dub:                                 0.26 : 5
-Greasy:                              0.26 : 5
-Smooth:                              0.26 : 5
-Night Driving:                       0.26 : 5
-Earthy:                              0.1 : 4
+Hypnotic:                            0.9 : 9
+Roots Reggae:                        0.84 : 8
+Druggy:                              0.84 : 8
+Organic:                             0.84 : 8
+Late Night:                          0.84 : 8
+Laid-Back/Mellow:                    0.78 : 7
+Nocturnal:                           0.78 : 7
+Spacey:                              0.78 : 7
+Trippy:                              0.78 : 7
+Dub:                                 0.66 : 5
+Greasy:                              0.66 : 5
+Smooth:                              0.66 : 5
+Night Driving:                       0.66 : 5
+Earthy:                              0.6 : 4

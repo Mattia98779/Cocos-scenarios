@@ -1,17 +1,17 @@
 Folk Revival:                        0.9 : 8
 Folksongs:                           0.9 : 8
-Sentimental:                         0.6333333333333333 : 7
-Traditional Folk:                    0.3666666666666668 : 6
-Reflective:                          0.3666666666666668 : 6
-Amiable/Good-Natured:                0.1 : 5
-Earnest:                             0.1 : 5
-Earthy:                              0.1 : 5
-Fun:                                 0.1 : 5
-Nostalgic:                           0.1 : 5
-Organic:                             0.1 : 5
-Passionate:                          0.1 : 5
-Refined:                             0.1 : 5
-Warm:                                0.1 : 5
-Whimsical:                           0.1 : 5
-Birthday:                            0.1 : 5
-Reminiscing:                         0.1 : 5
+Sentimental:                         0.8 : 7
+Traditional Folk:                    0.7000000000000001 : 6
+Reflective:                          0.7000000000000001 : 6
+Amiable/Good-Natured:                0.6 : 5
+Earnest:                             0.6 : 5
+Earthy:                              0.6 : 5
+Fun:                                 0.6 : 5
+Nostalgic:                           0.6 : 5
+Organic:                             0.6 : 5
+Passionate:                          0.6 : 5
+Refined:                             0.6 : 5
+Warm:                                0.6 : 5
+Whimsical:                           0.6 : 5
+Birthday:                            0.6 : 5
+Reminiscing:                         0.6 : 5

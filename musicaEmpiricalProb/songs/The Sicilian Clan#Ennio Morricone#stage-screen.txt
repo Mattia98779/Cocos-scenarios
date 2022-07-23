@@ -12,9 +12,9 @@ Theatrical:                          0.9 : 7
 Feeling Blue:                        0.9 : 7
 Rainy Day:                           0.9 : 7
 The Creative Side:                   0.9 : 7
-Original Score:                      0.1 : 6
-Brooding:                            0.1 : 6
-Restrained:                          0.1 : 6
-Wistful:                             0.1 : 6
-Introspection:                       0.1 : 6
-Reflection:                          0.1 : 6
+Original Score:                      0.6 : 6
+Brooding:                            0.6 : 6
+Restrained:                          0.6 : 6
+Wistful:                             0.6 : 6
+Introspection:                       0.6 : 6
+Reflection:                          0.6 : 6

@@ -7,21 +7,21 @@ Reserved:                            0.9 : 9
 Dinner Ambiance:                     0.9 : 9
 Picnic:                              0.9 : 9
 Pool Party:                          0.9 : 9
-Vocal Pop:                           0.7000000000000001 : 8
-Celebratory:                         0.7000000000000001 : 8
-Exuberant:                           0.7000000000000001 : 8
-Summer:                              0.7000000000000001 : 8
-Traditional Pop:                     0.5 : 7
-Amiable/Good-Natured:                0.5 : 7
-Energetic:                           0.5 : 7
-Rousing:                             0.5 : 7
-Smooth:                              0.5 : 7
-Summery:                             0.5 : 7
-Partying:                            0.5 : 7
-Gleeful:                             0.30000000000000004 : 6
-Joyous:                              0.30000000000000004 : 6
-Light:                               0.30000000000000004 : 6
-Warm:                                0.30000000000000004 : 6
-Celebration:                         0.30000000000000004 : 6
-Carefree:                            0.1 : 5
-Cheerful:                            0.1 : 5
+Vocal Pop:                           0.8250000000000001 : 8
+Celebratory:                         0.8250000000000001 : 8
+Exuberant:                           0.8250000000000001 : 8
+Summer:                              0.8250000000000001 : 8
+Traditional Pop:                     0.75 : 7
+Amiable/Good-Natured:                0.75 : 7
+Energetic:                           0.75 : 7
+Rousing:                             0.75 : 7
+Smooth:                              0.75 : 7
+Summery:                             0.75 : 7
+Partying:                            0.75 : 7
+Gleeful:                             0.675 : 6
+Joyous:                              0.675 : 6
+Light:                               0.675 : 6
+Warm:                                0.675 : 6
+Celebration:                         0.675 : 6
+Carefree:                            0.6 : 5
+Cheerful:                            0.6 : 5

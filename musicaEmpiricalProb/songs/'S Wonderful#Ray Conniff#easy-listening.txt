@@ -22,4 +22,4 @@ Whimsical:                           0.9 : 9
 Background Music:                    0.9 : 9
 Dinner Ambiance:                     0.9 : 9
 Playful:                             0.9 : 9
-Vocal Pop:                           0.1 : 8
+Vocal Pop:                           0.6 : 8

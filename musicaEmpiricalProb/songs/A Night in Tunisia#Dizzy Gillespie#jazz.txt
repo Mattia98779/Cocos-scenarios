@@ -21,58 +21,58 @@ Road Trip:                           0.9 : 9
 Small Gathering:                     0.9 : 9
 Summer:                              0.9 : 9
 Sunday Afternoon:                    0.9 : 9
-Big Band:                            0.7399999999999999 : 8
-Bop:                                 0.7399999999999999 : 8
-Amiable/Good-Natured:                0.7399999999999999 : 8
-Carefree:                            0.7399999999999999 : 8
-Freewheeling:                        0.7399999999999999 : 8
-Homecoming:                          0.7399999999999999 : 8
-Playful:                             0.7399999999999999 : 8
-Ambitious:                           0.58 : 7
-Boisterous:                          0.58 : 7
-Cheerful:                            0.58 : 7
-Earnest:                             0.58 : 7
-Earthy:                              0.58 : 7
-Greasy:                              0.58 : 7
-Literate:                            0.58 : 7
-Nocturnal:                           0.58 : 7
-Precious:                            0.58 : 7
-Reflective:                          0.58 : 7
-Self-Conscious:                      0.58 : 7
-Sophisticated:                       0.58 : 7
-Sparkling:                           0.58 : 7
-Spicy:                               0.58 : 7
-Stylish:                             0.58 : 7
-Whimsical:                           0.58 : 7
-Witty:                               0.58 : 7
-Wry:                                 0.58 : 7
-Affirmation:                         0.58 : 7
-Empowering:                          0.58 : 7
-Late Night:                          0.58 : 7
-Motivation:                          0.58 : 7
-Night Driving:                       0.58 : 7
-Sports:                              0.58 : 7
-The Creative Side:                   0.58 : 7
-The Great Outdoors:                  0.58 : 7
-Victory:                             0.58 : 7
-Complex:                             0.42000000000000004 : 6
-Elegant:                             0.42000000000000004 : 6
-Light:                               0.42000000000000004 : 6
-Playful_mood:                        0.42000000000000004 : 6
-Rollicking:                          0.42000000000000004 : 6
-Summery:                             0.42000000000000004 : 6
-Urgent:                              0.42000000000000004 : 6
-Afro-Cuban Jazz:                     0.25999999999999995 : 5
-Latin Jazz:                          0.25999999999999995 : 5
-Mainstream Jazz:                     0.25999999999999995 : 5
-Bravado:                             0.25999999999999995 : 5
-Celebratory:                         0.25999999999999995 : 5
-Confident:                           0.25999999999999995 : 5
-Energetic:                           0.25999999999999995 : 5
-Exuberant:                           0.25999999999999995 : 5
-Joyous:                              0.25999999999999995 : 5
-Knotty:                              0.25999999999999995 : 5
-Passionate:                          0.25999999999999995 : 5
-Rambunctious:                        0.25999999999999995 : 5
-Rousing:                             0.25999999999999995 : 5
-Organic:                             0.1 : 4
+Big Band:                            0.84 : 8
+Bop:                                 0.84 : 8
+Amiable/Good-Natured:                0.84 : 8
+Carefree:                            0.84 : 8
+Freewheeling:                        0.84 : 8
+Homecoming:                          0.84 : 8
+Playful:                             0.84 : 8
+Ambitious:                           0.78 : 7
+Boisterous:                          0.78 : 7
+Cheerful:                            0.78 : 7
+Earnest:                             0.78 : 7
+Earthy:                              0.78 : 7
+Greasy:                              0.78 : 7
+Literate:                            0.78 : 7
+Nocturnal:                           0.78 : 7
+Precious:                            0.78 : 7
+Reflective:                          0.78 : 7
+Self-Conscious:                      0.78 : 7
+Sophisticated:                       0.78 : 7
+Sparkling:                           0.78 : 7
+Spicy:                               0.78 : 7
+Stylish:                             0.78 : 7
+Whimsical:                           0.78 : 7
+Witty:                               0.78 : 7
+Wry:                                 0.78 : 7
+Affirmation:                         0.78 : 7
+Empowering:                          0.78 : 7
+Late Night:                          0.78 : 7
+Motivation:                          0.78 : 7
+Night Driving:                       0.78 : 7
+Sports:                              0.78 : 7
+The Creative Side:                   0.78 : 7
+The Great Outdoors:                  0.78 : 7
+Victory:                             0.78 : 7
+Complex:                             0.72 : 6
+Elegant:                             0.72 : 6
+Light:                               0.72 : 6
+Playful_mood:                        0.72 : 6
+Rollicking:                          0.72 : 6
+Summery:                             0.72 : 6
+Urgent:                              0.72 : 6
+Afro-Cuban Jazz:                     0.6599999999999999 : 5
+Latin Jazz:                          0.6599999999999999 : 5
+Mainstream Jazz:                     0.6599999999999999 : 5
+Bravado:                             0.6599999999999999 : 5
+Celebratory:                         0.6599999999999999 : 5
+Confident:                           0.6599999999999999 : 5
+Energetic:                           0.6599999999999999 : 5
+Exuberant:                           0.6599999999999999 : 5
+Joyous:                              0.6599999999999999 : 5
+Knotty:                              0.6599999999999999 : 5
+Passionate:                          0.6599999999999999 : 5
+Rambunctious:                        0.6599999999999999 : 5
+Rousing:                             0.6599999999999999 : 5
+Organic:                             0.6 : 4

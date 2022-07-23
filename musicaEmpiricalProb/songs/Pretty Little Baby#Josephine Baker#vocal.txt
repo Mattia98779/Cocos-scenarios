@@ -2,13 +2,13 @@ Dramatic:                            0.9 : 9
 Elegant:                             0.9 : 9
 Refined:                             0.9 : 9
 Dinner Ambiance:                     0.9 : 9
-Cabaret:                             0.6999999999999998 : 8
-Romantic:                            0.6999999999999998 : 8
-Soothing:                            0.6999999999999998 : 8
-Sophisticated:                       0.6999999999999998 : 8
-Stylish:                             0.6999999999999998 : 8
-Traditional Pop:                     0.4999999999999999 : 7
-Theatrical:                          0.4999999999999999 : 7
-Romantic Evening:                    0.4999999999999999 : 7
-Witty:                               0.29999999999999993 : 6
-Tin Pan Alley Pop:                   0.1 : 5
+Cabaret:                             0.825 : 8
+Romantic:                            0.825 : 8
+Soothing:                            0.825 : 8
+Sophisticated:                       0.825 : 8
+Stylish:                             0.825 : 8
+Traditional Pop:                     0.75 : 7
+Theatrical:                          0.75 : 7
+Romantic Evening:                    0.75 : 7
+Witty:                               0.6749999999999999 : 6
+Tin Pan Alley Pop:                   0.6 : 5

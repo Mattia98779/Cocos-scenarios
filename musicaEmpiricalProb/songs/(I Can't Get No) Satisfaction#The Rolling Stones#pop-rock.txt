@@ -14,9 +14,9 @@ Guys Night Out:                      0.9 : 9
 Hanging Out:                         0.9 : 9
 Late Night:                          0.9 : 9
 Partying:                            0.9 : 9
-Album Rock:                          0.5 : 5
-Motivation:                          0.5 : 5
-Politics/Society:                    0.5 : 5
-Blues-Rock:                          0.3 : 3
-Hard Rock:                           0.1 : 1
-Rock & Roll:                         0.1 : 1
+Album Rock:                          0.75 : 5
+Motivation:                          0.75 : 5
+Politics/Society:                    0.75 : 5
+Blues-Rock:                          0.6749999999999999 : 3
+Hard Rock:                           0.6 : 1
+Rock & Roll:                         0.6 : 1

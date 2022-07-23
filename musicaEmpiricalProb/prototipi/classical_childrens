@@ -13,6 +13,8 @@ Modifier Concept Count : 23
 
 
 
+T(modifier), -Reflective, 0.9, 23
+T(modifier), -Dramatic, 0.9, 23
 T(modifier), Hanging Out, 0.9, 22
 T(modifier), Playful, 0.9, 22
 T(modifier), Fun, 0.8857142857142857, 21
@@ -20,6 +22,8 @@ T(modifier), Sing-Alongs, 0.8714285714285714, 20
 T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
 T(modifier), Playful_mood, 0.8714285714285714, 20
 
+T(head), -Hanging Out, 0.9, 7
+T(head), -Lively, 0.9, 7
 T(head), Sentimental, 0.9, 4
 T(head), Confident, 0.9, 4
 T(head), Classical Crossover, 0.8, 3
@@ -27,5 +31,3 @@ T(head), Melancholy, 0.8, 3
 T(head), Sensual, 0.8, 3
 T(head), Complex, 0.8, 3
 
-
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 17.240816326530606

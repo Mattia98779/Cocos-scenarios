@@ -13,6 +13,8 @@ Modifier Concept Count : 13
 
 
 
+T(modifier), -Playful_mood, 0.9, 13
+T(modifier), -Amiable/Good-Natured, 0.9, 13
 T(modifier), The Creative Side, 0.9, 6
 T(modifier), Cerebral, 0.84, 5
 T(modifier), Uncompromising, 0.78, 4
@@ -20,6 +22,8 @@ T(modifier), Provocative, 0.78, 4
 T(modifier), Revolutionary, 0.78, 4
 T(modifier), Modern Composition, 0.78, 4
 
+T(head), -Earthy, 0.9, 43
+T(head), -Freedom, 0.9, 43
 T(head), Dinner Ambiance, 0.9, 27
 T(head), Amiable/Good-Natured, 0.8884615384615384, 26
 T(head), Relaxation, 0.8653846153846154, 24
@@ -27,5 +31,3 @@ T(head), Soothing, 0.8653846153846154, 24
 T(head), Sophisticated, 0.8538461538461539, 23
 T(head), Refined, 0.8307692307692308, 21
 
-
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 3.8337388193202138

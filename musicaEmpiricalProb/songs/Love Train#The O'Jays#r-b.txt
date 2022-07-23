@@ -5,27 +5,27 @@ Exuberant:                           0.9 : 9
 Rousing:                             0.9 : 9
 Affirmation:                         0.9 : 9
 Empowering:                          0.9 : 9
-Pop-Soul:                            0.6999999999999998 : 8
-Cheerful:                            0.6999999999999998 : 8
-Summery:                             0.6999999999999998 : 8
-Warm:                                0.6999999999999998 : 8
-Club:                                0.6999999999999998 : 8
-Motivation:                          0.6999999999999998 : 8
-Smooth Soul:                         0.4999999999999999 : 7
-Soul:                                0.4999999999999999 : 7
-Earnest:                             0.4999999999999999 : 7
-Epic:                                0.4999999999999999 : 7
-Lively:                              0.4999999999999999 : 7
-Sparkling:                           0.4999999999999999 : 7
-Sweet:                               0.4999999999999999 : 7
-Girls Night Out:                     0.4999999999999999 : 7
-Amiable/Good-Natured:                0.29999999999999993 : 6
-Sensual:                             0.29999999999999993 : 6
-Smooth:                              0.29999999999999993 : 6
-Relaxation:                          0.29999999999999993 : 6
-Small Gathering:                     0.29999999999999993 : 6
-Disco:                               0.1 : 5
-Fun:                                 0.1 : 5
-Happy:                               0.1 : 5
-Lush:                                0.1 : 5
-Sentimental:                         0.1 : 5
+Pop-Soul:                            0.825 : 8
+Cheerful:                            0.825 : 8
+Summery:                             0.825 : 8
+Warm:                                0.825 : 8
+Club:                                0.825 : 8
+Motivation:                          0.825 : 8
+Smooth Soul:                         0.75 : 7
+Soul:                                0.75 : 7
+Earnest:                             0.75 : 7
+Epic:                                0.75 : 7
+Lively:                              0.75 : 7
+Sparkling:                           0.75 : 7
+Sweet:                               0.75 : 7
+Girls Night Out:                     0.75 : 7
+Amiable/Good-Natured:                0.6749999999999999 : 6
+Sensual:                             0.6749999999999999 : 6
+Smooth:                              0.6749999999999999 : 6
+Relaxation:                          0.6749999999999999 : 6
+Small Gathering:                     0.6749999999999999 : 6
+Disco:                               0.6 : 5
+Fun:                                 0.6 : 5
+Happy:                               0.6 : 5
+Lush:                                0.6 : 5
+Sentimental:                         0.6 : 5

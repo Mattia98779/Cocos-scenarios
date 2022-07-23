@@ -13,6 +13,8 @@ Modifier Concept Count : 48
 
 
 
+T(modifier), -Cheerful, 0.9, 48
+T(modifier), -Calm/Peaceful, 0.9, 48
 T(modifier), Regional Blues, 0.9, 40
 T(modifier), Earthy, 0.8615384615384616, 35
 T(modifier), Gritty, 0.8615384615384616, 35
@@ -27,5 +29,3 @@ T(head), Amiable/Good-Natured, 0.8432432432432433, 31
 T(head), Playful_mood, 0.8432432432432433, 31
 T(head), Lively, 0.8351351351351353, 30
 
-
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '0', '0', '1', '0', 5.515921690921691

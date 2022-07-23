@@ -13,6 +13,8 @@ Modifier Concept Count : 13
 
 
 
+T(modifier), -Playful_mood, 0.9, 13
+T(modifier), -Amiable/Good-Natured, 0.9, 13
 T(modifier), The Creative Side, 0.9, 6
 T(modifier), Cerebral, 0.84, 5
 T(modifier), Uncompromising, 0.78, 4
@@ -20,6 +22,8 @@ T(modifier), Provocative, 0.78, 4
 T(modifier), Revolutionary, 0.78, 4
 T(modifier), Modern Composition, 0.78, 4
 
+T(head), -Confident, 0.9, 48
+T(head), -Hanging Out, 0.9, 48
 T(head), Reflection, 0.9, 29
 T(head), Soothing, 0.8892857142857142, 28
 T(head), Introspection, 0.8892857142857142, 28
@@ -27,5 +31,3 @@ T(head), Hypnotic, 0.8785714285714286, 27
 T(head), Reflective, 0.8785714285714286, 27
 T(head), Relaxation, 0.8785714285714286, 27
 
-
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '1', '1', 3.840446428571428

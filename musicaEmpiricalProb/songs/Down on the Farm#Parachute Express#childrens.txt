@@ -8,7 +8,7 @@ Quirky:                              0.9 : 7
 Silly:                               0.9 : 7
 Whimsical:                           0.9 : 7
 Wry:                                 0.9 : 7
-Sing-Alongs:                         0.1 : 5
-Family Gatherings:                   0.1 : 5
-Hanging Out:                         0.1 : 5
-Playful:                             0.1 : 5
+Sing-Alongs:                         0.6 : 5
+Family Gatherings:                   0.6 : 5
+Hanging Out:                         0.6 : 5
+Playful:                             0.6 : 5

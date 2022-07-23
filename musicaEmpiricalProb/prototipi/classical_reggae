@@ -13,6 +13,8 @@ Modifier Concept Count : 48
 
 
 
+T(modifier), -The Creative Side, 0.9, 48
+T(modifier), -Whimsical, 0.9, 48
 T(modifier), Summery, 0.9, 35
 T(modifier), Roots Reggae, 0.8735294117647059, 32
 T(modifier), Earnest, 0.8558823529411764, 30
@@ -20,6 +22,8 @@ T(modifier), Earthy, 0.8117647058823529, 25
 T(modifier), Rousing, 0.8029411764705883, 24
 T(modifier), Summer, 0.8029411764705883, 24
 
+T(head), -Hanging Out, 0.9, 7
+T(head), -Lively, 0.9, 7
 T(head), Sentimental, 0.9, 4
 T(head), Confident, 0.9, 4
 T(head), Classical Crossover, 0.8, 3
@@ -27,5 +31,3 @@ T(head), Melancholy, 0.8, 3
 T(head), Sensual, 0.8, 3
 T(head), Complex, 0.8, 3
 
-
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 22.023529411764706

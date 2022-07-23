@@ -3,24 +3,24 @@ Amiable/Good-Natured:                0.9 : 9
 Exuberant:                           0.9 : 9
 Family Gatherings:                   0.9 : 9
 Homecoming:                          0.9 : 9
-Traditional Pop:                     0.7000000000000001 : 8
-Boisterous:                          0.7000000000000001 : 8
-Carefree:                            0.7000000000000001 : 8
-Cheerful:                            0.7000000000000001 : 8
-Playful_mood:                        0.7000000000000001 : 8
-Sweet:                               0.7000000000000001 : 8
-Dinner Ambiance:                     0.7000000000000001 : 8
-Confident:                           0.4999999999999999 : 7
-Energetic:                           0.4999999999999999 : 7
-Light:                               0.4999999999999999 : 7
-Lively:                              0.4999999999999999 : 7
-Sparkling:                           0.4999999999999999 : 7
-Warm:                                0.4999999999999999 : 7
-Freedom:                             0.4999999999999999 : 7
-Celebratory:                         0.30000000000000004 : 6
-Happy:                               0.30000000000000004 : 6
-Rousing:                             0.30000000000000004 : 6
-Sensual:                             0.30000000000000004 : 6
-Silly:                               0.30000000000000004 : 6
-Fun:                                 0.1 : 5
-Springlike:                          0.1 : 5
+Traditional Pop:                     0.8250000000000001 : 8
+Boisterous:                          0.8250000000000001 : 8
+Carefree:                            0.8250000000000001 : 8
+Cheerful:                            0.8250000000000001 : 8
+Playful_mood:                        0.8250000000000001 : 8
+Sweet:                               0.8250000000000001 : 8
+Dinner Ambiance:                     0.8250000000000001 : 8
+Confident:                           0.75 : 7
+Energetic:                           0.75 : 7
+Light:                               0.75 : 7
+Lively:                              0.75 : 7
+Sparkling:                           0.75 : 7
+Warm:                                0.75 : 7
+Freedom:                             0.75 : 7
+Celebratory:                         0.675 : 6
+Happy:                               0.675 : 6
+Rousing:                             0.675 : 6
+Sensual:                             0.675 : 6
+Silly:                               0.675 : 6
+Fun:                                 0.6 : 5
+Springlike:                          0.6 : 5

@@ -13,6 +13,8 @@ Modifier Concept Count : 24
 
 
 
+T(modifier), -Earthy, 0.9, 24
+T(modifier), -Late Night, 0.9, 24
 T(modifier), Comedy, 0.9, 20
 T(modifier), Playful_mood, 0.868421052631579, 18
 T(modifier), Humorous, 0.8526315789473684, 17
@@ -20,6 +22,8 @@ T(modifier), Playful, 0.8526315789473684, 17
 T(modifier), The Creative Side, 0.8368421052631579, 16
 T(modifier), Irreverent, 0.8210526315789474, 15
 
+T(head), -Amiable/Good-Natured, 0.9, 18
+T(head), -Soothing, 0.9, 18
 T(head), Soundtracks, 0.9, 13
 T(head), Dramatic, 0.875, 12
 T(head), Original Score, 0.8500000000000001, 11
@@ -27,5 +31,3 @@ T(head), Theatrical, 0.825, 10
 T(head), Film Music, 0.7999999999999999, 9
 T(head), Rousing, 0.75, 7
 
-
-Result : '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', 6.491374269005847

@@ -1,30 +1,30 @@
-Political Reggae:                    0.9000000000000001 : 8
-Roots Reggae:                        0.9000000000000001 : 8
-Earnest:                             0.9000000000000001 : 8
-Earthy:                              0.9000000000000001 : 8
-Poignant:                            0.9000000000000001 : 8
-Reverent:                            0.9000000000000001 : 8
-Empowering:                          0.9000000000000001 : 8
-Hypnotic:                            0.6333333333333334 : 7
-Rousing:                             0.6333333333333334 : 7
-Politics/Society:                    0.6333333333333334 : 7
-Bittersweet:                         0.3666666666666668 : 6
-Plaintive:                           0.3666666666666668 : 6
-Stately:                             0.3666666666666668 : 6
-Atmospheric:                         0.1 : 5
-Intimate:                            0.1 : 5
-Organic:                             0.1 : 5
-Passionate:                          0.1 : 5
-Reflective:                          0.1 : 5
-Spiritual:                           0.1 : 5
-Summery:                             0.1 : 5
-Warm:                                0.1 : 5
-Weary:                               0.1 : 5
-Yearning:                            0.1 : 5
-Affirmation:                         0.1 : 5
-Freedom:                             0.1 : 5
-Introspection:                       0.1 : 5
-Late Night:                          0.1 : 5
-Revolutionary:                       0.1 : 5
-Road Trip:                           0.1 : 5
-Summer:                              0.1 : 5
+Political Reggae:                    0.9 : 8
+Roots Reggae:                        0.9 : 8
+Earnest:                             0.9 : 8
+Earthy:                              0.9 : 8
+Poignant:                            0.9 : 8
+Reverent:                            0.9 : 8
+Empowering:                          0.9 : 8
+Hypnotic:                            0.8 : 7
+Rousing:                             0.8 : 7
+Politics/Society:                    0.8 : 7
+Bittersweet:                         0.7000000000000001 : 6
+Plaintive:                           0.7000000000000001 : 6
+Stately:                             0.7000000000000001 : 6
+Atmospheric:                         0.6 : 5
+Intimate:                            0.6 : 5
+Organic:                             0.6 : 5
+Passionate:                          0.6 : 5
+Reflective:                          0.6 : 5
+Spiritual:                           0.6 : 5
+Summery:                             0.6 : 5
+Warm:                                0.6 : 5
+Weary:                               0.6 : 5
+Yearning:                            0.6 : 5
+Affirmation:                         0.6 : 5
+Freedom:                             0.6 : 5
+Introspection:                       0.6 : 5
+Late Night:                          0.6 : 5
+Revolutionary:                       0.6 : 5
+Road Trip:                           0.6 : 5
+Summer:                              0.6 : 5

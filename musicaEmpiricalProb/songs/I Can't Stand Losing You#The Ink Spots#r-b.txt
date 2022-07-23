@@ -5,21 +5,21 @@ Yearning:                            0.9 : 9
 Breakup:                             0.9 : 9
 Feeling Blue:                        0.9 : 9
 Heartache:                           0.9 : 9
-Delicate:                            0.6333333333333334 : 8
-Dramatic:                            0.6333333333333334 : 8
-Intimate:                            0.6333333333333334 : 8
-Melancholy:                          0.6333333333333334 : 8
-Reserved:                            0.6333333333333334 : 8
-Sad:                                 0.6333333333333334 : 8
-Wistful:                             0.6333333333333334 : 8
-Traditional Pop:                     0.3666666666666669 : 7
-Earnest:                             0.3666666666666669 : 7
-Elegant:                             0.3666666666666669 : 7
-Gentle:                              0.3666666666666669 : 7
-Plaintive:                           0.3666666666666669 : 7
-Refined:                             0.3666666666666669 : 7
-Soft/Quiet:                          0.3666666666666669 : 7
-Brooding:                            0.1 : 6
-Poignant:                            0.1 : 6
-Smooth:                              0.1 : 6
-Weary:                               0.1 : 6
+Delicate:                            0.8 : 8
+Dramatic:                            0.8 : 8
+Intimate:                            0.8 : 8
+Melancholy:                          0.8 : 8
+Reserved:                            0.8 : 8
+Sad:                                 0.8 : 8
+Wistful:                             0.8 : 8
+Traditional Pop:                     0.7000000000000001 : 7
+Earnest:                             0.7000000000000001 : 7
+Elegant:                             0.7000000000000001 : 7
+Gentle:                              0.7000000000000001 : 7
+Plaintive:                           0.7000000000000001 : 7
+Refined:                             0.7000000000000001 : 7
+Soft/Quiet:                          0.7000000000000001 : 7
+Brooding:                            0.6 : 6
+Poignant:                            0.6 : 6
+Smooth:                              0.6 : 6
+Weary:                               0.6 : 6

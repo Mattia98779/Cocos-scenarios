@@ -27,9 +27,9 @@ Hanging Out:                         0.9 : 9
 Late Night:                          0.9 : 9
 Partying:                            0.9 : 9
 Road Trip:                           0.9 : 9
-British Blues:                       0.7000000000000001 : 8
-British Invasion:                    0.7000000000000001 : 8
-Regional Blues:                      0.7000000000000001 : 8
-Rock & Roll:                         0.7000000000000001 : 8
-Passionate:                          0.7000000000000001 : 8
-Contemporary Pop/Rock:               0.1 : 5
+British Blues:                       0.8250000000000001 : 8
+British Invasion:                    0.8250000000000001 : 8
+Regional Blues:                      0.8250000000000001 : 8
+Rock & Roll:                         0.8250000000000001 : 8
+Passionate:                          0.8250000000000001 : 8
+Contemporary Pop/Rock:               0.6 : 5

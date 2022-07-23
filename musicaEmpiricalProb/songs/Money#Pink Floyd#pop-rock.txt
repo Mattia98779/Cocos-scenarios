@@ -21,4 +21,4 @@ Trippy:                              0.9 : 9
 Urgent:                              0.9 : 9
 Wry:                                 0.9 : 9
 Late Night:                          0.9 : 9
-Politics/Society:                    0.1 : 5
+Politics/Society:                    0.6 : 5

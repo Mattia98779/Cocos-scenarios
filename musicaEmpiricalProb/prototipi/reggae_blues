@@ -13,6 +13,8 @@ Modifier Concept Count : 48
 
 
 
+T(modifier), -Cheerful, 0.9, 48
+T(modifier), -Calm/Peaceful, 0.9, 48
 T(modifier), Regional Blues, 0.9, 40
 T(modifier), Earthy, 0.8615384615384616, 35
 T(modifier), Gritty, 0.8615384615384616, 35
@@ -20,6 +22,8 @@ T(modifier), Passionate, 0.8153846153846154, 29
 T(modifier), Late Night, 0.8153846153846154, 29
 T(modifier), Hanging Out, 0.7615384615384615, 22
 
+T(head), -The Creative Side, 0.9, 48
+T(head), -Whimsical, 0.9, 48
 T(head), Summery, 0.9, 35
 T(head), Roots Reggae, 0.8735294117647059, 32
 T(head), Earnest, 0.8558823529411764, 30
@@ -27,5 +31,3 @@ T(head), Earthy, 0.8117647058823529, 25
 T(head), Rousing, 0.8029411764705883, 24
 T(head), Summer, 0.8029411764705883, 24
 
-
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 5.4074095022624435

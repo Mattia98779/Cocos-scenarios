@@ -15,4 +15,4 @@ Swaggering:                          0.9 : 9
 Hanging Out:                         0.9 : 9
 Partying:                            0.9 : 9
 TGIF:                                0.9 : 9
-Soul Jazz:                           0.1 : 8
+Soul Jazz:                           0.6 : 8

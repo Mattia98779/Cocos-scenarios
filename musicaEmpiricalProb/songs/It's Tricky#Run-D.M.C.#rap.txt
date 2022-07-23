@@ -5,34 +5,34 @@ Fiery:                               0.9 : 9
 Rebellious:                          0.9 : 9
 Street-Smart:                        0.9 : 9
 Victory:                             0.9 : 9
-East Coast Rap:                      0.74 : 8
-Golden Age:                          0.74 : 8
-Old-School Rap:                      0.74 : 8
-Bravado:                             0.74 : 8
-Confident:                           0.74 : 8
-Confrontational:                     0.74 : 8
-Irreverent:                          0.74 : 8
-Rousing:                             0.74 : 8
-Swaggering:                          0.74 : 8
-Uncompromising:                      0.74 : 8
-Empowering:                          0.74 : 8
-Freedom:                             0.74 : 8
-Hanging Out:                         0.74 : 8
-Partying:                            0.74 : 8
-Revolutionary:                       0.74 : 8
-Aggressive:                          0.42000000000000004 : 6
-Brash:                               0.42000000000000004 : 6
-Exuberant:                           0.42000000000000004 : 6
-Rambunctious:                        0.42000000000000004 : 6
-Witty:                               0.42000000000000004 : 6
-Boisterous:                          0.26 : 5
-Celebratory:                         0.26 : 5
-Fun:                                 0.26 : 5
-Menacing:                            0.26 : 5
-Passionate:                          0.26 : 5
-Rowdy:                               0.26 : 5
-Visceral:                            0.26 : 5
-Cool & Cocky:                        0.26 : 5
-Guys Night Out:                      0.26 : 5
-TGIF:                                0.26 : 5
-Playful_mood:                        0.1 : 4
+East Coast Rap:                      0.84 : 8
+Golden Age:                          0.84 : 8
+Old-School Rap:                      0.84 : 8
+Bravado:                             0.84 : 8
+Confident:                           0.84 : 8
+Confrontational:                     0.84 : 8
+Irreverent:                          0.84 : 8
+Rousing:                             0.84 : 8
+Swaggering:                          0.84 : 8
+Uncompromising:                      0.84 : 8
+Empowering:                          0.84 : 8
+Freedom:                             0.84 : 8
+Hanging Out:                         0.84 : 8
+Partying:                            0.84 : 8
+Revolutionary:                       0.84 : 8
+Aggressive:                          0.72 : 6
+Brash:                               0.72 : 6
+Exuberant:                           0.72 : 6
+Rambunctious:                        0.72 : 6
+Witty:                               0.72 : 6
+Boisterous:                          0.66 : 5
+Celebratory:                         0.66 : 5
+Fun:                                 0.66 : 5
+Menacing:                            0.66 : 5
+Passionate:                          0.66 : 5
+Rowdy:                               0.66 : 5
+Visceral:                            0.66 : 5
+Cool & Cocky:                        0.66 : 5
+Guys Night Out:                      0.66 : 5
+TGIF:                                0.66 : 5
+Playful_mood:                        0.6 : 4

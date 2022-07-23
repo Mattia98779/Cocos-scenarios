@@ -13,6 +13,8 @@ Modifier Concept Count : 43
 
 
 
+T(modifier), -Earthy, 0.9, 43
+T(modifier), -Freedom, 0.9, 43
 T(modifier), Dinner Ambiance, 0.9, 27
 T(modifier), Amiable/Good-Natured, 0.8884615384615384, 26
 T(modifier), Relaxation, 0.8653846153846154, 24
@@ -20,6 +22,8 @@ T(modifier), Soothing, 0.8653846153846154, 24
 T(modifier), Sophisticated, 0.8538461538461539, 23
 T(modifier), Refined, 0.8307692307692308, 21
 
+T(head), -Atmospheric, 0.9, 43
+T(head), -The Creative Side, 0.9, 43
 T(head), Soul, 0.9, 21
 T(head), Playful_mood, 0.855, 18
 T(head), Energetic, 0.855, 18
@@ -27,5 +31,3 @@ T(head), Partying, 0.855, 18
 T(head), Warm, 0.855, 18
 T(head), Smooth, 0.855, 18
 
-
-Result : '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', 4.350715563506261

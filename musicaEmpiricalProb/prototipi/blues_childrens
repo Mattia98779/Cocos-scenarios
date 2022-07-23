@@ -13,6 +13,8 @@ Modifier Concept Count : 23
 
 
 
+T(modifier), -Reflective, 0.9, 23
+T(modifier), -Dramatic, 0.9, 23
 T(modifier), Hanging Out, 0.9, 22
 T(modifier), Playful, 0.9, 22
 T(modifier), Fun, 0.8857142857142857, 21
@@ -20,6 +22,8 @@ T(modifier), Sing-Alongs, 0.8714285714285714, 20
 T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
 T(modifier), Playful_mood, 0.8714285714285714, 20
 
+T(head), -Cheerful, 0.9, 48
+T(head), -Calm/Peaceful, 0.9, 48
 T(head), Regional Blues, 0.9, 40
 T(head), Earthy, 0.8615384615384616, 35
 T(head), Gritty, 0.8615384615384616, 35
@@ -27,5 +31,3 @@ T(head), Passionate, 0.8153846153846154, 29
 T(head), Late Night, 0.8153846153846154, 29
 T(head), Hanging Out, 0.7615384615384615, 22
 
-
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 4.770009157509158

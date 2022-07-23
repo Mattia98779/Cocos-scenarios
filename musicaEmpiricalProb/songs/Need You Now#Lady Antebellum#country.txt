@@ -8,10 +8,10 @@ Yearning:                            0.9 : 9
 Drinking:                            0.9 : 9
 Heartache:                           0.9 : 9
 Reflection:                          0.9 : 9
-Brooding:                            0.5 : 8
-Delicate:                            0.5 : 8
-Passionate:                          0.5 : 8
-Tender:                              0.5 : 8
-Adult Contemporary:                  0.1 : 7
-Anguished/Distraught:                0.1 : 7
-Breakup:                             0.1 : 7
+Brooding:                            0.75 : 8
+Delicate:                            0.75 : 8
+Passionate:                          0.75 : 8
+Tender:                              0.75 : 8
+Adult Contemporary:                  0.6 : 7
+Anguished/Distraught:                0.6 : 7
+Breakup:                             0.6 : 7

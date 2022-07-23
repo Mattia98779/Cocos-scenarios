@@ -13,6 +13,8 @@ Modifier Concept Count : 7
 
 
 
+T(modifier), -Hanging Out, 0.9, 7
+T(modifier), -Lively, 0.9, 7
 T(modifier), Sentimental, 0.9, 4
 T(modifier), Confident, 0.9, 4
 T(modifier), Classical Crossover, 0.8, 3
@@ -20,6 +22,8 @@ T(modifier), Melancholy, 0.8, 3
 T(modifier), Sensual, 0.8, 3
 T(modifier), Complex, 0.8, 3
 
+T(head), -Playful_mood, 0.9, 13
+T(head), -Amiable/Good-Natured, 0.9, 13
 T(head), The Creative Side, 0.9, 6
 T(head), Cerebral, 0.84, 5
 T(head), Uncompromising, 0.78, 4
@@ -27,5 +31,3 @@ T(head), Provocative, 0.78, 4
 T(head), Revolutionary, 0.78, 4
 T(head), Modern Composition, 0.78, 4
 
-
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '0', '1', '0', 3.092307692307693

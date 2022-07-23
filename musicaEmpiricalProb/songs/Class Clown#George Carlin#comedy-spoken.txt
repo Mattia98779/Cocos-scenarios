@@ -7,25 +7,25 @@ Freedom:                             0.9 : 9
 Introspection:                       0.9 : 9
 Revolutionary:                       0.9 : 9
 The Creative Side:                   0.9 : 9
-Confrontational:                     0.7666666666666665 : 8
-Uncompromising:                      0.7666666666666665 : 8
-Observational Humor:                 0.6333333333333333 : 7
-Earnest:                             0.6333333333333333 : 7
-Provocative:                         0.6333333333333333 : 7
-Outrageous:                          0.5 : 6
-Searching:                           0.5 : 6
-Cerebral:                            0.3666666666666667 : 5
-Complex:                             0.3666666666666667 : 5
-Humorous:                            0.3666666666666667 : 5
-Playful_mood:                        0.3666666666666667 : 5
-Rebellious:                          0.3666666666666667 : 5
-Silly:                               0.3666666666666667 : 5
-Wry:                                 0.3666666666666667 : 5
-Maverick:                            0.3666666666666667 : 5
-Mischievous:                         0.3666666666666667 : 5
-Playful:                             0.3666666666666667 : 5
-Literate:                            0.23333333333333334 : 4
-Reflective:                          0.23333333333333334 : 4
-Snide:                               0.23333333333333334 : 4
-Whimsical:                           0.23333333333333334 : 4
-Bitter:                              0.1 : 3
+Confrontational:                     0.85 : 8
+Uncompromising:                      0.85 : 8
+Observational Humor:                 0.7999999999999999 : 7
+Earnest:                             0.7999999999999999 : 7
+Provocative:                         0.7999999999999999 : 7
+Outrageous:                          0.75 : 6
+Searching:                           0.75 : 6
+Cerebral:                            0.7 : 5
+Complex:                             0.7 : 5
+Humorous:                            0.7 : 5
+Playful_mood:                        0.7 : 5
+Rebellious:                          0.7 : 5
+Silly:                               0.7 : 5
+Wry:                                 0.7 : 5
+Maverick:                            0.7 : 5
+Mischievous:                         0.7 : 5
+Playful:                             0.7 : 5
+Literate:                            0.65 : 4
+Reflective:                          0.65 : 4
+Snide:                               0.65 : 4
+Whimsical:                           0.65 : 4
+Bitter:                              0.6 : 3

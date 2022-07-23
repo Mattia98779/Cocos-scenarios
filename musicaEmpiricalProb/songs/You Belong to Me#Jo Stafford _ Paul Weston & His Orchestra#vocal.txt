@@ -7,24 +7,24 @@ Sweet:                               0.9 : 9
 Warm:                                0.9 : 9
 Comfort:                             0.9 : 9
 Relaxation:                          0.9 : 9
-Delicate:                            0.7000000000000001 : 8
-Intimate:                            0.7000000000000001 : 8
-Reflection:                          0.7000000000000001 : 8
-Reminiscing:                         0.7000000000000001 : 8
-Vocal Pop:                           0.5000000000000001 : 7
-Gentle:                              0.5000000000000001 : 7
-Poignant:                            0.5000000000000001 : 7
-Restrained:                          0.5000000000000001 : 7
-Romantic:                            0.5000000000000001 : 7
-Smooth:                              0.5000000000000001 : 7
-Slow Dance:                          0.5000000000000001 : 7
-Solitude:                            0.5000000000000001 : 7
-Vocal Jazz:                          0.30000000000000016 : 6
-Earnest:                             0.30000000000000016 : 6
-Lush:                                0.30000000000000016 : 6
-Reflective:                          0.30000000000000016 : 6
-Wistful:                             0.30000000000000016 : 6
-Big Band:                            0.1 : 5
-Standards:                           0.1 : 5
-Torch Songs:                         0.1 : 5
-Searching:                           0.1 : 5
+Delicate:                            0.825 : 8
+Intimate:                            0.825 : 8
+Reflection:                          0.825 : 8
+Reminiscing:                         0.825 : 8
+Vocal Pop:                           0.75 : 7
+Gentle:                              0.75 : 7
+Poignant:                            0.75 : 7
+Restrained:                          0.75 : 7
+Romantic:                            0.75 : 7
+Smooth:                              0.75 : 7
+Slow Dance:                          0.75 : 7
+Solitude:                            0.75 : 7
+Vocal Jazz:                          0.675 : 6
+Earnest:                             0.675 : 6
+Lush:                                0.675 : 6
+Reflective:                          0.675 : 6
+Wistful:                             0.675 : 6
+Big Band:                            0.6 : 5
+Standards:                           0.6 : 5
+Torch Songs:                         0.6 : 5
+Searching:                           0.6 : 5

@@ -7,7 +7,7 @@ Sophisticated:                       0.9 : 8
 Spiritual:                           0.9 : 8
 Urgent:                              0.9 : 8
 Visceral:                            0.9 : 8
-Confident:                           0.1 : 5
-Dramatic:                            0.1 : 5
-Fiery:                               0.1 : 5
-Freewheeling:                        0.1 : 5
+Confident:                           0.6 : 5
+Dramatic:                            0.6 : 5
+Fiery:                               0.6 : 5
+Freewheeling:                        0.6 : 5

@@ -22,5 +22,5 @@ Sweet:                               0.9 : 9
 Affection/Fondness:                  0.9 : 9
 In Love:                             0.9 : 9
 New Love:                            0.9 : 9
-Contemporary Country:                0.7000000000000001 : 8
-Wedding:                             0.1 : 5
+Contemporary Country:                0.8250000000000001 : 8
+Wedding:                             0.6 : 5

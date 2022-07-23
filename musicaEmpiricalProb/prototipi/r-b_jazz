@@ -20,6 +20,8 @@ T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
 T(modifier), Playful_mood, 0.8432432432432433, 31
 T(modifier), Lively, 0.8351351351351353, 30
 
+T(head), -Atmospheric, 0.9, 43
+T(head), -The Creative Side, 0.9, 43
 T(head), Soul, 0.9, 21
 T(head), Playful_mood, 0.855, 18
 T(head), Energetic, 0.855, 18
@@ -27,5 +29,3 @@ T(head), Partying, 0.855, 18
 T(head), Warm, 0.855, 18
 T(head), Smooth, 0.855, 18
 
-
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 5.240069138906349

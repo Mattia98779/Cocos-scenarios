@@ -23,5 +23,5 @@ Meditation:                          0.9 : 9
 Reflection:                          0.9 : 9
 Relaxation:                          0.9 : 9
 The Creative Side:                   0.9 : 9
-Mixed Media:                         0.1 : 8
-Detached:                            0.1 : 8
+Mixed Media:                         0.6 : 8
+Detached:                            0.6 : 8

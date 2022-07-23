@@ -20,6 +20,8 @@ T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
 T(modifier), Playful_mood, 0.8432432432432433, 31
 T(modifier), Lively, 0.8351351351351353, 30
 
+T(head), -Playful_mood, 0.9, 13
+T(head), -Amiable/Good-Natured, 0.9, 13
 T(head), The Creative Side, 0.9, 6
 T(head), Cerebral, 0.84, 5
 T(head), Uncompromising, 0.78, 4
@@ -27,5 +29,3 @@ T(head), Provocative, 0.78, 4
 T(head), Revolutionary, 0.78, 4
 T(head), Modern Composition, 0.78, 4
 
-
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 14.237920997921002
