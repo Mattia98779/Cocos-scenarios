@@ -11,10 +11,10 @@ Modifier Concept Count : 32
 
 
 
+modifier, -Earthy
+modifier, -Sophisticated
 
 
-T(modifier), -Earthy, 0.9, 32
-T(modifier), -Sophisticated, 0.9, 32
 T(modifier), Brash, 0.9, 26
 T(modifier), Street-Smart, 0.864, 23
 T(modifier), Confident, 0.8400000000000001, 21
@@ -29,3 +29,5 @@ T(head), Amiable/Good-Natured, 0.8432432432432433, 31
 T(head), Playful_mood, 0.8432432432432433, 31
 T(head), Lively, 0.8351351351351353, 30
 
+
+Result : '1', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', 4.689103603603605

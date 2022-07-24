@@ -11,10 +11,10 @@ Modifier Concept Count : 13
 
 
 
+modifier, -Playful_mood
+modifier, -Amiable/Good-Natured
 
 
-T(modifier), -Playful_mood, 0.9, 13
-T(modifier), -Amiable/Good-Natured, 0.9, 13
 T(modifier), The Creative Side, 0.9, 6
 T(modifier), Cerebral, 0.84, 5
 T(modifier), Uncompromising, 0.78, 4
@@ -29,3 +29,5 @@ T(head), Amiable/Good-Natured, 0.8432432432432433, 31
 T(head), Playful_mood, 0.8432432432432433, 31
 T(head), Lively, 0.8351351351351353, 30
 
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '0', '0', '1', 3.869391891891892

@@ -49,16 +49,19 @@ def getProperties(file):
                 list_typical.append(p)
                 l_t.append(line.split(':')[0])
 
-    list_negative = []
+    list_negative_r = []
     for n in all_attributes:
         if (n[0] not in l_t) and (n[0] not in list_rigid):
-            list_negative.append(n)
+            list_negative_r.append(n)
+    for n_p in list_negative_r[:2]:
+        list_rigid.append("-"+n_p[0])
 
-    return list_rigid, list_typical, nCanzoni, list_negative
+
+    return list_rigid, list_typical, nCanzoni
 
 def createFileForCocos(head, modifier):
-    list_head_rigid, list_head_typical, nCanzoniHead, list_head_negative = getProperties('./genres/' + head)
-    list_modifier_rigid, list_modifier_typical, nCanzoniModifier, list_modifier_negative = getProperties('./genres/' + modifier)
+    list_head_rigid, list_head_typical, nCanzoniHead = getProperties('./genres/' + head)
+    list_modifier_rigid, list_modifier_typical, nCanzoniModifier = getProperties('./genres/' + modifier)
     list_modifier_typical = list_modifier_typical[:6]
     list_head_typical = list_head_typical[:6]
     head = head.replace(".txt", "")
@@ -86,19 +89,12 @@ def createFileForCocos(head, modifier):
     f.write("\n\n")
 
 
-
-
-
     # Properietà Deboli
-    for n in list_modifier_negative[:2]:
-        f.write("T(modifier), " + "-"+n[0] + ", " + '0.9' +", "+ str(nCanzoniModifier)+ "\n")
-
     for i in range(len(list_modifier_typical)):
         f.write("T(modifier), " + list_modifier_typical[i].name + ", " + str(list_modifier_typical[i].prob) +", "+ str(list_modifier_typical[i].nItem)+ "\n")
     f.write("\n")
 
-    for n in list_head_negative[:2]:
-        f.write("T(head), " + "-"+n[0] + ", " + '0.9' +", "+ str(nCanzoniHead)+ "\n")
+
     for i in range(len(list_head_typical)):
         f.write("T(head), " + list_head_typical[i].name + ", " + str(list_head_typical[i].prob) + ", "+str(list_head_typical[i].nItem) +"\n")
     f.write("\n")

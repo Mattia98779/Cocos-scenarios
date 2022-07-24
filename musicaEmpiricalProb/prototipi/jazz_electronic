@@ -11,10 +11,10 @@ Modifier Concept Count : 38
 
 
 
+modifier, -Earthy
+modifier, -Passionate
 
 
-T(modifier), -Earthy, 0.9, 38
-T(modifier), -Passionate, 0.9, 38
 T(modifier), Hypnotic, 0.9, 27
 T(modifier), Electronica, 0.8538461538461538, 23
 T(modifier), Trippy, 0.8538461538461538, 23
@@ -29,3 +29,5 @@ T(head), Amiable/Good-Natured, 0.8432432432432433, 31
 T(head), Playful_mood, 0.8432432432432433, 31
 T(head), Lively, 0.8351351351351353, 30
 
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 4.935966735966737

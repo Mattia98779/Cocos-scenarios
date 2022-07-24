@@ -9,12 +9,14 @@ Head Concept Count : 45
 Modifier Concept Name : latin
 Modifier Concept Count : 5
 
+head, -Soothing
+head, -Relaxation
 
 
+modifier, -Playful_mood
+modifier, -Amiable/Good-Natured
 
 
-T(modifier), -Playful_mood, 0.9, 5
-T(modifier), -Amiable/Good-Natured, 0.9, 5
 T(modifier), Rousing, 0.9, 3
 T(modifier), Romantic, 0.9, 3
 T(modifier), Latin Pop, 0.75, 2
@@ -22,8 +24,6 @@ T(modifier), Celebration, 0.75, 2
 T(modifier), Yearning, 0.75, 2
 T(modifier), In Love, 0.75, 2
 
-T(head), -Soothing, 0.9, 45
-T(head), -Relaxation, 0.9, 45
 T(head), Rousing, 0.9, 30
 T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(head), Album Rock, 0.8172413793103448, 22
@@ -31,3 +31,5 @@ T(head), Confident, 0.8172413793103448, 22
 T(head), Energetic, 0.8172413793103448, 22
 T(head), Cool & Cocky, 0.806896551724138, 21
 
+
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 3.5212260536398468

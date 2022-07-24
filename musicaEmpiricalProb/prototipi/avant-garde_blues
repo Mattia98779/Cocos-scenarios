@@ -1,9 +1,9 @@
 #Title composizione
-Title : latin#blues
+Title : avant-garde#blues
 
 #Concetto Principale
-Head Concept Name : latin
-Head Concept Count : 5
+Head Concept Name : avant-garde
+Head Concept Count : 13
 
 #Concetto Modificatore
 Modifier Concept Name : blues
@@ -24,12 +24,12 @@ T(modifier), Passionate, 0.8153846153846154, 29
 T(modifier), Late Night, 0.8153846153846154, 29
 T(modifier), Hanging Out, 0.7615384615384615, 22
 
-T(head), Rousing, 0.9, 3
-T(head), Romantic, 0.9, 3
-T(head), Latin Pop, 0.75, 2
-T(head), Celebration, 0.75, 2
-T(head), Yearning, 0.75, 2
-T(head), In Love, 0.75, 2
+T(head), The Creative Side, 0.9, 6
+T(head), Cerebral, 0.84, 5
+T(head), Uncompromising, 0.78, 4
+T(head), Provocative, 0.78, 4
+T(head), Revolutionary, 0.78, 4
+T(head), Modern Composition, 0.78, 4
 
 
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 33.59076923076924
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 13.71337278106509

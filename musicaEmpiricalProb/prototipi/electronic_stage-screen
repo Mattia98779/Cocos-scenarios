@@ -9,12 +9,14 @@ Head Concept Count : 38
 Modifier Concept Name : stage-screen
 Modifier Concept Count : 18
 
+head, -Earthy
+head, -Passionate
 
 
+modifier, -Amiable/Good-Natured
+modifier, -Soothing
 
 
-T(modifier), -Amiable/Good-Natured, 0.9, 18
-T(modifier), -Soothing, 0.9, 18
 T(modifier), Soundtracks, 0.9, 13
 T(modifier), Dramatic, 0.875, 12
 T(modifier), Original Score, 0.8500000000000001, 11
@@ -22,8 +24,6 @@ T(modifier), Theatrical, 0.825, 10
 T(modifier), Film Music, 0.7999999999999999, 9
 T(modifier), Rousing, 0.75, 7
 
-T(head), -Earthy, 0.9, 38
-T(head), -Passionate, 0.9, 38
 T(head), Hypnotic, 0.9, 27
 T(head), Electronica, 0.8538461538461538, 23
 T(head), Trippy, 0.8538461538461538, 23
@@ -31,3 +31,5 @@ T(head), Techno, 0.8307692307692307, 21
 T(head), Late Night, 0.8192307692307692, 20
 T(head), Club/Dance, 0.7961538461538461, 18
 
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 4.190182186234817

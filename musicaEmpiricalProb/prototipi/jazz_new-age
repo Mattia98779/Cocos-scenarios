@@ -11,10 +11,10 @@ Modifier Concept Count : 48
 
 
 
+modifier, -Confident
+modifier, -Hanging Out
 
 
-T(modifier), -Confident, 0.9, 48
-T(modifier), -Hanging Out, 0.9, 48
 T(modifier), Reflection, 0.9, 29
 T(modifier), Soothing, 0.8892857142857142, 28
 T(modifier), Introspection, 0.8892857142857142, 28
@@ -29,3 +29,5 @@ T(head), Amiable/Good-Natured, 0.8432432432432433, 31
 T(head), Playful_mood, 0.8432432432432433, 31
 T(head), Lively, 0.8351351351351353, 30
 
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '0', '1', '0', '0', 4.963300353925354

@@ -9,12 +9,14 @@ Head Concept Count : 43
 Modifier Concept Name : classical
 Modifier Concept Count : 7
 
+head, -Earthy
+head, -Freedom
 
 
+modifier, -Hanging Out
+modifier, -Lively
 
 
-T(modifier), -Hanging Out, 0.9, 7
-T(modifier), -Lively, 0.9, 7
 T(modifier), Sentimental, 0.9, 4
 T(modifier), Confident, 0.9, 4
 T(modifier), Classical Crossover, 0.8, 3
@@ -22,8 +24,6 @@ T(modifier), Melancholy, 0.8, 3
 T(modifier), Sensual, 0.8, 3
 T(modifier), Complex, 0.8, 3
 
-T(head), -Earthy, 0.9, 43
-T(head), -Freedom, 0.9, 43
 T(head), Dinner Ambiance, 0.9, 27
 T(head), Amiable/Good-Natured, 0.8884615384615384, 26
 T(head), Relaxation, 0.8653846153846154, 24
@@ -31,3 +31,5 @@ T(head), Soothing, 0.8653846153846154, 24
 T(head), Sophisticated, 0.8538461538461539, 23
 T(head), Refined, 0.8307692307692308, 21
 
+
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 3.756529516994633

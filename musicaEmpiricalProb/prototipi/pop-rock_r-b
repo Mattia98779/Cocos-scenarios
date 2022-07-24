@@ -9,12 +9,14 @@ Head Concept Count : 45
 Modifier Concept Name : r-b
 Modifier Concept Count : 43
 
+head, -Soothing
+head, -Relaxation
 
 
+modifier, -Atmospheric
+modifier, -The Creative Side
 
 
-T(modifier), -Atmospheric, 0.9, 43
-T(modifier), -The Creative Side, 0.9, 43
 T(modifier), Soul, 0.9, 21
 T(modifier), Playful_mood, 0.855, 18
 T(modifier), Energetic, 0.855, 18
@@ -22,8 +24,6 @@ T(modifier), Partying, 0.855, 18
 T(modifier), Warm, 0.855, 18
 T(modifier), Smooth, 0.855, 18
 
-T(head), -Soothing, 0.9, 45
-T(head), -Relaxation, 0.9, 45
 T(head), Rousing, 0.9, 30
 T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(head), Album Rock, 0.8172413793103448, 22
@@ -31,3 +31,5 @@ T(head), Confident, 0.8172413793103448, 22
 T(head), Energetic, 0.8172413793103448, 22
 T(head), Cool & Cocky, 0.806896551724138, 21
 
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 4.120114942528736

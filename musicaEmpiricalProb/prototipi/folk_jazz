@@ -9,6 +9,8 @@ Head Concept Count : 47
 Modifier Concept Name : jazz
 Modifier Concept Count : 48
 
+head, -Boisterous
+head, -Partying
 
 
 
@@ -20,8 +22,6 @@ T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
 T(modifier), Playful_mood, 0.8432432432432433, 31
 T(modifier), Lively, 0.8351351351351353, 30
 
-T(head), -Boisterous, 0.9, 47
-T(head), -Partying, 0.9, 47
 T(head), Earthy, 0.9, 30
 T(head), Poignant, 0.8896551724137931, 29
 T(head), Earnest, 0.8896551724137931, 29
@@ -29,3 +29,5 @@ T(head), Bittersweet, 0.8482758620689655, 25
 T(head), Reflective, 0.8172413793103448, 22
 T(head), Plaintive, 0.806896551724138, 21
 
+
+Result : '1', '1', '0', '1', '0', '0', '1', '1', '1', '0', '0', '0', 5.14833336638179

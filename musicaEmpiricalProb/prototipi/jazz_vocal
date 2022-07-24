@@ -11,10 +11,10 @@ Modifier Concept Count : 49
 
 
 
+modifier, -The Creative Side
+modifier, -Street-Smart
 
 
-T(modifier), -The Creative Side, 0.9, 49
-T(modifier), -Street-Smart, 0.9, 49
 T(modifier), Traditional Pop, 0.9, 47
 T(modifier), Vocal Pop, 0.8478260869565217, 39
 T(modifier), Refined, 0.7630434782608696, 26
@@ -29,3 +29,5 @@ T(head), Amiable/Good-Natured, 0.8432432432432433, 31
 T(head), Playful_mood, 0.8432432432432433, 31
 T(head), Lively, 0.8351351351351353, 30
 
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '0', '1', '0', 5.695223756365061

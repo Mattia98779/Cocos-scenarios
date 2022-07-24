@@ -9,12 +9,14 @@ Head Concept Count : 7
 Modifier Concept Name : r-b
 Modifier Concept Count : 43
 
+head, -Hanging Out
+head, -Lively
 
 
+modifier, -Atmospheric
+modifier, -The Creative Side
 
 
-T(modifier), -Atmospheric, 0.9, 43
-T(modifier), -The Creative Side, 0.9, 43
 T(modifier), Soul, 0.9, 21
 T(modifier), Playful_mood, 0.855, 18
 T(modifier), Energetic, 0.855, 18
@@ -22,8 +24,6 @@ T(modifier), Partying, 0.855, 18
 T(modifier), Warm, 0.855, 18
 T(modifier), Smooth, 0.855, 18
 
-T(head), -Hanging Out, 0.9, 7
-T(head), -Lively, 0.9, 7
 T(head), Sentimental, 0.9, 4
 T(head), Confident, 0.9, 4
 T(head), Classical Crossover, 0.8, 3
@@ -31,3 +31,5 @@ T(head), Melancholy, 0.8, 3
 T(head), Sensual, 0.8, 3
 T(head), Complex, 0.8, 3
 
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 15.149999999999999

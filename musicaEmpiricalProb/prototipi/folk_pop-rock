@@ -9,12 +9,14 @@ Head Concept Count : 47
 Modifier Concept Name : pop-rock
 Modifier Concept Count : 45
 
+head, -Boisterous
+head, -Partying
 
 
+modifier, -Soothing
+modifier, -Relaxation
 
 
-T(modifier), -Soothing, 0.9, 45
-T(modifier), -Relaxation, 0.9, 45
 T(modifier), Rousing, 0.9, 30
 T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(modifier), Album Rock, 0.8172413793103448, 22
@@ -22,8 +24,6 @@ T(modifier), Confident, 0.8172413793103448, 22
 T(modifier), Energetic, 0.8172413793103448, 22
 T(modifier), Cool & Cocky, 0.806896551724138, 21
 
-T(head), -Boisterous, 0.9, 47
-T(head), -Partying, 0.9, 47
 T(head), Earthy, 0.9, 30
 T(head), Poignant, 0.8896551724137931, 29
 T(head), Earnest, 0.8896551724137931, 29
@@ -31,3 +31,5 @@ T(head), Bittersweet, 0.8482758620689655, 25
 T(head), Reflective, 0.8172413793103448, 22
 T(head), Plaintive, 0.806896551724138, 21
 
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 4.711958914159942

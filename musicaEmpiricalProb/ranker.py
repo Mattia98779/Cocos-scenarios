@@ -222,6 +222,50 @@ def statisticheClassifica(allClassifica):
     plt.title("n Attributes per canzone")
     plt.show()
 
+    scoreMaggioreZeroCont = {}
+    for c in allClassifica[0][1]:
+        if c[1]>0:
+            scoreMaggioreZeroCont[c[0]] = 0
+        else:
+            scoreMaggioreZeroCont[c[0]] = 1
+    for clas in allClassifica[1:]:
+        for c in clas[1]:
+            app = scoreMaggioreZeroCont[c[0]]
+            if c[1]>0 :
+                app=app+1
+            scoreMaggioreZeroCont[c[0]] = app
+
+    plt.clf()
+    scoreMaggioreZeroCont = dict(
+        sorted(scoreMaggioreZeroCont.items(), key=lambda item: item[1], reverse=True))
+    labels = []
+    for k in scoreMaggioreZeroCont:
+        labels.append(k.title)
+    valori = list(scoreMaggioreZeroCont.values())
+    plt.bar(range(len(scoreMaggioreZeroCont)), valori, tick_label=labels)
+    plt.title("conteggio score maggiore 0 per canzone")
+    plt.show()
+
+    nCanzoniPerClassifica = {}
+    for c in allClassifica:
+        n = 0
+        for s in c[1]:
+            if s[1]>0:
+                n=n+1
+        nCanzoniPerClassifica[c[0].name] = n
+    plt.clf()
+    nCanzoniPerClassifica = dict(
+        sorted(nCanzoniPerClassifica.items(), key=lambda item: item[1], reverse=True))
+    labels = []
+    for k in nCanzoniPerClassifica:
+        labels.append(k)
+    valori = list(nCanzoniPerClassifica.values())
+    plt.bar(range(len(nCanzoniPerClassifica)), valori, tick_label=labels)
+    plt.title("n canzoni score maggiore 0 per prototipo")
+    plt.show()
+
+
+
     print("!")
 
 def scriviJson(toWrite):
@@ -255,6 +299,6 @@ if __name__ == '__main__':
     print("FINE CLASSIFICA")
     statistichePrototipi(listaProt)
     statisticheClassifica(allClassifiche)
-    scriviJson(allClassifiche)
+    #scriviJson(allClassifiche)
     print("FINE STATISTICHE")
     print("!")

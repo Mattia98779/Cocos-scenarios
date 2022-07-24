@@ -9,12 +9,14 @@ Head Concept Count : 24
 Modifier Concept Name : latin
 Modifier Concept Count : 5
 
+head, -Earthy
+head, -Late Night
 
 
+modifier, -Playful_mood
+modifier, -Amiable/Good-Natured
 
 
-T(modifier), -Playful_mood, 0.9, 5
-T(modifier), -Amiable/Good-Natured, 0.9, 5
 T(modifier), Rousing, 0.9, 3
 T(modifier), Romantic, 0.9, 3
 T(modifier), Latin Pop, 0.75, 2
@@ -22,8 +24,6 @@ T(modifier), Celebration, 0.75, 2
 T(modifier), Yearning, 0.75, 2
 T(modifier), In Love, 0.75, 2
 
-T(head), -Earthy, 0.9, 24
-T(head), -Late Night, 0.9, 24
 T(head), Comedy, 0.9, 20
 T(head), Playful_mood, 0.868421052631579, 18
 T(head), Humorous, 0.8526315789473684, 17
@@ -31,3 +31,5 @@ T(head), Playful, 0.8526315789473684, 17
 T(head), The Creative Side, 0.8368421052631579, 16
 T(head), Irreverent, 0.8210526315789474, 15
 
+
+Result : '0', '1', '0', '0', '0', '0', '1', '0', '1', '1', '1', '1', 4.335964912280701

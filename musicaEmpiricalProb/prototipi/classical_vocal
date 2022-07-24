@@ -9,12 +9,14 @@ Head Concept Count : 7
 Modifier Concept Name : vocal
 Modifier Concept Count : 49
 
+head, -Hanging Out
+head, -Lively
 
 
+modifier, -The Creative Side
+modifier, -Street-Smart
 
 
-T(modifier), -The Creative Side, 0.9, 49
-T(modifier), -Street-Smart, 0.9, 49
 T(modifier), Traditional Pop, 0.9, 47
 T(modifier), Vocal Pop, 0.8478260869565217, 39
 T(modifier), Refined, 0.7630434782608696, 26
@@ -22,8 +24,6 @@ T(modifier), Sentimental, 0.7630434782608696, 26
 T(modifier), Romantic, 0.75, 24
 T(modifier), Sweet, 0.7434782608695653, 23
 
-T(head), -Hanging Out, 0.9, 7
-T(head), -Lively, 0.9, 7
 T(head), Sentimental, 0.9, 4
 T(head), Confident, 0.9, 4
 T(head), Classical Crossover, 0.8, 3
@@ -31,3 +31,5 @@ T(head), Melancholy, 0.8, 3
 T(head), Sensual, 0.8, 3
 T(head), Complex, 0.8, 3
 
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 22.906211180124224

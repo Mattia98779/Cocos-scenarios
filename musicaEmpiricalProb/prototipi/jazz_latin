@@ -11,10 +11,10 @@ Modifier Concept Count : 5
 
 
 
+modifier, -Playful_mood
+modifier, -Amiable/Good-Natured
 
 
-T(modifier), -Playful_mood, 0.9, 5
-T(modifier), -Amiable/Good-Natured, 0.9, 5
 T(modifier), Rousing, 0.9, 3
 T(modifier), Romantic, 0.9, 3
 T(modifier), Latin Pop, 0.75, 2
@@ -29,3 +29,5 @@ T(head), Amiable/Good-Natured, 0.8432432432432433, 31
 T(head), Playful_mood, 0.8432432432432433, 31
 T(head), Lively, 0.8351351351351353, 30
 
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '0', '0', '1', 3.7502252252252255

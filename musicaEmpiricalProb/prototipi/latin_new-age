@@ -9,12 +9,14 @@ Head Concept Count : 5
 Modifier Concept Name : new-age
 Modifier Concept Count : 48
 
+head, -Playful_mood
+head, -Amiable/Good-Natured
 
 
+modifier, -Confident
+modifier, -Hanging Out
 
 
-T(modifier), -Confident, 0.9, 48
-T(modifier), -Hanging Out, 0.9, 48
 T(modifier), Reflection, 0.9, 29
 T(modifier), Soothing, 0.8892857142857142, 28
 T(modifier), Introspection, 0.8892857142857142, 28
@@ -22,8 +24,6 @@ T(modifier), Hypnotic, 0.8785714285714286, 27
 T(modifier), Reflective, 0.8785714285714286, 27
 T(modifier), Relaxation, 0.8785714285714286, 27
 
-T(head), -Playful_mood, 0.9, 5
-T(head), -Amiable/Good-Natured, 0.9, 5
 T(head), Rousing, 0.9, 3
 T(head), Romantic, 0.9, 3
 T(head), Latin Pop, 0.75, 2
@@ -31,3 +31,5 @@ T(head), Celebration, 0.75, 2
 T(head), Yearning, 0.75, 2
 T(head), In Love, 0.75, 2
 
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 30.93285714285714

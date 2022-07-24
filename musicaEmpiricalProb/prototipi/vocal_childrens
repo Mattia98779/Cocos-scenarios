@@ -9,12 +9,14 @@ Head Concept Count : 49
 Modifier Concept Name : childrens
 Modifier Concept Count : 23
 
+head, -The Creative Side
+head, -Street-Smart
 
 
+modifier, -Reflective
+modifier, -Dramatic
 
 
-T(modifier), -Reflective, 0.9, 23
-T(modifier), -Dramatic, 0.9, 23
 T(modifier), Hanging Out, 0.9, 22
 T(modifier), Playful, 0.9, 22
 T(modifier), Fun, 0.8857142857142857, 21
@@ -22,8 +24,6 @@ T(modifier), Sing-Alongs, 0.8714285714285714, 20
 T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
 T(modifier), Playful_mood, 0.8714285714285714, 20
 
-T(head), -The Creative Side, 0.9, 49
-T(head), -Street-Smart, 0.9, 49
 T(head), Traditional Pop, 0.9, 47
 T(head), Vocal Pop, 0.8478260869565217, 39
 T(head), Refined, 0.7630434782608696, 26
@@ -31,3 +31,5 @@ T(head), Sentimental, 0.7630434782608696, 26
 T(head), Romantic, 0.75, 24
 T(head), Sweet, 0.7434782608695653, 23
 
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 4.68078336924832

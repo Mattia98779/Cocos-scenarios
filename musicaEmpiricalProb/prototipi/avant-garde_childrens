@@ -1,16 +1,16 @@
 #Title composizione
-Title : rap#childrens
+Title : avant-garde#childrens
 
 #Concetto Principale
-Head Concept Name : rap
-Head Concept Count : 32
+Head Concept Name : avant-garde
+Head Concept Count : 13
 
 #Concetto Modificatore
 Modifier Concept Name : childrens
 Modifier Concept Count : 23
 
-head, -Earthy
-head, -Sophisticated
+head, -Playful_mood
+head, -Amiable/Good-Natured
 
 
 modifier, -Reflective
@@ -24,12 +24,12 @@ T(modifier), Sing-Alongs, 0.8714285714285714, 20
 T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
 T(modifier), Playful_mood, 0.8714285714285714, 20
 
-T(head), Brash, 0.9, 26
-T(head), Street-Smart, 0.864, 23
-T(head), Confident, 0.8400000000000001, 21
-T(head), Partying, 0.8400000000000001, 21
-T(head), East Coast Rap, 0.804, 18
-T(head), Swaggering, 0.804, 18
+T(head), The Creative Side, 0.9, 6
+T(head), Cerebral, 0.84, 5
+T(head), Uncompromising, 0.78, 4
+T(head), Provocative, 0.78, 4
+T(head), Revolutionary, 0.78, 4
+T(head), Modern Composition, 0.78, 4
 
 
-Result : '1', '1', '1', '0', '0', '1', '1', '1', '0', '0', '0', '0', 5.30685714285714
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 8.222417582417584
