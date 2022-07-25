@@ -9,27 +9,23 @@ Head Concept Count : 7
 Modifier Concept Name : international
 Modifier Concept Count : 3
 
-head, -Hanging Out
-head, -Lively
 
 
-modifier, -Earnest
-modifier, -Reflective
 
 
+T(modifier), -Playful, 0.9, 2
+T(modifier), -TGIF, 0.9, 2
 T(modifier), Stylish, 0.9, 2
 T(modifier), Boisterous, 0.9, 2
 T(modifier), Exuberant, 0.9, 2
 T(modifier), Yearning, 0.9, 2
-T(modifier), European Folk, 0.6, 1
-T(modifier), Fado, 0.6, 1
 
+T(head), -Wistful, 0.9, 6
+T(head), -Tender, 0.9, 6
 T(head), Sentimental, 0.9, 4
 T(head), Confident, 0.9, 4
 T(head), Classical Crossover, 0.8, 3
 T(head), Melancholy, 0.8, 3
-T(head), Sensual, 0.8, 3
-T(head), Complex, 0.8, 3
 
 
-Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 3.6
+Result : '0', '0', '0', '1', '0', '0', '1', '1', '1', '1', '1', '0', 4.399999999999999

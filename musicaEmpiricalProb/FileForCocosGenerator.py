@@ -27,7 +27,7 @@ class Property:
         self.prob = prob
         self.nItem = nItem
 
-def getProperties(file):
+def getProperties(file, con_negative_rigide=False, con_negative_tipiche=False):
     l_t = []
     list_rigid = []
     list_typical = []
@@ -49,19 +49,30 @@ def getProperties(file):
                 list_typical.append(p)
                 l_t.append(line.split(':')[0])
 
-    list_negative_r = []
-    for n in all_attributes:
-        if (n[0] not in l_t) and (n[0] not in list_rigid):
-            list_negative_r.append(n)
-    for n_p in list_negative_r[:2]:
-        list_rigid.append("-"+n_p[0])
+    if con_negative_rigide:
+        list_negative_r = []
+        for n in all_attributes:
+            if (n[0] not in l_t) and (n[0] not in list_rigid):
+                list_negative_r.append(n)
+        for n_p in list_negative_r[:2]:
+            list_rigid.append("-"+n_p[0])
+
+    if con_negative_tipiche:
+        last = list_typical[-2:]
+        list_typical=list_typical[:-2]
+        for el in last:
+            p = Property("-"+el.name, 0.9, nCanzoni-1)
+            list_typical.insert(0,p)
+
+
+
 
 
     return list_rigid, list_typical, nCanzoni
 
 def createFileForCocos(head, modifier):
-    list_head_rigid, list_head_typical, nCanzoniHead = getProperties('./genres/' + head)
-    list_modifier_rigid, list_modifier_typical, nCanzoniModifier = getProperties('./genres/' + modifier)
+    list_head_rigid, list_head_typical, nCanzoniHead = getProperties('./genres/' + head, con_negative_tipiche=True)
+    list_modifier_rigid, list_modifier_typical, nCanzoniModifier = getProperties('./genres/' + modifier, con_negative_tipiche=True)
     list_modifier_typical = list_modifier_typical[:6]
     list_head_typical = list_head_typical[:6]
     head = head.replace(".txt", "")

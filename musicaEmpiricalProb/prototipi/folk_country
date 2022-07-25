@@ -9,27 +9,23 @@ Head Concept Count : 47
 Modifier Concept Name : country
 Modifier Concept Count : 49
 
-head, -Boisterous
-head, -Partying
 
 
-modifier, -The Creative Side
-modifier, -Intense
 
 
+T(modifier), -Sardonic, 0.9, 48
+T(modifier), -Housework, 0.9, 48
 T(modifier), Traditional Country, 0.9, 33
 T(modifier), Earthy, 0.890625, 32
 T(modifier), Earnest, 0.8625, 29
 T(modifier), Reflective, 0.84375, 27
-T(modifier), Plaintive, 0.815625, 24
-T(modifier), Amiable/Good-Natured, 0.80625, 23
 
+T(head), -Guys Night Out, 0.9, 46
+T(head), -Mischievous, 0.9, 46
 T(head), Earthy, 0.9, 30
 T(head), Poignant, 0.8896551724137931, 29
 T(head), Earnest, 0.8896551724137931, 29
 T(head), Bittersweet, 0.8482758620689655, 25
-T(head), Reflective, 0.8172413793103448, 22
-T(head), Plaintive, 0.806896551724138, 21
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 4.974073734409392
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.293603264856935

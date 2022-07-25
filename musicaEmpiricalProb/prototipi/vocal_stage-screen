@@ -9,27 +9,23 @@ Head Concept Count : 49
 Modifier Concept Name : stage-screen
 Modifier Concept Count : 18
 
-head, -The Creative Side
-head, -Street-Smart
 
 
-modifier, -Amiable/Good-Natured
-modifier, -Soothing
 
 
+T(modifier), -Introspection, 0.9, 17
+T(modifier), -Rainy Day, 0.9, 17
 T(modifier), Soundtracks, 0.9, 13
 T(modifier), Dramatic, 0.875, 12
 T(modifier), Original Score, 0.8500000000000001, 11
 T(modifier), Theatrical, 0.825, 10
-T(modifier), Film Music, 0.7999999999999999, 9
-T(modifier), Rousing, 0.75, 7
 
+T(head), -Jazz Instrument, 0.9, 48
+T(head), -Guitar Jazz, 0.9, 48
 T(head), Traditional Pop, 0.9, 47
 T(head), Vocal Pop, 0.8478260869565217, 39
 T(head), Refined, 0.7630434782608696, 26
 T(head), Sentimental, 0.7630434782608696, 26
-T(head), Romantic, 0.75, 24
-T(head), Sweet, 0.7434782608695653, 23
 
 
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 4.246805678793256
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.305412599822539

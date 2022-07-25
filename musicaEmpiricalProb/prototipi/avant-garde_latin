@@ -9,27 +9,23 @@ Head Concept Count : 13
 Modifier Concept Name : latin
 Modifier Concept Count : 5
 
-head, -Playful_mood
-head, -Amiable/Good-Natured
 
 
-modifier, -Playful_mood
-modifier, -Amiable/Good-Natured
 
 
+T(modifier), -Summer, 0.9, 4
+T(modifier), -Partying, 0.9, 4
 T(modifier), Rousing, 0.9, 3
 T(modifier), Romantic, 0.9, 3
 T(modifier), Latin Pop, 0.75, 2
 T(modifier), Celebration, 0.75, 2
-T(modifier), Yearning, 0.75, 2
-T(modifier), In Love, 0.75, 2
 
+T(head), -Freedom, 0.9, 12
+T(head), -Dramatic, 0.9, 12
 T(head), The Creative Side, 0.9, 6
 T(head), Cerebral, 0.84, 5
 T(head), Uncompromising, 0.78, 4
 T(head), Provocative, 0.78, 4
-T(head), Revolutionary, 0.78, 4
-T(head), Modern Composition, 0.78, 4
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '0', '1', '0', '1', 2.923076923076924
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 4.212307692307692

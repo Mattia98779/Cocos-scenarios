@@ -9,27 +9,23 @@ Head Concept Count : 7
 Modifier Concept Name : folk
 Modifier Concept Count : 47
 
-head, -Hanging Out
-head, -Lively
 
 
-modifier, -Boisterous
-modifier, -Partying
 
 
+T(modifier), -Guys Night Out, 0.9, 46
+T(modifier), -Mischievous, 0.9, 46
 T(modifier), Earthy, 0.9, 30
 T(modifier), Poignant, 0.8896551724137931, 29
 T(modifier), Earnest, 0.8896551724137931, 29
 T(modifier), Bittersweet, 0.8482758620689655, 25
-T(modifier), Reflective, 0.8172413793103448, 22
-T(modifier), Plaintive, 0.806896551724138, 21
 
+T(head), -Wistful, 0.9, 6
+T(head), -Tender, 0.9, 6
 T(head), Sentimental, 0.9, 4
 T(head), Confident, 0.9, 4
 T(head), Classical Crossover, 0.8, 3
 T(head), Melancholy, 0.8, 3
-T(head), Sensual, 0.8, 3
-T(head), Complex, 0.8, 3
 
 
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 20.704433497536947
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 27.54384236453202

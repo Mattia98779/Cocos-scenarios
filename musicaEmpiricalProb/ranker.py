@@ -118,7 +118,12 @@ def score(prototipo, canzone):
                     punteggio = punteggio + 1 * float(canzone.attributes[t[1]][0]) * float(t[3] / prototipo.nHead)
                     inComune.append(t[1])
             else:
-                punteggio = punteggio - 1
+                if t[0] == "T(modifier)":
+                    punteggio = punteggio - 1 * float(canzone.attributes[t[1]][0]) * float(t[3] / prototipo.nMod)
+                    inComune.append(t[1])
+                else:
+                    punteggio = punteggio - 1 * float(canzone.attributes[t[1]][0]) * float(t[3] / prototipo.nHead)
+                    inComune.append(t[1])
     return punteggio, inComune
 
 def classifica(protipo, canzoni):
@@ -254,8 +259,8 @@ def statisticheClassifica(allClassifica):
                 n=n+1
         nCanzoniPerClassifica[c[0].name] = n
     plt.clf()
-    nCanzoniPerClassifica = dict(
-        sorted(nCanzoniPerClassifica.items(), key=lambda item: item[1], reverse=True))
+   # nCanzoniPerClassifica = dict(
+   #     sorted(nCanzoniPerClassifica.items(), key=lambda item: item[0], reverse=True))
     labels = []
     for k in nCanzoniPerClassifica:
         labels.append(k)
@@ -264,7 +269,25 @@ def statisticheClassifica(allClassifica):
     plt.title("n canzoni score maggiore 0 per prototipo")
     plt.show()
 
-
+    nCanzoniAppartenentiAiGeneriBase = {}
+    for c in allClassifica:
+        n = 0
+        g1 = c[0].name.split("#")[0]
+        g2 = c[0].name.split("#")[1]
+        for s in c[1]:
+            if s[0].genre==g1 or s[0].genre==g2 and s[1]>0:
+                n = n + 1
+        nCanzoniAppartenentiAiGeneriBase[c[0].name] = n
+    plt.clf()
+    #nCanzoniAppartenentiAiGeneriBase = dict(
+    #    sorted( nCanzoniAppartenentiAiGeneriBase.items(), key=lambda item: item[0], reverse=True))
+    labels = []
+    for k in  nCanzoniAppartenentiAiGeneriBase:
+        labels.append(k)
+    valori = list( nCanzoniAppartenentiAiGeneriBase.values())
+    plt.bar(range(len( nCanzoniAppartenentiAiGeneriBase)), valori, tick_label=labels)
+    plt.title("n canzoni appartenenti ai generi di base")
+    plt.show()
 
     print("!")
 

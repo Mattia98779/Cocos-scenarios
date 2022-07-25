@@ -9,27 +9,23 @@ Head Concept Count : 32
 Modifier Concept Name : comedy-spoken
 Modifier Concept Count : 24
 
-head, -Earthy
-head, -Sophisticated
 
 
-modifier, -Earthy
-modifier, -Late Night
 
 
+T(modifier), -Uplifting, 0.9, 23
+T(modifier), -Happy, 0.9, 23
 T(modifier), Comedy, 0.9, 20
 T(modifier), Playful_mood, 0.868421052631579, 18
 T(modifier), Humorous, 0.8526315789473684, 17
 T(modifier), Playful, 0.8526315789473684, 17
-T(modifier), The Creative Side, 0.8368421052631579, 16
-T(modifier), Irreverent, 0.8210526315789474, 15
 
+T(head), -Unsettling, 0.9, 31
+T(head), -Solitude, 0.9, 31
 T(head), Brash, 0.9, 26
 T(head), Street-Smart, 0.864, 23
 T(head), Confident, 0.8400000000000001, 21
 T(head), Partying, 0.8400000000000001, 21
-T(head), East Coast Rap, 0.804, 18
-T(head), Swaggering, 0.804, 18
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.048276315789472
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.892842105263156

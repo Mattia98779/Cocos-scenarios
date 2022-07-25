@@ -9,27 +9,23 @@ Head Concept Count : 23
 Modifier Concept Name : reggae
 Modifier Concept Count : 48
 
-head, -Reflective
-head, -Dramatic
 
 
-modifier, -The Creative Side
-modifier, -Whimsical
 
 
+T(modifier), -Night Driving, 0.9, 47
+T(modifier), -Healing/Comfort, 0.9, 47
 T(modifier), Summery, 0.9, 35
 T(modifier), Roots Reggae, 0.8735294117647059, 32
 T(modifier), Earnest, 0.8558823529411764, 30
 T(modifier), Earthy, 0.8117647058823529, 25
-T(modifier), Rousing, 0.8029411764705883, 24
-T(modifier), Summer, 0.8029411764705883, 24
 
+T(head), -Wry, 0.9, 22
+T(head), -Quirky, 0.9, 22
 T(head), Hanging Out, 0.9, 22
 T(head), Playful, 0.9, 22
 T(head), Fun, 0.8857142857142857, 21
 T(head), Sing-Alongs, 0.8714285714285714, 20
-T(head), Amiable/Good-Natured, 0.8714285714285714, 20
-T(head), Playful_mood, 0.8714285714285714, 20
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 8.182974059188892
+Result : '1', '1', '1', '1', '1', '0', '0', '1', '0', '0', '0', '0', 9.948118377785896

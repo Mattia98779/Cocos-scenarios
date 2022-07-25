@@ -9,27 +9,23 @@ Head Concept Count : 49
 Modifier Concept Name : avant-garde
 Modifier Concept Count : 13
 
-head, -The Creative Side
-head, -Intense
 
 
-modifier, -Playful_mood
-modifier, -Amiable/Good-Natured
 
 
+T(modifier), -Freedom, 0.9, 12
+T(modifier), -Dramatic, 0.9, 12
 T(modifier), The Creative Side, 0.9, 6
 T(modifier), Cerebral, 0.84, 5
 T(modifier), Uncompromising, 0.78, 4
 T(modifier), Provocative, 0.78, 4
-T(modifier), Revolutionary, 0.78, 4
-T(modifier), Modern Composition, 0.78, 4
 
+T(head), -Sardonic, 0.9, 48
+T(head), -Housework, 0.9, 48
 T(head), Traditional Country, 0.9, 33
 T(head), Earthy, 0.890625, 32
 T(head), Earnest, 0.8625, 29
 T(head), Reflective, 0.84375, 27
-T(head), Plaintive, 0.815625, 24
-T(head), Amiable/Good-Natured, 0.80625, 23
 
 
-Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 3.8233673469387752
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 4.856964285714286

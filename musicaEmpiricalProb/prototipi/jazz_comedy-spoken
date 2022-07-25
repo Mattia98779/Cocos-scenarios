@@ -11,23 +11,21 @@ Modifier Concept Count : 24
 
 
 
-modifier, -Earthy
-modifier, -Late Night
 
 
+T(modifier), -Uplifting, 0.9, 23
+T(modifier), -Happy, 0.9, 23
 T(modifier), Comedy, 0.9, 20
 T(modifier), Playful_mood, 0.868421052631579, 18
 T(modifier), Humorous, 0.8526315789473684, 17
 T(modifier), Playful, 0.8526315789473684, 17
-T(modifier), The Creative Side, 0.8368421052631579, 16
-T(modifier), Irreverent, 0.8210526315789474, 15
 
+T(head), -Soundtracks, 0.9, 47
+T(head), -Movie Themes, 0.9, 47
 T(head), Sophisticated, 0.9, 38
 T(head), Freewheeling, 0.8675675675675676, 34
 T(head), Confident, 0.8432432432432433, 31
 T(head), Amiable/Good-Natured, 0.8432432432432433, 31
-T(head), Playful_mood, 0.8432432432432433, 31
-T(head), Lively, 0.8351351351351353, 30
 
 
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 4.70288643907065
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '1', 5.409921763869134

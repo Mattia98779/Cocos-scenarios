@@ -9,27 +9,23 @@ Head Concept Count : 45
 Modifier Concept Name : international
 Modifier Concept Count : 3
 
-head, -Soothing
-head, -Relaxation
 
 
-modifier, -Earnest
-modifier, -Reflective
 
 
+T(modifier), -Playful, 0.9, 2
+T(modifier), -TGIF, 0.9, 2
 T(modifier), Stylish, 0.9, 2
 T(modifier), Boisterous, 0.9, 2
 T(modifier), Exuberant, 0.9, 2
 T(modifier), Yearning, 0.9, 2
-T(modifier), European Folk, 0.6, 1
-T(modifier), Fado, 0.6, 1
 
+T(head), -New Romantic, 0.9, 44
+T(head), -Spicy, 0.9, 44
 T(head), Rousing, 0.9, 30
 T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(head), Album Rock, 0.8172413793103448, 22
 T(head), Confident, 0.8172413793103448, 22
-T(head), Energetic, 0.8172413793103448, 22
-T(head), Cool & Cocky, 0.806896551724138, 21
 
 
-Result : '0', '0', '1', '0', '0', '0', '1', '1', '1', '1', '1', '0', 3.4812260536398476
+Result : '0', '0', '0', '0', '1', '0', '1', '1', '1', '1', '0', '1', 4.432490421455939
