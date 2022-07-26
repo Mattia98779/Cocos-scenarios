@@ -101,6 +101,7 @@ def leggiPrototipo(path):
 def score(prototipo, canzone):
     punteggio = 0
     inComune = []
+    inContrasto = []
     for r in prototipo.rigide:
         if r[1] in canzone.attributes:
             if r[2] == "+":
@@ -113,18 +114,42 @@ def score(prototipo, canzone):
             if t[4] == "+":
                 if t[0] == "T(modifier)":
                     punteggio = punteggio + 1 * float(canzone.attributes[t[1]][0]) * float(t[3]/prototipo.nMod)
-                    inComune.append(t[1])
+                    inComune.append([t[1],float(canzone.attributes[t[1]][0])])
                 else:
                     punteggio = punteggio + 1 * float(canzone.attributes[t[1]][0]) * float(t[3] / prototipo.nHead)
-                    inComune.append(t[1])
+                    inComune.append([t[1], float(canzone.attributes[t[1]][0])])
             else:
                 if t[0] == "T(modifier)":
                     punteggio = punteggio - 1 * float(canzone.attributes[t[1]][0]) * float(t[3] / prototipo.nMod)
-                    inComune.append(t[1])
+                    inContrasto.append([t[1],float(canzone.attributes[t[1]][0])])
                 else:
                     punteggio = punteggio - 1 * float(canzone.attributes[t[1]][0]) * float(t[3] / prototipo.nHead)
-                    inComune.append(t[1])
-    return punteggio, inComune
+                    inContrasto.append([t[1],float(canzone.attributes[t[1]][0])])
+    msg = scriviMotivazione (inComune, inContrasto)
+    return punteggio, msg
+
+def scriviMotivazione(inComune, inContrasto):
+    s = ""
+    if inComune:
+        s = s + "both the combined genre and the song are "
+        appS = []
+        appD = []
+        andCheck = 0
+        for p in inComune:
+            if p[1]>0.8:
+                appS.append(p[0])
+            else:
+                appD.append(p[0])
+        if appS:
+            s = s + "really " + str(appS)
+            andCheck = 1
+        if appD:
+            if andCheck == 1:
+                s = s +  " and "
+            s = s + "a bit " + str(appD)
+    if inContrasto:
+        s= s + "but the song is " + str(inContrasto) + " and the genre is not"
+    return s
 
 def classifica(protipo, canzoni):
     classifica = []
@@ -320,8 +345,8 @@ if __name__ == '__main__':
     for p in listaProt:
         allClassifiche.append([p, classifica(p, listaCanzoni)])
     print("FINE CLASSIFICA")
-    statistichePrototipi(listaProt)
-    statisticheClassifica(allClassifiche)
-    #scriviJson(allClassifiche)
+    #statistichePrototipi(listaProt)
+    #statisticheClassifica(allClassifiche)
+    scriviJson(allClassifiche)
     print("FINE STATISTICHE")
     print("!")
