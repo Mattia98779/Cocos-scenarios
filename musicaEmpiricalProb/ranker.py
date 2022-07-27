@@ -207,7 +207,7 @@ def statisticheClassifica(allClassifica):
     scoreMedi = {}
     for clas in allClassifica:
         scores = [row[1] for row in clas[1]]
-        scoreSet = np.linspace(0,3,13)
+        scoreSet = np.linspace(-3,3,26)
         dati = {}
         for s in scoreSet:
             dati[s] = sum(map(lambda x : x>=s and x<(s+0.25), scores))
@@ -266,8 +266,8 @@ def statisticheClassifica(allClassifica):
             scoreMaggioreZeroCont[c[0]] = app
 
     plt.clf()
-    scoreMaggioreZeroCont = dict(
-        sorted(scoreMaggioreZeroCont.items(), key=lambda item: item[1], reverse=True))
+    #scoreMaggioreZeroCont = dict(
+    #    sorted(scoreMaggioreZeroCont.items(), key=lambda item: item[1], reverse=True))
     labels = []
     for k in scoreMaggioreZeroCont:
         labels.append(k.title)
@@ -276,6 +276,7 @@ def statisticheClassifica(allClassifica):
     plt.title("conteggio score maggiore 0 per canzone")
     plt.show()
 
+    plt.clf()
     nCanzoniPerClassifica = {}
     for c in allClassifica:
         n = 0
@@ -345,8 +346,8 @@ if __name__ == '__main__':
     for p in listaProt:
         allClassifiche.append([p, classifica(p, listaCanzoni)])
     print("FINE CLASSIFICA")
-    #statistichePrototipi(listaProt)
-    #statisticheClassifica(allClassifiche)
-    scriviJson(allClassifiche)
+    statistichePrototipi(listaProt)
+    statisticheClassifica(allClassifiche)
+    #scriviJson(allClassifiche)
     print("FINE STATISTICHE")
     print("!")

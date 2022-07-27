@@ -126,9 +126,9 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
         nRow = nRow+1
       matrixScenarios = np.delete(matrixScenarios, toDelete, axis=0)
 
-      # aggiungo probabilità
+    # aggiungo probabilità
     prob = []
-    modH =  nModifier / nHead
+    modH = (min(nModifier,nHead) / max(nModifier,nHead)) * 0.5 + 0.5
     for r in matrixScenarios:
       p = 1
       c = 0
