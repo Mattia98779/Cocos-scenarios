@@ -4,7 +4,7 @@ import collections
 import numpy as np
 import json
 
-#ciao
+
 class CanzoneToJson:
     def __init__(self, c, spiegazione):
         self.title = c.title
@@ -275,6 +275,10 @@ def statisticheClassifica(allClassifica):
     valori = list(scoreMaggioreZeroCont.values())
     plt.bar(range(len(scoreMaggioreZeroCont)), valori, tick_label=labels)
     plt.title("conteggio score maggiore 0 per canzone")
+    somma = 0
+    for el in valori:
+        somma = somma + el
+    media = somma / len(valori)
     plt.show()
 
     plt.clf()
@@ -292,8 +296,20 @@ def statisticheClassifica(allClassifica):
     for k in nCanzoniPerClassifica:
         labels.append(k)
     valori = list(nCanzoniPerClassifica.values())
+    valoriCopia = valori
     plt.bar(range(len(nCanzoniPerClassifica)), valori, tick_label=labels)
     plt.title("n canzoni score maggiore 0 per prototipo")
+    nparray = np.array(valori)
+    media = np.mean(nparray)
+    step = [0,50,100,150,200,250,300,350,400]
+    ris = {}
+    for s in step:
+        count = 0
+        for v in valori:
+            if v>s and v<s+50:
+                count = count + 1
+        ris[s] = count
+    count=0
     plt.show()
 
     nCanzoniAppartenentiAiGeneriBase = {}
@@ -315,8 +331,22 @@ def statisticheClassifica(allClassifica):
     plt.bar(range(len( nCanzoniAppartenentiAiGeneriBase)), valori, tick_label=labels)
     plt.title("n canzoni non appartenenti ai generi di base")
     plt.show()
-
     print("!")
+
+    # rapporto canzoni apaprtenenti / non appartenenti
+    plt.clf()
+    labels = []
+    for k in nCanzoniAppartenentiAiGeneriBase:
+        labels.append(k)
+    valori = list(nCanzoniAppartenentiAiGeneriBase.values())
+    for i in range(len(valori)):
+        valori[i]= valori[i] / valoriCopia[i] * 100
+    media = np.mean(np.array(valori))
+    plt.bar(range(len(nCanzoniAppartenentiAiGeneriBase)), valori, tick_label=labels)
+    plt.title("rapporto canzoni appartenenti / non appartenenti")
+    plt.show()
+    print("!")
+
 
 def scriviJson(toWrite):
     for el in toWrite:
