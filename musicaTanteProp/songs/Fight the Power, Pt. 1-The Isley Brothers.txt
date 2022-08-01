@@ -1,2 +1,0 @@
-Energetic:                           0.9
-Rousing:                             0.9

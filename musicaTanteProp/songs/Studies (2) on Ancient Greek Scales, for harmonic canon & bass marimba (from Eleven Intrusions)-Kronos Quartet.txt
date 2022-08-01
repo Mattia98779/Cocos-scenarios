@@ -1,3 +1,0 @@
-Cerebral:                            0.9
-Poignant:                            0.72
-Rustic:                              0.72

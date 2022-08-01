@@ -1,5 +1,0 @@
-Gospel:                              0.9
-Reflective:                          0.9
-Yearning:                            0.9
-Feeling Blue:                        0.9
-Loss/Grief:                          0.9

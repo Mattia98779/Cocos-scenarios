@@ -1,8 +1,0 @@
-Progressive Trance:                  0.9
-Trance:                              0.9
-Atmospheric:                         0.9
-Spacey:                              0.9
-Trippy:                              0.9
-Hypnotic:                            0.75
-Dreamy:                              0.6
-Ethereal:                            0.6

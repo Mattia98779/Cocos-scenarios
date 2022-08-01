@@ -1,9 +1,0 @@
-Contemporary Folk:                   0.9
-Contemporary Singer/Songwriter:      0.9
-Folk Revival:                        0.9
-Refined:                             0.9
-Solitude:                            0.9
-Literate:                            0.6
-Melancholy:                          0.6
-Poignant:                            0.6
-Reflective:                          0.6

@@ -4,6 +4,7 @@ import collections
 import numpy as np
 import json
 
+#ciao
 class CanzoneToJson:
     def __init__(self, c, spiegazione):
         self.title = c.title
@@ -207,7 +208,7 @@ def statisticheClassifica(allClassifica):
     scoreMedi = {}
     for clas in allClassifica:
         scores = [row[1] for row in clas[1]]
-        scoreSet = np.linspace(-3,3,26)
+        scoreSet = np.linspace(-1.5,1.5,13)
         dati = {}
         for s in scoreSet:
             dati[s] = sum(map(lambda x : x>=s and x<(s+0.25), scores))
@@ -301,7 +302,7 @@ def statisticheClassifica(allClassifica):
         g1 = c[0].name.split("#")[0]
         g2 = c[0].name.split("#")[1]
         for s in c[1]:
-            if s[0].genre==g1 or s[0].genre==g2 and s[1]>0:
+            if s[0].genre!=g1 and s[0].genre!=g2 and s[1]>0:
                 n = n + 1
         nCanzoniAppartenentiAiGeneriBase[c[0].name] = n
     plt.clf()
@@ -312,7 +313,7 @@ def statisticheClassifica(allClassifica):
         labels.append(k)
     valori = list( nCanzoniAppartenentiAiGeneriBase.values())
     plt.bar(range(len( nCanzoniAppartenentiAiGeneriBase)), valori, tick_label=labels)
-    plt.title("n canzoni appartenenti ai generi di base")
+    plt.title("n canzoni non appartenenti ai generi di base")
     plt.show()
 
     print("!")

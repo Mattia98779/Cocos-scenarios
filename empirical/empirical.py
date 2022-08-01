@@ -76,7 +76,6 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
           sempreZero.append(index[1][0])
           if tipiche[index[1][0]][0] == "T(head)":
             generaTutto=1
-      # prima proprietà tipica e seconda rigida
       # due proprietà tipiche in conflitto
       elif index[0][1] == "T" and index[1][1] == "T":
         # segno diverso
@@ -129,20 +128,25 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
     # aggiungo probabilità
     prob = []
     modH = (min(nModifier,nHead) / max(nModifier,nHead)) * 0.5 + 0.5
+    modM = 1
+    if nModifier < nHead:
+      modM= modH
+      modH=1
+
     for r in matrixScenarios:
       p = 1
       c = 0
       for el in r:
         if el < 0.5:
           if tipiche[c][0] == "T(modifier)":
-            p = p + ((1 - tipiche[c][2]) * (tipiche[c][3] / nModifier)) * modH
+            p = p + ((1 - tipiche[c][2]) * (tipiche[c][3] / nModifier)) * modM
           else:
-            p = p + ((1 - tipiche[c][2]) * (tipiche[c][3] / nHead))
+            p = p + ((1 - tipiche[c][2]) * (tipiche[c][3] / nHead)) * modH
         else:
           if tipiche[c][0] == "T(modifier)":
-            p = p + ((tipiche[c][2] * (tipiche[c][3] / nModifier))) * modH
+            p = p + ((tipiche[c][2] * (tipiche[c][3] / nModifier))) * modM
           else:
-            p = p + ((tipiche[c][2] * (tipiche[c][3] / nHead)))
+            p = p + ((tipiche[c][2] * (tipiche[c][3] / nHead))) * modH
         c = c + 1
       prob.append([p])
 

@@ -1,9 +1,0 @@
-Traditional Pop:                     0.9
-Autumnal:                            0.9
-Feeling Blue:                        0.9
-Nostalgic:                           0.8
-Reflective:                          0.8
-Wistful:                             0.7
-Reminiscing:                         0.7
-Intimate:                            0.6
-Reflection:                          0.6
