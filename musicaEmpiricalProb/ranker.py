@@ -205,6 +205,7 @@ def statistichePrototipi(listaPrototipi):
 
 
 def statisticheClassifica(allClassifica):
+    sogliaMinima = 1
     scoreMedi = {}
     for clas in allClassifica:
         scores = [row[1] for row in clas[1]]
@@ -286,7 +287,7 @@ def statisticheClassifica(allClassifica):
     for c in allClassifica:
         n = 0
         for s in c[1]:
-            if s[1]>0:
+            if s[1]>sogliaMinima:
                 n=n+1
         nCanzoniPerClassifica[c[0].name] = n
     plt.clf()
@@ -318,7 +319,7 @@ def statisticheClassifica(allClassifica):
         g1 = c[0].name.split("#")[0]
         g2 = c[0].name.split("#")[1]
         for s in c[1]:
-            if s[0].genre!=g1 and s[0].genre!=g2 and s[1]>0:
+            if s[0].genre!=g1 and s[0].genre!=g2 and s[1]>sogliaMinima:
                 n = n + 1
         nCanzoniAppartenentiAiGeneriBase[c[0].name] = n
     plt.clf()
@@ -342,6 +343,7 @@ def statisticheClassifica(allClassifica):
     for i in range(len(valori)):
         valori[i]= valori[i] / valoriCopia[i] * 100
     media = np.mean(np.array(valori))
+    print("rapporto canzoni appartenenti / non appartenenti=", str(media))
     plt.bar(range(len(nCanzoniAppartenentiAiGeneriBase)), valori, tick_label=labels)
     plt.title("rapporto canzoni appartenenti / non appartenenti")
     plt.show()
@@ -379,6 +381,6 @@ if __name__ == '__main__':
     print("FINE CLASSIFICA")
     statistichePrototipi(listaProt)
     statisticheClassifica(allClassifiche)
-    #scriviJson(allClassifiche)
+    scriviJson(allClassifiche)
     print("FINE STATISTICHE")
     print("!")

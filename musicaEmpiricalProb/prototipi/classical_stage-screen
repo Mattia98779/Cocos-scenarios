@@ -14,18 +14,18 @@ Modifier Concept Count : 18
 
 
 T(modifier), -Introspection, 0.9, 17
-T(modifier), -Rainy Day, 0.9, 17
 T(modifier), Soundtracks, 0.9, 13
 T(modifier), Dramatic, 0.875, 12
 T(modifier), Original Score, 0.8500000000000001, 11
 T(modifier), Theatrical, 0.825, 10
+T(modifier), Film Music, 0.7999999999999999, 9
 
 T(head), -Wistful, 0.9, 6
-T(head), -Tender, 0.9, 6
 T(head), Sentimental, 0.9, 4
 T(head), Confident, 0.9, 4
 T(head), Classical Crossover, 0.8, 3
 T(head), Melancholy, 0.8, 3
+T(head), Sensual, 0.8, 3
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.392063492063492
+Result : '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', 4.954761904761903

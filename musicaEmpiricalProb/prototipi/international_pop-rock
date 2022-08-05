@@ -14,18 +14,18 @@ Modifier Concept Count : 45
 
 
 T(modifier), -New Romantic, 0.9, 44
-T(modifier), -Spicy, 0.9, 44
 T(modifier), Rousing, 0.9, 30
 T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(modifier), Album Rock, 0.8172413793103448, 22
 T(modifier), Confident, 0.8172413793103448, 22
+T(modifier), Energetic, 0.8172413793103448, 22
 
 T(head), -Playful, 0.9, 2
-T(head), -TGIF, 0.9, 2
 T(head), Stylish, 0.9, 2
 T(head), Boisterous, 0.9, 2
 T(head), Exuberant, 0.9, 2
 T(head), Yearning, 0.9, 2
+T(head), European Folk, 0.6, 1
 
 
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 4.893793103448277
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 4.44888888888889

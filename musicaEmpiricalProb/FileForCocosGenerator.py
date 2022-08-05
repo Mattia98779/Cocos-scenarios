@@ -58,8 +58,8 @@ def getProperties(file, con_negative_rigide=False, con_negative_tipiche=False):
             list_rigid.append("-"+n_p[0])
 
     if con_negative_tipiche:
-        last = list_typical[-2:]
-        list_typical=list_typical[:-2]
+        last = list_typical[-1:]
+        list_typical=list_typical[:-1]
         for el in last:
             p = Property("-"+el.name, 0.9, nCanzoni-1)
             list_typical.insert(0,p)
