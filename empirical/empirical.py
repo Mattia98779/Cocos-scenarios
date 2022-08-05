@@ -127,7 +127,7 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
 
     # aggiungo probabilità
     prob = []
-    modH = (min(nModifier,nHead) / max(nModifier,nHead)) * 0.5 + 0.5
+    modH = (min(nModifier,nHead) / max(nModifier,nHead)) * 0.3 + 0.6
     modM = 1
     if nModifier < nHead:
       modM= modH

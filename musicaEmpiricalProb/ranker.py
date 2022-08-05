@@ -201,11 +201,10 @@ def statistichePrototipi(listaPrototipi):
     plt.bar(range(len(propertyOccurrencesOrdered)), valori, tick_label=labels)
     plt.title("most used property")
     plt.show()
-    print("!")
 
 
 def statisticheClassifica(allClassifica):
-    sogliaMinima = 1
+    sogliaMinima = 0
     scoreMedi = {}
     for clas in allClassifica:
         scores = [row[1] for row in clas[1]]
@@ -256,17 +255,20 @@ def statisticheClassifica(allClassifica):
 
     scoreMaggioreZeroCont = {}
     for c in allClassifica[0][1]:
-        if c[1]>0:
-            scoreMaggioreZeroCont[c[0]] = 0
-        else:
+        if c[1]>sogliaMinima:
             scoreMaggioreZeroCont[c[0]] = 1
+        else:
+            scoreMaggioreZeroCont[c[0]] = 0
     for clas in allClassifica[1:]:
         for c in clas[1]:
             app = scoreMaggioreZeroCont[c[0]]
-            if c[1]>0 :
+            if c[1]>sogliaMinima :
                 app=app+1
             scoreMaggioreZeroCont[c[0]] = app
 
+    for elem in scoreMaggioreZeroCont.keys():
+        if scoreMaggioreZeroCont[elem] == 0:
+            print(elem)
     plt.clf()
     #scoreMaggioreZeroCont = dict(
     #    sorted(scoreMaggioreZeroCont.items(), key=lambda item: item[1], reverse=True))
@@ -332,7 +334,7 @@ def statisticheClassifica(allClassifica):
     plt.bar(range(len( nCanzoniAppartenentiAiGeneriBase)), valori, tick_label=labels)
     plt.title("n canzoni non appartenenti ai generi di base")
     plt.show()
-    print("!")
+
 
     # rapporto canzoni apaprtenenti / non appartenenti
     plt.clf()
@@ -347,7 +349,7 @@ def statisticheClassifica(allClassifica):
     plt.bar(range(len(nCanzoniAppartenentiAiGeneriBase)), valori, tick_label=labels)
     plt.title("rapporto canzoni appartenenti / non appartenenti")
     plt.show()
-    print("!")
+
 
 
 def scriviJson(toWrite):
@@ -383,4 +385,4 @@ if __name__ == '__main__':
     statisticheClassifica(allClassifiche)
     scriviJson(allClassifiche)
     print("FINE STATISTICHE")
-    print("!")
+
