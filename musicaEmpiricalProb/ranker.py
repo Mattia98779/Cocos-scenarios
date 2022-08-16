@@ -265,10 +265,11 @@ def statisticheClassifica(allClassifica):
             if c[1]>sogliaMinima :
                 app=app+1
             scoreMaggioreZeroCont[c[0]] = app
-
+    totale_canzoni_non_classificate = 0
     for elem in scoreMaggioreZeroCont.keys():
         if scoreMaggioreZeroCont[elem] == 0:
-            print(elem)
+            totale_canzoni_non_classificate = totale_canzoni_non_classificate + 1
+    print("totale_canzoni_non_classificate= ", str(totale_canzoni_non_classificate))
     plt.clf()
     #scoreMaggioreZeroCont = dict(
     #    sorted(scoreMaggioreZeroCont.items(), key=lambda item: item[1], reverse=True))
@@ -277,11 +278,12 @@ def statisticheClassifica(allClassifica):
         labels.append(k.title)
     valori = list(scoreMaggioreZeroCont.values())
     plt.bar(range(len(scoreMaggioreZeroCont)), valori, tick_label=labels)
-    plt.title("conteggio score maggiore 0 per canzone")
+    plt.title("Number of genre for each song")
     somma = 0
     for el in valori:
         somma = somma + el
     media = somma / len(valori)
+    print("media generi in cui è classificata ogni canzone=", str(media))
     plt.show()
 
     plt.clf()
@@ -301,9 +303,10 @@ def statisticheClassifica(allClassifica):
     valori = list(nCanzoniPerClassifica.values())
     valoriCopia = valori
     plt.bar(range(len(nCanzoniPerClassifica)), valori, tick_label=labels)
-    plt.title("n canzoni score maggiore 0 per prototipo")
+    plt.title("Number of song re-classified in each derived genre")
     nparray = np.array(valori)
     media = np.mean(nparray)
+    print("media canzoni in ogni prototipo= ",str(media))
     step = [0,50,100,150,200,250,300,350,400]
     ris = {}
     for s in step:
@@ -383,6 +386,6 @@ if __name__ == '__main__':
     print("FINE CLASSIFICA")
     statistichePrototipi(listaProt)
     statisticheClassifica(allClassifiche)
-    scriviJson(allClassifiche)
+    #scriviJson(allClassifiche)
     print("FINE STATISTICHE")
 

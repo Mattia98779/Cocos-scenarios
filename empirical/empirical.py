@@ -3,6 +3,10 @@ import numpy as np
 import itertools
 import os
 
+def checkConsistency(par1):
+  # da chiamare create ontology
+  return True
+
 def CoCoS (path,maxProp=-1, write_to_file=False):
   # leggo proprietà rigide e tipiche del prototipo
   rigide = []
@@ -127,14 +131,14 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
 
     # aggiungo probabilità
     prob = []
-    modH = (min(nModifier,nHead) / max(nModifier,nHead)) * 0.3 + 0.6
+    modH = (min(nModifier,nHead) / max(nModifier,nHead)) * 0.5 + 0.5
     modM = 1
     if nModifier < nHead:
       modM= modH
       modH=1
 
     for r in matrixScenarios:
-      p = 1
+      p = 0
       c = 0
       for el in r:
         if el < 0.5:
@@ -153,12 +157,16 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
     matrixProb = numpy.append(matrixScenarios, prob, axis=1)
     matrixProbOrdered = matrixProb[matrixProb[:,-1].argsort()]
     np.set_printoptions(suppress=True)
-    best = matrixProbOrdered[-1]
+    tentativo = -1
+    best = matrixProbOrdered[tentativo]
+    while not (checkConsistency(best)):
+      tentativo = tentativo -1
+      best = matrixProbOrdered[tentativo]
     out = "Result : "
     for s in best[:-1]:
       out = out + "'" + str(int(s)) + "', "
     out = out + str(best[-1])
-    print("MIGLIOR SCENARIO = ", best, " ", p)
+    print("MIGLIOR SCENARIO = ", best)
     if write_to_file==True:
       f = open(path, "a")
       f.write("\n")
