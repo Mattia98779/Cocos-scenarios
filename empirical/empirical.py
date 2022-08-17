@@ -2,10 +2,47 @@ import numpy
 import numpy as np
 import itertools
 import os
+import CreateOntology as ontology
 
-def checkConsistency(par1):
+def checkConsistency(scenario, tipiche, rigide):
+  scenarioOntologia = []
+  for el in scenario:
+    scenarioOntologia.append(str((int)(el)))
+  scenarioOntologia.pop(len(scenarioOntologia)-1)
+
+  tipicheOntologia = []
+  for t in tipiche:
+    if t[0] == "T(modifier)":
+      if t[4]=="-":
+        tipicheOntologia.append(("-"+t[1],t[2],False))
+      else:
+        tipicheOntologia.append((t[1], t[2], False))
+    else:
+      if t[4]=="-":
+        tipicheOntologia.append(("-"+t[1],t[2],True))
+      else:
+        tipicheOntologia.append((t[1], t[2], True))
+
+  rigideOntologia = []
+  for r in rigide:
+    if r[0] == "T(modifier)":
+      if r[2]=="-":
+        rigideOntologia.append(("-"+r[1],False))
+      else:
+        rigideOntologia.append((r[1], False))
+    else:
+      if r[2]=="-":
+        rigideOntologia.append(("-"+r[1],True))
+      else:
+        rigideOntologia.append((r[1], True))
+
+  #ex_t = [("attr2", 0.5, False), ("attr1", 0.5, False), ('-attr3', 0.7, True)]
+  #ex_not_t = [("-attr1", True)]
+  x = ontology.ManageOntology(tipicheOntologia, rigideOntologia, scenarioOntologia)
+  consistency = x.is_consistent()
+  print(consistency)
   # da chiamare create ontology
-  return True
+  return consistency
 
 def CoCoS (path,maxProp=-1, write_to_file=False):
   # leggo proprietà rigide e tipiche del prototipo
@@ -159,7 +196,7 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
     np.set_printoptions(suppress=True)
     tentativo = -1
     best = matrixProbOrdered[tentativo]
-    while not (checkConsistency(best)):
+    while not (checkConsistency(best, tipiche, rigide)):
       tentativo = tentativo -1
       best = matrixProbOrdered[tentativo]
     out = "Result : "

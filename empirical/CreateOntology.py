@@ -181,7 +181,7 @@ class ManageOntology :
 
 if __name__ == "__main__" :
     
-    ex_t = [("attr2",0.5,False), ("attr1",0.5,False), ('-attr2', 0.7, True)]
+    ex_t = [("attr2",0.5,False), ("attr1",0.5,False), ('-attr3', 0.7, True)]
 
     ex_not_t = [("-attr1",True)]
 
