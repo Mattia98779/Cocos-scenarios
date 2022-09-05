@@ -4,6 +4,7 @@
 from operator import itemgetter
 import os
 
+# parametri per scegliere il numero di proprietà negative
 n_prop_negative = -2
 n_prop = 8
 
@@ -30,6 +31,7 @@ class Property:
         self.prob = prob
         self.nItem = nItem
 
+# i parametri servono per scegleire se inserire proprietà negative
 def getProperties(file, con_negative_rigide=False, con_negative_tipiche=False):
 
     l_t = []

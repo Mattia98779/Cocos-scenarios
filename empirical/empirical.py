@@ -1,15 +1,20 @@
+# nuova implementazione di cocos con modifiche
 import numpy
 import numpy as np
 import itertools
 import os
 import CreateOntology as ontology
 
+# funzione per controllare se lo scenario selezionato è consistente.
+# fa uso di CreateOntology
+# ritorna un boolean
 def checkConsistency(scenario, tipiche, rigide):
   scenarioOntologia = []
   for el in scenario:
     scenarioOntologia.append(str((int)(el)))
   scenarioOntologia.pop(len(scenarioOntologia)-1)
 
+# creazione delle proprietà tipiche nel formato accettato da createOntology
   tipicheOntologia = []
   for t in tipiche:
     if t[0] == "T(modifier)":
@@ -23,6 +28,7 @@ def checkConsistency(scenario, tipiche, rigide):
       else:
         tipicheOntologia.append((t[1], t[2], True))
 
+# creazione della lista delle proprietà rigide nel formato accettato da createOntology
   rigideOntologia = []
   for r in rigide:
     if r[0] == "T(modifier)":
@@ -36,14 +42,15 @@ def checkConsistency(scenario, tipiche, rigide):
       else:
         rigideOntologia.append((r[1], True))
 
-  #ex_t = [("attr2", 0.5, False), ("attr1", 0.5, False), ('-attr3', 0.7, True)]
-  #ex_not_t = [("-attr1", True)]
+
   x = ontology.ManageOntology(tipicheOntologia, rigideOntologia, scenarioOntologia)
   consistency = x.is_consistent()
   print(consistency)
-  # da chiamare create ontology
   return consistency
 
+# effettiva nuova implementazione di cocos.
+# riceve in input il path del file e opzionalemente il numero massimo di proprietà e un boolean che indica se scrivere
+# il risultato sul file di input
 def CoCoS (path,maxProp=-1, write_to_file=False):
   # leggo proprietà rigide e tipiche del prototipo
   rigide = []
@@ -124,6 +131,7 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
           if tipiche[index[0][0]][0] == "T(modifier)" and tipiche[index[1][0]][0] == "T(head)":
             sempreZero.append(index[0][0])
 
+# inizio creazione matrice scenari
   if stop==0:
     propListIndexes = [ x for x in list(range(0, len(tipiche))) if x not in sempreZero]
 
@@ -136,7 +144,7 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
       else:
         propListIndexesHead.append(i)
 
-
+# creazione matrici head e modifier
     allScenariosHead = list(map(list, itertools.product([0, 1], repeat=len(propListIndexesHead))))
     allScenariosModifier = list(map(list, itertools.product([0, 1], repeat=len(propListIndexesModifier))))
     if generaTutto==0:
@@ -148,6 +156,7 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
 
     maxScenari = len(allScenarios)
 
+# creazione matrice finale
     matrixScenarios = np.zeros((maxScenari, (len(tipiche))))
 
     columns = []
@@ -166,7 +175,7 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
         nRow = nRow+1
       matrixScenarios = np.delete(matrixScenarios, toDelete, axis=0)
 
-    # aggiungo probabilità
+# aggiungo probabilità
     prob = []
     modH = (min(nModifier,nHead) / max(nModifier,nHead)) * 0.5 + 0.5
     modM = 1
@@ -191,6 +200,7 @@ def CoCoS (path,maxProp=-1, write_to_file=False):
         c = c + 1
       prob.append([p])
 
+# ricerca miglior scenario
     matrixProb = numpy.append(matrixScenarios, prob, axis=1)
     matrixProbOrdered = matrixProb[matrixProb[:,-1].argsort()]
     np.set_printoptions(suppress=True)

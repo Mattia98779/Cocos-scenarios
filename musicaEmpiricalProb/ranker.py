@@ -1,3 +1,4 @@
+# crazione delle classifiche per ogni prototipo e opzionalmente stampa alcune statistiche interessanti
 import os
 import matplotlib.pyplot as plt
 import collections
@@ -27,7 +28,7 @@ class Prototipo:
         self.nHead = nHead
         self.nMod = nMod
 
-
+# lettura canzone da file
 def leggiCanzone(path):
     f = open("./songs/" + path, "r")
     file_name = os.path.basename(path)
@@ -41,7 +42,7 @@ def leggiCanzone(path):
     c = Canzone(datas[0], datas[1], datas[2], attributes)
     return c
 
-
+# lettura prototipo da file
 def leggiPrototipo(path):
     name = ""
     rigide = []
@@ -99,6 +100,7 @@ def leggiPrototipo(path):
     prot = Prototipo(name, rigide, tipiche, nHead, nModifier)
     return prot
 
+# metodo che calcola lo score di una canzone rispetto a un prototipo
 def score(prototipo, canzone):
     punteggio = 0
     inComune = []
@@ -129,6 +131,7 @@ def score(prototipo, canzone):
     msg = scriviMotivazione (inComune, inContrasto)
     return punteggio, msg
 
+# metodo per generare la frase in linguaggio naturale della motivazione
 def scriviMotivazione(inComune, inContrasto):
     s = ""
     if inComune:
@@ -152,6 +155,7 @@ def scriviMotivazione(inComune, inContrasto):
         s= s + "but the song is " + str(inContrasto) + " and the genre is not"
     return s
 
+# creazione dell'intera classifica per un prototipo
 def classifica(protipo, canzoni):
     classifica = []
     for c in canzoni:
@@ -159,6 +163,7 @@ def classifica(protipo, canzoni):
         classifica.append([c, punteggio, inComune])
     return sorted(classifica, key=lambda x:x[1], reverse=True)
 
+# metodo che estrae statistiche sui prototipi
 def statistichePrototipi(listaPrototipi):
     rapportoHeadMod = {}
     for p in listaPrototipi:
@@ -202,13 +207,13 @@ def statistichePrototipi(listaPrototipi):
     plt.title("most used property")
     plt.show()
 
-
+# metodo per estrarre statistiche sulla classifica
 def statisticheClassifica(allClassifica):
     sogliaMinima = 0
     scoreMedi = {}
     for clas in allClassifica:
         scores = [row[1] for row in clas[1]]
-        scoreSet = np.linspace(-1.5,1.5,13)
+        scoreSet = np.linspace(-1.5,3.0,19)
         dati = {}
         for s in scoreSet:
             dati[s] = sum(map(lambda x : x>=s and x<(s+0.25), scores))
@@ -354,7 +359,7 @@ def statisticheClassifica(allClassifica):
     plt.show()
 
 
-
+# metodo per scrivere il file di input della classifica, per il successivo utilizzo nell'interfaccia web
 def scriviJson(toWrite):
     for el in toWrite:
         jsonString = ""
@@ -384,8 +389,8 @@ if __name__ == '__main__':
     for p in listaProt:
         allClassifiche.append([p, classifica(p, listaCanzoni)])
     print("FINE CLASSIFICA")
-    statistichePrototipi(listaProt)
-    statisticheClassifica(allClassifiche)
+    #statistichePrototipi(listaProt)
+    #statisticheClassifica(allClassifiche)
     #scriviJson(allClassifiche)
     print("FINE STATISTICHE")
 
